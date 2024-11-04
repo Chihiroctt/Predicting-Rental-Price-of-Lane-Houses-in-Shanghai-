@@ -1,0 +1,2609 @@
+,text_description
+0,有一个Baoshan的villa，1卧1厅1卫，面积是28平方米，有室外空间，房租价格是2800.0。
+1,有一个Baoshan的public housing，2卧1厅1卫，面积是74平方米，有室外空间，房租价格是3200.0。
+2,有一个Baoshan的attached lane house，2卧1厅1卫，面积是58平方米，有室外空间，房租价格是3234.0。
+3,有一个Baoshan的public housing，2卧1厅1卫，面积是62平方米，有空调，有阳台，房租价格是5000.0。
+4,有一个Baoshan的public housing，3卧1厅1卫，面积是95平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是5000.0。
+5,有一个Baoshan的detached lane house，2卧1厅1卫，面积是56平方米，有室外空间，有空调，有阳台，有WIFI，有浴缸，房租价格是6100.0。
+6,有一个Baoshan的public housing，3卧1厅1卫，面积是66平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是6500.0。
+7,有一个Baoshan的public housing，4卧1厅2卫，面积是120平方米，有室外空间，房租价格是8500.0。
+8,有一个Changning的detached lane house，1卧0厅1卫，面积是40平方米，有室外空间，有供暖，房租价格是3200.0。
+9,有一个Changning的public housing，1卧0厅1卫，面积是33平方米，有室外空间，房租价格是3300.0。
+10,有一个Changning的public housing，1卧0厅1卫，面积是26平方米，有空调，有阳台，房租价格是3499.0。
+11,有一个Changning的attached lane house，1卧0厅1卫，面积是22平方米，有空调，房租价格是3800.0。
+12,有一个Changning的public housing，2卧1厅1卫，面积是58平方米，有供暖，有空调，有阳台，房租价格是3800.0。
+13,有一个Changning的attached lane house，2卧1厅1卫，面积是27平方米，有供暖，房租价格是3890.0。
+14,有一个Changning的public housing，1卧0厅1卫，面积是45平方米，有室外空间，有空调，房租价格是4000.0。
+15,有一个Changning的public housing，1卧1厅1卫，面积是40平方米，有室外空间，有空调，有阳台，有WIFI，有浴缸，房租价格是4100.0。
+16,有一个Changning的public housing，1卧0厅1卫，面积是36平方米，有空调，有阳台，房租价格是4200.0。
+17,有一个Changning的public housing，1卧0厅1卫，面积是36平方米，房租价格是4300.0。
+18,有一个Changning的public housing，1卧0厅1卫，面积是42平方米，有空调，有阳台，房租价格是4300.0。
+19,有一个Changning的detached lane house，1卧0厅1卫，面积是36平方米，有空调，房租价格是4500.0。
+20,有一个Changning的detached lane house，1卧1厅1卫，面积是32平方米，有空调，房租价格是4500.0。
+21,有一个Changning的public housing，1卧1厅1卫，面积是42平方米，有室外空间，房租价格是4500.0。
+22,有一个Changning的public housing，1卧1厅1卫，面积是46平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是4700.0。
+23,有一个Changning的detached lane house，1卧0厅1卫，面积是22平方米，有室外空间，有空调，有WIFI，房租价格是4800.0。
+24,有一个Changning的public housing，1卧1厅1卫，面积是35平方米，有空调，有阳台，房租价格是4800.0。
+25,有一个Changning的public housing，1卧1厅1卫，面积是38平方米，有供暖，房租价格是5000.0。
+26,有一个Changning的public housing，1卧1厅1卫，面积是35平方米，有空调，房租价格是5200.0。
+27,有一个Changning的public housing，1卧0厅1卫，面积是38平方米，有空调，有阳台，有WIFI，房租价格是5200.0。
+28,有一个Changning的public housing，1卧1厅1卫，面积是42平方米，有空调，房租价格是5200.0。
+29,有一个Changning的public housing，1卧1厅1卫，面积是45平方米，有室外空间，有空调，有阳台，房租价格是5500.0。
+30,有一个Changning的public housing，1卧0厅1卫，面积是36平方米，有空调，有阳台，房租价格是5700.0。
+31,有一个Changning的public housing，1卧1厅1卫，面积是38平方米，有空调，有阳台，房租价格是5800.0。
+32,有一个Changning的public housing，1卧1厅1卫，面积是45平方米，有室外空间，房租价格是5800.0。
+33,有一个Changning的public housing，1卧1厅1卫，面积是35平方米，有空调，房租价格是5800.0。
+34,有一个Changning的public housing，1卧0厅1卫，面积是35平方米，有空调，有阳台，房租价格是5800.0。
+35,有一个Changning的public housing，1卧1厅1卫，面积是50平方米，有室外空间，有空调，有阳台，房租价格是5800.0。
+36,有一个Changning的public housing，2卧1厅1卫，面积是58平方米，有空调，房租价格是6000.0。
+37,有一个Changning的public housing，1卧1厅1卫，面积是35平方米，有空调，房租价格是6000.0。
+38,有一个Changning的detached lane house，1卧0厅1卫，面积是35平方米，有室外空间，房租价格是6000.0。
+39,有一个Changning的public housing，1卧1厅1卫，面积是45平方米，有室外空间，房租价格是6000.0。
+40,有一个Changning的public housing，1卧1厅1卫，面积是50平方米，有室外空间，有空调，房租价格是6000.0。
+41,有一个Changning的detached lane house，1卧0厅1卫，面积是34平方米，有室外空间，房租价格是6200.0。
+42,有一个Changning的public housing，1卧0厅1卫，面积是33平方米，有空调，有阳台，房租价格是6200.0。
+43,有一个Changning的public housing，2卧0厅1卫，面积是56平方米，有室外空间，有空调，有阳台，有浴缸，房租价格是6200.0。
+44,有一个Changning的public housing，1卧1厅1卫，面积是40平方米，有室外空间，有空调，有阳台，房租价格是6200.0。
+45,有一个Changning的public housing，2卧1厅1卫，面积是52平方米，有供暖，有空调，有阳台，房租价格是6200.0。
+46,有一个Changning的public housing，1卧1厅1卫，面积是36平方米，有空调，有阳台，房租价格是6200.0。
+47,有一个Changning的public housing，1卧1厅1卫，面积是42平方米，有空调，有阳台，房租价格是6200.0。
+48,有一个Changning的public housing，2卧0厅1卫，面积是56平方米，有空调，有阳台，房租价格是6200.0。
+49,有一个Changning的public housing，1卧1厅1卫，面积是1平方米，有空调，有阳台，房租价格是6200.0。
+50,有一个Changning的public housing，1卧1厅1卫，面积是50平方米，有空调，有阳台，有WIFI，房租价格是6400.0。
+51,有一个Changning的public housing，1卧1厅1卫，面积是40平方米，有空调，有阳台，房租价格是6500.0。
+52,有一个Changning的public housing，1卧1厅1卫，面积是50平方米，有空调，有WIFI，房租价格是6500.0。
+53,有一个Changning的public housing，2卧0厅1卫，面积是50平方米，有室外空间，有空调，有阳台，房租价格是6500.0。
+54,有一个Changning的public housing，1卧1厅1卫，面积是48平方米，有空调，有阳台，有WIFI，房租价格是6500.0。
+55,有一个Changning的public housing，1卧1厅1卫，面积是47平方米，有供暖，有空调，有阳台，有WIFI，房租价格是6500.0。
+56,有一个Changning的detached lane house，1卧0厅1卫，面积是20平方米，有室外空间，房租价格是6500.0。
+57,有一个Changning的public housing，1卧1厅1卫，面积是38平方米，有室外空间，有空调，有阳台，房租价格是6600.0。
+58,有一个Changning的public housing，1卧1厅1卫，面积是45平方米，有空调，有阳台，有WIFI，房租价格是6600.0。
+59,有一个Changning的public housing，1卧1厅1卫，面积是39平方米，有室外空间，有空调，有阳台，房租价格是6600.0。
+60,有一个Changning的detached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有空调，有WIFI，房租价格是6600.0。
+61,有一个Changning的public housing，1卧1厅1卫，面积是50平方米，有阳台，有WIFI，房租价格是6700.0。
+62,有一个Changning的public housing，1卧1厅1卫，面积是65平方米，有室外空间，房租价格是6700.0。
+63,有一个Changning的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是6800.0。
+64,有一个Changning的public housing，1卧0厅1卫，面积是38平方米，有阳台，有WIFI，房租价格是6800.0。
+65,有一个Changning的public housing，1卧1厅1卫，面积是42平方米，有空调，有阳台，有WIFI，房租价格是6800.0。
+66,有一个Changning的public housing，2卧1厅1卫，面积是78平方米，有供暖，有空调，房租价格是6800.0。
+67,有一个Changning的public housing，1卧1厅1卫，面积是50平方米，有供暖，有空调，有阳台，房租价格是6800.0。
+68,有一个Changning的public housing，1卧1厅1卫，面积是45平方米，有供暖，有空调，有阳台，房租价格是6800.0。
+69,有一个Changning的public housing，1卧0厅1卫，面积是40平方米，有空调，有阳台，房租价格是6800.0。
+70,有一个Changning的public housing，1卧1厅1卫，面积是38平方米，有空调，有阳台，房租价格是6800.0。
+71,有一个Changning的attached lane house，1卧2厅1卫，面积是60平方米，有室外空间，有空调，有WIFI，房租价格是6900.0。
+72,有一个Changning的public housing，1卧1厅1卫，面积是45平方米，有空调，房租价格是6900.0。
+73,有一个Changning的public housing，1卧1厅1卫，面积是35平方米，有室外空间，有空调，房租价格是6900.0。
+74,有一个Changning的public housing，1卧1厅1卫，面积是45平方米，有供暖，有空调，有阳台，房租价格是6900.0。
+75,有一个Changning的public housing，1卧1厅1卫，面积是45平方米，有供暖，有空调，有阳台，房租价格是6900.0。
+76,有一个Changning的public housing，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是6900.0。
+77,有一个Changning的attached lane house，1卧1厅1卫，面积是50平方米，有供暖，房租价格是7000.0。
+78,有一个Changning的detached lane house，1卧1厅1卫，面积是60平方米，有供暖，有空调，有WIFI，有浴缸，房租价格是7000.0。
+79,有一个Changning的public housing，2卧1厅1卫，面积是60平方米，有室外空间，房租价格是7000.0。
+80,有一个Changning的public housing，1卧1厅1卫，面积是42平方米，有空调，有阳台，房租价格是7000.0。
+81,有一个Changning的public housing，2卧1厅1卫，面积是65平方米，有室外空间，有空调，有阳台，有WIFI，有浴缸，房租价格是7200.0。
+82,有一个Changning的public housing，2卧1厅1卫，面积是65平方米，有空调，有阳台，房租价格是7200.0。
+83,有一个Changning的detached lane house，1卧1厅1卫，面积是52平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是7200.0。
+84,有一个Changning的public housing，1卧2厅1卫，面积是55平方米，有室外空间，有空调，有阳台，有WIFI，有浴缸，房租价格是7300.0。
+85,有一个Changning的public housing，1卧1厅1卫，面积是50平方米，有空调，房租价格是7300.0。
+86,有一个Changning的public housing，1卧1厅1卫，面积是48平方米，有供暖，有空调，有阳台，有WIFI，房租价格是7400.0。
+87,有一个Changning的attached lane house，1卧1厅1卫，面积是70平方米，有室外空间，有空调，房租价格是7500.0。
+88,有一个Changning的public housing，1卧1厅1卫，面积是40平方米，有空调，房租价格是7500.0。
+89,有一个Changning的public housing，2卧1厅1卫，面积是80平方米，有空调，有阳台，房租价格是7500.0。
+90,有一个Changning的public housing，2卧1厅1卫，面积是50平方米，有空调，有阳台，房租价格是7500.0。
+91,有一个Changning的public housing，1卧0厅1卫，面积是30平方米，有供暖，有地暖，房租价格是7500.0。
+92,有一个Changning的public housing，1卧1厅1卫，面积是42平方米，有空调，有阳台，房租价格是7500.0。
+93,有一个Changning的public housing，1卧1厅1卫，面积是40平方米，有室外空间，有供暖，有空调，房租价格是7500.0。
+94,有一个Changning的public housing，1卧1厅1卫，面积是45平方米，有空调，房租价格是7500.0。
+95,有一个Changning的public housing，1卧1厅1卫，面积是50平方米，有室外空间，有空调，有阳台，房租价格是7600.0。
+96,有一个Changning的public housing，2卧2厅1卫，面积是65平方米，有空调，房租价格是7600.0。
+97,有一个Changning的public housing，1卧1厅1卫，面积是52平方米，有供暖，有空调，有阳台，房租价格是7600.0。
+98,有一个Changning的public housing，2卧1厅1卫，面积是60平方米，有空调，有阳台，有WIFI，房租价格是7800.0。
+99,有一个Changning的public housing，2卧0厅1卫，面积是55平方米，有空调，有阳台，房租价格是7800.0。
+100,有一个Changning的attached lane house，1卧1厅1卫，面积是50平方米，有空调，有WIFI，房租价格是7800.0。
+101,有一个Changning的detached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是7800.0。
+102,有一个Changning的public housing，2卧1厅1卫，面积是75平方米，有供暖，有空调，房租价格是7800.0。
+103,有一个Changning的public housing，1卧1厅1卫，面积是50平方米，有空调，房租价格是7800.0。
+104,有一个Changning的public housing，1卧0厅1卫，面积是40平方米，有供暖，有空调，有阳台，房租价格是7800.0。
+105,有一个Changning的detached lane house，1卧1厅1卫，面积是40平方米，有空调，有阳台，房租价格是7800.0。
+106,有一个Changning的public housing，1卧2厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是7800.0。
+107,有一个Changning的public housing，2卧1厅1卫，面积是56平方米，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是7800.0。
+108,有一个Changning的public housing，1卧2厅1卫，面积是65平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是7800.0。
+109,有一个Changning的public housing，1卧1厅1卫，面积是50平方米，有供暖，有空调，有阳台，房租价格是7900.0。
+110,有一个Changning的public housing，1卧2厅1卫，面积是59平方米，有空调，房租价格是8000.0。
+111,有一个Changning的detached lane house，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是8000.0。
+112,有一个Changning的detached lane house，1卧1厅1卫，面积是60平方米，有供暖，有空调，有阳台，有WIFI，房租价格是8000.0。
+113,有一个Changning的public housing，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是8000.0。
+114,有一个Changning的public housing，1卧1厅1卫，面积是65平方米，有室外空间，房租价格是8000.0。
+115,有一个Changning的public housing，2卧1厅1卫，面积是60平方米，有空调，有阳台，房租价格是8200.0。
+116,有一个Changning的public housing，2卧1厅1卫，面积是51平方米，有空调，有阳台，房租价格是8200.0。
+117,有一个Changning的public housing，1卧2厅1卫，面积是55平方米，有供暖，有空调，有阳台，房租价格是8200.0。
+118,有一个Changning的public housing，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有阳台，房租价格是8200.0。
+119,有一个Changning的public housing，2卧1厅1卫，面积是50平方米，有空调，有阳台，房租价格是8300.0。
+120,有一个Changning的public housing，2卧1厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有阳台，房租价格是8300.0。
+121,有一个Changning的public housing，1卧1厅1卫，面积是48平方米，有空调，房租价格是8400.0。
+122,有一个Changning的public housing，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有阳台，房租价格是8400.0。
+123,有一个Changning的attached lane house，1卧1厅1卫，面积是50平方米，有空调，有烤箱，房租价格是8500.0。
+124,有一个Changning的attached lane house，1卧1厅1卫，面积是76平方米，有供暖，有空调，有阳台，有WIFI，房租价格是8500.0。
+125,有一个Changning的detached lane house，1卧1厅1卫，面积是45平方米，有室外空间，房租价格是8500.0。
+126,有一个Changning的detached lane house，1卧1厅1卫，面积是55平方米，有室外空间，有供暖，有地暖，房租价格是8500.0。
+127,有一个Changning的public housing，2卧1厅1卫，面积是50平方米，有阳台，房租价格是8500.0。
+128,有一个Changning的public housing，2卧1厅1卫，面积是68平方米，有室外空间，有空调，有阳台，房租价格是8500.0。
+129,有一个Changning的attached lane house，1卧1厅1卫，面积是68平方米，有室外空间，房租价格是8500.0。
+130,有一个Changning的detached lane house，2卧2厅1卫，面积是70平方米，有空调，房租价格是8600.0。
+131,有一个Changning的public housing，1卧2厅1卫，面积是70平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是8800.0。
+132,有一个Changning的public housing，2卧1厅1卫，面积是68平方米，有空调，房租价格是8800.0。
+133,有一个Changning的public housing，2卧1厅1卫，面积是70平方米，有空调，有阳台，房租价格是8800.0。
+134,有一个Changning的public housing，2卧1厅1卫，面积是60平方米，有空调，有烤箱，房租价格是8800.0。
+135,有一个Changning的public housing，2卧1厅1卫，面积是60平方米，有空调，有阳台，房租价格是8800.0。
+136,有一个Changning的detached lane house，1卧2厅1卫，面积是45平方米，有室外空间，有空调，有WIFI，房租价格是8800.0。
+137,有一个Changning的detached lane house，1卧1厅1卫，面积是35平方米，有空调，有阳台，有WIFI，房租价格是9000.0。
+138,有一个Changning的public housing，1卧2厅1卫，面积是50平方米，有室外空间，房租价格是9000.0。
+139,有一个Changning的public housing，2卧2厅1卫，面积是65平方米，有室外空间，房租价格是9000.0。
+140,有一个Changning的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，房租价格是9000.0。
+141,有一个Changning的attached lane house，1卧1厅1卫，面积是45平方米，有室外空间，有供暖，有空调，有地暖，房租价格是9000.0。
+142,有一个Changning的public housing，1卧1厅1卫，面积是40平方米，有室外空间，有供暖，有空调，房租价格是9000.0。
+143,有一个Changning的public housing，1卧2厅1卫，面积是60平方米，有室外空间，房租价格是9000.0。
+144,有一个Changning的detached lane house，2卧2厅2卫，面积是100平方米，有室外空间，房租价格是9000.0。
+145,有一个Changning的public housing，2卧1厅1卫，面积是76平方米，有室外空间，有空调，有阳台，房租价格是9200.0。
+146,有一个Changning的public housing，1卧2厅1卫，面积是66平方米，有室外空间，有空调，有阳台，房租价格是9200.0。
+147,有一个Changning的public housing，3卧1厅1卫，面积是95平方米，有室外空间，房租价格是9500.0。
+148,有一个Changning的detached lane house，1卧1厅1卫，面积是70平方米，有室外空间，房租价格是9500.0。
+149,有一个Changning的public housing，1卧2厅1卫，面积是65平方米，有室外空间，有供暖，有空调，有阳台，房租价格是9500.0。
+150,有一个Changning的detached lane house，1卧1厅1卫，面积是58平方米，有室外空间，有供暖，房租价格是9500.0。
+151,有一个Changning的public housing，2卧2厅1卫，面积是120平方米，有空调，房租价格是9500.0。
+152,有一个Changning的detached lane house，1卧1厅1卫，面积是60平方米，有供暖，有空调，有WIFI，有浴缸，有烤箱，房租价格是9800.0。
+153,有一个Changning的public housing，2卧1厅1卫，面积是52平方米，有空调，有烤箱，房租价格是9800.0。
+154,有一个Changning的public housing，2卧1厅1卫，面积是60平方米，有空调，有阳台，房租价格是9800.0。
+155,有一个Changning的detached lane house，1卧1厅1卫，面积是65平方米，有室外空间，有空调，有WIFI，房租价格是9800.0。
+156,有一个Changning的detached lane house，1卧1厅1卫，面积是70平方米，有室外空间，房租价格是9800.0。
+157,有一个Changning的public housing，2卧1厅1卫，面积是90平方米，有室外空间，房租价格是9800.0。
+158,有一个Changning的public housing，1卧1厅1卫，面积是55平方米，有室外空间，有空调，有阳台，房租价格是9800.0。
+159,有一个Changning的public housing，2卧1厅1卫，面积是70平方米，有空调，房租价格是9800.0。
+160,有一个Changning的detached lane house，1卧2厅1卫，面积是65平方米，有室外空间，有空调，有阳台，房租价格是9999.0。
+161,有一个Changning的public housing，1卧2厅1卫，面积是66平方米，有室外空间，有浴缸，房租价格是10000.0。
+162,有一个Changning的attached lane house，2卧1厅1卫，面积是60平方米，有空调，房租价格是10000.0。
+163,有一个Changning的public housing，1卧1厅1卫，面积是40平方米，有室外空间，有空调，有地暖，房租价格是10000.0。
+164,有一个Changning的detached lane house，1卧1厅1卫，面积是70平方米，整栋建筑，有室外空间，有阳台，有WIFI，房租价格是10000.0。
+165,有一个Changning的detached lane house，1卧1厅1卫，面积是62平方米，有室外空间，有空调，房租价格是10300.0。
+166,有一个Changning的public housing，2卧2厅1卫，面积是72平方米，有空调，有阳台，有WIFI，房租价格是10500.0。
+167,有一个Changning的detached lane house，2卧1厅1卫，面积是65平方米，有室外空间，有空调，房租价格是10800.0。
+168,有一个Changning的public housing，3卧1厅1卫，面积是80平方米，有空调，有阳台，房租价格是10800.0。
+169,有一个Changning的public housing，1卧1厅1卫，面积是80平方米，有室外空间，房租价格是11000.0。
+170,有一个Changning的public housing，2卧2厅2卫，面积是100平方米，有供暖，有空调，有阳台，有地暖，房租价格是11000.0。
+171,有一个Changning的attached lane house，1卧1厅1卫，面积是30平方米，有室外空间，有供暖，有地暖，房租价格是11000.0。
+172,有一个Changning的public housing，2卧2厅1卫，面积是70平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有地暖，有烤箱，房租价格是11000.0。
+173,有一个Changning的attached lane house，1卧1厅1卫，面积是70平方米，有空调，房租价格是11000.0。
+174,有一个Changning的attached lane house，1卧2厅1卫，面积是60平方米，有室外空间，有供暖，有地暖，房租价格是11000.0。
+175,有一个Changning的public housing，1卧1厅1卫，面积是65平方米，有空调，有阳台，有地暖，房租价格是11000.0。
+176,有一个Changning的attached lane house，1卧1厅1卫，面积是60平方米，有空调，有阳台，房租价格是11000.0。
+177,有一个Changning的public housing，2卧2厅1卫，面积是82平方米，有室外空间，房租价格是11000.0。
+178,有一个Changning的public housing，1卧1厅1卫，面积是45平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是11000.0。
+179,有一个Changning的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是11000.0。
+180,有一个Changning的public housing，2卧1厅1卫，面积是70平方米，有空调，房租价格是11000.0。
+181,有一个Changning的public housing，3卧1厅1卫，面积是118平方米，有室外空间，房租价格是11500.0。
+182,有一个Changning的detached lane house，1卧1厅1卫，面积是43平方米，有室外空间，房租价格是11500.0。
+183,有一个Changning的public housing，2卧1厅1卫，面积是80平方米，有空调，有阳台，房租价格是11500.0。
+184,有一个Changning的public housing，2卧2厅2卫，面积是70平方米，有空调，有阳台，有WIFI，有烤箱，房租价格是11500.0。
+185,有一个Changning的public housing，1卧2厅1卫，面积是55平方米，有室外空间，有供暖，有空调，有阳台，房租价格是11800.0。
+186,有一个Changning的detached lane house，1卧1厅1卫，面积是65平方米，有室外空间，房租价格是11800.0。
+187,有一个Changning的public housing，1卧2厅1卫，面积是65平方米，有室外空间，有供暖，有空调，有阳台，房租价格是11800.0。
+188,有一个Changning的public housing，1卧2厅1卫，面积是65平方米，有室外空间，有供暖，有空调，有阳台，房租价格是11800.0。
+189,有一个Changning的public housing，1卧2厅1卫，面积是75平方米，有供暖，有空调，房租价格是11800.0。
+190,有一个Changning的attached lane house，2卧1厅1卫，面积是60平方米，有供暖，有空调，有地暖，房租价格是11999.0。
+191,有一个Changning的detached lane house，1卧2厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有WIFI，有地暖，房租价格是12000.0。
+192,有一个Changning的public housing，1卧2厅2卫，面积是85平方米，整栋建筑，有室外空间，有供暖，有浴缸，有地暖，房租价格是12000.0。
+193,有一个Changning的public housing，2卧1厅1卫，面积是70平方米，有室外空间，房租价格是12000.0。
+194,有一个Changning的public housing，2卧1厅1卫，面积是70平方米，有供暖，有空调，房租价格是12000.0。
+195,有一个Changning的attached lane house，1卧2厅1卫，面积是60平方米，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是12000.0。
+196,有一个Changning的public housing，2卧1厅2卫，面积是100平方米，有室外空间，有供暖，有空调，有WIFI，有浴缸，有地暖，房租价格是12500.0。
+197,有一个Changning的public housing，2卧1厅1卫，面积是90平方米，有供暖，有地暖，房租价格是12500.0。
+198,有一个Changning的public housing，1卧2厅1卫，面积是75平方米，有室外空间，有供暖，有空调，有地暖，房租价格是12800.0。
+199,有一个Changning的public housing，2卧2厅1卫，面积是100平方米，有室外空间，房租价格是12800.0。
+200,有一个Changning的public housing，1卧2厅1卫，面积是100平方米，有室外空间，有浴缸，房租价格是12800.0。
+201,有一个Changning的public housing，2卧2厅1卫，面积是80平方米，有室外空间，有空调，房租价格是12800.0。
+202,有一个Changning的attached lane house，1卧1厅1卫，面积是75平方米，有室外空间，有供暖，有空调，有阳台，房租价格是13000.0。
+203,有一个Changning的detached lane house，1卧1厅1卫，面积是70平方米，整栋建筑，有室外空间，有供暖，有WIFI，房租价格是13000.0。
+204,有一个Changning的detached lane house，1卧2厅1卫，面积是50平方米，有室外空间，房租价格是13000.0。
+205,有一个Changning的public housing，2卧2厅2卫，面积是85平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，有地暖，有烤箱，房租价格是13800.0。
+206,有一个Changning的public housing，2卧2厅1卫，面积是80平方米，有室外空间，有空调，房租价格是13800.0。
+207,有一个Changning的attached lane house，1卧2厅1卫，面积是100平方米，有室外空间，有空调，有浴缸，有地暖，房租价格是14000.0。
+208,有一个Changning的public housing，1卧1厅1卫，面积是80平方米，有供暖，有空调，有浴缸，有地暖，房租价格是14000.0。
+209,有一个Changning的detached lane house，1卧2厅1卫，面积是60平方米，有室外空间，有空调，有WIFI，房租价格是15300.0。
+210,有一个Changning的detached lane house，2卧2厅1卫，面积是80平方米，整栋建筑，有室外空间，房租价格是15900.0。
+211,有一个Changning的detached lane house，2卧2厅2卫，面积是120平方米，有室外空间，房租价格是16000.0。
+212,有一个Changning的public housing，2卧2厅2卫，面积是100平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是16500.0。
+213,有一个Changning的villa，4卧2厅2卫，面积是200平方米，有室外空间，有浴缸，房租价格是16500.0。
+214,有一个Changning的detached lane house，2卧2厅2卫，面积是110平方米，有室外空间，有烤箱，房租价格是17000.0。
+215,有一个Changning的detached lane house，2卧1厅1卫，面积是80平方米，整栋建筑，有室外空间，房租价格是17800.0。
+216,有一个Changning的attached lane house，3卧2厅2卫，面积是150平方米，有室外空间，有供暖，有空调，有烤箱，房租价格是19800.0。
+217,有一个Changning的attached lane house，2卧2厅1卫，面积是110平方米，有室外空间，有空调，房租价格是20000.0。
+218,有一个Changning的attached lane house，7卧2厅4卫，面积是225平方米，整栋建筑，有室外空间，有浴缸，房租价格是20000.0。
+219,有一个Changning的detached lane house，2卧2厅1卫，面积是110平方米，有供暖，有空调，有浴缸，有地暖，房租价格是20000.0。
+220,有一个Changning的public housing，2卧2厅2卫，面积是110平方米，有室外空间，房租价格是20000.0。
+221,有一个Changning的public housing，2卧2厅2卫，面积是110平方米，整栋建筑，有室外空间，有供暖，有空调，有WIFI，有地暖，有烤箱，房租价格是22000.0。
+222,有一个Changning的detached lane house，3卧2厅2卫，面积是120平方米，整栋建筑，有室外空间，房租价格是26000.0。
+223,有一个Changning的villa，4卧3厅3卫，面积是200平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，有地暖，房租价格是28000.0。
+224,有一个Changning的detached lane house，2卧2厅2卫，面积是160平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是28500.0。
+225,有一个Changning的villa，4卧2厅2卫，面积是180平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，有地暖，有烤箱，房租价格是28800.0。
+226,有一个Changning的attached lane house，3卧2厅2卫，面积是150平方米，整栋建筑，有空调，有阳台，有WIFI，有浴缸，房租价格是29000.0。
+227,有一个Changning的detached lane house，3卧2厅3卫，面积是120平方米，整栋建筑，有室外空间，有空调，有阳台，有浴缸，房租价格是30000.0。
+228,有一个Changning的villa，4卧2厅3卫，面积是200平方米，有室外空间，有供暖，有阳台，有浴缸，有地暖，房租价格是32000.0。
+229,有一个Changning的villa，4卧2厅3卫，面积是270平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是32000.0。
+230,有一个Changning的villa，4卧2厅3卫，面积是200平方米，有供暖，有地暖，房租价格是32000.0。
+231,有一个Changning的villa，3卧2厅3卫，面积是168平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，有烤箱，房租价格是32800.0。
+232,有一个Changning的villa，4卧2厅3卫，面积是172平方米，有供暖，有空调，有浴缸，有地暖，房租价格是35000.0。
+233,有一个Changning的villa，4卧2厅3卫，面积是220平方米，有室外空间，有供暖，有空调，有地暖，房租价格是38000.0。
+234,有一个Changning的villa，5卧2厅4卫，面积是298平方米，有室外空间，有供暖，有空调，有WIFI，有浴缸，有地暖，有烤箱，房租价格是39000.0。
+235,有一个Changning的detached lane house，4卧2厅3卫，面积是250平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，有烤箱，房租价格是40000.0。
+236,有一个Changning的attached lane house，4卧2厅3卫，面积是250平方米，整栋建筑，有室外空间，有供暖，有空调，有浴缸，有地暖，房租价格是49000.0。
+237,有一个Changning的villa，5卧3厅4卫，面积是340平方米，有室外空间，有空调，房租价格是50000.0。
+238,有一个Changning的villa，4卧2厅4卫，面积是340平方米，有室外空间，有空调，房租价格是55000.0。
+239,有一个Changning的villa，8卧3厅4卫，面积是379平方米，整栋建筑，有室外空间，有空调，有阳台，有浴缸，房租价格是70000.0。
+240,有一个Changning的detached lane house，5卧3厅4卫，面积是500平方米，有浴缸，房租价格是80000.0。
+241,有一个Hongkou的attached lane house，1卧0厅1卫，面积是18平方米，有空调，房租价格是3000.0。
+242,有一个Hongkou的public housing，1卧1厅1卫，面积是48平方米，有室外空间，有空调，房租价格是3800.0。
+243,有一个Hongkou的attached lane house，1卧1厅1卫，面积是38平方米，有空调，有阳台，有WIFI，房租价格是5200.0。
+244,有一个Hongkou的public housing，4卧1厅2卫，面积是133平方米，有空调，有阳台，房租价格是9500.0。
+245,有一个Hongkou的villa，8卧9厅9卫，面积是400平方米，有室外空间，有供暖，有空调，房租价格是120000.0。
+246,有一个Huangpu的attached lane house，1卧0厅1卫，面积是20平方米，有空调，有WIFI，房租价格是2500.0。
+247,有一个Huangpu的attached lane house，1卧0厅1卫，面积是10平方米，有空调，房租价格是2500.0。
+248,有一个Huangpu的public housing，1卧0厅1卫，面积是15平方米，有空调，房租价格是2800.0。
+249,有一个Huangpu的attached lane house，1卧0厅1卫，面积是12平方米，有空调，房租价格是2900.0。
+250,有一个Huangpu的public housing，1卧0厅1卫，面积是15平方米，有空调，房租价格是2900.0。
+251,有一个Huangpu的attached lane house，1卧1厅1卫，面积是38平方米，有空调，有WIFI，房租价格是3000.0。
+252,有一个Huangpu的attached lane house，2卧0厅1卫，面积是52平方米，有室外空间，有空调，有阳台，房租价格是3000.0。
+253,有一个Huangpu的attached lane house，1卧0厅1卫，面积是12平方米，有空调，房租价格是3000.0。
+254,有一个Huangpu的attached lane house，1卧0厅1卫，面积是15平方米，有空调，房租价格是3000.0。
+255,有一个Huangpu的public housing，1卧0厅1卫，面积是15平方米，有空调，房租价格是3000.0。
+256,有一个Huangpu的attached lane house，1卧1厅1卫，面积是15平方米，有空调，房租价格是3000.0。
+257,有一个Huangpu的attached lane house，1卧1厅1卫，面积是38平方米，有空调，有WIFI，房租价格是3000.0。
+258,有一个Huangpu的detached lane house，1卧1厅1卫，面积是38平方米，有空调，有WIFI，房租价格是3000.0。
+259,有一个Huangpu的attached lane house，1卧1厅1卫，面积是38平方米，有空调，有WIFI，房租价格是3000.0。
+260,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有空调，有WIFI，房租价格是3000.0。
+261,有一个Huangpu的public housing，1卧1厅1卫，面积是38平方米，有供暖，有空调，房租价格是3000.0。
+262,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有空调，有阳台，有WIFI，房租价格是3000.0。
+263,有一个Huangpu的attached lane house，1卧2厅1卫，面积是36平方米，有空调，有WIFI，房租价格是3000.0。
+264,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是3000.0。
+265,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是3000.0。
+266,有一个Huangpu的attached lane house，1卧0厅1卫，面积是12平方米，有空调，房租价格是3000.0。
+267,有一个Huangpu的detached lane house，1卧0厅1卫，面积是10平方米，有空调，房租价格是3200.0。
+268,有一个Huangpu的detached lane house，1卧0厅1卫，面积是15平方米，有室外空间，房租价格是3200.0。
+269,有一个Huangpu的detached lane house，1卧0厅1卫，面积是12平方米，有空调，房租价格是3200.0。
+270,有一个Huangpu的attached lane house，1卧0厅1卫，面积是12平方米，有空调，有WIFI，房租价格是3200.0。
+271,有一个Huangpu的detached lane house，1卧1厅1卫，面积是15平方米，有供暖，有空调，有WIFI，房租价格是3300.0。
+272,有一个Huangpu的attached lane house，1卧0厅1卫，面积是15平方米，有空调，房租价格是3400.0。
+273,有一个Huangpu的attached lane house，1卧0厅1卫，面积是15平方米，有室外空间，有空调，房租价格是3400.0。
+274,有一个Huangpu的attached lane house，1卧0厅1卫，面积是22平方米，有空调，房租价格是3450.0。
+275,有一个Huangpu的detached lane house，1卧1厅1卫，面积是25平方米，有空调，有WIFI，房租价格是3500.0。
+276,有一个Huangpu的attached lane house，1卧1厅1卫，面积是20平方米，有空调，房租价格是3500.0。
+277,有一个Huangpu的attached lane house，1卧0厅1卫，面积是15平方米，有空调，房租价格是3500.0。
+278,有一个Huangpu的detached lane house，1卧0厅1卫，面积是13平方米，有空调，房租价格是3500.0。
+279,有一个Huangpu的detached lane house，1卧0厅1卫，面积是16平方米，有空调，有WIFI，房租价格是3500.0。
+280,有一个Huangpu的attached lane house，1卧1厅1卫，面积是20平方米，有空调，房租价格是3500.0。
+281,有一个Huangpu的attached lane house，1卧1厅1卫，面积是20平方米，有室外空间，有空调，有阳台，房租价格是3600.0。
+282,有一个Huangpu的attached lane house，1卧0厅1卫，面积是13平方米，有空调，房租价格是3700.0。
+283,有一个Huangpu的attached lane house，1卧1厅1卫，面积是25平方米，有空调，房租价格是3800.0。
+284,有一个Huangpu的attached lane house，1卧1厅1卫，面积是20平方米，有供暖，有空调，有阳台，有地暖，房租价格是3800.0。
+285,有一个Huangpu的attached lane house，1卧0厅1卫，面积是10平方米，有空调，房租价格是3800.0。
+286,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是3800.0。
+287,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是3800.0。
+288,有一个Huangpu的attached lane house，1卧0厅1卫，面积是12平方米，有空调，房租价格是3800.0。
+289,有一个Huangpu的attached lane house，1卧0厅1卫，面积是20平方米，有空调，房租价格是3800.0。
+290,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是3900.0。
+291,有一个Huangpu的public housing，1卧1厅1卫，面积是30平方米，有空调，房租价格是3900.0。
+292,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是3900.0。
+293,有一个Huangpu的attached lane house，1卧1厅1卫，面积是22平方米，有空调，有WIFI，房租价格是3900.0。
+294,有一个Huangpu的attached lane house，1卧0厅1卫，面积是20平方米，有空调，房租价格是4000.0。
+295,有一个Huangpu的attached lane house，1卧0厅1卫，面积是18平方米，有空调，房租价格是4000.0。
+296,有一个Huangpu的attached lane house，1卧1厅1卫，面积是28平方米，有空调，房租价格是4000.0。
+297,有一个Huangpu的attached lane house，1卧1厅1卫，面积是25平方米，有空调，房租价格是4000.0。
+298,有一个Huangpu的detached lane house，1卧0厅1卫，面积是40平方米，有空调，房租价格是4000.0。
+299,有一个Huangpu的attached lane house，1卧1厅1卫，面积是40平方米，有空调，房租价格是4000.0。
+300,有一个Huangpu的attached lane house，1卧1厅1卫，面积是20平方米，有空调，房租价格是4000.0。
+301,有一个Huangpu的attached lane house，1卧1厅1卫，面积是28平方米，有空调，房租价格是4000.0。
+302,有一个Huangpu的attached lane house，1卧1厅1卫，面积是25平方米，有空调，房租价格是4000.0。
+303,有一个Huangpu的attached lane house，1卧1厅1卫，面积是20平方米，有空调，房租价格是4000.0。
+304,有一个Huangpu的attached lane house，2卧2厅1卫，面积是40平方米，有空调，有阳台，房租价格是4000.0。
+305,有一个Huangpu的attached lane house，1卧1厅1卫，面积是20平方米，有空调，房租价格是4100.0。
+306,有一个Huangpu的attached lane house，1卧0厅1卫，面积是28平方米，有空调，有WIFI，房租价格是4200.0。
+307,有一个Huangpu的attached lane house，2卧1厅1卫，面积是30平方米，有空调，房租价格是4200.0。
+308,有一个Huangpu的detached lane house，1卧1厅1卫，面积是19平方米，有室外空间，有空调，有浴缸，房租价格是4200.0。
+309,有一个Huangpu的attached lane house，1卧1厅1卫，面积是20平方米，有室外空间，房租价格是4200.0。
+310,有一个Huangpu的attached lane house，1卧0厅1卫，面积是25平方米，有空调，房租价格是4200.0。
+311,有一个Huangpu的detached lane house，1卧1厅1卫，面积是38平方米，有空调，房租价格是4200.0。
+312,有一个Huangpu的attached lane house，1卧1厅1卫，面积是40平方米，有空调，房租价格是4200.0。
+313,有一个Huangpu的attached lane house，1卧1厅2卫，面积是30平方米，有供暖，有地暖，房租价格是4300.0。
+314,有一个Huangpu的attached lane house，1卧1厅1卫，面积是16平方米，有供暖，有空调，有WIFI，房租价格是4300.0。
+315,有一个Huangpu的attached lane house，1卧1厅1卫，面积是20平方米，有空调，房租价格是4300.0。
+316,有一个Huangpu的detached lane house，1卧1厅1卫，面积是30平方米，有室外空间，房租价格是4300.0。
+317,有一个Huangpu的attached lane house，1卧0厅1卫，面积是20平方米，房租价格是4400.0。
+318,有一个Huangpu的attached lane house，1卧1厅1卫，面积是25平方米，有空调，房租价格是4500.0。
+319,有一个Huangpu的detached lane house，1卧0厅1卫，面积是36平方米，有室外空间，有空调，房租价格是4500.0。
+320,有一个Huangpu的attached lane house，2卧1厅1卫，面积是45平方米，有空调，房租价格是4500.0。
+321,有一个Huangpu的detached lane house，1卧0厅1卫，面积是36平方米，有空调，房租价格是4500.0。
+322,有一个Huangpu的attached lane house，2卧2厅1卫，面积是40平方米，有空调，有WIFI，房租价格是4500.0。
+323,有一个Huangpu的attached lane house，1卧1厅1卫，面积是28平方米，有空调，房租价格是4500.0。
+324,有一个Huangpu的attached lane house，1卧1厅1卫，面积是35平方米，有空调，有阳台，房租价格是4500.0。
+325,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是4500.0。
+326,有一个Huangpu的attached lane house，1卧0厅1卫，面积是15平方米，有供暖，有空调，有WIFI，房租价格是4500.0。
+327,有一个Huangpu的detached lane house，1卧0厅1卫，面积是30平方米，有室外空间，有空调，房租价格是4500.0。
+328,有一个Huangpu的attached lane house，2卧1厅1卫，面积是38平方米，有空调，房租价格是4500.0。
+329,有一个Huangpu的attached lane house，1卧0厅1卫，面积是15平方米，有空调，有WIFI，房租价格是4500.0。
+330,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是4500.0。
+331,有一个Huangpu的detached lane house，1卧1厅1卫，面积是28平方米，有供暖，有空调，有WIFI，有浴缸，房租价格是4500.0。
+332,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是4500.0。
+333,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是4500.0。
+334,有一个Huangpu的attached lane house，1卧1厅1卫，面积是25平方米，有空调，房租价格是4500.0。
+335,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是4500.0。
+336,有一个Huangpu的attached lane house，1卧1厅1卫，面积是58平方米，有空调，有WIFI，房租价格是4600.0。
+337,有一个Huangpu的attached lane house，2卧2厅3卫，面积是60平方米，有空调，有WIFI，房租价格是4600.0。
+338,有一个Huangpu的attached lane house，1卧1厅1卫，面积是60平方米，有空调，有WIFI，房租价格是4600.0。
+339,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是4600.0。
+340,有一个Huangpu的attached lane house，1卧1厅1卫，面积是58平方米，有室外空间，有空调，有WIFI，房租价格是4600.0。
+341,有一个Huangpu的attached lane house，1卧1厅1卫，面积是60平方米，有空调，房租价格是4600.0。
+342,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是4600.0。
+343,有一个Huangpu的attached lane house，1卧1厅1卫，面积是50平方米，有空调，有WIFI，房租价格是4700.0。
+344,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是4800.0。
+345,有一个Huangpu的attached lane house，1卧1厅1卫，面积是25平方米，有空调，房租价格是4800.0。
+346,有一个Huangpu的attached lane house，1卧1厅1卫，面积是25平方米，有空调，房租价格是4800.0。
+347,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是4800.0。
+348,有一个Huangpu的detached lane house，1卧0厅1卫，面积是18平方米，有室外空间，有空调，房租价格是4800.0。
+349,有一个Huangpu的attached lane house，1卧0厅1卫，面积是23平方米，有空调，房租价格是4800.0。
+350,有一个Huangpu的attached lane house，2卧2厅1卫，面积是45平方米，有空调，房租价格是5000.0。
+351,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，房租价格是5000.0。
+352,有一个Huangpu的attached lane house，1卧0厅1卫，面积是30平方米，有空调，有阳台，房租价格是5000.0。
+353,有一个Huangpu的detached lane house，1卧1厅1卫，面积是25平方米，有空调，房租价格是5000.0。
+354,有一个Huangpu的detached lane house，1卧1厅1卫，面积是30平方米，房租价格是5000.0。
+355,有一个Huangpu的public housing，1卧1厅1卫，面积是55平方米，有室外空间，有供暖，有空调，房租价格是5000.0。
+356,有一个Huangpu的attached lane house，2卧1厅1卫，面积是35平方米，有空调，房租价格是5000.0。
+357,有一个Huangpu的public housing，1卧0厅1卫，面积是40平方米，有空调，有阳台，房租价格是5000.0。
+358,有一个Huangpu的detached lane house，1卧1厅1卫，面积是35平方米，有空调，房租价格是5000.0。
+359,有一个Huangpu的detached lane house，1卧1厅1卫，面积是40平方米，有空调，有阳台，房租价格是5000.0。
+360,有一个Huangpu的public housing，1卧1厅1卫，面积是30平方米，有空调，房租价格是5000.0。
+361,有一个Huangpu的attached lane house，1卧1厅1卫，面积是25平方米，房租价格是5000.0。
+362,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是5000.0。
+363,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是5000.0。
+364,有一个Huangpu的attached lane house，1卧1厅1卫，面积是50平方米，有空调，有WIFI，房租价格是5000.0。
+365,有一个Huangpu的detached lane house，1卧1厅1卫，面积是30平方米，房租价格是5000.0。
+366,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有室外空间，有空调，房租价格是5000.0。
+367,有一个Huangpu的detached lane house，1卧1厅1卫，面积是20平方米，有空调，房租价格是5001.88。
+368,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是5111.0。
+369,有一个Huangpu的attached lane house，1卧0厅1卫，面积是20平方米，房租价格是5111.0。
+370,有一个Huangpu的detached lane house，1卧1厅1卫，面积是30平方米，有室外空间，有供暖，有空调，房租价格是5200.0。
+371,有一个Huangpu的public housing，1卧1厅1卫，面积是48平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是5200.0。
+372,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，房租价格是5200.0。
+373,有一个Huangpu的attached lane house，1卧1厅1卫，面积是38平方米，有空调，房租价格是5200.0。
+374,有一个Huangpu的attached lane house，1卧1厅1卫，面积是45平方米，有空调，有阳台，有烤箱，房租价格是5200.0。
+375,有一个Huangpu的attached lane house，1卧1厅1卫，面积是32平方米，有空调，房租价格是5200.0。
+376,有一个Huangpu的attached lane house，1卧0厅1卫，面积是25平方米，有空调，房租价格是5300.0。
+377,有一个Huangpu的public housing，1卧1厅1卫，面积是40平方米，有空调，房租价格是5300.0。
+378,有一个Huangpu的detached lane house，1卧1厅1卫，面积是25平方米，房租价格是5432.1。
+379,有一个Huangpu的public housing，1卧1厅1卫，面积是50平方米，有空调，房租价格是5500.0。
+380,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是5500.0。
+381,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是5500.0。
+382,有一个Huangpu的attached lane house，2卧1厅1卫，面积是45平方米，有空调，房租价格是5500.0。
+383,有一个Huangpu的detached lane house，1卧0厅1卫，面积是25平方米，有供暖，有空调，有WIFI，房租价格是5500.0。
+384,有一个Huangpu的public housing，1卧1厅1卫，面积是50平方米，有空调，房租价格是5500.0。
+385,有一个Huangpu的attached lane house，1卧0厅1卫，面积是30平方米，有室外空间，房租价格是5500.0。
+386,有一个Huangpu的public housing，1卧1厅1卫，面积是40平方米，有空调，房租价格是5500.0。
+387,有一个Huangpu的detached lane house，1卧1厅1卫，面积是50平方米，有供暖，有空调，房租价格是5500.0。
+388,有一个Huangpu的attached lane house，1卧1厅1卫，面积是12平方米，有空调，房租价格是5500.0。
+389,有一个Huangpu的attached lane house，1卧1厅1卫，面积是32平方米，有空调，有阳台，有WIFI，房租价格是5500.0。
+390,有一个Huangpu的attached lane house，1卧1厅1卫，面积是35平方米，有空调，有阳台，房租价格是5500.0。
+391,有一个Huangpu的public housing，1卧1厅1卫，面积是40平方米，有空调，有阳台，房租价格是5500.0。
+392,有一个Huangpu的detached lane house，1卧0厅1卫，面积是30平方米，有空调，房租价格是5500.0。
+393,有一个Huangpu的public housing，1卧0厅1卫，面积是35平方米，有空调，房租价格是5600.0。
+394,有一个Huangpu的detached lane house，1卧1厅1卫，面积是38平方米，有空调，房租价格是5600.0。
+395,有一个Huangpu的attached lane house，1卧1厅1卫，面积是40平方米，有空调，房租价格是5600.0。
+396,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是5656.0。
+397,有一个Huangpu的attached lane house，1卧1厅1卫，面积是20平方米，房租价格是5656.0。
+398,有一个Huangpu的attached lane house，1卧0厅1卫，面积是15平方米，有室外空间，房租价格是5800.0。
+399,有一个Huangpu的public housing，1卧1厅1卫，面积是50平方米，有空调，房租价格是5800.0。
+400,有一个Huangpu的attached lane house，1卧1厅1卫，面积是40平方米，有室外空间，房租价格是5800.0。
+401,有一个Huangpu的public housing，1卧1厅1卫，面积是35平方米，房租价格是5800.0。
+402,有一个Huangpu的attached lane house，1卧1厅1卫，面积是40平方米，有空调，房租价格是5800.0。
+403,有一个Huangpu的detached lane house，1卧1厅1卫，面积是32平方米，房租价格是5800.0。
+404,有一个Huangpu的public housing，1卧1厅1卫，面积是35平方米，有空调，房租价格是5800.0。
+405,有一个Huangpu的public housing，1卧1厅1卫，面积是40平方米，有空调，房租价格是5800.0。
+406,有一个Huangpu的detached lane house，1卧1厅1卫，面积是45平方米，有供暖，有空调，有阳台，有WIFI，房租价格是6000.0。
+407,有一个Huangpu的detached lane house，1卧1厅1卫，面积是50平方米，有浴缸，房租价格是6000.0。
+408,有一个Huangpu的public housing，2卧1厅1卫，面积是45平方米，有空调，房租价格是6000.0。
+409,有一个Huangpu的detached lane house，1卧1厅1卫，面积是30平方米，房租价格是6000.0。
+410,有一个Huangpu的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，房租价格是6000.0。
+411,有一个Huangpu的attached lane house，1卧1厅1卫，面积是45平方米，有室外空间，房租价格是6000.0。
+412,有一个Huangpu的attached lane house，1卧1厅1卫，面积是40平方米，有空调，房租价格是6000.0。
+413,有一个Huangpu的attached lane house，1卧1厅1卫，面积是35平方米，有空调，有阳台，房租价格是6000.0。
+414,有一个Huangpu的attached lane house，1卧1厅1卫，面积是50平方米，有空调，有阳台，有WIFI，房租价格是6000.0。
+415,有一个Huangpu的detached lane house，1卧1厅1卫，面积是35平方米，有空调，房租价格是6000.0。
+416,有一个Huangpu的public housing，1卧0厅1卫，面积是30平方米，有空调，房租价格是6000.0。
+417,有一个Huangpu的attached lane house，1卧1厅1卫，面积是35平方米，有空调，房租价格是6000.0。
+418,有一个Huangpu的detached lane house，1卧1厅1卫，面积是30平方米，房租价格是6000.0。
+419,有一个Huangpu的detached lane house，1卧1厅1卫，面积是48平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是6000.0。
+420,有一个Huangpu的attached lane house，1卧1厅1卫，面积是35平方米，有空调，房租价格是6000.0。
+421,有一个Huangpu的public housing，1卧1厅1卫，面积是40平方米，有供暖，房租价格是6000.0。
+422,有一个Huangpu的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有空调，房租价格是6100.0。
+423,有一个Huangpu的detached lane house，1卧1厅1卫，面积是40平方米，有空调，房租价格是6200.0。
+424,有一个Huangpu的public housing，1卧0厅1卫，面积是35平方米，有空调，有阳台，房租价格是6200.0。
+425,有一个Huangpu的public housing，1卧1厅1卫，面积是40平方米，有空调，房租价格是6300.0。
+426,有一个Huangpu的public housing，1卧1厅1卫，面积是35平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是6400.0。
+427,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，房租价格是6500.0。
+428,有一个Huangpu的attached lane house，1卧1厅1卫，面积是25平方米，有室外空间，有供暖，有地暖，房租价格是6500.0。
+429,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是6500.0。
+430,有一个Huangpu的attached lane house，1卧1厅1卫，面积是45平方米，有空调，房租价格是6500.0。
+431,有一个Huangpu的attached lane house，2卧2厅1卫，面积是55平方米，有空调，房租价格是6500.0。
+432,有一个Huangpu的attached lane house，1卧1厅1卫，面积是45平方米，有室外空间，房租价格是6500.0。
+433,有一个Huangpu的public housing，1卧0厅1卫，面积是25平方米，有空调，有WIFI，房租价格是6500.0。
+434,有一个Huangpu的public housing，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是6500.0。
+435,有一个Huangpu的attached lane house，1卧2厅1卫，面积是60平方米，有室外空间，有空调，有WIFI，有浴缸，房租价格是6500.0。
+436,有一个Huangpu的public housing，1卧0厅1卫，面积是37平方米，有空调，有阳台，房租价格是6500.0。
+437,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有阳台，房租价格是6500.0。
+438,有一个Huangpu的attached lane house，2卧1厅1卫，面积是40平方米，有空调，房租价格是6500.0。
+439,有一个Huangpu的attached lane house，1卧0厅1卫，面积是31平方米，有空调，房租价格是6600.0。
+440,有一个Huangpu的detached lane house，1卧1厅1卫，面积是20平方米，有室外空间，有空调，房租价格是6800.0。
+441,有一个Huangpu的attached lane house，1卧1厅1卫，面积是50平方米，有空调，有阳台，房租价格是6800.0。
+442,有一个Huangpu的attached lane house，1卧2厅1卫，面积是50平方米，有供暖，房租价格是6800.0。
+443,有一个Huangpu的attached lane house，1卧1厅1卫，面积是35平方米，有空调，有WIFI，房租价格是6800.0。
+444,有一个Huangpu的detached lane house，1卧1厅1卫，面积是1平方米，有供暖，有空调，有WIFI，房租价格是6800.0。
+445,有一个Huangpu的attached lane house，1卧1厅1卫，面积是40平方米，有空调，房租价格是6800.0。
+446,有一个Huangpu的attached lane house，1卧1厅1卫，面积是32平方米，有室外空间，有空调，房租价格是6800.0。
+447,有一个Huangpu的attached lane house，1卧1厅1卫，面积是45平方米，有空调，房租价格是6800.0。
+448,有一个Huangpu的detached lane house，1卧1厅1卫，面积是45平方米，有空调，房租价格是6800.0。
+449,有一个Huangpu的public housing，2卧1厅1卫，面积是68平方米，有室外空间，房租价格是6800.0。
+450,有一个Huangpu的attached lane house，1卧1厅1卫，面积是40平方米，有空调，房租价格是6996.0。
+451,有一个Huangpu的attached lane house，2卧1厅1卫，面积是50平方米，有空调，房租价格是7000.0。
+452,有一个Huangpu的detached lane house，1卧1厅1卫，面积是50平方米，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是7000.0。
+453,有一个Huangpu的attached lane house，1卧1厅1卫，面积是40平方米，有空调，有WIFI，房租价格是7000.0。
+454,有一个Huangpu的detached lane house，1卧1厅1卫，面积是50平方米，有供暖，有空调，有阳台，有WIFI，房租价格是7000.0。
+455,有一个Huangpu的attached lane house，1卧2厅1卫，面积是50平方米，有空调，房租价格是7000.0。
+456,有一个Huangpu的attached lane house，1卧1厅1卫，面积是35平方米，有空调，有阳台，有WIFI，房租价格是7000.0。
+457,有一个Huangpu的attached lane house，1卧1厅1卫，面积是45平方米，有供暖，有空调，有WIFI，房租价格是7000.0。
+458,有一个Huangpu的detached lane house，1卧0厅1卫，面积是16平方米，有室外空间，有空调，有阳台，房租价格是7000.0。
+459,有一个Huangpu的detached lane house，1卧1厅1卫，面积是25平方米，有室外空间，有空调，房租价格是7000.0。
+460,有一个Huangpu的attached lane house，1卧1厅1卫，面积是65平方米，有供暖，有空调，有WIFI，房租价格是7000.0。
+461,有一个Huangpu的attached lane house，2卧1厅1卫，面积是60平方米，有空调，房租价格是7000.0。
+462,有一个Huangpu的attached lane house，1卧1厅1卫，面积是50平方米，有供暖，有空调，有WIFI，有地暖，房租价格是7000.0。
+463,有一个Huangpu的public housing，2卧1厅1卫，面积是55平方米，有供暖，有空调，有WIFI，房租价格是7000.0。
+464,有一个Huangpu的public housing，1卧1厅1卫，面积是52平方米，有室外空间，有空调，有阳台，房租价格是7200.0。
+465,有一个Huangpu的detached lane house，1卧1厅1卫，面积是45平方米，有空调，房租价格是7200.0。
+466,有一个Huangpu的attached lane house，1卧1厅1卫，面积是55平方米，有空调，有烤箱，房租价格是7200.0。
+467,有一个Huangpu的attached lane house，1卧1厅1卫，面积是45平方米，有空调，有阳台，房租价格是7200.0。
+468,有一个Huangpu的public housing，1卧1厅1卫，面积是63平方米，有空调，有WIFI，房租价格是7200.0。
+469,有一个Huangpu的attached lane house，1卧1厅1卫，面积是50平方米，有空调，有WIFI，有浴缸，房租价格是7200.0。
+470,有一个Huangpu的detached lane house，1卧1厅1卫，面积是52平方米，有供暖，有空调，房租价格是7200.0。
+471,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是7300.0。
+472,有一个Huangpu的attached lane house，1卧0厅1卫，面积是28平方米，有空调，房租价格是7300.0。
+473,有一个Huangpu的detached lane house，2卧1厅1卫，面积是50平方米，有室外空间，有空调，有阳台，房租价格是7300.0。
+474,有一个Huangpu的attached lane house，1卧0厅1卫，面积是30平方米，有空调，房租价格是7300.0。
+475,有一个Huangpu的attached lane house，1卧1厅1卫，面积是50平方米，有空调，房租价格是7500.0。
+476,有一个Huangpu的attached lane house，2卧2厅1卫，面积是50平方米，有空调，房租价格是7500.0。
+477,有一个Huangpu的detached lane house，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是7500.0。
+478,有一个Huangpu的attached lane house，1卧1厅1卫，面积是45平方米，有室外空间，房租价格是7500.0。
+479,有一个Huangpu的attached lane house，1卧1厅1卫，面积是45平方米，有空调，有WIFI，房租价格是7500.0。
+480,有一个Huangpu的attached lane house，2卧1厅1卫，面积是50平方米，有空调，房租价格是7500.0。
+481,有一个Huangpu的attached lane house，1卧2厅1卫，面积是60平方米，有空调，有烤箱，房租价格是7500.0。
+482,有一个Huangpu的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，房租价格是7500.0。
+483,有一个Huangpu的attached lane house，1卧2厅1卫，面积是65平方米，有室外空间，房租价格是7500.0。
+484,有一个Huangpu的attached lane house，1卧1厅1卫，面积是35平方米，有空调，有阳台，房租价格是7500.0。
+485,有一个Huangpu的attached lane house，1卧1厅1卫，面积是50平方米，有空调，房租价格是7500.0。
+486,有一个Huangpu的attached lane house，1卧2厅1卫，面积是58平方米，有空调，有阳台，有WIFI，房租价格是7500.0。
+487,有一个Huangpu的attached lane house，2卧1厅1卫，面积是45平方米，有空调，房租价格是7500.0。
+488,有一个Huangpu的attached lane house，1卧0厅1卫，面积是45平方米，有空调，房租价格是7500.0。
+489,有一个Huangpu的detached lane house，1卧2厅1卫，面积是45平方米，有空调，房租价格是7500.0。
+490,有一个Huangpu的detached lane house，1卧2厅1卫，面积是65平方米，有空调，房租价格是7500.0。
+491,有一个Huangpu的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是7600.0。
+492,有一个Huangpu的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，房租价格是7600.0。
+493,有一个Huangpu的public housing，1卧0厅1卫，面积是35平方米，有室外空间，有空调，有阳台，有浴缸，房租价格是7600.0。
+494,有一个Huangpu的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有空调，房租价格是7700.0。
+495,有一个Huangpu的attached lane house，2卧1厅1卫，面积是65平方米，有空调，房租价格是7800.0。
+496,有一个Huangpu的attached lane house，2卧2厅1卫，面积是89平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是7800.0。
+497,有一个Huangpu的attached lane house，1卧1厅1卫，面积是45平方米，有供暖，有空调，房租价格是7800.0。
+498,有一个Huangpu的detached lane house，1卧1厅1卫，面积是40平方米，有供暖，有空调，有WIFI，有地暖，房租价格是7800.0。
+499,有一个Huangpu的attached lane house，1卧1厅1卫，面积是45平方米，有空调，有阳台，有WIFI，有浴缸，房租价格是7800.0。
+500,有一个Huangpu的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是7800.0。
+501,有一个Huangpu的detached lane house，1卧1厅1卫，面积是35平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是7800.0。
+502,有一个Huangpu的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有空调，有WIFI，房租价格是7800.0。
+503,有一个Huangpu的attached lane house，1卧0厅1卫，面积是36平方米，有空调，有阳台，有WIFI，房租价格是7800.0。
+504,有一个Huangpu的attached lane house，1卧0厅1卫，面积是40平方米，有空调，有阳台，房租价格是7800.0。
+505,有一个Huangpu的public housing，1卧1厅1卫，面积是60平方米，有空调，有阳台，房租价格是7800.0。
+506,有一个Huangpu的detached lane house，1卧1厅1卫，面积是45平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是7800.0。
+507,有一个Huangpu的detached lane house，1卧1厅1卫，面积是56平方米，有空调，房租价格是7900.0。
+508,有一个Huangpu的detached lane house，2卧1厅1卫，面积是54平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是8000.0。
+509,有一个Huangpu的public housing，1卧1厅1卫，面积是40平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是8000.0。
+510,有一个Huangpu的attached lane house，1卧1厅1卫，面积是50平方米，有空调，有阳台，有WIFI，房租价格是8000.0。
+511,有一个Huangpu的detached lane house，1卧2厅1卫，面积是80平方米，有室外空间，有空调，房租价格是8000.0。
+512,有一个Huangpu的attached lane house，1卧1厅1卫，面积是50平方米，有空调，有阳台，有WIFI，房租价格是8000.0。
+513,有一个Huangpu的attached lane house，1卧2厅1卫，面积是65平方米，有空调，有烤箱，房租价格是8000.0。
+514,有一个Huangpu的detached lane house，1卧1厅1卫，面积是70平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是8000.0。
+515,有一个Huangpu的attached lane house，1卧1厅1卫，面积是50平方米，有空调，房租价格是8000.0。
+516,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有室外空间，有空调，有WIFI，房租价格是8000.0。
+517,有一个Huangpu的attached lane house，2卧2厅1卫，面积是50平方米，有空调，有WIFI，房租价格是8000.0。
+518,有一个Huangpu的detached lane house，1卧1厅1卫，面积是25平方米，有空调，有阳台，房租价格是8100.0。
+519,有一个Huangpu的detached lane house，1卧2厅1卫，面积是80平方米，有空调，房租价格是8200.0。
+520,有一个Huangpu的detached lane house，2卧1厅1卫，面积是80平方米，有供暖，有空调，房租价格是8200.0。
+521,有一个Huangpu的attached lane house，2卧0厅1卫，面积是75平方米，有空调，房租价格是8499.0。
+522,有一个Huangpu的detached lane house，1卧1厅1卫，面积是65平方米，有供暖，有空调，有WIFI，房租价格是8500.0。
+523,有一个Huangpu的attached lane house，1卧1厅1卫，面积是40平方米，有室外空间，房租价格是8500.0。
+524,有一个Huangpu的attached lane house，1卧1厅1卫，面积是60平方米，有空调，有浴缸，房租价格是8500.0。
+525,有一个Huangpu的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是8500.0。
+526,有一个Huangpu的public housing，1卧1厅1卫，面积是40平方米，有浴缸，房租价格是8500.0。
+527,有一个Huangpu的detached lane house，1卧1厅2卫，面积是65平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是8500.0。
+528,有一个Huangpu的attached lane house，2卧1厅1卫，面积是66平方米，有室外空间，有空调，房租价格是8500.0。
+529,有一个Huangpu的attached lane house，2卧2厅1卫，面积是55平方米，有空调，房租价格是8500.0。
+530,有一个Huangpu的detached lane house，1卧1厅1卫，面积是45平方米，有室外空间，房租价格是8500.0。
+531,有一个Huangpu的detached lane house，1卧1厅1卫，面积是50平方米，有空调，有WIFI，有浴缸，房租价格是8500.0。
+532,有一个Huangpu的detached lane house，2卧1厅1卫，面积是50平方米，有室外空间，有空调，房租价格是8500.0。
+533,有一个Huangpu的detached lane house，1卧2厅1卫，面积是45平方米，有室外空间，有空调，有阳台，房租价格是8500.0。
+534,有一个Huangpu的attached lane house，1卧1厅1卫，面积是40平方米，有空调，房租价格是8500.0。
+535,有一个Huangpu的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是8800.0。
+536,有一个Huangpu的detached lane house，1卧1厅1卫，面积是65平方米，有供暖，有空调，有WIFI，房租价格是8800.0。
+537,有一个Huangpu的detached lane house，1卧1厅1卫，面积是65平方米，有供暖，有空调，有WIFI，房租价格是8800.0。
+538,有一个Huangpu的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，房租价格是8800.0。
+539,有一个Huangpu的attached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是8800.0。
+540,有一个Huangpu的public housing，2卧0厅1卫，面积是55平方米，有空调，房租价格是8800.0。
+541,有一个Huangpu的detached lane house，1卧1厅1卫，面积是40平方米，有供暖，有空调，房租价格是9000.0。
+542,有一个Huangpu的public housing，2卧1厅1卫，面积是60平方米，有空调，有阳台，房租价格是9000.0。
+543,有一个Huangpu的detached lane house，1卧1厅1卫，面积是65平方米，有供暖，有空调，有WIFI，房租价格是9000.0。
+544,有一个Huangpu的detached lane house，1卧1厅1卫，面积是65平方米，有空调，有WIFI，房租价格是9000.0。
+545,有一个Huangpu的attached lane house，1卧1厅1卫，面积是45平方米，有供暖，有空调，房租价格是9000.0。
+546,有一个Huangpu的attached lane house，1卧2厅1卫，面积是80平方米，有室外空间，房租价格是9000.0。
+547,有一个Huangpu的attached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有供暖，有空调，有阳台，有地暖，有烤箱，房租价格是9000.0。
+548,有一个Huangpu的attached lane house，1卧1厅1卫，面积是70平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是9000.0。
+549,有一个Huangpu的detached lane house，1卧2厅1卫，面积是85平方米，有供暖，房租价格是9200.0。
+550,有一个Huangpu的attached lane house，1卧0厅1卫，面积是55平方米，有室外空间，房租价格是9500.0。
+551,有一个Huangpu的attached lane house，1卧1厅2卫，面积是55平方米，有空调，有WIFI，房租价格是9500.0。
+552,有一个Huangpu的attached lane house，1卧2厅1卫，面积是55平方米，有供暖，有空调，房租价格是9500.0。
+553,有一个Huangpu的attached lane house，1卧1厅1卫，面积是50平方米，有供暖，房租价格是9500.0。
+554,有一个Huangpu的detached lane house，1卧2厅1卫，面积是60平方米，有空调，房租价格是9500.0。
+555,有一个Huangpu的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，房租价格是9500.0。
+556,有一个Huangpu的public housing，1卧1厅1卫，面积是58平方米，有室外空间，有空调，有阳台，房租价格是9500.0。
+557,有一个Huangpu的public housing，2卧2厅1卫，面积是60平方米，有空调，房租价格是9500.0。
+558,有一个Huangpu的detached lane house，1卧2厅1卫，面积是80平方米，有室外空间，房租价格是9500.0。
+559,有一个Huangpu的detached lane house，1卧1厅1卫，面积是25平方米，有空调，有WIFI，房租价格是9500.0。
+560,有一个Huangpu的public housing，2卧1厅1卫，面积是78平方米，有室外空间，有空调，有阳台，房租价格是9800.0。
+561,有一个Huangpu的attached lane house，1卧1厅1卫，面积是55平方米，有供暖，房租价格是9800.0。
+562,有一个Huangpu的detached lane house，1卧2厅1卫，面积是55平方米，有浴缸，房租价格是9800.0。
+563,有一个Huangpu的public housing，2卧1厅1卫，面积是78平方米，有室外空间，房租价格是9800.0。
+564,有一个Huangpu的public housing，1卧1厅1卫，面积是55平方米，有供暖，有空调，有地暖，有烤箱，房租价格是9800.0。
+565,有一个Huangpu的public housing，2卧1厅1卫，面积是75平方米，有室外空间，有供暖，有空调，有WIFI，房租价格是9800.0。
+566,有一个Huangpu的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，房租价格是9800.0。
+567,有一个Huangpu的detached lane house，1卧2厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是10000.0。
+568,有一个Huangpu的attached lane house，1卧2厅1卫，面积是65平方米，有空调，房租价格是10000.0。
+569,有一个Huangpu的attached lane house，2卧1厅1卫，面积是75平方米，有室外空间，房租价格是10000.0。
+570,有一个Huangpu的public housing，1卧2厅1卫，面积是55平方米，有空调，房租价格是10000.0。
+571,有一个Huangpu的attached lane house，2卧1厅1卫，面积是80平方米，有空调，有阳台，房租价格是10000.0。
+572,有一个Huangpu的detached lane house，2卧1厅1卫，面积是80平方米，有室外空间，有供暖，有空调，有阳台，有地暖，房租价格是10000.0。
+573,有一个Huangpu的detached lane house，1卧1厅1卫，面积是65平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是10000.0。
+574,有一个Huangpu的attached lane house，2卧1厅1卫，面积是70平方米，有室外空间，有空调，有WIFI，有浴缸，房租价格是10000.0。
+575,有一个Huangpu的attached lane house，3卧1厅2卫，面积是70平方米，有空调，房租价格是10000.0。
+576,有一个Huangpu的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是10000.0。
+577,有一个Huangpu的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，房租价格是10000.0。
+578,有一个Huangpu的public housing，1卧1厅1卫，面积是65平方米，有空调，房租价格是10000.0。
+579,有一个Huangpu的detached lane house，1卧1厅1卫，面积是50平方米，有供暖，有空调，有WIFI，房租价格是10000.0。
+580,有一个Huangpu的public housing，1卧2厅1卫，面积是54平方米，有室外空间，有供暖，有地暖，房租价格是10300.0。
+581,有一个Huangpu的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有阳台，房租价格是10500.0。
+582,有一个Huangpu的public housing，2卧2厅1卫，面积是60平方米，有供暖，有空调，有WIFI，房租价格是10500.0。
+583,有一个Huangpu的attached lane house，1卧2厅1卫，面积是60平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是10500.0。
+584,有一个Huangpu的detached lane house，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是10500.0。
+585,有一个Huangpu的detached lane house，1卧2厅2卫，面积是70平方米，有室外空间，有空调，有阳台，有浴缸，房租价格是10500.0。
+586,有一个Huangpu的attached lane house，1卧1厅1卫，面积是50平方米，有空调，有WIFI，有地暖，有烤箱，房租价格是10500.0。
+587,有一个Huangpu的detached lane house，1卧2厅1卫，面积是65平方米，有供暖，有空调，房租价格是10800.0。
+588,有一个Huangpu的detached lane house，2卧2厅1卫，面积是76平方米，有室外空间，有供暖，有空调，有WIFI，房租价格是10800.0。
+589,有一个Huangpu的attached lane house，1卧2厅1卫，面积是60平方米，有供暖，房租价格是11000.0。
+590,有一个Huangpu的attached lane house，1卧1厅1卫，面积是65平方米，有供暖，有地暖，房租价格是11000.0。
+591,有一个Huangpu的detached lane house，2卧1厅1卫，面积是90平方米，有室外空间，有空调，房租价格是11000.0。
+592,有一个Huangpu的public housing，2卧2厅1卫，面积是88平方米，整栋建筑，有空调，有阳台，房租价格是11000.0。
+593,有一个Huangpu的attached lane house，2卧2厅1卫，面积是60平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是11000.0。
+594,有一个Huangpu的detached lane house，1卧2厅1卫，面积是80平方米，有室外空间，有供暖，有浴缸，有地暖，房租价格是11000.0。
+595,有一个Huangpu的attached lane house，2卧2厅1卫，面积是70平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是11000.0。
+596,有一个Huangpu的detached lane house，1卧2厅1卫，面积是65平方米，有室外空间，有供暖，有空调，有WIFI，房租价格是11111.0。
+597,有一个Huangpu的attached lane house，1卧2厅1卫，面积是62平方米，整栋建筑，有室外空间，有空调，房租价格是11500.0。
+598,有一个Huangpu的attached lane house，3卧1厅1卫，面积是65平方米，有空调，有阳台，房租价格是11500.0。
+599,有一个Huangpu的attached lane house，1卧2厅1卫，面积是50平方米，有室外空间，有供暖，房租价格是11500.0。
+600,有一个Huangpu的detached lane house，2卧1厅1卫，面积是60平方米，有室外空间，有供暖，有浴缸，有地暖，房租价格是11500.0。
+601,有一个Huangpu的detached lane house，1卧2厅1卫，面积是80平方米，有室外空间，房租价格是11500.0。
+602,有一个Huangpu的detached lane house，1卧1厅1卫，面积是70平方米，整栋建筑，有空调，有WIFI，房租价格是11500.0。
+603,有一个Huangpu的detached lane house，1卧1厅1卫，面积是70平方米，有供暖，有空调，有WIFI，房租价格是11500.0。
+604,有一个Huangpu的attached lane house，2卧1厅1卫，面积是60平方米，有室外空间，房租价格是11800.0。
+605,有一个Huangpu的attached lane house，1卧1厅1卫，面积是80平方米，有室外空间，有空调，房租价格是11800.0。
+606,有一个Huangpu的detached lane house，2卧1厅1卫，面积是90平方米，有室外空间，房租价格是11800.0。
+607,有一个Huangpu的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有空调，房租价格是11800.0。
+608,有一个Huangpu的detached lane house，1卧2厅1卫，面积是60平方米，有室外空间，房租价格是11800.0。
+609,有一个Huangpu的attached lane house，1卧1厅1卫，面积是60平方米，有空调，有阳台，有WIFI，房租价格是11900.0。
+610,有一个Huangpu的detached lane house，1卧2厅1卫，面积是65平方米，有室外空间，有供暖，房租价格是12000.0。
+611,有一个Huangpu的detached lane house，2卧2厅1卫，面积是100平方米，房租价格是12000.0。
+612,有一个Huangpu的attached lane house，1卧1厅1卫，面积是50平方米，有供暖，房租价格是12000.0。
+613,有一个Huangpu的attached lane house，2卧2厅1卫，面积是80平方米，有室外空间，房租价格是12000.0。
+614,有一个Huangpu的attached lane house，1卧2厅1卫，面积是70平方米，有室外空间，有供暖，有空调，房租价格是12000.0。
+615,有一个Huangpu的detached lane house，1卧1厅1卫，面积是70平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是12000.0。
+616,有一个Huangpu的attached lane house，1卧1厅1卫，面积是50平方米，有供暖，房租价格是12000.0。
+617,有一个Huangpu的public housing，1卧2厅1卫，面积是65平方米，有室外空间，房租价格是12000.0。
+618,有一个Huangpu的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有空调，房租价格是12000.0。
+619,有一个Huangpu的attached lane house，2卧2厅1卫，面积是75平方米，有空调，房租价格是12000.0。
+620,有一个Huangpu的attached lane house，2卧2厅1卫，面积是100平方米，有室外空间，有供暖，有空调，房租价格是12000.0。
+621,有一个Huangpu的attached lane house，2卧2厅1卫，面积是80平方米，有空调，房租价格是12000.0。
+622,有一个Huangpu的attached lane house，2卧2厅1卫，面积是100平方米，房租价格是12000.0。
+623,有一个Huangpu的attached lane house，1卧2厅1卫，面积是60平方米，有空调，房租价格是12000.0。
+624,有一个Huangpu的attached lane house，2卧1厅1卫，面积是48平方米，有空调，房租价格是12000.0。
+625,有一个Huangpu的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，房租价格是12000.0。
+626,有一个Huangpu的detached lane house，1卧1厅1卫，面积是70平方米，有室外空间，房租价格是12000.0。
+627,有一个Huangpu的attached lane house，1卧1厅1卫，面积是70平方米，有室外空间，有供暖，房租价格是12500.0。
+628,有一个Huangpu的attached lane house，1卧1厅1卫，面积是58平方米，有供暖，有地暖，有烤箱，房租价格是12500.0。
+629,有一个Huangpu的attached lane house，2卧2厅1卫，面积是80平方米，有空调，房租价格是12500.0。
+630,有一个Huangpu的detached lane house，1卧2厅1卫，面积是52平方米，有供暖，有地暖，有烤箱，房租价格是12500.0。
+631,有一个Huangpu的attached lane house，2卧1厅1卫，面积是80平方米，有室外空间，房租价格是12500.0。
+632,有一个Huangpu的attached lane house，2卧1厅2卫，面积是80平方米，有空调，房租价格是12500.0。
+633,有一个Huangpu的detached lane house，2卧1厅1卫，面积是60平方米，有室外空间，有空调，房租价格是12500.0。
+634,有一个Huangpu的detached lane house，1卧1厅1卫，面积是75平方米，有空调，有浴缸，房租价格是12500.0。
+635,有一个Huangpu的detached lane house，1卧2厅1卫，面积是50平方米，有室外空间，有供暖，有地暖，有烤箱，房租价格是12500.0。
+636,有一个Huangpu的detached lane house，2卧1厅1卫，面积是80平方米，有浴缸，房租价格是12500.0。
+637,有一个Huangpu的detached lane house，2卧2厅1卫，面积是90平方米，有空调，房租价格是12500.0。
+638,有一个Huangpu的detached lane house，2卧1厅1卫，面积是80平方米，有室外空间，房租价格是12800.0。
+639,有一个Huangpu的attached lane house，1卧1厅1卫，面积是75平方米，有空调，有阳台，房租价格是12800.0。
+640,有一个Huangpu的public housing，1卧1厅1卫，面积是50平方米，有供暖，有空调，有地暖，房租价格是12800.0。
+641,有一个Huangpu的detached lane house，2卧1厅1卫，面积是70平方米，整栋建筑，有空调，房租价格是13000.0。
+642,有一个Huangpu的detached lane house，1卧2厅2卫，面积是90平方米，有室外空间，有供暖，有浴缸，房租价格是13000.0。
+643,有一个Huangpu的attached lane house，1卧1厅1卫，面积是55平方米，有供暖，有地暖，房租价格是13000.0。
+644,有一个Huangpu的detached lane house，2卧2厅1卫，面积是90平方米，有室外空间，有供暖，有空调，有地暖，房租价格是13000.0。
+645,有一个Huangpu的attached lane house，1卧1厅1卫，面积是70平方米，有室外空间，有空调，房租价格是13000.0。
+646,有一个Huangpu的attached lane house，1卧2厅1卫，面积是70平方米，有供暖，有空调，有浴缸，房租价格是13000.0。
+647,有一个Huangpu的detached lane house，1卧1厅1卫，面积是45平方米，有室外空间，有供暖，有空调，有地暖，房租价格是13000.0。
+648,有一个Huangpu的detached lane house，1卧2厅1卫，面积是70平方米，有室外空间，有供暖，有浴缸，房租价格是13000.0。
+649,有一个Huangpu的detached lane house，2卧1厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有地暖，房租价格是13000.0。
+650,有一个Huangpu的detached lane house，1卧1厅1卫，面积是70平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是13000.0。
+651,有一个Huangpu的public housing，1卧1厅1卫，面积是90平方米，有室外空间，有供暖，有地暖，房租价格是13000.0。
+652,有一个Huangpu的attached lane house，1卧2厅1卫，面积是85平方米，有室外空间，有供暖，有地暖，有烤箱，房租价格是13500.0。
+653,有一个Huangpu的detached lane house，1卧2厅1卫，面积是65平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是13500.0。
+654,有一个Huangpu的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有空调，有WIFI，房租价格是13500.0。
+655,有一个Huangpu的detached lane house，2卧1厅1卫，面积是65平方米，有浴缸，房租价格是13500.0。
+656,有一个Huangpu的public housing，2卧2厅1卫，面积是90平方米，有供暖，有空调，房租价格是13500.0。
+657,有一个Huangpu的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，房租价格是13500.0。
+658,有一个Huangpu的detached lane house，1卧0厅1卫，面积是60平方米，有供暖，有空调，有WIFI，房租价格是13500.0。
+659,有一个Huangpu的attached lane house，1卧1厅1卫，面积是70平方米，有室外空间，房租价格是13800.0。
+660,有一个Huangpu的attached lane house，2卧2厅2卫，面积是80平方米，有室外空间，房租价格是13800.0。
+661,有一个Huangpu的attached lane house，3卧2厅2卫，面积是100平方米，有室外空间，房租价格是13800.0。
+662,有一个Huangpu的detached lane house，2卧2厅2卫，面积是110平方米，有室外空间，有空调，有浴缸，房租价格是13800.0。
+663,有一个Huangpu的attached lane house，1卧2厅1卫，面积是70平方米，有室外空间，有供暖，有地暖，房租价格是14000.0。
+664,有一个Huangpu的public housing，1卧2厅1卫，面积是60平方米，有空调，有WIFI，房租价格是14000.0。
+665,有一个Huangpu的detached lane house，2卧1厅1卫，面积是75平方米，有供暖，有空调，有WIFI，房租价格是14000.0。
+666,有一个Huangpu的detached lane house，2卧2厅2卫，面积是90平方米，有室外空间，有供暖，有空调，有阳台，房租价格是14000.0。
+667,有一个Huangpu的attached lane house，1卧1厅1卫，面积是80平方米，有室外空间，有空调，房租价格是14000.0。
+668,有一个Huangpu的detached lane house，2卧2厅1卫，面积是100平方米，有室外空间，有浴缸，房租价格是14000.0。
+669,有一个Huangpu的attached lane house，1卧2厅1卫，面积是60平方米，有室外空间，有地暖，房租价格是14000.0。
+670,有一个Huangpu的detached lane house，1卧2厅1卫，面积是60平方米，有供暖，房租价格是14500.0。
+671,有一个Huangpu的detached lane house，1卧2厅1卫，面积是70平方米，有室外空间，有供暖，有空调，有地暖，房租价格是14500.0。
+672,有一个Huangpu的attached lane house，1卧1厅1卫，面积是50平方米，有供暖，有浴缸，房租价格是14500.0。
+673,有一个Huangpu的attached lane house，1卧1厅1卫，面积是60平方米，有供暖，房租价格是14800.0。
+674,有一个Huangpu的attached lane house，2卧2厅1卫，面积是90平方米，有室外空间，有空调，房租价格是15000.0。
+675,有一个Huangpu的attached lane house，2卧1厅1卫，面积是70平方米，有室外空间，有供暖，有空调，房租价格是15000.0。
+676,有一个Huangpu的attached lane house，2卧1厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有地暖，房租价格是15000.0。
+677,有一个Huangpu的attached lane house，2卧3厅2卫，面积是150平方米，有空调，房租价格是15000.0。
+678,有一个Huangpu的attached lane house，2卧3厅2卫，面积是150平方米，有空调，房租价格是15000.0。
+679,有一个Huangpu的attached lane house，2卧3厅2卫，面积是150平方米，房租价格是15000.0。
+680,有一个Huangpu的attached lane house，1卧2厅1卫，面积是60平方米，有供暖，有空调，房租价格是15000.0。
+681,有一个Huangpu的detached lane house，1卧2厅1卫，面积是75平方米，有室外空间，有烤箱，房租价格是15000.0。
+682,有一个Huangpu的detached lane house，2卧2厅1卫，面积是108平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是15000.0。
+683,有一个Huangpu的public housing，2卧2厅1卫，面积是75平方米，有室外空间，有空调，房租价格是15000.0。
+684,有一个Huangpu的attached lane house，2卧3厅2卫，面积是120平方米，整栋建筑，有空调，房租价格是15000.0。
+685,有一个Huangpu的attached lane house，2卧3厅2卫，面积是120平方米，整栋建筑，有室外空间，有空调，有浴缸，房租价格是15000.0。
+686,有一个Huangpu的attached lane house，1卧2厅1卫，面积是80平方米，有室外空间，有浴缸，房租价格是15000.0。
+687,有一个Huangpu的detached lane house，1卧2厅1卫，面积是60平方米，有供暖，有空调，有地暖，有烤箱，房租价格是15000.0。
+688,有一个Huangpu的detached lane house，2卧1厅1卫，面积是80平方米，有空调，有阳台，有WIFI，房租价格是15500.0。
+689,有一个Huangpu的detached lane house，2卧2厅2卫，面积是140平方米，有室外空间，房租价格是15500.0。
+690,有一个Huangpu的detached lane house，2卧1厅1卫，面积是80平方米，有供暖，有空调，有阳台，有WIFI，房租价格是15800.0。
+691,有一个Huangpu的attached lane house，1卧2厅1卫，面积是70平方米，有供暖，房租价格是15800.0。
+692,有一个Huangpu的attached lane house，3卧2厅2卫，面积是100平方米，有室外空间，有空调，房租价格是16000.0。
+693,有一个Huangpu的public housing，2卧2厅1卫，面积是70平方米，有供暖，有空调，房租价格是16000.0。
+694,有一个Huangpu的attached lane house，2卧2厅2卫，面积是120平方米，有供暖，有浴缸，房租价格是16000.0。
+695,有一个Huangpu的attached lane house，2卧2厅2卫，面积是130平方米，有室外空间，有供暖，房租价格是16000.0。
+696,有一个Huangpu的detached lane house，1卧2厅2卫，面积是54平方米，有室外空间，有浴缸，房租价格是16000.0。
+697,有一个Huangpu的attached lane house，3卧2厅1卫，面积是110平方米，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是16000.0。
+698,有一个Huangpu的attached lane house，1卧1厅1卫，面积是56平方米，有室外空间，有空调，房租价格是16000.0。
+699,有一个Huangpu的attached lane house，1卧2厅1卫，面积是55平方米，有室外空间，房租价格是16000.0。
+700,有一个Huangpu的detached lane house，2卧2厅2卫，面积是96平方米，有室外空间，房租价格是16500.0。
+701,有一个Huangpu的detached lane house，1卧2厅2卫，面积是80平方米，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是16500.0。
+702,有一个Huangpu的attached lane house，3卧2厅2卫，面积是160平方米，有室外空间，有供暖，房租价格是16800.0。
+703,有一个Huangpu的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，房租价格是17000.0。
+704,有一个Huangpu的attached lane house，2卧2厅1卫，面积是75平方米，有供暖，有空调，房租价格是17500.0。
+705,有一个Huangpu的detached lane house，1卧2厅1卫，面积是90平方米，有室外空间，房租价格是17800.0。
+706,有一个Huangpu的attached lane house，2卧2厅1卫，面积是80平方米，有供暖，有空调，有浴缸，房租价格是18000.0。
+707,有一个Huangpu的attached lane house，1卧1厅1卫，面积是77平方米，有室外空间，有供暖，有空调，房租价格是18000.0。
+708,有一个Huangpu的attached lane house，2卧2厅2卫，面积是120平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是18000.0。
+709,有一个Huangpu的detached lane house，2卧2厅1卫，面积是120平方米，有室外空间，有阳台，房租价格是18000.0。
+710,有一个Huangpu的attached lane house，2卧2厅2卫，面积是80平方米，有室外空间，有供暖，有浴缸，有地暖，房租价格是18000.0。
+711,有一个Huangpu的detached lane house，2卧2厅2卫，面积是100平方米，有室外空间，有供暖，有浴缸，房租价格是18000.0。
+712,有一个Huangpu的detached lane house，2卧2厅1卫，面积是97平方米，有室外空间，房租价格是18000.0。
+713,有一个Huangpu的attached lane house，1卧1厅1卫，面积是110平方米，有供暖，有空调，有地暖，房租价格是18500.0。
+714,有一个Huangpu的public housing，2卧2厅1卫，面积是95平方米，有室外空间，有空调，有阳台，房租价格是19000.0。
+715,有一个Huangpu的attached lane house，3卧1厅2卫，面积是100平方米，有室外空间，有空调，有阳台，房租价格是20000.0。
+716,有一个Huangpu的attached lane house，3卧2厅2卫，面积是150平方米，有室外空间，有空调，有阳台，有浴缸，房租价格是20000.0。
+717,有一个Huangpu的detached lane house，3卧2厅2卫，面积是150平方米，整栋建筑，有室外空间，有空调，有阳台，有WIFI，有浴缸，房租价格是20000.0。
+718,有一个Huangpu的detached lane house，2卧2厅2卫，面积是120平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是20000.0。
+719,有一个Huangpu的detached lane house，3卧2厅1卫，面积是120平方米，有室外空间，房租价格是22000.0。
+720,有一个Huangpu的attached lane house，3卧1厅2卫，面积是110平方米，有空调，有浴缸，房租价格是22000.0。
+721,有一个Huangpu的detached lane house，3卧2厅2卫，面积是130平方米，有室外空间，有供暖，有浴缸，房租价格是22000.0。
+722,有一个Huangpu的detached lane house，3卧2厅2卫，面积是80平方米，有浴缸，房租价格是22000.0。
+723,有一个Huangpu的detached lane house，2卧2厅1卫，面积是120平方米，有室外空间，有空调，房租价格是22000.0。
+724,有一个Huangpu的attached lane house，3卧2厅2卫，面积是130平方米，有室外空间，有供暖，有空调，有WIFI，有浴缸，房租价格是22800.0。
+725,有一个Huangpu的attached lane house，2卧2厅2卫，面积是120平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是23000.0。
+726,有一个Huangpu的detached lane house，2卧3厅2卫，面积是150平方米，有室外空间，有供暖，有空调，有浴缸，有地暖，房租价格是23000.0。
+727,有一个Huangpu的detached lane house，2卧2厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是23000.0。
+728,有一个Huangpu的detached lane house，2卧2厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有WIFI，有浴缸，有地暖，房租价格是23000.0。
+729,有一个Huangpu的attached lane house，1卧1厅2卫，面积是110平方米，有室外空间，有供暖，有地暖，有烤箱，房租价格是24000.0。
+730,有一个Huangpu的attached lane house，2卧2厅2卫，面积是110平方米，有室外空间，有供暖，有空调，有阳台，房租价格是24500.0。
+731,有一个Huangpu的detached lane house，2卧2厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是24800.0。
+732,有一个Huangpu的detached lane house，2卧2厅3卫，面积是150平方米，有供暖，有浴缸，有地暖，房租价格是24800.0。
+733,有一个Huangpu的detached lane house，2卧2厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，有地暖，房租价格是24800.0。
+734,有一个Huangpu的attached lane house，2卧2厅2卫，面积是120平方米，有室外空间，有浴缸，房租价格是24800.0。
+735,有一个Huangpu的attached lane house，2卧2厅2卫，面积是100平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是25000.0。
+736,有一个Huangpu的detached lane house，2卧2厅1卫，面积是90平方米，有供暖，有空调，有WIFI，房租价格是25000.0。
+737,有一个Huangpu的attached lane house，4卧2厅3卫，面积是190平方米，有空调，有WIFI，房租价格是25000.0。
+738,有一个Huangpu的detached lane house，2卧2厅2卫，面积是110平方米，有室外空间，有空调，有烤箱，房租价格是25800.0。
+739,有一个Huangpu的detached lane house，3卧2厅2卫，面积是150平方米，有室外空间，有浴缸，房租价格是26500.0。
+740,有一个Huangpu的detached lane house，2卧2厅1卫，面积是100平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，有地暖，房租价格是28000.0。
+741,有一个Huangpu的detached lane house，2卧2厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是28000.0。
+742,有一个Huangpu的detached lane house，2卧2厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有浴缸，有地暖，房租价格是28000.0。
+743,有一个Huangpu的detached lane house，2卧2厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是28000.0。
+744,有一个Huangpu的detached lane house，3卧2厅2卫，面积是150平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是28000.0。
+745,有一个Huangpu的detached lane house，2卧2厅3卫，面积是82平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是28000.0。
+746,有一个Huangpu的detached lane house，2卧2厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是28000.0。
+747,有一个Huangpu的detached lane house，2卧2厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是28000.0。
+748,有一个Huangpu的detached lane house，2卧2厅2卫，面积是130平方米，有室外空间，有供暖，有地暖，房租价格是28800.0。
+749,有一个Huangpu的attached lane house，2卧2厅2卫，面积是159平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，有烤箱，房租价格是30000.0。
+750,有一个Huangpu的detached lane house，3卧2厅2卫，面积是180平方米，有室外空间，有供暖，有浴缸，有地暖，房租价格是31000.0。
+751,有一个Huangpu的attached lane house，4卧2厅3卫，面积是150平方米，整栋建筑，有室外空间，有浴缸，房租价格是31000.0。
+752,有一个Huangpu的detached lane house，5卧2厅3卫，面积是300平方米，整栋建筑，有空调，房租价格是31800.0。
+753,有一个Huangpu的attached lane house，5卧2厅3卫，面积是300平方米，整栋建筑，有室外空间，有空调，有阳台，有浴缸，房租价格是31800.0。
+754,有一个Huangpu的attached lane house，5卧2厅3卫，面积是200平方米，整栋建筑，有空调，有浴缸，房租价格是31800.0。
+755,有一个Huangpu的detached lane house，6卧2厅3卫，面积是298平方米，整栋建筑，有室外空间，有空调，有阳台，房租价格是32000.0。
+756,有一个Huangpu的detached lane house，6卧3厅3卫，面积是298平方米，整栋建筑，有室外空间，有空调，有阳台，房租价格是32000.0。
+757,有一个Huangpu的detached lane house，7卧2厅3卫，面积是298平方米，整栋建筑，有室外空间，有空调，有阳台，房租价格是32000.0。
+758,有一个Huangpu的detached lane house，6卧3厅3卫，面积是288平方米，整栋建筑，有室外空间，有空调，有阳台，房租价格是32000.0。
+759,有一个Huangpu的detached lane house，6卧2厅3卫，面积是200平方米，整栋建筑，有室外空间，有空调，有阳台，房租价格是32000.0。
+760,有一个Huangpu的detached lane house，6卧3厅3卫，面积是298平方米，整栋建筑，有室外空间，有空调，有阳台，房租价格是32000.0。
+761,有一个Huangpu的detached lane house，7卧2厅3卫，面积是298平方米，整栋建筑，有室外空间，有空调，有阳台，房租价格是32000.0。
+762,有一个Huangpu的attached lane house，2卧2厅1卫，面积是200平方米，有供暖，有空调，房租价格是33000.0。
+763,有一个Huangpu的attached lane house，2卧2厅2卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，有烤箱，房租价格是33000.0。
+764,有一个Huangpu的attached lane house，2卧2厅2卫，面积是150平方米，有室外空间，有供暖，有空调，有浴缸，有烤箱，房租价格是34000.0。
+765,有一个Huangpu的villa，5卧4厅4卫，面积是200平方米，整栋建筑，有空调，有浴缸，房租价格是35000.0。
+766,有一个Huangpu的attached lane house，3卧2厅1卫，面积是130平方米，有室外空间，有供暖，有空调，有阳台，房租价格是35000.0。
+767,有一个Huangpu的detached lane house，3卧2厅2卫，面积是170平方米，有室外空间，有供暖，有空调，有浴缸，有地暖，有烤箱，房租价格是36000.0。
+768,有一个Huangpu的detached lane house，6卧2厅3卫，面积是220平方米，整栋建筑，有空调，有阳台，房租价格是38000.0。
+769,有一个Huangpu的attached lane house，5卧3厅5卫，面积是200平方米，有室外空间，有供暖，有WIFI，房租价格是38000.0。
+770,有一个Huangpu的detached lane house，6卧2厅3卫，面积是289平方米，整栋建筑，有室外空间，有空调，有阳台，房租价格是38500.0。
+771,有一个Huangpu的detached lane house，7卧2厅3卫，面积是298平方米，整栋建筑，有室外空间，有空调，有阳台，房租价格是39000.0。
+772,有一个Huangpu的detached lane house，6卧2厅3卫，面积是218平方米，整栋建筑，有室外空间，有空调，有阳台，房租价格是39000.0。
+773,有一个Huangpu的attached lane house，4卧2厅3卫，面积是200平方米，有室外空间，有浴缸，房租价格是42000.0。
+774,有一个Huangpu的attached lane house，4卧2厅3卫，面积是190平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是45000.0。
+775,有一个Huangpu的detached lane house，4卧2厅3卫，面积是240平方米，整栋建筑，有室外空间，有供暖，有空调，有WIFI，有浴缸，房租价格是46000.0。
+776,有一个Huangpu的attached lane house，3卧3厅3卫，面积是220平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是48000.0。
+777,有一个Huangpu的attached lane house，3卧4厅3卫，面积是250平方米，整栋建筑，有室外空间，有供暖，有浴缸，房租价格是50000.0。
+778,有一个Huangpu的attached lane house，3卧2厅2卫，面积是250平方米，整栋建筑，有室外空间，有供暖，有浴缸，房租价格是50000.0。
+779,有一个Huangpu的attached lane house，4卧3厅3卫，面积是240平方米，整栋建筑，有室外空间，房租价格是50000.0。
+780,有一个Huangpu的attached lane house，3卧3厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是56000.0。
+781,有一个Huangpu的attached lane house，6卧4厅6卫，面积是300平方米，有室外空间，有供暖，有空调，有浴缸，有地暖，房租价格是65000.0。
+782,有一个Huangpu的attached lane house，8卧2厅4卫，面积是300平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是80000.0。
+783,有一个Huangpu的detached lane house，6卧3厅3卫，面积是300平方米，整栋建筑，有室外空间，有供暖，有浴缸，房租价格是85000.0。
+784,有一个Huangpu的attached lane house，5卧2厅3卫，面积是300平方米，有室外空间，有供暖，有空调，房租价格是98000.0。
+785,有一个Huangpu的detached lane house，5卧3厅5卫，面积是350平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是130000.0。
+786,有一个Huangpu的detached lane house，7卧5厅3卫，面积是500平方米，整栋建筑，有室外空间，有空调，有阳台，房租价格是220000.0。
+787,有一个Jiading的public housing，3卧0厅1卫，面积是65平方米，有空调，有阳台，房租价格是7000.0。
+788,有一个Jiading的villa，6卧3厅5卫，面积是342平方米，整栋建筑，有室外空间，有空调，房租价格是36000.0。
+789,有一个Jing'an的detached lane house，1卧0厅1卫，面积是15平方米，有室外空间，房租价格是2500.0。
+790,有一个Jing'an的detached lane house，1卧0厅1卫，面积是15平方米，有室外空间，房租价格是2600.0。
+791,有一个Jing'an的detached lane house，1卧1厅1卫，面积是20平方米，有室外空间，房租价格是2700.0。
+792,有一个Jing'an的attached lane house，1卧0厅1卫，面积是20平方米，有室外空间，有供暖，有空调，有WIFI，有浴缸，房租价格是2800.0。
+793,有一个Jing'an的attached lane house，1卧0厅1卫，面积是13平方米，有空调，房租价格是2800.0。
+794,有一个Jing'an的attached lane house，1卧0厅1卫，面积是20平方米，有空调，房租价格是3000.0。
+795,有一个Jing'an的attached lane house，1卧1厅1卫，面积是20平方米，有空调，房租价格是3300.0。
+796,有一个Jing'an的attached lane house，1卧1厅1卫，面积是20平方米，有空调，房租价格是3300.0。
+797,有一个Jing'an的attached lane house，1卧1厅1卫，面积是20平方米，房租价格是3300.0。
+798,有一个Jing'an的attached lane house，1卧0厅1卫，面积是15平方米，有空调，房租价格是3300.0。
+799,有一个Jing'an的attached lane house，1卧1厅1卫，面积是20平方米，有空调，房租价格是3300.0。
+800,有一个Jing'an的detached lane house，1卧0厅1卫，面积是37平方米，有空调，有WIFI，房租价格是3500.0。
+801,有一个Jing'an的attached lane house，1卧0厅1卫，面积是12平方米，有供暖，有空调，房租价格是3500.0。
+802,有一个Jing'an的attached lane house，1卧0厅1卫，面积是15平方米，有供暖，有空调，房租价格是3600.0。
+803,有一个Jing'an的public housing，1卧1厅1卫，面积是50平方米，有空调，有阳台，房租价格是3600.0。
+804,有一个Jing'an的detached lane house，1卧0厅1卫，面积是32平方米，有空调，有浴缸，房租价格是3800.0。
+805,有一个Jing'an的attached lane house，1卧0厅1卫，面积是20平方米，有空调，房租价格是4000.0。
+806,有一个Jing'an的detached lane house，1卧0厅1卫，面积是13平方米，有室外空间，有空调，房租价格是4000.0。
+807,有一个Jing'an的detached lane house，1卧0厅1卫，面积是38平方米，有WIFI，房租价格是4000.0。
+808,有一个Jing'an的attached lane house，1卧1厅1卫，面积是18平方米，有室外空间，有空调，房租价格是4000.0。
+809,有一个Jing'an的attached lane house，1卧0厅1卫，面积是24平方米，有空调，房租价格是4000.0。
+810,有一个Jing'an的attached lane house，1卧1厅1卫，面积是30平方米，有室外空间，有空调，房租价格是4000.0。
+811,有一个Jing'an的detached lane house，1卧1厅1卫，面积是20平方米，有空调，房租价格是4000.0。
+812,有一个Jing'an的attached lane house，1卧0厅1卫，面积是25平方米，有空调，有阳台，房租价格是4200.0。
+813,有一个Jing'an的public housing，1卧0厅1卫，面积是38平方米，有供暖，有空调，有阳台，有浴缸，房租价格是4200.0。
+814,有一个Jing'an的attached lane house，1卧0厅1卫，面积是25平方米，房租价格是4500.0。
+815,有一个Jing'an的attached lane house，1卧1厅1卫，面积是28平方米，有空调，房租价格是4500.0。
+816,有一个Jing'an的detached lane house，1卧1厅1卫，面积是30平方米，有供暖，有空调，房租价格是4500.0。
+817,有一个Jing'an的attached lane house，1卧1厅1卫，面积是30平方米，有供暖，有空调，有WIFI，房租价格是4600.0。
+818,有一个Jing'an的attached lane house，1卧0厅1卫，面积是12平方米，有空调，有WIFI，房租价格是4600.0。
+819,有一个Jing'an的attached lane house，1卧0厅1卫，面积是15平方米，有室外空间，有供暖，有空调，有WIFI，房租价格是4800.0。
+820,有一个Jing'an的public housing，1卧0厅1卫，面积是32平方米，有空调，有阳台，房租价格是4800.0。
+821,有一个Jing'an的detached lane house，1卧0厅1卫，面积是30平方米，有空调，有地暖，房租价格是4900.0。
+822,有一个Jing'an的detached lane house，1卧0厅1卫，面积是30平方米，有空调，房租价格是4900.0。
+823,有一个Jing'an的detached lane house，1卧1厅1卫，面积是50平方米，有空调，房租价格是5000.0。
+824,有一个Jing'an的attached lane house，1卧1厅1卫，面积是40平方米，有空调，房租价格是5000.0。
+825,有一个Jing'an的public housing，1卧1厅1卫，面积是40平方米，有空调，房租价格是5000.0。
+826,有一个Jing'an的attached lane house，1卧1厅1卫，面积是28平方米，有空调，房租价格是5000.0。
+827,有一个Jing'an的detached lane house，1卧0厅1卫，面积是36平方米，有空调，房租价格是5000.0。
+828,有一个Jing'an的public housing，1卧0厅1卫，面积是36平方米，有空调，房租价格是5000.0。
+829,有一个Jing'an的detached lane house，1卧0厅1卫，面积是21平方米，有空调，房租价格是5000.0。
+830,有一个Jing'an的attached lane house，1卧1厅1卫，面积是20平方米，有空调，房租价格是5000.0。
+831,有一个Jing'an的detached lane house，1卧0厅1卫，面积是29平方米，有空调，房租价格是5000.0。
+832,有一个Jing'an的attached lane house，1卧1厅1卫，面积是25平方米，有空调，房租价格是5000.0。
+833,有一个Jing'an的attached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有空调，房租价格是5000.0。
+834,有一个Jing'an的public housing，1卧1厅1卫，面积是35平方米，有空调，有阳台，房租价格是5000.0。
+835,有一个Jing'an的attached lane house，1卧1厅1卫，面积是30平方米，有空调，有阳台，房租价格是5000.0。
+836,有一个Jing'an的attached lane house，1卧0厅1卫，面积是15平方米，有空调，房租价格是5200.0。
+837,有一个Jing'an的detached lane house，1卧0厅1卫，面积是18平方米，有室外空间，有供暖，有空调，房租价格是5200.0。
+838,有一个Jing'an的public housing，1卧1厅1卫，面积是40平方米，有空调，房租价格是5300.0。
+839,有一个Jing'an的detached lane house，1卧1厅1卫，面积是45平方米，有空调，房租价格是5500.0。
+840,有一个Jing'an的detached lane house，1卧1厅1卫，面积是45平方米，有空调，房租价格是5500.0。
+841,有一个Jing'an的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是5500.0。
+842,有一个Jing'an的attached lane house，1卧0厅1卫，面积是40平方米，有室外空间，有供暖，房租价格是5500.0。
+843,有一个Jing'an的detached lane house，1卧1厅1卫，面积是30平方米，有供暖，有空调，有阳台，有WIFI，有地暖，房租价格是5500.0。
+844,有一个Jing'an的attached lane house，1卧1厅1卫，面积是15平方米，有供暖，有空调，有浴缸，房租价格是5500.0。
+845,有一个Jing'an的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是5500.0。
+846,有一个Jing'an的detached lane house，1卧1厅1卫，面积是48平方米，有空调，房租价格是5500.0。
+847,有一个Jing'an的public housing，1卧0厅1卫，面积是34平方米，有空调，房租价格是5500.0。
+848,有一个Jing'an的attached lane house，1卧1厅1卫，面积是35平方米，有空调，房租价格是5500.0。
+849,有一个Jing'an的public housing，1卧1厅1卫，面积是55平方米，有室外空间，房租价格是5500.0。
+850,有一个Jing'an的attached lane house，1卧1厅1卫，面积是35平方米，有室外空间，有空调，房租价格是5500.0。
+851,有一个Jing'an的attached lane house，1卧1厅1卫，面积是37平方米，有室外空间，有空调，房租价格是5700.0。
+852,有一个Jing'an的public housing，1卧1厅1卫，面积是45平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是5700.0。
+853,有一个Jing'an的attached lane house，1卧1厅1卫，面积是50平方米，有供暖，有空调，有阳台，有WIFI，房租价格是5800.0。
+854,有一个Jing'an的public housing，1卧1厅1卫，面积是55平方米，有室外空间，房租价格是5800.0。
+855,有一个Jing'an的attached lane house，1卧1厅1卫，面积是40平方米，有空调，房租价格是5800.0。
+856,有一个Jing'an的attached lane house，1卧1厅1卫，面积是33平方米，有空调，有WIFI，房租价格是6000.0。
+857,有一个Jing'an的attached lane house，1卧1厅1卫，面积是40平方米，有供暖，有空调，有阳台，房租价格是6000.0。
+858,有一个Jing'an的attached lane house，1卧0厅1卫，面积是40平方米，有空调，房租价格是6000.0。
+859,有一个Jing'an的public housing，1卧1厅1卫，面积是50平方米，有空调，有WIFI，房租价格是6000.0。
+860,有一个Jing'an的attached lane house，1卧0厅1卫，面积是30平方米，有空调，房租价格是6000.0。
+861,有一个Jing'an的detached lane house，1卧1厅1卫，面积是35平方米，有供暖，有空调，有WIFI，有地暖，房租价格是6000.0。
+862,有一个Jing'an的detached lane house，1卧1厅1卫，面积是45平方米，有室外空间，有空调，房租价格是6000.0。
+863,有一个Jing'an的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是6000.0。
+864,有一个Jing'an的attached lane house，1卧1厅1卫，面积是40平方米，有空调，房租价格是6000.0。
+865,有一个Jing'an的detached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是6200.0。
+866,有一个Jing'an的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有空调，有阳台，房租价格是6200.0。
+867,有一个Jing'an的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是6300.0。
+868,有一个Jing'an的detached lane house，1卧1厅1卫，面积是40平方米，有供暖，有空调，有WIFI，有地暖，房租价格是6500.0。
+869,有一个Jing'an的attached lane house，2卧1厅1卫，面积是45平方米，有空调，有WIFI，房租价格是6500.0。
+870,有一个Jing'an的attached lane house，1卧1厅1卫，面积是50平方米，有供暖，有空调，房租价格是6500.0。
+871,有一个Jing'an的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有地暖，房租价格是6500.0。
+872,有一个Jing'an的detached lane house，2卧1厅1卫，面积是45平方米，有空调，房租价格是6500.0。
+873,有一个Jing'an的attached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是6500.0。
+874,有一个Jing'an的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有阳台，房租价格是6500.0。
+875,有一个Jing'an的detached lane house，1卧0厅1卫，面积是40平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是6500.0。
+876,有一个Jing'an的public housing，1卧1厅1卫，面积是35平方米，有空调，房租价格是6500.0。
+877,有一个Jing'an的attached lane house，1卧1厅1卫，面积是48平方米，有室外空间，有供暖，有空调，房租价格是6500.0。
+878,有一个Jing'an的detached lane house，1卧1厅1卫，面积是30平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有烤箱，房租价格是6600.0。
+879,有一个Jing'an的public housing，1卧1厅1卫，面积是35平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是6600.0。
+880,有一个Jing'an的attached lane house，1卧1厅1卫，面积是35平方米，有空调，有WIFI，房租价格是6600.0。
+881,有一个Jing'an的detached lane house，1卧0厅1卫，面积是1平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是6800.0。
+882,有一个Jing'an的public housing，1卧1厅1卫，面积是40平方米，有空调，有阳台，房租价格是6800.0。
+883,有一个Jing'an的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有供暖，有空调，有WIFI，房租价格是6800.0。
+884,有一个Jing'an的detached lane house，1卧2厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是6800.0。
+885,有一个Jing'an的detached lane house，1卧1厅1卫，面积是46平方米，有空调，有WIFI，房租价格是6800.0。
+886,有一个Jing'an的attached lane house，1卧1厅1卫，面积是47平方米，有空调，有WIFI，房租价格是6800.0。
+887,有一个Jing'an的public housing，1卧1厅1卫，面积是37平方米，有室外空间，有供暖，有空调，有阳台，房租价格是6900.0。
+888,有一个Jing'an的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有地暖，房租价格是6900.0。
+889,有一个Jing'an的detached lane house，1卧1厅1卫，面积是50平方米，有供暖，有空调，有WIFI，房租价格是7000.0。
+890,有一个Jing'an的detached lane house，1卧1厅1卫，面积是50平方米，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是7000.0。
+891,有一个Jing'an的detached lane house，1卧1厅1卫，面积是30平方米，有室外空间，有阳台，房租价格是7000.0。
+892,有一个Jing'an的attached lane house，1卧1厅1卫，面积是50平方米，有空调，房租价格是7000.0。
+893,有一个Jing'an的attached lane house，1卧1厅1卫，面积是48平方米，有空调，房租价格是7000.0。
+894,有一个Jing'an的detached lane house，1卧1厅1卫，面积是50平方米，有供暖，房租价格是7000.0。
+895,有一个Jing'an的detached lane house，1卧1厅1卫，面积是55平方米，有室外空间，有空调，房租价格是7000.0。
+896,有一个Jing'an的attached lane house，1卧1厅1卫，面积是48平方米，有室外空间，有空调，房租价格是7000.0。
+897,有一个Jing'an的detached lane house，1卧1厅1卫，面积是62平方米，有室外空间，有空调，房租价格是7000.0。
+898,有一个Jing'an的attached lane house，1卧1厅1卫，面积是48平方米，有室外空间，有空调，房租价格是7000.0。
+899,有一个Jing'an的attached lane house，1卧1厅1卫，面积是48平方米，有室外空间，有空调，房租价格是7000.0。
+900,有一个Jing'an的detached lane house，1卧1厅1卫，面积是45平方米，有室外空间，有空调，房租价格是7000.0。
+901,有一个Jing'an的detached lane house，1卧2厅1卫，面积是65平方米，有室外空间，有供暖，有空调，有阳台，房租价格是7000.0。
+902,有一个Jing'an的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是7200.0。
+903,有一个Jing'an的public housing，1卧1厅1卫，面积是40平方米，有空调，房租价格是7200.0。
+904,有一个Jing'an的public housing，1卧2厅1卫，面积是50平方米，有供暖，有空调，有阳台，房租价格是7200.0。
+905,有一个Jing'an的detached lane house，1卧0厅1卫，面积是42平方米，有空调，房租价格是7200.0。
+906,有一个Jing'an的detached lane house，1卧0厅1卫，面积是40平方米，有空调，房租价格是7200.0。
+907,有一个Jing'an的attached lane house，2卧1厅1卫，面积是60平方米，有空调，房租价格是7300.0。
+908,有一个Jing'an的detached lane house，2卧1厅1卫，面积是60平方米，房租价格是7300.0。
+909,有一个Jing'an的detached lane house，1卧1厅2卫，面积是50平方米，有空调，有WIFI，房租价格是7400.0。
+910,有一个Jing'an的public housing，1卧1厅1卫，面积是60平方米，有供暖，有空调，有阳台，有地暖，有烤箱，房租价格是7497.0。
+911,有一个Jing'an的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是7500.0。
+912,有一个Jing'an的detached lane house，1卧2厅1卫，面积是60平方米，有空调，房租价格是7500.0。
+913,有一个Jing'an的attached lane house，1卧1厅1卫，面积是40平方米，有室外空间，房租价格是7500.0。
+914,有一个Jing'an的detached lane house，1卧1厅1卫，面积是42平方米，有空调，房租价格是7500.0。
+915,有一个Jing'an的detached lane house，1卧1厅1卫，面积是58平方米，有室外空间，有供暖，有空调，有阳台，房租价格是7500.0。
+916,有一个Jing'an的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有供暖，有空调，有WIFI，有浴缸，有地暖，房租价格是7500.0。
+917,有一个Jing'an的attached lane house，1卧1厅1卫，面积是50平方米，有空调，房租价格是7500.0。
+918,有一个Jing'an的detached lane house，1卧1厅1卫，面积是40平方米，有空调，有浴缸，房租价格是7500.0。
+919,有一个Jing'an的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有空调，有阳台，房租价格是7500.0。
+920,有一个Jing'an的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有供暖，有空调，有WIFI，有浴缸，有地暖，房租价格是7500.0。
+921,有一个Jing'an的detached lane house，1卧0厅1卫，面积是40平方米，有室外空间，有空调，房租价格是7500.0。
+922,有一个Jing'an的attached lane house，1卧2厅1卫，面积是50平方米，有空调，有WIFI，房租价格是7500.0。
+923,有一个Jing'an的attached lane house，1卧1厅1卫，面积是30平方米，有供暖，有空调，房租价格是7500.0。
+924,有一个Jing'an的attached lane house，1卧2厅1卫，面积是45平方米，有浴缸，房租价格是7500.0。
+925,有一个Jing'an的detached lane house，1卧1厅1卫，面积是40平方米，有供暖，有空调，有阳台，房租价格是7500.0。
+926,有一个Jing'an的detached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是7500.0。
+927,有一个Jing'an的detached lane house，1卧1厅1卫，面积是60平方米，有空调，有阳台，房租价格是7500.0。
+928,有一个Jing'an的detached lane house，1卧1厅1卫，面积是40平方米，有空调，有烤箱，房租价格是7500.0。
+929,有一个Jing'an的detached lane house，1卧1厅1卫，面积是50平方米，有供暖，有空调，有WIFI，房租价格是7500.0。
+930,有一个Jing'an的detached lane house，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是7600.0。
+931,有一个Jing'an的detached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有地暖，房租价格是7700.0。
+932,有一个Jing'an的attached lane house，1卧1厅1卫，面积是45平方米，有室外空间，有供暖，有空调，有阳台，房租价格是7800.0。
+933,有一个Jing'an的public housing，1卧1厅1卫，面积是50平方米，有供暖，房租价格是7800.0。
+934,有一个Jing'an的public housing，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是7800.0。
+935,有一个Jing'an的detached lane house，1卧2厅1卫，面积是35平方米，有室外空间，有供暖，有空调，有烤箱，房租价格是7800.0。
+936,有一个Jing'an的attached lane house，1卧2厅1卫，面积是55平方米，有空调，房租价格是7800.0。
+937,有一个Jing'an的attached lane house，1卧1厅1卫，面积是50平方米，有空调，有WIFI，房租价格是7800.0。
+938,有一个Jing'an的detached lane house，1卧1厅1卫，面积是35平方米，有室外空间，有空调，有阳台，房租价格是7900.0。
+939,有一个Jing'an的detached lane house，1卧2厅1卫，面积是70平方米，有供暖，有空调，有阳台，有WIFI，房租价格是8000.0。
+940,有一个Jing'an的detached lane house，1卧1厅1卫，面积是45平方米，有空调，房租价格是8000.0。
+941,有一个Jing'an的attached lane house，1卧1厅1卫，面积是45平方米，有室外空间，有空调，房租价格是8000.0。
+942,有一个Jing'an的public housing，1卧1厅1卫，面积是40平方米，有空调，房租价格是8000.0。
+943,有一个Jing'an的attached lane house，1卧1厅1卫，面积是45平方米，有空调，房租价格是8000.0。
+944,有一个Jing'an的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有阳台，房租价格是8000.0。
+945,有一个Jing'an的attached lane house，1卧1厅1卫，面积是75平方米，有空调，房租价格是8000.0。
+946,有一个Jing'an的public housing，1卧1厅1卫，面积是45平方米，有空调，房租价格是8000.0。
+947,有一个Jing'an的attached lane house，2卧2厅1卫，面积是60平方米，有室外空间，有空调，有WIFI，房租价格是8000.0。
+948,有一个Jing'an的public housing，2卧1厅1卫，面积是60平方米，有空调，房租价格是8000.0。
+949,有一个Jing'an的attached lane house，1卧1厅1卫，面积是35平方米，有供暖，有空调，房租价格是8000.0。
+950,有一个Jing'an的public housing，1卧1厅1卫，面积是50平方米，有空调，房租价格是8000.0。
+951,有一个Jing'an的attached lane house，1卧1厅1卫，面积是53平方米，有室外空间，有供暖，有空调，有阳台，房租价格是8000.0。
+952,有一个Jing'an的public housing，1卧1厅1卫，面积是45平方米，有空调，有WIFI，有烤箱，房租价格是8200.0。
+953,有一个Jing'an的detached lane house，2卧2厅1卫，面积是65平方米，有空调，房租价格是8200.0。
+954,有一个Jing'an的public housing，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有烤箱，房租价格是8200.0。
+955,有一个Jing'an的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，有空调，房租价格是8200.0。
+956,有一个Jing'an的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，房租价格是8200.0。
+957,有一个Jing'an的public housing，1卧1厅1卫，面积是55平方米，有供暖，有空调，有WIFI，房租价格是8300.0。
+958,有一个Jing'an的public housing，1卧1厅1卫，面积是50平方米，有空调，房租价格是8300.0。
+959,有一个Jing'an的detached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是8300.0。
+960,有一个Jing'an的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，房租价格是8500.0。
+961,有一个Jing'an的attached lane house，1卧1厅1卫，面积是70平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是8500.0。
+962,有一个Jing'an的detached lane house，1卧1厅1卫，面积是70平方米，有室外空间，房租价格是8500.0。
+963,有一个Jing'an的attached lane house，1卧2厅2卫，面积是60平方米，有供暖，有空调，有WIFI，房租价格是8500.0。
+964,有一个Jing'an的attached lane house，1卧1厅1卫，面积是50平方米，有空调，房租价格是8500.0。
+965,有一个Jing'an的public housing，2卧1厅1卫，面积是60平方米，有室外空间，有空调，房租价格是8500.0。
+966,有一个Jing'an的detached lane house，1卧0厅1卫，面积是40平方米，有空调，有浴缸，房租价格是8500.0。
+967,有一个Jing'an的attached lane house，1卧0厅1卫，面积是45平方米，有室外空间，房租价格是8500.0。
+968,有一个Jing'an的attached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有空调，房租价格是8500.0。
+969,有一个Jing'an的detached lane house，1卧1厅1卫，面积是65平方米，有空调，有烤箱，房租价格是8500.0。
+970,有一个Jing'an的attached lane house，2卧1厅1卫，面积是80平方米，有室外空间，有浴缸，房租价格是8500.0。
+971,有一个Jing'an的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，房租价格是8500.0。
+972,有一个Jing'an的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有空调，房租价格是8600.0。
+973,有一个Jing'an的detached lane house，1卧2厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是8600.0。
+974,有一个Jing'an的attached lane house，1卧1厅15卫，面积是50平方米，有室外空间，有供暖，有空调，有地暖，房租价格是8600.0。
+975,有一个Jing'an的public housing，1卧1厅1卫，面积是40平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是8600.0。
+976,有一个Jing'an的detached lane house，1卧1厅1卫，面积是40平方米，有空调，房租价格是8700.0。
+977,有一个Jing'an的attached lane house，1卧2厅1卫，面积是55平方米，有供暖，有空调，有阳台，有浴缸，房租价格是8800.0。
+978,有一个Jing'an的detached lane house，1卧0厅1卫，面积是39平方米，有室外空间，有空调，有阳台，房租价格是8800.0。
+979,有一个Jing'an的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是8800.0。
+980,有一个Jing'an的attached lane house，1卧1厅1卫，面积是60平方米，有供暖，有空调，有阳台，有WIFI，房租价格是8800.0。
+981,有一个Jing'an的attached lane house，1卧1厅1卫，面积是70平方米，有室外空间，有供暖，房租价格是8800.0。
+982,有一个Jing'an的attached lane house，1卧1厅1卫，面积是60平方米，有供暖，有地暖，房租价格是8900.0。
+983,有一个Jing'an的public housing，1卧2厅1卫，面积是65平方米，有供暖，有空调，有阳台，有WIFI，房租价格是8900.0。
+984,有一个Jing'an的attached lane house，2卧2厅1卫，面积是50平方米，有室外空间，房租价格是9000.0。
+985,有一个Jing'an的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，有地暖，有烤箱，房租价格是9000.0。
+986,有一个Jing'an的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，房租价格是9000.0。
+987,有一个Jing'an的detached lane house，2卧2厅1卫，面积是100平方米，有室外空间，房租价格是9000.0。
+988,有一个Jing'an的attached lane house，1卧1厅1卫，面积是50平方米，有供暖，有阳台，有烤箱，房租价格是9000.0。
+989,有一个Jing'an的attached lane house，1卧1厅1卫，面积是50平方米，有空调，房租价格是9000.0。
+990,有一个Jing'an的public housing，1卧1厅1卫，面积是65平方米，有空调，有WIFI，房租价格是9000.0。
+991,有一个Jing'an的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是9000.0。
+992,有一个Jing'an的attached lane house，1卧2厅1卫，面积是75平方米，有室外空间，有空调，有阳台，房租价格是9000.0。
+993,有一个Jing'an的public housing，1卧1厅1卫，面积是50平方米，有供暖，有空调，有阳台，房租价格是9000.0。
+994,有一个Jing'an的detached lane house，2卧1厅1卫，面积是50平方米，有空调，房租价格是9000.0。
+995,有一个Jing'an的attached lane house，2卧1厅1卫，面积是69平方米，房租价格是9000.0。
+996,有一个Jing'an的attached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有阳台，房租价格是9000.0。
+997,有一个Jing'an的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有浴缸，房租价格是9000.0。
+998,有一个Jing'an的attached lane house，1卧1厅1卫，面积是60平方米，有空调，房租价格是9000.0。
+999,有一个Jing'an的attached lane house，1卧2厅1卫，面积是65平方米，有室外空间，房租价格是9000.0。
+1000,有一个Jing'an的detached lane house，1卧1厅1卫，面积是50平方米，有空调，房租价格是9200.0。
+1001,有一个Jing'an的public housing，1卧1厅1卫，面积是45平方米，有供暖，有空调，有WIFI，房租价格是9200.0。
+1002,有一个Jing'an的detached lane house，1卧1厅1卫，面积是70平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是9300.0。
+1003,有一个Jing'an的public housing，1卧2厅1卫，面积是50平方米，有供暖，有空调，有阳台，房租价格是9300.0。
+1004,有一个Jing'an的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是9300.0。
+1005,有一个Jing'an的attached lane house，2卧0厅2卫，面积是65平方米，有室外空间，有供暖，有空调，有阳台，房租价格是9500.0。
+1006,有一个Jing'an的attached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有供暖，有空调，房租价格是9500.0。
+1007,有一个Jing'an的attached lane house，1卧1厅1卫，面积是65平方米，有供暖，有空调，房租价格是9500.0。
+1008,有一个Jing'an的public housing，1卧1厅1卫，面积是52平方米，有供暖，有空调，有WIFI，房租价格是9500.0。
+1009,有一个Jing'an的detached lane house，1卧1厅1卫，面积是80平方米，有室外空间，房租价格是9500.0。
+1010,有一个Jing'an的attached lane house，1卧1厅1卫，面积是35平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是9500.0。
+1011,有一个Jing'an的public housing，1卧2厅1卫，面积是50平方米，有供暖，房租价格是9500.0。
+1012,有一个Jing'an的attached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有空调，有WIFI，房租价格是9500.0。
+1013,有一个Jing'an的attached lane house，1卧1厅1卫，面积是60平方米，有供暖，房租价格是9500.0。
+1014,有一个Jing'an的public housing，1卧2厅1卫，面积是50平方米，有供暖，有空调，有阳台，房租价格是9500.0。
+1015,有一个Jing'an的public housing，1卧1厅1卫，面积是50平方米，有空调，房租价格是9500.0。
+1016,有一个Jing'an的attached lane house，2卧1厅1卫，面积是55平方米，有空调，房租价格是9500.0。
+1017,有一个Jing'an的detached lane house，2卧2厅1卫，面积是100平方米，有室外空间，有供暖，有空调，有地暖，房租价格是9500.0。
+1018,有一个Jing'an的attached lane house，2卧2厅1卫，面积是80平方米，有供暖，有空调，有阳台，有浴缸，有地暖，房租价格是9600.0。
+1019,有一个Jing'an的detached lane house，1卧1厅1卫，面积是55平方米，有室外空间，有空调，有阳台，房租价格是9600.0。
+1020,有一个Jing'an的detached lane house，1卧2厅1卫，面积是60平方米，有供暖，房租价格是9800.0。
+1021,有一个Jing'an的public housing，2卧1厅1卫，面积是70平方米，有室外空间，有空调，有阳台，房租价格是9800.0。
+1022,有一个Jing'an的detached lane house，1卧2厅1卫，面积是70平方米，有供暖，有空调，有浴缸，有地暖，房租价格是9800.0。
+1023,有一个Jing'an的detached lane house，2卧1厅1卫，面积是80平方米，有供暖，有空调，有阳台，房租价格是9800.0。
+1024,有一个Jing'an的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是9800.0。
+1025,有一个Jing'an的public housing，1卧1厅1卫，面积是65平方米，有空调，有阳台，房租价格是9800.0。
+1026,有一个Jing'an的detached lane house，1卧1厅1卫，面积是70平方米，有空调，房租价格是9800.0。
+1027,有一个Jing'an的detached lane house，1卧2厅1卫，面积是70平方米，有室外空间，有供暖，房租价格是9996.0。
+1028,有一个Jing'an的detached lane house，1卧2厅2卫，面积是60平方米，有室外空间，房租价格是10000.0。
+1029,有一个Jing'an的attached lane house，2卧2厅1卫，面积是90平方米，有供暖，有空调，有阳台，房租价格是10000.0。
+1030,有一个Jing'an的detached lane house，1卧1厅1卫，面积是65平方米，有室外空间，房租价格是10000.0。
+1031,有一个Jing'an的detached lane house，1卧2厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是10000.0。
+1032,有一个Jing'an的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，房租价格是10000.0。
+1033,有一个Jing'an的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，有空调，房租价格是10000.0。
+1034,有一个Jing'an的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有地暖，房租价格是10000.0。
+1035,有一个Jing'an的detached lane house，2卧2厅1卫，面积是85平方米，有空调，房租价格是10000.0。
+1036,有一个Jing'an的detached lane house，1卧1厅1卫，面积是41平方米，有空调，有WIFI，房租价格是10000.0。
+1037,有一个Jing'an的detached lane house，1卧2厅1卫，面积是98平方米，有室外空间，有供暖，有阳台，有地暖，房租价格是10500.0。
+1038,有一个Jing'an的attached lane house，1卧1厅1卫，面积是70平方米，有室外空间，有空调，房租价格是10500.0。
+1039,有一个Jing'an的public housing，2卧0厅1卫，面积是60平方米，有室外空间，有空调，有WIFI，有烤箱，房租价格是10500.0。
+1040,有一个Jing'an的attached lane house，1卧2厅1卫，面积是65平方米，整栋建筑，有室外空间，有空调，有阳台，有WIFI，房租价格是10500.0。
+1041,有一个Jing'an的public housing，2卧1厅1卫，面积是55平方米，有室外空间，有空调，房租价格是10500.0。
+1042,有一个Jing'an的detached lane house，1卧1厅1卫，面积是45平方米，有室外空间，有供暖，有空调，房租价格是10500.0。
+1043,有一个Jing'an的detached lane house，1卧1厅1卫，面积是55平方米，有室外空间，有供暖，有空调，有WIFI，有地暖，房租价格是10500.0。
+1044,有一个Jing'an的detached lane house，1卧2厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有浴缸，有烤箱，房租价格是10500.0。
+1045,有一个Jing'an的detached lane house，2卧2厅2卫，面积是60平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是10600.0。
+1046,有一个Jing'an的detached lane house，1卧2厅1卫，面积是70平方米，有室外空间，有供暖，有空调，有WIFI，房租价格是10800.0。
+1047,有一个Jing'an的public housing，1卧2厅1卫，面积是68平方米，有供暖，有空调，房租价格是10800.0。
+1048,有一个Jing'an的public housing，1卧2厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有阳台，有烤箱，房租价格是10800.0。
+1049,有一个Jing'an的attached lane house，1卧1厅1卫，面积是60平方米，有供暖，有空调，房租价格是10800.0。
+1050,有一个Jing'an的public housing，1卧1厅1卫，面积是70平方米，有供暖，有空调，有烤箱，房租价格是10800.0。
+1051,有一个Jing'an的attached lane house，1卧1厅1卫，面积是70平方米，有供暖，房租价格是10800.0。
+1052,有一个Jing'an的attached lane house，1卧1厅1卫，面积是55平方米，有室外空间，有空调，房租价格是10800.0。
+1053,有一个Jing'an的public housing，1卧1厅1卫，面积是50平方米，有空调，房租价格是10800.0。
+1054,有一个Jing'an的attached lane house，1卧2厅1卫，面积是80平方米，有浴缸，房租价格是10800.0。
+1055,有一个Jing'an的public housing，1卧2厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有阳台，房租价格是10800.0。
+1056,有一个Jing'an的detached lane house，2卧2厅1卫，面积是100平方米，房租价格是11000.0。
+1057,有一个Jing'an的public housing，2卧1厅1卫，面积是100平方米，有空调，有浴缸，房租价格是11000.0。
+1058,有一个Jing'an的attached lane house，2卧2厅1卫，面积是90平方米，有供暖，有空调，有阳台，有WIFI，房租价格是11000.0。
+1059,有一个Jing'an的detached lane house，2卧2厅1卫，面积是70平方米，有室外空间，房租价格是11000.0。
+1060,有一个Jing'an的attached lane house，1卧1厅1卫，面积是52平方米，有室外空间，房租价格是11000.0。
+1061,有一个Jing'an的detached lane house，2卧2厅1卫，面积是100平方米，有空调，房租价格是11000.0。
+1062,有一个Jing'an的attached lane house，2卧2厅1卫，面积是100平方米，房租价格是11000.0。
+1063,有一个Jing'an的attached lane house，2卧2厅1卫，面积是100平方米，房租价格是11000.0。
+1064,有一个Jing'an的detached lane house，2卧2厅1卫，面积是100平方米，有空调，房租价格是11000.0。
+1065,有一个Jing'an的attached lane house，1卧2厅1卫，面积是65平方米，有室外空间，有空调，有阳台，房租价格是11000.0。
+1066,有一个Jing'an的attached lane house，2卧2厅1卫，面积是100平方米，房租价格是11000.0。
+1067,有一个Jing'an的attached lane house，1卧1厅1卫，面积是70平方米，有空调，房租价格是11000.0。
+1068,有一个Jing'an的attached lane house，1卧1厅1卫，面积是65平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是11000.0。
+1069,有一个Jing'an的detached lane house，3卧1厅1卫，面积是100平方米，有室外空间，有空调，有阳台，房租价格是11000.0。
+1070,有一个Jing'an的attached lane house，2卧2厅2卫，面积是80平方米，有室外空间，有空调，房租价格是11000.0。
+1071,有一个Jing'an的attached lane house，1卧1厅1卫，面积是75平方米，有室外空间，有空调，有WIFI，房租价格是11000.0。
+1072,有一个Jing'an的attached lane house，2卧1厅1卫，面积是80平方米，有供暖，房租价格是11000.0。
+1073,有一个Jing'an的detached lane house，1卧1厅1卫，面积是41平方米，有供暖，房租价格是11000.0。
+1074,有一个Jing'an的attached lane house，1卧2厅1卫，面积是60平方米，有室外空间，房租价格是11000.0。
+1075,有一个Jing'an的attached lane house，1卧2厅1卫，面积是70平方米，有室外空间，有供暖，有地暖，有烤箱，房租价格是11000.0。
+1076,有一个Jing'an的detached lane house，2卧1厅1卫，面积是60平方米，有室外空间，有空调，房租价格是11000.0。
+1077,有一个Jing'an的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有空调，房租价格是11000.0。
+1078,有一个Jing'an的attached lane house，1卧1厅1卫，面积是35平方米，有室外空间，房租价格是11000.0。
+1079,有一个Jing'an的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有空调，有阳台，有浴缸，房租价格是11500.0。
+1080,有一个Jing'an的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，房租价格是11500.0。
+1081,有一个Jing'an的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有WIFI，房租价格是11500.0。
+1082,有一个Jing'an的attached lane house，1卧1厅1卫，面积是55平方米，有室外空间，有供暖，有地暖，房租价格是11500.0。
+1083,有一个Jing'an的attached lane house，1卧1厅1卫，面积是65平方米，有室外空间，有供暖，有空调，房租价格是11500.0。
+1084,有一个Jing'an的public housing，1卧2厅1卫，面积是65平方米，有供暖，有空调，有阳台，房租价格是11800.0。
+1085,有一个Jing'an的public housing，2卧1厅1卫，面积是78平方米，有供暖，有空调，有WIFI，房租价格是11800.0。
+1086,有一个Jing'an的attached lane house，2卧1厅1卫，面积是85平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，有烤箱，房租价格是11800.0。
+1087,有一个Jing'an的attached lane house，1卧1厅1卫，面积是70平方米，有室外空间，有空调，有浴缸，房租价格是12000.0。
+1088,有一个Jing'an的public housing，3卧1厅1卫，面积是100平方米，有室外空间，有空调，房租价格是12000.0。
+1089,有一个Jing'an的detached lane house，3卧1厅1卫，面积是100平方米，有室外空间，有空调，房租价格是12000.0。
+1090,有一个Jing'an的attached lane house，1卧1厅1卫，面积是65平方米，有供暖，有空调，房租价格是12000.0。
+1091,有一个Jing'an的public housing，3卧1厅1卫，面积是100平方米，有室外空间，有空调，房租价格是12000.0。
+1092,有一个Jing'an的public housing，3卧1厅1卫，面积是100平方米，有室外空间，有空调，有阳台，房租价格是12000.0。
+1093,有一个Jing'an的public housing，3卧1厅1卫，面积是100平方米，有室外空间，有供暖，有阳台，有WIFI，有浴缸，房租价格是12000.0。
+1094,有一个Jing'an的attached lane house，2卧2厅1卫，面积是80平方米，有室外空间，房租价格是12000.0。
+1095,有一个Jing'an的public housing，3卧1厅1卫，面积是100平方米，有室外空间，有空调，有阳台，房租价格是12000.0。
+1096,有一个Jing'an的public housing，3卧1厅1卫，面积是100平方米，有空调，有阳台，房租价格是12000.0。
+1097,有一个Jing'an的detached lane house，1卧2厅1卫，面积是70平方米，有室外空间，有空调，有浴缸，房租价格是12000.0。
+1098,有一个Jing'an的attached lane house，1卧2厅1卫，面积是70平方米，有室外空间，有空调，房租价格是12000.0。
+1099,有一个Jing'an的attached lane house，2卧1厅1卫，面积是60平方米，房租价格是12000.0。
+1100,有一个Jing'an的attached lane house，1卧1厅1卫，面积是26平方米，有空调，房租价格是12000.0。
+1101,有一个Jing'an的detached lane house，1卧2厅1卫，面积是80平方米，有室外空间，房租价格是12000.0。
+1102,有一个Jing'an的attached lane house，1卧1厅1卫，面积是40平方米，有室外空间，房租价格是12000.0。
+1103,有一个Jing'an的attached lane house，2卧1厅1卫，面积是70平方米，有室外空间，有空调，房租价格是12000.0。
+1104,有一个Jing'an的detached lane house，3卧1厅1卫，面积是100平方米，有室外空间，有空调，房租价格是12000.0。
+1105,有一个Jing'an的attached lane house，1卧2厅1卫，面积是70平方米，有空调，房租价格是12000.0。
+1106,有一个Jing'an的detached lane house，1卧1厅1卫，面积是70平方米，有室外空间，房租价格是12000.0。
+1107,有一个Jing'an的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有地暖，房租价格是12000.0。
+1108,有一个Jing'an的detached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是12500.0。
+1109,有一个Jing'an的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是12500.0。
+1110,有一个Jing'an的detached lane house，1卧1厅1卫，面积是35平方米，有室外空间，房租价格是12500.0。
+1111,有一个Jing'an的public housing，1卧1厅1卫，面积是60平方米，有空调，房租价格是12500.0。
+1112,有一个Jing'an的attached lane house，1卧2厅1卫，面积是50平方米，有供暖，有空调，有WIFI，有浴缸，房租价格是12500.0。
+1113,有一个Jing'an的public housing，1卧1厅1卫，面积是60平方米，有空调，有烤箱，房租价格是12500.0。
+1114,有一个Jing'an的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是12600.0。
+1115,有一个Jing'an的detached lane house，1卧1厅1卫，面积是40平方米，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是12600.0。
+1116,有一个Jing'an的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有空调，有浴缸，房租价格是12800.0。
+1117,有一个Jing'an的detached lane house，2卧1厅1卫，面积是70平方米，有室外空间，房租价格是12800.0。
+1118,有一个Jing'an的public housing，2卧1厅1卫，面积是88平方米，有室外空间，有供暖，有空调，有阳台，房租价格是12800.0。
+1119,有一个Jing'an的attached lane house，2卧2厅1卫，面积是105平方米，有室外空间，房租价格是12800.0。
+1120,有一个Jing'an的detached lane house，3卧0厅1卫，面积是70平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是12800.0。
+1121,有一个Jing'an的detached lane house，1卧2厅1卫，面积是100平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有地暖，房租价格是12800.0。
+1122,有一个Jing'an的detached lane house，2卧2厅2卫，面积是90平方米，有供暖，有空调，有阳台，房租价格是12800.0。
+1123,有一个Jing'an的attached lane house，1卧2厅1卫，面积是65平方米，有浴缸，房租价格是12800.0。
+1124,有一个Jing'an的detached lane house，1卧1厅1卫，面积是60平方米，有供暖，有空调，房租价格是13000.0。
+1125,有一个Jing'an的attached lane house，1卧1厅1卫，面积是70平方米，有室外空间，房租价格是13000.0。
+1126,有一个Jing'an的attached lane house，1卧2厅1卫，面积是70平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有烤箱，房租价格是13000.0。
+1127,有一个Jing'an的detached lane house，2卧2厅2卫，面积是100平方米，整栋建筑，有室外空间，有供暖，房租价格是13000.0。
+1128,有一个Jing'an的public housing，1卧1厅1卫，面积是90平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是13000.0。
+1129,有一个Jing'an的attached lane house，2卧2厅2卫，面积是80平方米，有空调，房租价格是13000.0。
+1130,有一个Jing'an的public housing，1卧1厅1卫，面积是50平方米，有空调，房租价格是13000.0。
+1131,有一个Jing'an的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有地暖，有烤箱，房租价格是13000.0。
+1132,有一个Jing'an的attached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有供暖，有地暖，房租价格是13000.0。
+1133,有一个Jing'an的attached lane house，2卧2厅2卫，面积是100平方米，房租价格是13000.0。
+1134,有一个Jing'an的detached lane house，1卧1厅1卫，面积是100平方米，有空调，房租价格是13000.0。
+1135,有一个Jing'an的detached lane house，2卧2厅2卫，面积是60平方米，有室外空间，房租价格是13500.0。
+1136,有一个Jing'an的attached lane house，2卧1厅1卫，面积是70平方米，有室外空间，房租价格是13500.0。
+1137,有一个Jing'an的attached lane house，1卧1厅1卫，面积是70平方米，有室外空间，有供暖，有空调，有WIFI，房租价格是13500.0。
+1138,有一个Jing'an的detached lane house，2卧1厅1卫，面积是70平方米，有室外空间，房租价格是13500.0。
+1139,有一个Jing'an的detached lane house，2卧2厅2卫，面积是60平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是13600.0。
+1140,有一个Jing'an的attached lane house，3卧1厅1卫，面积是75平方米，有空调，有WIFI，有浴缸，房租价格是13600.0。
+1141,有一个Jing'an的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是13600.0。
+1142,有一个Jing'an的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是13600.0。
+1143,有一个Jing'an的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是13600.0。
+1144,有一个Jing'an的attached lane house，2卧1厅1卫，面积是80平方米，有室外空间，有空调，房租价格是13800.0。
+1145,有一个Jing'an的detached lane house，1卧1厅1卫，面积是70平方米，有室外空间，有供暖，有空调，房租价格是13800.0。
+1146,有一个Jing'an的detached lane house，1卧1厅1卫，面积是65平方米，有供暖，有空调，有WIFI，有烤箱，房租价格是13800.0。
+1147,有一个Jing'an的attached lane house，2卧1厅1卫，面积是80平方米，有供暖，房租价格是13800.0。
+1148,有一个Jing'an的attached lane house，1卧2厅1卫，面积是50平方米，有供暖，有空调，有阳台，有WIFI，房租价格是13900.0。
+1149,有一个Jing'an的attached lane house，2卧2厅1卫，面积是100平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是14000.0。
+1150,有一个Jing'an的attached lane house，2卧2厅1卫，面积是60平方米，有空调，有阳台，有WIFI，房租价格是14000.0。
+1151,有一个Jing'an的public housing，1卧2厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有地暖，有烤箱，房租价格是14000.0。
+1152,有一个Jing'an的detached lane house，1卧2厅1卫，面积是80平方米，有室外空间，有供暖，有地暖，房租价格是14000.0。
+1153,有一个Jing'an的attached lane house，2卧2厅1卫，面积是90平方米，有室外空间，有供暖，有空调，房租价格是14000.0。
+1154,有一个Jing'an的attached lane house，2卧2厅1卫，面积是95平方米，有空调，有阳台，房租价格是14000.0。
+1155,有一个Jing'an的attached lane house，1卧1厅1卫，面积是45平方米，有室外空间，有供暖，有地暖，房租价格是14000.0。
+1156,有一个Jing'an的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，房租价格是14000.0。
+1157,有一个Jing'an的attached lane house，2卧0厅2卫，面积是70平方米，有空调，房租价格是14500.0。
+1158,有一个Jing'an的detached lane house，1卧2厅2卫，面积是70平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是14800.0。
+1159,有一个Jing'an的detached lane house，1卧2厅2卫，面积是70平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是14800.0。
+1160,有一个Jing'an的detached lane house，1卧1厅1卫，面积是90平方米，有供暖，房租价格是15000.0。
+1161,有一个Jing'an的attached lane house，2卧1厅2卫，面积是100平方米，有浴缸，有烤箱，房租价格是15000.0。
+1162,有一个Jing'an的public housing，1卧1厅1卫，面积是70平方米，有室外空间，有供暖，有空调，有WIFI，有地暖，房租价格是15000.0。
+1163,有一个Jing'an的attached lane house，2卧1厅1卫，面积是70平方米，有室外空间，有供暖，有浴缸，房租价格是15000.0。
+1164,有一个Jing'an的detached lane house，1卧2厅1卫，面积是80平方米，有空调，房租价格是15000.0。
+1165,有一个Jing'an的public housing，2卧1厅1卫，面积是63平方米，有供暖，有地暖，房租价格是15000.0。
+1166,有一个Jing'an的attached lane house，2卧2厅2卫，面积是80平方米，有室外空间，房租价格是15500.0。
+1167,有一个Jing'an的detached lane house，1卧1厅1卫，面积是70平方米，有室外空间，有供暖，房租价格是15800.0。
+1168,有一个Jing'an的detached lane house，4卧1厅1卫，面积是100平方米，有室外空间，有空调，有浴缸，房租价格是16000.0。
+1169,有一个Jing'an的attached lane house，2卧2厅2卫，面积是72平方米，有室外空间，有烤箱，房租价格是16000.0。
+1170,有一个Jing'an的detached lane house，2卧2厅1卫，面积是110平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是16000.0。
+1171,有一个Jing'an的attached lane house，2卧2厅2卫，面积是120平方米，有浴缸，房租价格是16000.0。
+1172,有一个Jing'an的attached lane house，2卧1厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有阳台，房租价格是16000.0。
+1173,有一个Jing'an的attached lane house，2卧2厅2卫，面积是120平方米，有室外空间，有供暖，有浴缸，房租价格是16000.0。
+1174,有一个Jing'an的public housing，3卧2厅2卫，面积是130平方米，整栋建筑，有空调，有浴缸，房租价格是16000.0。
+1175,有一个Jing'an的attached lane house，1卧1厅1卫，面积是80平方米，有室外空间，有供暖，有浴缸，有地暖，房租价格是16000.0。
+1176,有一个Jing'an的detached lane house，2卧2厅2卫，面积是85平方米，有供暖，有空调，有浴缸，房租价格是16200.0。
+1177,有一个Jing'an的attached lane house，2卧1厅1卫，面积是90平方米，有空调，房租价格是16500.0。
+1178,有一个Jing'an的detached lane house，1卧2厅2卫，面积是80平方米，有室外空间，有供暖，有空调，有WIFI，有浴缸，有地暖，房租价格是16500.0。
+1179,有一个Jing'an的detached lane house，1卧1厅2卫，面积是50平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是16500.0。
+1180,有一个Jing'an的attached lane house，1卧2厅1卫，面积是80平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是16500.0。
+1181,有一个Jing'an的detached lane house，1卧1厅2卫，面积是50平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是16500.0。
+1182,有一个Jing'an的attached lane house，3卧2厅2卫，面积是95平方米，有室外空间，有空调，房租价格是16500.0。
+1183,有一个Jing'an的attached lane house，2卧2厅1卫，面积是110平方米，有供暖，有空调，房租价格是16500.0。
+1184,有一个Jing'an的detached lane house，2卧2厅1卫，面积是138平方米，有室外空间，有浴缸，房租价格是16800.0。
+1185,有一个Jing'an的public housing，2卧1厅1卫，面积是120平方米，有供暖，有空调，有阳台，有浴缸，房租价格是16800.0。
+1186,有一个Jing'an的detached lane house，2卧2厅2卫，面积是100平方米，有供暖，有空调，有WIFI，有浴缸，房租价格是16800.0。
+1187,有一个Jing'an的attached lane house，1卧1厅1卫，面积是80平方米，有室外空间，有浴缸，房租价格是17000.0。
+1188,有一个Jing'an的attached lane house，3卧0厅1卫，面积是100平方米，有室外空间，房租价格是17500.0。
+1189,有一个Jing'an的attached lane house，2卧2厅1卫，面积是148平方米，有室外空间，有供暖，有空调，有WIFI，有浴缸，房租价格是17500.0。
+1190,有一个Jing'an的detached lane house，2卧2厅1卫，面积是110平方米，有室外空间，房租价格是17800.0。
+1191,有一个Jing'an的detached lane house，2卧2厅2卫，面积是100平方米，有室外空间，有浴缸，房租价格是17800.0。
+1192,有一个Jing'an的public housing，2卧1厅1卫，面积是100平方米，有室外空间，有供暖，有空调，有地暖，有烤箱，房租价格是17800.0。
+1193,有一个Jing'an的public housing，2卧2厅2卫，面积是85平方米，有室外空间，有供暖，有空调，有阳台，有烤箱，房租价格是18000.0。
+1194,有一个Jing'an的attached lane house，1卧1厅2卫，面积是70平方米，有室外空间，有浴缸，房租价格是18000.0。
+1195,有一个Jing'an的public housing，2卧2厅2卫，面积是145平方米，有空调，有浴缸，有烤箱，房租价格是18000.0。
+1196,有一个Jing'an的detached lane house，1卧2厅1卫，面积是80平方米，有供暖，有地暖，房租价格是18000.0。
+1197,有一个Jing'an的public housing，2卧2厅2卫，面积是90平方米，有室外空间，有供暖，有空调，有地暖，房租价格是18000.0。
+1198,有一个Jing'an的attached lane house，3卧2厅1卫，面积是150平方米，有室外空间，有供暖，有阳台，房租价格是18000.0。
+1199,有一个Jing'an的detached lane house，2卧2厅2卫，面积是150平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，房租价格是18800.0。
+1200,有一个Jing'an的detached lane house，3卧2厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是18800.0。
+1201,有一个Jing'an的attached lane house，2卧2厅1卫，面积是100平方米，有供暖，有空调，有浴缸，房租价格是19000.0。
+1202,有一个Jing'an的detached lane house，1卧1厅1卫，面积是68平方米，有室外空间，有空调，房租价格是19000.0。
+1203,有一个Jing'an的public housing，2卧1厅1卫，面积是100平方米，有供暖，有空调，有WIFI，有烤箱，房租价格是19000.0。
+1204,有一个Jing'an的attached lane house，2卧2厅1卫，面积是90平方米，有室外空间，有浴缸，房租价格是19000.0。
+1205,有一个Jing'an的detached lane house，2卧2厅2卫，面积是150平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，房租价格是19800.0。
+1206,有一个Jing'an的detached lane house，3卧2厅2卫，面积是120平方米，有供暖，有地暖，有烤箱，房租价格是19800.0。
+1207,有一个Jing'an的attached lane house，3卧2厅2卫，面积是120平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是19800.0。
+1208,有一个Jing'an的public housing，2卧2厅1卫，面积是70平方米，有室外空间，房租价格是19800.0。
+1209,有一个Jing'an的attached lane house，2卧2厅2卫，面积是80平方米，有供暖，有空调，有浴缸，有地暖，房租价格是19999.0。
+1210,有一个Jing'an的attached lane house，2卧2厅1卫，面积是100平方米，有浴缸，房租价格是20000.0。
+1211,有一个Jing'an的attached lane house，2卧2厅2卫，面积是65平方米，有室外空间，有空调，有浴缸，房租价格是20000.0。
+1212,有一个Jing'an的detached lane house，4卧2厅2卫，面积是150平方米，有供暖，有空调，有WIFI，房租价格是20000.0。
+1213,有一个Jing'an的attached lane house，3卧1厅3卫，面积是120平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是20000.0。
+1214,有一个Jing'an的detached lane house，2卧2厅2卫，面积是130平方米，有室外空间，有供暖，有浴缸，有地暖，有烤箱，房租价格是21800.0。
+1215,有一个Jing'an的attached lane house，2卧2厅2卫，面积是80平方米，有供暖，有空调，有WIFI，房租价格是22000.0。
+1216,有一个Jing'an的attached lane house，2卧2厅2卫，面积是138平方米，有室外空间，有烤箱，房租价格是22000.0。
+1217,有一个Jing'an的detached lane house，3卧2厅2卫，面积是130平方米，整栋建筑，有室外空间，有空调，有阳台，房租价格是22500.0。
+1218,有一个Jing'an的detached lane house，3卧2厅2卫，面积是150平方米，有室外空间，有供暖，房租价格是22800.0。
+1219,有一个Jing'an的public housing，2卧2厅2卫，面积是100平方米，有供暖，有空调，有阳台，有浴缸，房租价格是23000.0。
+1220,有一个Jing'an的detached lane house，2卧2厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是23000.0。
+1221,有一个Jing'an的detached lane house，1卧2厅1卫，面积是100平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是23000.0。
+1222,有一个Jing'an的detached lane house，2卧2厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有浴缸，有地暖，房租价格是23000.0。
+1223,有一个Jing'an的detached lane house，3卧1厅1卫，面积是165平方米，有室外空间，房租价格是23000.0。
+1224,有一个Jing'an的detached lane house，3卧2厅2卫，面积是130平方米，有供暖，有空调，房租价格是23000.0。
+1225,有一个Jing'an的detached lane house，3卧2厅3卫，面积是60平方米，有室外空间，有供暖，有地暖，房租价格是23000.0。
+1226,有一个Jing'an的detached lane house，2卧2厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是23000.0。
+1227,有一个Jing'an的detached lane house，2卧2厅2卫，面积是100平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是23500.0。
+1228,有一个Jing'an的attached lane house，2卧2厅2卫，面积是130平方米，有供暖，房租价格是23600.0。
+1229,有一个Jing'an的detached lane house，2卧2厅2卫，面积是120平方米，有室外空间，有供暖，有浴缸，有烤箱，房租价格是23800.0。
+1230,有一个Jing'an的attached lane house，2卧2厅1卫，面积是110平方米，有室外空间，房租价格是24000.0。
+1231,有一个Jing'an的attached lane house，3卧2厅2卫，面积是120平方米，有室外空间，有浴缸，房租价格是24000.0。
+1232,有一个Jing'an的detached lane house，2卧2厅3卫，面积是150平方米，有供暖，有空调，有阳台，有地暖，房租价格是24800.0。
+1233,有一个Jing'an的detached lane house，3卧2厅2卫，面积是200平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有烤箱，房租价格是25000.0。
+1234,有一个Jing'an的attached lane house，2卧2厅2卫，面积是110平方米，有室外空间，有供暖，有空调，有阳台，有地暖，有烤箱，房租价格是25000.0。
+1235,有一个Jing'an的detached lane house，3卧2厅2卫，面积是130平方米，有室外空间，有供暖，有空调，有WIFI，有地暖，有烤箱，房租价格是25000.0。
+1236,有一个Jing'an的attached lane house，4卧2厅2卫，面积是150平方米，有室外空间，有空调，房租价格是25000.0。
+1237,有一个Jing'an的detached lane house，3卧2厅2卫，面积是160平方米，有空调，有阳台，房租价格是25000.0。
+1238,有一个Jing'an的attached lane house，2卧2厅1卫，面积是120平方米，有供暖，有空调，有阳台，有地暖，房租价格是25000.0。
+1239,有一个Jing'an的detached lane house，2卧2厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是25000.0。
+1240,有一个Jing'an的detached lane house，3卧2厅2卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有烤箱，房租价格是25800.0。
+1241,有一个Jing'an的detached lane house，2卧2厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是25800.0。
+1242,有一个Jing'an的attached lane house，3卧2厅2卫，面积是150平方米，有供暖，有空调，有阳台，有浴缸，房租价格是26000.0。
+1243,有一个Jing'an的attached lane house，2卧2厅2卫，面积是120平方米，有室外空间，房租价格是26000.0。
+1244,有一个Jing'an的public housing，3卧2厅1卫，面积是120平方米，有室外空间，有供暖，有空调，有地暖，房租价格是26500.0。
+1245,有一个Jing'an的attached lane house，2卧2厅2卫，面积是100平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是27000.0。
+1246,有一个Jing'an的attached lane house，3卧2厅2卫，面积是140平方米，整栋建筑，有供暖，有空调，有WIFI，有浴缸，有地暖，房租价格是27000.0。
+1247,有一个Jing'an的attached lane house，2卧2厅0卫，面积是120平方米，有室外空间，有供暖，有空调，有浴缸，有地暖，房租价格是27000.0。
+1248,有一个Jing'an的detached lane house，2卧2厅2卫，面积是100平方米，有室外空间，有供暖，房租价格是27000.0。
+1249,有一个Jing'an的attached lane house，2卧2厅3卫，面积是100平方米，有室外空间，有供暖，有空调，有阳台，房租价格是27000.0。
+1250,有一个Jing'an的attached lane house，2卧2厅2卫，面积是120平方米，有室外空间，有供暖，有空调，有浴缸，有地暖，房租价格是27000.0。
+1251,有一个Jing'an的detached lane house，2卧2厅1卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是28000.0。
+1252,有一个Jing'an的detached lane house，3卧2厅2卫，面积是130平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有烤箱，房租价格是28000.0。
+1253,有一个Jing'an的detached lane house，2卧2厅2卫，面积是160平方米，有室外空间，有供暖，有阳台，有浴缸，房租价格是28000.0。
+1254,有一个Jing'an的attached lane house，4卧3厅2卫，面积是200平方米，有室外空间，房租价格是28000.0。
+1255,有一个Jing'an的detached lane house，2卧2厅3卫，面积是100平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是28000.0。
+1256,有一个Jing'an的detached lane house，2卧2厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是28000.0。
+1257,有一个Jing'an的attached lane house，3卧2厅2卫，面积是110平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是28000.0。
+1258,有一个Jing'an的detached lane house，2卧2厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有地暖，房租价格是28000.0。
+1259,有一个Jing'an的attached lane house，3卧2厅2卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有烤箱，房租价格是28000.0。
+1260,有一个Jing'an的detached lane house，2卧1厅1卫，面积是106平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是28800.0。
+1261,有一个Jing'an的attached lane house，2卧2厅2卫，面积是120平方米，有室外空间，有供暖，有空调，房租价格是28800.0。
+1262,有一个Jing'an的attached lane house，3卧2厅2卫，面积是180平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是29800.0。
+1263,有一个Jing'an的attached lane house，4卧2厅3卫，面积是150平方米，整栋建筑，有室外空间，有空调，有阳台，有WIFI，房租价格是30000.0。
+1264,有一个Jing'an的attached lane house，1卧2厅2卫，面积是100平方米，有室外空间，房租价格是30000.0。
+1265,有一个Jing'an的attached lane house，3卧2厅2卫，面积是150平方米，有室外空间，房租价格是30000.0。
+1266,有一个Jing'an的detached lane house，3卧2厅2卫，面积是130平方米，有室外空间，有供暖，有空调，有WIFI，有浴缸，房租价格是32000.0。
+1267,有一个Jing'an的attached lane house，4卧2厅3卫，面积是160平方米，整栋建筑，有空调，有地暖，房租价格是32000.0。
+1268,有一个Jing'an的public housing，4卧2厅2卫，面积是200平方米，有空调，有浴缸，房租价格是33000.0。
+1269,有一个Jing'an的detached lane house，3卧2厅2卫，面积是140平方米，有供暖，有空调，有浴缸，有烤箱，房租价格是35000.0。
+1270,有一个Jing'an的detached lane house，4卧2厅2卫，面积是180平方米，有室外空间，有供暖，有空调，有浴缸，有地暖，房租价格是35000.0。
+1271,有一个Jing'an的attached lane house，3卧2厅2卫，面积是155平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是35000.0。
+1272,有一个Jing'an的detached lane house，3卧2厅2卫，面积是150平方米，有供暖，有地暖，房租价格是36000.0。
+1273,有一个Jing'an的detached lane house，4卧2厅3卫，面积是250平方米，有室外空间，有供暖，有空调，有浴缸，有烤箱，房租价格是36000.0。
+1274,有一个Jing'an的detached lane house，4卧2厅2卫，面积是200平方米，整栋建筑，有室外空间，有供暖，有空调，房租价格是36800.0。
+1275,有一个Jing'an的detached lane house，3卧2厅2卫，面积是180平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是39500.0。
+1276,有一个Jing'an的detached lane house，4卧2厅2卫，面积是200平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是40000.0。
+1277,有一个Jing'an的detached lane house，2卧2厅2卫，面积是118平方米，有室外空间，有供暖，有空调，有地暖，房租价格是40000.0。
+1278,有一个Jing'an的detached lane house，3卧2厅2卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有烤箱，房租价格是40000.0。
+1279,有一个Jing'an的attached lane house，3卧3厅3卫，面积是200平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是40000.0。
+1280,有一个Jing'an的detached lane house，3卧2厅2卫，面积是150平方米，有室外空间，有供暖，有空调，有浴缸，有地暖，房租价格是40000.0。
+1281,有一个Jing'an的attached lane house，3卧2厅3卫，面积是200平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是42000.0。
+1282,有一个Jing'an的attached lane house，3卧2厅3卫，面积是150平方米，整栋建筑，有室外空间，有空调，有阳台，房租价格是42000.0。
+1283,有一个Jing'an的attached lane house，5卧2厅3卫，面积是248平方米，整栋建筑，有室外空间，有空调，有阳台，有地暖，房租价格是42999.0。
+1284,有一个Jing'an的attached lane house，4卧2厅3卫，面积是200平方米，整栋建筑，有室外空间，有空调，有浴缸，房租价格是45000.0。
+1285,有一个Jing'an的villa，5卧2厅3卫，面积是240平方米，整栋建筑，有室外空间，有供暖，有浴缸，有地暖，房租价格是45000.0。
+1286,有一个Jing'an的attached lane house，5卧2厅3卫，面积是460平方米，整栋建筑，有室外空间，有空调，有阳台，有WIFI，有浴缸，房租价格是46000.0。
+1287,有一个Jing'an的villa，5卧2厅3卫，面积是198平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是46000.0。
+1288,有一个Jing'an的villa，5卧2厅3卫，面积是220平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是55000.0。
+1289,有一个Jing'an的detached lane house，3卧1厅3卫，面积是200平方米，整栋建筑，有室外空间，有供暖，有浴缸，有地暖，房租价格是60000.0。
+1290,有一个Jing'an的attached lane house，3卧2厅3卫，面积是200平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是60000.0。
+1291,有一个Jing'an的attached lane house，5卧2厅2卫，面积是300平方米，整栋建筑，有供暖，有空调，有浴缸，有地暖，有烤箱，房租价格是60000.0。
+1292,有一个Jing'an的attached lane house，5卧2厅3卫，面积是220平方米，整栋建筑，有室外空间，有空调，房租价格是60000.0。
+1293,有一个Jing'an的villa，6卧2厅3卫，面积是300平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是62000.0。
+1294,有一个Jing'an的detached lane house，5卧5厅5卫，面积是255平方米，有空调，房租价格是70000.0。
+1295,有一个Jing'an的detached lane house，5卧2厅4卫，面积是300平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是90000.0。
+1296,有一个Jing'an的detached lane house，6卧2厅3卫，面积是350平方米，整栋建筑，有室外空间，有供暖，有空调，有浴缸，房租价格是98000.0。
+1297,有一个Jing'an的detached lane house，4卧2厅3卫，面积是350平方米，整栋建筑，有室外空间，有浴缸，房租价格是98000.0。
+1298,有一个Jing'an的detached lane house，10卧5厅4卫，面积是500平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是100000.0。
+1299,有一个Jing'an的attached lane house，6卧2厅3卫，面积是224平方米，整栋建筑，有室外空间，有空调，有阳台，房租价格是130000.0。
+1300,有一个Jing'an的detached lane house，6卧3厅5卫，面积是441平方米，整栋建筑，有室外空间，有空调，房租价格是180000.0。
+1301,有一个Minhang的attached lane house，2卧1厅1卫，面积是59平方米，有室外空间，有空调，有阳台，房租价格是3619.0。
+1302,有一个Minhang的attached lane house，1卧1厅1卫，面积是40平方米，有空调，房租价格是3960.0。
+1303,有一个Minhang的attached lane house，2卧1厅1卫，面积是71平方米，有空调，有阳台，房租价格是4500.0。
+1304,有一个Minhang的attached lane house，2卧1厅1卫，面积是82平方米，有空调，房租价格是4550.0。
+1305,有一个Minhang的attached lane house，2卧1厅1卫，面积是61平方米，有空调，有阳台，房租价格是4600.0。
+1306,有一个Minhang的public housing，2卧1厅1卫，面积是64平方米，有室外空间，有空调，有阳台，房租价格是4799.0。
+1307,有一个Minhang的public housing，2卧1厅1卫，面积是74平方米，有空调，有阳台，房租价格是4800.0。
+1308,有一个Minhang的public housing，3卧1厅1卫，面积是85平方米，有空调，有阳台，有WIFI，房租价格是6000.0。
+1309,有一个Minhang的public housing，1卧1厅1卫，面积是45平方米，有空调，有阳台，房租价格是7000.0。
+1310,有一个Minhang的public housing，2卧2厅1卫，面积是65平方米，有空调，房租价格是7000.0。
+1311,有一个Minhang的public housing，2卧1厅1卫，面积是65平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是8000.0。
+1312,有一个Minhang的public housing，1卧2厅1卫，面积是65平方米，有室外空间，有供暖，有地暖，房租价格是12000.0。
+1313,有一个Minhang的villa，4卧2厅4卫，面积是200平方米，整栋建筑，有室外空间，有浴缸，房租价格是18000.0。
+1314,有一个Minhang的villa，3卧2厅2卫，面积是150平方米，有供暖，有浴缸，房租价格是23500.0。
+1315,有一个Minhang的villa，5卧2厅4卫，面积是220平方米，有室外空间，有空调，有浴缸，有烤箱，房租价格是23900.0。
+1316,有一个Minhang的villa，4卧3厅4卫，面积是312平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是25000.0。
+1317,有一个Minhang的villa，3卧2厅2卫，面积是150平方米，有室外空间，有浴缸，房租价格是25000.0。
+1318,有一个Minhang的villa，4卧3厅3卫，面积是200平方米，有室外空间，有供暖，有浴缸，有地暖，房租价格是28000.0。
+1319,有一个Minhang的villa，4卧2厅3卫，面积是197平方米，有室外空间，有供暖，有浴缸，有地暖，房租价格是28500.0。
+1320,有一个Minhang的villa，4卧3厅3卫，面积是200平方米，有室外空间，有供暖，有空调，有浴缸，有地暖，房租价格是30000.0。
+1321,有一个Minhang的villa，4卧2厅4卫，面积是273平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是32000.0。
+1322,有一个Minhang的villa，4卧2厅4卫，面积是310平方米，整栋建筑，有室外空间，有供暖，有阳台，房租价格是33000.0。
+1323,有一个Minhang的villa，5卧2厅4卫，面积是470平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是48000.0。
+1324,有一个Minhang的villa，4卧3厅3卫，面积是283平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是50000.0。
+1325,有一个Minhang的villa，5卧3厅5卫，面积是357平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是70000.0。
+1326,有一个Pudong的public housing，1卧1厅1卫，面积是32平方米，有空调，有WIFI，有浴缸，房租价格是2800.0。
+1327,有一个Pudong的attached lane house，1卧1厅1卫，面积是41平方米，有空调，有阳台，房租价格是3850.0。
+1328,有一个Pudong的attached lane house，1卧1厅1卫，面积是36平方米，有空调，房租价格是4300.0。
+1329,有一个Pudong的public housing，1卧1厅1卫，面积是40平方米，有室外空间，有空调，有阳台，房租价格是4499.0。
+1330,有一个Pudong的public housing，1卧1厅1卫，面积是37平方米，有室外空间，房租价格是4500.0。
+1331,有一个Pudong的public housing，1卧1厅1卫，面积是37平方米，有空调，有阳台，房租价格是4600.0。
+1332,有一个Pudong的attached lane house，1卧1厅1卫，面积是29平方米，有空调，房租价格是4840.0。
+1333,有一个Pudong的public housing，1卧1厅1卫，面积是38平方米，有空调，有阳台，房租价格是5000.0。
+1334,有一个Pudong的attached lane house，1卧1厅1卫，面积是35平方米，有室外空间，有空调，有WIFI，房租价格是5000.0。
+1335,有一个Pudong的public housing，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是5000.0。
+1336,有一个Pudong的public housing，1卧0厅1卫，面积是32平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是5300.0。
+1337,有一个Pudong的public housing，2卧1厅1卫，面积是58平方米，有室外空间，有空调，房租价格是5400.0。
+1338,有一个Pudong的public housing，1卧1厅1卫，面积是45平方米，有空调，有阳台，有WIFI，有浴缸，房租价格是5500.0。
+1339,有一个Pudong的public housing，1卧1厅1卫，面积是38平方米，有空调，有阳台，有WIFI，房租价格是5500.0。
+1340,有一个Pudong的attached lane house，1卧0厅1卫，面积是37平方米，有空调，有阳台，有WIFI，房租价格是5600.0。
+1341,有一个Pudong的detached lane house，1卧1厅1卫，面积是40平方米，有阳台，房租价格是5800.0。
+1342,有一个Pudong的attached lane house，1卧1厅1卫，面积是42平方米，有空调，有阳台，房租价格是5800.0。
+1343,有一个Pudong的detached lane house，2卧1厅1卫，面积是66平方米，有空调，房租价格是5830.0。
+1344,有一个Pudong的public housing，2卧2厅1卫，面积是80平方米，有空调，有阳台，房租价格是5940.0。
+1345,有一个Pudong的public housing，1卧1厅1卫，面积是45平方米，有供暖，有空调，有阳台，有WIFI，房租价格是6000.0。
+1346,有一个Pudong的public housing，2卧1厅1卫，面积是35平方米，有室外空间，有空调，有阳台，房租价格是6000.0。
+1347,有一个Pudong的attached lane house，2卧2厅1卫，面积是88平方米，有室外空间，有空调，有阳台，有浴缸，房租价格是6006.0。
+1348,有一个Pudong的public housing，2卧0厅1卫，面积是49平方米，有空调，有阳台，房租价格是6300.0。
+1349,有一个Pudong的public housing，1卧1厅1卫，面积是40平方米，有空调，有阳台，有WIFI，房租价格是6300.0。
+1350,有一个Pudong的attached lane house，1卧1厅1卫，面积是42平方米，有室外空间，有空调，房租价格是6500.0。
+1351,有一个Pudong的public housing，2卧1厅1卫，面积是58平方米，有室外空间，有空调，有阳台，房租价格是6500.0。
+1352,有一个Pudong的public housing，1卧1厅1卫，面积是43平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是6500.0。
+1353,有一个Pudong的attached lane house，2卧2厅1卫，面积是102平方米，有空调，有浴缸，房租价格是6600.0。
+1354,有一个Pudong的public housing，1卧2厅1卫，面积是56平方米，有室外空间，有空调，有阳台，房租价格是6799.0。
+1355,有一个Pudong的public housing，2卧1厅1卫，面积是61平方米，有供暖，有空调，有阳台，有WIFI，房租价格是6800.0。
+1356,有一个Pudong的public housing，2卧1厅1卫，面积是65平方米，有空调，房租价格是7000.0。
+1357,有一个Pudong的public housing，2卧1厅1卫，面积是56平方米，有空调，有阳台，有WIFI，房租价格是7000.0。
+1358,有一个Pudong的detached lane house，3卧2厅2卫，面积是110平方米，有空调，有阳台，房租价格是7084.0。
+1359,有一个Pudong的public housing，2卧1厅1卫，面积是60平方米，有空调，有阳台，有WIFI，房租价格是7100.0。
+1360,有一个Pudong的public housing，1卧1厅1卫，面积是40平方米，有空调，有WIFI，房租价格是7200.0。
+1361,有一个Pudong的attached lane house，2卧1厅1卫，面积是58平方米，有室外空间，有空调，房租价格是7260.0。
+1362,有一个Pudong的public housing，1卧0厅1卫，面积是36平方米，有空调，房租价格是7300.0。
+1363,有一个Pudong的attached lane house，1卧2厅1卫，面积是52平方米，有室外空间，有空调，有阳台，房租价格是7500.0。
+1364,有一个Pudong的public housing，2卧1厅1卫，面积是50平方米，有空调，有阳台，房租价格是7500.0。
+1365,有一个Pudong的public housing，2卧1厅1卫，面积是62平方米，有室外空间，有空调，有阳台，房租价格是7800.0。
+1366,有一个Pudong的public housing，1卧1厅1卫，面积是45平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是8000.0。
+1367,有一个Pudong的attached lane house，2卧1厅1卫，面积是62平方米，有室外空间，有空调，有阳台，房租价格是8200.0。
+1368,有一个Pudong的public housing，2卧1厅1卫，面积是70平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有地暖，房租价格是8500.0。
+1369,有一个Pudong的public housing，1卧1厅1卫，面积是49平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是8800.0。
+1370,有一个Pudong的public housing，3卧2厅1卫，面积是100平方米，有空调，有阳台，有烤箱，房租价格是9000.0。
+1371,有一个Pudong的public housing，2卧2厅1卫，面积是88平方米，有室外空间，有空调，有阳台，房租价格是9130.0。
+1372,有一个Pudong的public housing，2卧0厅1卫，面积是52平方米，有供暖，房租价格是10000.0。
+1373,有一个Pudong的detached lane house，1卧2厅1卫，面积是60平方米，有室外空间，有浴缸，房租价格是10000.0。
+1374,有一个Pudong的detached lane house，3卧2厅1卫，面积是120平方米，有空调，有阳台，房租价格是10230.0。
+1375,有一个Pudong的attached lane house，2卧2厅1卫，面积是94平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是11000.0。
+1376,有一个Pudong的villa，3卧2厅2卫，面积是175平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是12000.0。
+1377,有一个Pudong的attached lane house，3卧2厅3卫，面积是136平方米，有空调，有阳台，有WIFI，有浴缸，房租价格是12000.0。
+1378,有一个Pudong的public housing，2卧1厅1卫，面积是95平方米，有室外空间，有供暖，有空调，有WIFI，有地暖，房租价格是12000.0。
+1379,有一个Pudong的villa，6卧2厅2卫，面积是280平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是12800.0。
+1380,有一个Pudong的villa，3卧2厅2卫，面积是180平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是17800.0。
+1381,有一个Pudong的attached lane house，2卧2厅1卫，面积是88平方米，有浴缸，房租价格是17900.0。
+1382,有一个Pudong的villa，5卧2厅2卫，面积是211平方米，有室外空间，房租价格是18000.0。
+1383,有一个Pudong的detached lane house，2卧1厅1卫，面积是80平方米，有室外空间，房租价格是19800.0。
+1384,有一个Pudong的villa，4卧2厅4卫，面积是447平方米，整栋建筑，有室外空间，有空调，有浴缸，房租价格是21000.0。
+1385,有一个Pudong的villa，4卧2厅4卫，面积是293平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是23000.0。
+1386,有一个Pudong的villa，3卧2厅3卫，面积是198平方米，有空调，有浴缸，房租价格是25000.0。
+1387,有一个Pudong的villa，5卧2厅3卫，面积是260平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是26000.0。
+1388,有一个Pudong的villa，4卧3厅4卫，面积是270平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是28000.0。
+1389,有一个Pudong的villa，4卧3厅5卫，面积是250平方米，整栋建筑，有室外空间，有空调，有阳台，有WIFI，有浴缸，房租价格是28000.0。
+1390,有一个Pudong的villa，4卧3厅3卫，面积是466平方米，整栋建筑，有室外空间，有空调，有阳台，有浴缸，房租价格是35000.0。
+1391,有一个Pudong的villa，4卧2厅4卫，面积是466平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是35000.0。
+1392,有一个Pudong的villa，5卧2厅3卫，面积是270平方米，有室外空间，有供暖，有地暖，房租价格是40000.0。
+1393,有一个Pudong的villa，4卧3厅3卫，面积是380平方米，有室外空间，有空调，有浴缸，房租价格是45000.0。
+1394,有一个Pudong的villa，4卧3厅3卫，面积是315平方米，整栋建筑，有室外空间，有供暖，有空调，有浴缸，有地暖，房租价格是45000.0。
+1395,有一个Pudong的villa，5卧3厅4卫，面积是380平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是45000.0。
+1396,有一个Pudong的villa，6卧2厅4卫，面积是310平方米，有室外空间，有供暖，有空调，有地暖，房租价格是45000.0。
+1397,有一个Pudong的villa，6卧3厅2卫，面积是435平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是45000.0。
+1398,有一个Pudong的villa，5卧2厅4卫，面积是410平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是45000.0。
+1399,有一个Pudong的villa，4卧2厅3卫，面积是170平方米，有室外空间，有空调，房租价格是45000.0。
+1400,有一个Pudong的villa，4卧2厅2卫，面积是182平方米，有室外空间，有供暖，有空调，房租价格是45000.0。
+1401,有一个Pudong的villa，4卧2厅4卫，面积是428平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是49000.0。
+1402,有一个Pudong的villa，5卧3厅5卫，面积是380平方米，整栋建筑，有室外空间，有空调，有阳台，有WIFI，有浴缸，房租价格是50000.0。
+1403,有一个Pudong的villa，4卧2厅3卫，面积是256平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是53000.0。
+1404,有一个Pudong的villa，4卧2厅3卫，面积是355平方米，有室外空间，有空调，有阳台，有WIFI，有浴缸，房租价格是53000.0。
+1405,有一个Pudong的villa，5卧2厅5卫，面积是370平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是55000.0。
+1406,有一个Pudong的villa，5卧2厅5卫，面积是455平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是58000.0。
+1407,有一个Pudong的villa，5卧2厅4卫，面积是450平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是58000.0。
+1408,有一个Pudong的villa，5卧2厅5卫，面积是451平方米，有室外空间，有供暖，有空调，有浴缸，有地暖，房租价格是60000.0。
+1409,有一个Pudong的villa，6卧3厅4卫，面积是430平方米，整栋建筑，有室外空间，有供暖，有空调，有浴缸，有地暖，房租价格是60000.0。
+1410,有一个Pudong的villa，8卧3厅5卫，面积是532平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是65000.0。
+1411,有一个Pudong的villa，4卧3厅4卫，面积是475平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是70000.0。
+1412,有一个Putuo的public housing，1卧0厅0卫，面积是18平方米，有空调，有阳台，有WIFI，房租价格是2500.0。
+1413,有一个Putuo的public housing，1卧0厅0卫，面积是15平方米，有空调，有WIFI，房租价格是2800.0。
+1414,有一个Putuo的public housing，1卧0厅0卫，面积是16平方米，有空调，有阳台，有WIFI，房租价格是2900.0。
+1415,有一个Putuo的public housing，1卧1厅1卫，面积是40平方米，有室外空间，有空调，有阳台，有WIFI，有浴缸，房租价格是3390.0。
+1416,有一个Putuo的public housing，1卧1厅1卫，面积是41平方米，有空调，有阳台，房租价格是3500.0。
+1417,有一个Putuo的public housing，1卧0厅1卫，面积是34平方米，有空调，有阳台，房租价格是3800.0。
+1418,有一个Putuo的public housing，1卧1厅1卫，面积是37平方米，有空调，有阳台，房租价格是4091.0。
+1419,有一个Putuo的public housing，1卧1厅1卫，面积是35平方米，有空调，有阳台，有WIFI，房租价格是4500.0。
+1420,有一个Putuo的public housing，1卧1厅1卫，面积是32平方米，有空调，有阳台，房租价格是4800.0。
+1421,有一个Putuo的public housing，2卧1厅1卫，面积是60平方米，有空调，有阳台，房租价格是4900.0。
+1422,有一个Putuo的public housing，2卧0厅1卫，面积是46平方米，有空调，有阳台，有WIFI，房租价格是5000.0。
+1423,有一个Putuo的public housing，1卧1厅1卫，面积是47平方米，有室外空间，有空调，有阳台，房租价格是5060.0。
+1424,有一个Putuo的public housing，2卧1厅1卫，面积是65平方米，有空调，有阳台，房租价格是5200.0。
+1425,有一个Putuo的public housing，2卧0厅1卫，面积是45平方米，有空调，有阳台，房租价格是5500.0。
+1426,有一个Putuo的public housing，2卧0厅1卫，面积是45平方米，有空调，有阳台，有WIFI，房租价格是5600.0。
+1427,有一个Putuo的public housing，2卧1厅1卫，面积是60平方米，有空调，有阳台，房租价格是5600.0。
+1428,有一个Putuo的public housing，2卧1厅1卫，面积是50平方米，有室外空间，有空调，房租价格是5800.0。
+1429,有一个Putuo的public housing，2卧0厅1卫，面积是50平方米，有空调，房租价格是6000.0。
+1430,有一个Putuo的public housing，2卧0厅1卫，面积是52平方米，有空调，有阳台，有WIFI，房租价格是6000.0。
+1431,有一个Putuo的public housing，2卧1厅1卫，面积是55平方米，有空调，有阳台，房租价格是6200.0。
+1432,有一个Putuo的public housing，2卧2厅1卫，面积是69平方米，有空调，有阳台，有WIFI，房租价格是6500.0。
+1433,有一个Putuo的public housing，1卧1厅1卫，面积是50平方米，有供暖，房租价格是6500.0。
+1434,有一个Putuo的public housing，2卧0厅1卫，面积是54平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是6500.0。
+1435,有一个Putuo的public housing，2卧0厅1卫，面积是45平方米，有空调，有阳台，房租价格是6500.0。
+1436,有一个Putuo的public housing，3卧1厅1卫，面积是60平方米，有空调，有阳台，房租价格是6500.0。
+1437,有一个Putuo的public housing，2卧1厅1卫，面积是65平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是6800.0。
+1438,有一个Putuo的public housing，3卧1厅1卫，面积是68平方米，有空调，有阳台，房租价格是7000.0。
+1439,有一个Putuo的public housing，3卧1厅1卫，面积是65平方米，有空调，有阳台，房租价格是8000.0。
+1440,有一个Putuo的public housing，2卧1厅1卫，面积是75平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是9000.0。
+1441,有一个Putuo的villa，6卧2厅2卫，面积是216平方米，有空调，有阳台，房租价格是17500.0。
+1442,有一个Putuo的villa，5卧3厅5卫，面积是360平方米，有室外空间，有供暖，有浴缸，房租价格是45000.0。
+1443,有一个Qingpu的villa，4卧3厅4卫，面积是310平方米，有室外空间，有供暖，有空调，房租价格是12000.0。
+1444,有一个Qingpu的villa，3卧2厅3卫，面积是205平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，有地暖，房租价格是13000.0。
+1445,有一个Qingpu的villa，4卧3厅3卫，面积是181平方米，有室外空间，有供暖，有空调，有浴缸，有地暖，有烤箱，房租价格是13000.0。
+1446,有一个Qingpu的villa，4卧2厅2卫，面积是200平方米，整栋建筑，有供暖，有地暖，房租价格是17000.0。
+1447,有一个Qingpu的villa，4卧2厅3卫，面积是242平方米，有室外空间，有空调，有浴缸，房租价格是18000.0。
+1448,有一个Qingpu的villa，4卧2厅2卫，面积是250平方米，有空调，房租价格是23000.0。
+1449,有一个Qingpu的villa，4卧5厅5卫，面积是468平方米，整栋建筑，有室外空间，有供暖，有空调，有浴缸，有地暖，房租价格是23800.0。
+1450,有一个Qingpu的villa，6卧4厅3卫，面积是300平方米，有室外空间，有空调，有浴缸，有烤箱，房租价格是24000.0。
+1451,有一个Qingpu的villa，3卧2厅3卫，面积是170平方米，有室外空间，房租价格是24000.0。
+1452,有一个Qingpu的villa，7卧3厅5卫，面积是460平方米，整栋建筑，有室外空间，有供暖，有空调，有浴缸，有地暖，房租价格是25000.0。
+1453,有一个Qingpu的villa，4卧2厅2卫，面积是250平方米，有室外空间，有空调，有浴缸，房租价格是26000.0。
+1454,有一个Qingpu的villa，6卧3厅3卫，面积是338平方米，整栋建筑，有室外空间，有供暖，有空调，有浴缸，房租价格是26000.0。
+1455,有一个Qingpu的villa，5卧2厅4卫，面积是266平方米，有室外空间，有供暖，有空调，有地暖，房租价格是30000.0。
+1456,有一个Qingpu的villa，5卧3厅5卫，面积是330平方米，整栋建筑，有室外空间，有浴缸，房租价格是30000.0。
+1457,有一个Qingpu的villa，5卧3厅5卫，面积是350平方米，整栋建筑，有室外空间，有供暖，有空调，有浴缸，房租价格是35000.0。
+1458,有一个Qingpu的villa，5卧4厅4卫，面积是418平方米，整栋建筑，有室外空间，有空调，有阳台，有WIFI，有浴缸，有烤箱，房租价格是38000.0。
+1459,有一个Qingpu的villa，7卧5厅7卫，面积是600平方米，整栋建筑，有室外空间，有供暖，有空调，有浴缸，有地暖，房租价格是42000.0。
+1460,有一个Qingpu的villa，5卧2厅4卫，面积是314平方米，整栋建筑，有室外空间，有空调，有浴缸，房租价格是45000.0。
+1461,有一个Qingpu的villa，4卧3厅4卫，面积是600平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是60000.0。
+1462,有一个Qingpu的villa，5卧3厅6卫，面积是443平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是68000.0。
+1463,有一个Xuhui的detached lane house，1卧0厅1卫，面积是15平方米，有空调，房租价格是2500.0。
+1464,有一个Xuhui的attached lane house，1卧0厅1卫，面积是8平方米，有空调，房租价格是2600.0。
+1465,有一个Xuhui的detached lane house，1卧0厅1卫，面积是15平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是2700.0。
+1466,有一个Xuhui的attached lane house，1卧0厅1卫，面积是12平方米，有供暖，房租价格是2800.0。
+1467,有一个Xuhui的detached lane house，1卧0厅1卫，面积是15平方米，有空调，房租价格是2800.0。
+1468,有一个Xuhui的attached lane house，1卧0厅1卫，面积是15平方米，有空调，房租价格是3000.0。
+1469,有一个Xuhui的detached lane house，1卧0厅1卫，面积是15平方米，有空调，房租价格是3000.0。
+1470,有一个Xuhui的attached lane house，1卧0厅1卫，面积是15平方米，有空调，房租价格是3000.0。
+1471,有一个Xuhui的attached lane house，1卧0厅1卫，面积是15平方米，有空调，房租价格是3000.0。
+1472,有一个Xuhui的attached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是3000.0。
+1473,有一个Xuhui的attached lane house，1卧1厅1卫，面积是20平方米，有空调，房租价格是3000.0。
+1474,有一个Xuhui的public housing，1卧1厅1卫，面积是20平方米，有空调，房租价格是3000.0。
+1475,有一个Xuhui的attached lane house，1卧1厅1卫，面积是20平方米，有空调，房租价格是3000.0。
+1476,有一个Xuhui的attached lane house，1卧0厅1卫，面积是20平方米，有空调，有阳台，有WIFI，房租价格是3200.0。
+1477,有一个Xuhui的attached lane house，1卧0厅1卫，面积是10平方米，有空调，房租价格是3300.0。
+1478,有一个Xuhui的detached lane house，1卧0厅1卫，面积是20平方米，有空调，房租价格是3300.0。
+1479,有一个Xuhui的attached lane house，1卧0厅1卫，面积是20平方米，有室外空间，房租价格是3500.0。
+1480,有一个Xuhui的detached lane house，1卧0厅1卫，面积是13平方米，有空调，房租价格是3500.0。
+1481,有一个Xuhui的attached lane house，1卧0厅1卫，面积是12平方米，有供暖，有空调，房租价格是3500.0。
+1482,有一个Xuhui的public housing，1卧0厅1卫，面积是12平方米，有空调，房租价格是3500.0。
+1483,有一个Xuhui的attached lane house，1卧0厅1卫，面积是22平方米，有空调，有WIFI，房租价格是3600.0。
+1484,有一个Xuhui的detached lane house，1卧0厅1卫，面积是18平方米，有空调，有阳台，房租价格是3600.0。
+1485,有一个Xuhui的attached lane house，1卧0厅1卫，面积是17平方米，有空调，房租价格是3650.0。
+1486,有一个Xuhui的detached lane house，1卧0厅1卫，面积是21平方米，有空调，有WIFI，房租价格是3800.0。
+1487,有一个Xuhui的attached lane house，1卧1厅1卫，面积是20平方米，有空调，房租价格是3800.0。
+1488,有一个Xuhui的attached lane house，1卧0厅1卫，面积是20平方米，有空调，房租价格是3800.0。
+1489,有一个Xuhui的detached lane house，1卧0厅0卫，面积是20平方米，有室外空间，有空调，房租价格是3800.0。
+1490,有一个Xuhui的public housing，1卧1厅1卫，面积是20平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是3800.0。
+1491,有一个Xuhui的attached lane house，1卧1厅1卫，面积是10平方米，有供暖，有空调，有WIFI，房租价格是4000.0。
+1492,有一个Xuhui的detached lane house，1卧0厅1卫，面积是18平方米，有空调，房租价格是4000.0。
+1493,有一个Xuhui的attached lane house，1卧0厅1卫，面积是35平方米，有空调，房租价格是4000.0。
+1494,有一个Xuhui的detached lane house，1卧0厅1卫，面积是18平方米，有空调，房租价格是4100.0。
+1495,有一个Xuhui的public housing，1卧0厅1卫，面积是35平方米，有空调，有阳台，有WIFI，房租价格是4200.0。
+1496,有一个Xuhui的detached lane house，1卧0厅1卫，面积是22平方米，有空调，有WIFI，房租价格是4200.0。
+1497,有一个Xuhui的attached lane house，1卧0厅1卫，面积是20平方米，有空调，房租价格是4200.0。
+1498,有一个Xuhui的detached lane house，1卧1厅1卫，面积是32平方米，有空调，房租价格是4200.0。
+1499,有一个Xuhui的attached lane house，1卧0厅1卫，面积是15平方米，有空调，房租价格是4200.0。
+1500,有一个Xuhui的attached lane house，1卧1厅1卫，面积是20平方米，有室外空间，房租价格是4300.0。
+1501,有一个Xuhui的attached lane house，1卧1厅1卫，面积是28平方米，有空调，房租价格是4300.0。
+1502,有一个Xuhui的attached lane house，1卧0厅1卫，面积是25平方米，有供暖，有空调，房租价格是4300.0。
+1503,有一个Xuhui的detached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，有空调，房租价格是4300.0。
+1504,有一个Xuhui的attached lane house，1卧0厅1卫，面积是20平方米，有供暖，房租价格是4488.0。
+1505,有一个Xuhui的public housing，1卧1厅1卫，面积是34平方米，有空调，有阳台，房租价格是4500.0。
+1506,有一个Xuhui的detached lane house，1卧0厅1卫，面积是20平方米，有空调，房租价格是4500.0。
+1507,有一个Xuhui的attached lane house，1卧1厅1卫，面积是40平方米，有空调，房租价格是4500.0。
+1508,有一个Xuhui的attached lane house，1卧0厅1卫，面积是35平方米，有空调，有阳台，房租价格是4500.0。
+1509,有一个Xuhui的detached lane house，1卧1厅1卫，面积是35平方米，有室外空间，房租价格是4500.0。
+1510,有一个Xuhui的attached lane house，1卧0厅1卫，面积是35平方米，有空调，房租价格是4500.0。
+1511,有一个Xuhui的detached lane house，1卧0厅1卫，面积是23平方米，有空调，有WIFI，房租价格是4500.0。
+1512,有一个Xuhui的attached lane house，1卧0厅1卫，面积是25平方米，有空调，房租价格是4500.0。
+1513,有一个Xuhui的attached lane house，1卧0厅1卫，面积是20平方米，有空调，房租价格是4500.0。
+1514,有一个Xuhui的attached lane house，1卧0厅1卫，面积是12平方米，有空调，房租价格是4500.0。
+1515,有一个Xuhui的detached lane house，1卧1厅1卫，面积是30平方米，有供暖，有空调，有WIFI，房租价格是4500.0。
+1516,有一个Xuhui的attached lane house，1卧0厅1卫，面积是21平方米，有空调，房租价格是4600.0。
+1517,有一个Xuhui的public housing，1卧0厅1卫，面积是25平方米，有空调，有阳台，房租价格是4600.0。
+1518,有一个Xuhui的public housing，2卧1厅1卫，面积是55平方米，有空调，有阳台，有浴缸，房租价格是4600.0。
+1519,有一个Xuhui的attached lane house，1卧1厅1卫，面积是35平方米，有室外空间，有空调，有阳台，房租价格是4600.0。
+1520,有一个Xuhui的detached lane house，1卧0厅1卫，面积是20平方米，有空调，房租价格是4700.0。
+1521,有一个Xuhui的attached lane house，1卧1厅1卫，面积是35平方米，有空调，房租价格是4800.0。
+1522,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有空调，房租价格是4800.0。
+1523,有一个Xuhui的detached lane house，1卧0厅1卫，面积是15平方米，有空调，房租价格是4800.0。
+1524,有一个Xuhui的public housing，1卧0厅0卫，面积是30平方米，有空调，房租价格是4800.0。
+1525,有一个Xuhui的public housing，1卧0厅1卫，面积是38平方米，有空调，有阳台，房租价格是4800.0。
+1526,有一个Xuhui的attached lane house，1卧0厅1卫，面积是22平方米，有空调，房租价格是4900.0。
+1527,有一个Xuhui的attached lane house，1卧0厅1卫，面积是25平方米，有空调，有阳台，房租价格是4900.0。
+1528,有一个Xuhui的detached lane house，1卧0厅1卫，面积是15平方米，房租价格是4900.0。
+1529,有一个Xuhui的public housing，2卧1厅1卫，面积是65平方米，有空调，有阳台，有WIFI，房租价格是4900.0。
+1530,有一个Xuhui的detached lane house，1卧1厅1卫，面积是15平方米，有室外空间，有空调，有WIFI，有地暖，房租价格是5000.0。
+1531,有一个Xuhui的attached lane house，1卧1厅1卫，面积是40平方米，有空调，有阳台，房租价格是5000.0。
+1532,有一个Xuhui的attached lane house，1卧0厅1卫，面积是15平方米，有室外空间，有空调，有WIFI，房租价格是5000.0。
+1533,有一个Xuhui的attached lane house，1卧0厅1卫，面积是30平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是5000.0。
+1534,有一个Xuhui的detached lane house，1卧1厅1卫，面积是23平方米，房租价格是5000.0。
+1535,有一个Xuhui的detached lane house，1卧1厅1卫，面积是18平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是5000.0。
+1536,有一个Xuhui的attached lane house，1卧0厅1卫，面积是38平方米，有室外空间，有空调，房租价格是5000.0。
+1537,有一个Xuhui的public housing，2卧1厅1卫，面积是60平方米，有浴缸，房租价格是5000.0。
+1538,有一个Xuhui的detached lane house，1卧0厅1卫，面积是30平方米，有空调，有WIFI，房租价格是5000.0。
+1539,有一个Xuhui的detached lane house，1卧0厅1卫，面积是30平方米，有空调，有阳台，房租价格是5000.0。
+1540,有一个Xuhui的public housing，1卧1厅1卫，面积是38平方米，有空调，房租价格是5100.0。
+1541,有一个Xuhui的public housing，1卧1厅1卫，面积是38平方米，有空调，房租价格是5100.0。
+1542,有一个Xuhui的public housing，1卧1厅1卫，面积是38平方米，有空调，房租价格是5100.0。
+1543,有一个Xuhui的detached lane house，1卧0厅1卫，面积是20平方米，有室外空间，有空调，房租价格是5200.0。
+1544,有一个Xuhui的public housing，1卧0厅1卫，面积是26平方米，有空调，房租价格是5200.0。
+1545,有一个Xuhui的detached lane house，1卧0厅1卫，面积是25平方米，有室外空间，有空调，房租价格是5200.0。
+1546,有一个Xuhui的attached lane house，1卧1厅1卫，面积是40平方米，有空调，房租价格是5200.0。
+1547,有一个Xuhui的attached lane house，1卧1厅1卫，面积是40平方米，有空调，有阳台，房租价格是5200.0。
+1548,有一个Xuhui的detached lane house，1卧1厅1卫，面积是20平方米，有室外空间，有空调，房租价格是5200.0。
+1549,有一个Xuhui的attached lane house，1卧0厅1卫，面积是27平方米，有空调，房租价格是5300.0。
+1550,有一个Xuhui的attached lane house，1卧0厅1卫，面积是30平方米，有空调，房租价格是5300.0。
+1551,有一个Xuhui的attached lane house，1卧0厅1卫，面积是25平方米，有空调，房租价格是5300.0。
+1552,有一个Xuhui的detached lane house，1卧1厅1卫，面积是25平方米，有供暖，有空调，有WIFI，房租价格是5500.0。
+1553,有一个Xuhui的public housing，1卧1厅1卫，面积是40平方米，有空调，有阳台，房租价格是5500.0。
+1554,有一个Xuhui的attached lane house，1卧0厅1卫，面积是20平方米，有空调，有WIFI，房租价格是5500.0。
+1555,有一个Xuhui的detached lane house，1卧0厅1卫，面积是30平方米，有室外空间，有供暖，有空调，有阳台，房租价格是5500.0。
+1556,有一个Xuhui的attached lane house，1卧1厅1卫，面积是29平方米，有供暖，有空调，有浴缸，房租价格是5500.0。
+1557,有一个Xuhui的detached lane house，1卧0厅1卫，面积是18平方米，有室外空间，有供暖，有地暖，房租价格是5500.0。
+1558,有一个Xuhui的public housing，1卧0厅1卫，面积是42平方米，有空调，有阳台，房租价格是5500.0。
+1559,有一个Xuhui的detached lane house，1卧0厅1卫，面积是35平方米，有空调，房租价格是5500.0。
+1560,有一个Xuhui的attached lane house，1卧1厅1卫，面积是35平方米，有室外空间，有空调，房租价格是5500.0。
+1561,有一个Xuhui的detached lane house，1卧1厅1卫，面积是25平方米，有室外空间，有空调，有阳台，房租价格是5500.0。
+1562,有一个Xuhui的detached lane house，1卧0厅1卫，面积是20平方米，有室外空间，房租价格是5500.0。
+1563,有一个Xuhui的detached lane house，1卧0厅1卫，面积是15平方米，有空调，房租价格是5500.0。
+1564,有一个Xuhui的detached lane house，1卧1厅1卫，面积是20平方米，有空调，房租价格是5500.0。
+1565,有一个Xuhui的attached lane house，1卧0厅1卫，面积是30平方米，房租价格是5500.0。
+1566,有一个Xuhui的public housing，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是5700.0。
+1567,有一个Xuhui的detached lane house，1卧1厅1卫，面积是23平方米，有供暖，有地暖，房租价格是5700.0。
+1568,有一个Xuhui的public housing，3卧1厅1卫，面积是80平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是5800.0。
+1569,有一个Xuhui的public housing，1卧0厅1卫，面积是32平方米，有室外空间，有空调，房租价格是5800.0。
+1570,有一个Xuhui的detached lane house，1卧0厅1卫，面积是28平方米，有供暖，有空调，有烤箱，房租价格是5800.0。
+1571,有一个Xuhui的detached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是5800.0。
+1572,有一个Xuhui的detached lane house，1卧0厅1卫，面积是28平方米，有供暖，有空调，有WIFI，有烤箱，房租价格是5800.0。
+1573,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有空调，有WIFI，房租价格是5800.0。
+1574,有一个Xuhui的public housing，1卧1厅1卫，面积是49平方米，有空调，有阳台，房租价格是5800.0。
+1575,有一个Xuhui的detached lane house，1卧1厅1卫，面积是38平方米，有空调，房租价格是5800.0。
+1576,有一个Xuhui的attached lane house，1卧0厅1卫，面积是38平方米，有空调，房租价格是5800.0。
+1577,有一个Xuhui的public housing，1卧1厅1卫，面积是37平方米，有空调，有阳台，房租价格是5800.0。
+1578,有一个Xuhui的public housing，1卧1厅1卫，面积是70平方米，有空调，有阳台，房租价格是5800.0。
+1579,有一个Xuhui的detached lane house，1卧0厅1卫，面积是35平方米，有室外空间，有空调，有阳台，房租价格是5800.0。
+1580,有一个Xuhui的public housing，1卧1厅1卫，面积是30平方米，有供暖，有地暖，房租价格是5800.0。
+1581,有一个Xuhui的detached lane house，1卧1厅1卫，面积是28平方米，有空调，房租价格是5800.0。
+1582,有一个Xuhui的public housing，1卧1厅1卫，面积是36平方米，有供暖，有空调，房租价格是5800.0。
+1583,有一个Xuhui的detached lane house，1卧1厅1卫，面积是30平方米，有室外空间，房租价格是5800.0。
+1584,有一个Xuhui的attached lane house，1卧0厅1卫，面积是15平方米，有空调，有WIFI，房租价格是5888.0。
+1585,有一个Xuhui的attached lane house，1卧0厅1卫，面积是30平方米，有空调，有WIFI，房租价格是5900.0。
+1586,有一个Xuhui的public housing，1卧0厅1卫，面积是30平方米，有空调，有阳台，房租价格是5900.0。
+1587,有一个Xuhui的detached lane house，1卧0厅1卫，面积是40平方米，有空调，房租价格是5900.0。
+1588,有一个Xuhui的attached lane house，1卧1厅1卫，面积是45平方米，有供暖，房租价格是5900.0。
+1589,有一个Xuhui的public housing，1卧0厅1卫，面积是35平方米，有空调，房租价格是5900.0。
+1590,有一个Xuhui的detached lane house，1卧0厅1卫，面积是36平方米，有空调，有WIFI，房租价格是6000.0。
+1591,有一个Xuhui的public housing，1卧0厅1卫，面积是30平方米，有空调，房租价格是6000.0。
+1592,有一个Xuhui的attached lane house，1卧1厅1卫，面积是40平方米，有WIFI，有浴缸，房租价格是6000.0。
+1593,有一个Xuhui的detached lane house，1卧1厅1卫，面积是30平方米，房租价格是6000.0。
+1594,有一个Xuhui的detached lane house，1卧1厅1卫，面积是35平方米，有室外空间，房租价格是6000.0。
+1595,有一个Xuhui的attached lane house，1卧1厅1卫，面积是45平方米，有空调，房租价格是6000.0。
+1596,有一个Xuhui的attached lane house，1卧0厅1卫，面积是35平方米，有空调，有WIFI，房租价格是6000.0。
+1597,有一个Xuhui的public housing，2卧1厅1卫，面积是68平方米，有空调，有阳台，房租价格是6000.0。
+1598,有一个Xuhui的attached lane house，1卧0厅1卫，面积是35平方米，有空调，房租价格是6000.0。
+1599,有一个Xuhui的attached lane house，1卧0厅1卫，面积是40平方米，有空调，房租价格是6000.0。
+1600,有一个Xuhui的public housing，1卧1厅1卫，面积是40平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是6000.0。
+1601,有一个Xuhui的detached lane house，1卧0厅1卫，面积是30平方米，有空调，房租价格是6000.0。
+1602,有一个Xuhui的detached lane house，1卧0厅1卫，面积是40平方米，房租价格是6000.0。
+1603,有一个Xuhui的detached lane house，1卧1厅1卫，面积是35平方米，有室外空间，有空调，有阳台，房租价格是6000.0。
+1604,有一个Xuhui的attached lane house，1卧1厅1卫，面积是40平方米，有空调，有WIFI，房租价格是6000.0。
+1605,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是6000.0。
+1606,有一个Xuhui的attached lane house，1卧0厅1卫，面积是20平方米，有空调，房租价格是6000.0。
+1607,有一个Xuhui的public housing，1卧0厅1卫，面积是42平方米，有空调，房租价格是6000.0。
+1608,有一个Xuhui的detached lane house，1卧1厅1卫，面积是30平方米，有室外空间，有空调，房租价格是6200.0。
+1609,有一个Xuhui的detached lane house，1卧0厅1卫，面积是20平方米，有室外空间，有空调，房租价格是6200.0。
+1610,有一个Xuhui的detached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有空调，房租价格是6200.0。
+1611,有一个Xuhui的public housing，1卧0厅1卫，面积是35平方米，有空调，有阳台，房租价格是6200.0。
+1612,有一个Xuhui的public housing，1卧0厅1卫，面积是32平方米，有空调，房租价格是6200.0。
+1613,有一个Xuhui的public housing，1卧0厅1卫，面积是36平方米，有空调，有阳台，房租价格是6200.0。
+1614,有一个Xuhui的detached lane house，1卧1厅1卫，面积是45平方米，有空调，房租价格是6200.0。
+1615,有一个Xuhui的detached lane house，1卧1厅1卫，面积是31平方米，有供暖，有空调，房租价格是6200.0。
+1616,有一个Xuhui的public housing，1卧1厅1卫，面积是1平方米，房租价格是6300.0。
+1617,有一个Xuhui的attached lane house，1卧1厅1卫，面积是40平方米，有室外空间，房租价格是6300.0。
+1618,有一个Xuhui的public housing，1卧1厅1卫，面积是35平方米，有空调，房租价格是6300.0。
+1619,有一个Xuhui的public housing，1卧0厅1卫，面积是35平方米，有空调，房租价格是6300.0。
+1620,有一个Xuhui的public housing，1卧1厅1卫，面积是48平方米，有空调，有阳台，房租价格是6400.0。
+1621,有一个Xuhui的public housing，1卧0厅1卫，面积是35平方米，有空调，有阳台，房租价格是6400.0。
+1622,有一个Xuhui的public housing，1卧1厅1卫，面积是35平方米，有空调，有阳台，房租价格是6400.0。
+1623,有一个Xuhui的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是6500.0。
+1624,有一个Xuhui的attached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是6500.0。
+1625,有一个Xuhui的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有空调，房租价格是6500.0。
+1626,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有空调，房租价格是6500.0。
+1627,有一个Xuhui的attached lane house，1卧1厅1卫，面积是45平方米，有室外空间，房租价格是6500.0。
+1628,有一个Xuhui的attached lane house，1卧1厅1卫，面积是45平方米，有室外空间，有空调，有阳台，房租价格是6500.0。
+1629,有一个Xuhui的detached lane house，1卧0厅1卫，面积是25平方米，有室外空间，房租价格是6500.0。
+1630,有一个Xuhui的public housing，1卧0厅1卫，面积是35平方米，有空调，房租价格是6500.0。
+1631,有一个Xuhui的public housing，1卧1厅1卫，面积是40平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是6500.0。
+1632,有一个Xuhui的attached lane house，1卧1厅1卫，面积是35平方米，有供暖，房租价格是6500.0。
+1633,有一个Xuhui的detached lane house，1卧0厅1卫，面积是32平方米，有室外空间，有空调，房租价格是6500.0。
+1634,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有空调，有WIFI，房租价格是6500.0。
+1635,有一个Xuhui的detached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是6500.0。
+1636,有一个Xuhui的public housing，1卧0厅1卫，面积是35平方米，有浴缸，房租价格是6500.0。
+1637,有一个Xuhui的detached lane house，1卧0厅1卫，面积是30平方米，有空调，房租价格是6500.0。
+1638,有一个Xuhui的detached lane house，1卧1厅1卫，面积是30平方米，有供暖，房租价格是6500.0。
+1639,有一个Xuhui的detached lane house，1卧1厅1卫，面积是45平方米，有空调，房租价格是6500.0。
+1640,有一个Xuhui的public housing，1卧1厅1卫，面积是45平方米，有空调，房租价格是6500.0。
+1641,有一个Xuhui的public housing，1卧1厅1卫，面积是42平方米，有空调，有阳台，房租价格是6500.0。
+1642,有一个Xuhui的attached lane house，1卧0厅1卫，面积是30平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是6500.0。
+1643,有一个Xuhui的detached lane house，1卧1厅1卫，面积是30平方米，有空调，房租价格是6500.0。
+1644,有一个Xuhui的public housing，1卧2厅1卫，面积是43平方米，有空调，房租价格是6500.0。
+1645,有一个Xuhui的public housing，1卧1厅1卫，面积是38平方米，有室外空间，房租价格是6500.0。
+1646,有一个Xuhui的public housing，1卧1厅1卫，面积是35平方米，有空调，房租价格是6500.0。
+1647,有一个Xuhui的detached lane house，1卧1厅1卫，面积是40平方米，有空调，房租价格是6500.0。
+1648,有一个Xuhui的detached lane house，1卧0厅1卫，面积是25平方米，有空调，房租价格是6500.0。
+1649,有一个Xuhui的public housing，1卧0厅1卫，面积是35平方米，有空调，有阳台，房租价格是6600.0。
+1650,有一个Xuhui的public housing，1卧1厅1卫，面积是35平方米，有空调，有阳台，房租价格是6700.0。
+1651,有一个Xuhui的public housing，1卧1厅1卫，面积是35平方米，有空调，有阳台，房租价格是6700.0。
+1652,有一个Xuhui的public housing，1卧0厅1卫，面积是34平方米，有空调，有阳台，房租价格是6700.0。
+1653,有一个Xuhui的attached lane house，1卧1厅1卫，面积是20平方米，有室外空间，有烤箱，房租价格是6800.0。
+1654,有一个Xuhui的detached lane house，1卧0厅1卫，面积是25平方米，有室外空间，有空调，房租价格是6800.0。
+1655,有一个Xuhui的public housing，1卧0厅1卫，面积是36平方米，有空调，有阳台，有WIFI，房租价格是6800.0。
+1656,有一个Xuhui的attached lane house，1卧1厅1卫，面积是40平方米，有空调，有阳台，房租价格是6800.0。
+1657,有一个Xuhui的attached lane house，1卧1厅1卫，面积是46平方米，有室外空间，有空调，房租价格是6800.0。
+1658,有一个Xuhui的public housing，1卧1厅1卫，面积是38平方米，有空调，有阳台，房租价格是6800.0。
+1659,有一个Xuhui的public housing，1卧1厅1卫，面积是35平方米，有空调，有阳台，房租价格是6800.0。
+1660,有一个Xuhui的detached lane house，1卧1厅1卫，面积是40平方米，有浴缸，房租价格是6800.0。
+1661,有一个Xuhui的attached lane house，1卧1厅1卫，面积是35平方米，有室外空间，有空调，房租价格是6800.0。
+1662,有一个Xuhui的detached lane house，1卧1厅1卫，面积是40平方米，有空调，房租价格是6800.0。
+1663,有一个Xuhui的public housing，1卧1厅1卫，面积是30平方米，有空调，有阳台，房租价格是6800.0。
+1664,有一个Xuhui的attached lane house，1卧1厅1卫，面积是45平方米，有浴缸，房租价格是6800.0。
+1665,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有空调，房租价格是6800.0。
+1666,有一个Xuhui的public housing，1卧1厅1卫，面积是45平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有烤箱，房租价格是6800.0。
+1667,有一个Xuhui的detached lane house，1卧1厅1卫，面积是40平方米，有空调，有烤箱，房租价格是6800.0。
+1668,有一个Xuhui的public housing，1卧1厅1卫，面积是45平方米，有供暖，有空调，有阳台，房租价格是6800.0。
+1669,有一个Xuhui的public housing，1卧1厅1卫，面积是50平方米，有空调，房租价格是6800.0。
+1670,有一个Xuhui的detached lane house，1卧1厅1卫，面积是17平方米，有供暖，有空调，有地暖，房租价格是6800.0。
+1671,有一个Xuhui的detached lane house，1卧1厅1卫，面积是50平方米，有空调，房租价格是6900.0。
+1672,有一个Xuhui的public housing，1卧1厅1卫，面积是50平方米，有空调，有阳台，有WIFI，房租价格是6900.0。
+1673,有一个Xuhui的public housing，1卧1厅1卫，面积是45平方米，有空调，有阳台，房租价格是6900.0。
+1674,有一个Xuhui的public housing，1卧1厅1卫，面积是45平方米，有空调，有阳台，房租价格是6900.0。
+1675,有一个Xuhui的public housing，1卧0厅1卫，面积是36平方米，有空调，有阳台，房租价格是6900.0。
+1676,有一个Xuhui的public housing，1卧1厅1卫，面积是37平方米，有空调，有阳台，房租价格是6900.0。
+1677,有一个Xuhui的public housing，1卧0厅1卫，面积是40平方米，有空调，有阳台，房租价格是6900.0。
+1678,有一个Xuhui的detached lane house，2卧1厅1卫，面积是80平方米，有室外空间，房租价格是7000.0。
+1679,有一个Xuhui的attached lane house，1卧1厅1卫，面积是40平方米，有室外空间，房租价格是7000.0。
+1680,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有空调，有WIFI，房租价格是7000.0。
+1681,有一个Xuhui的attached lane house，1卧1厅1卫，面积是40平方米，有空调，房租价格是7000.0。
+1682,有一个Xuhui的detached lane house，1卧1厅1卫，面积是35平方米，有空调，有WIFI，房租价格是7000.0。
+1683,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有浴缸，房租价格是7000.0。
+1684,有一个Xuhui的detached lane house，1卧1厅1卫，面积是55平方米，有空调，有WIFI，房租价格是7000.0。
+1685,有一个Xuhui的detached lane house，1卧0厅1卫，面积是35平方米，有室外空间，有空调，有浴缸，房租价格是7000.0。
+1686,有一个Xuhui的attached lane house，1卧0厅1卫，面积是40平方米，有室外空间，有阳台，房租价格是7000.0。
+1687,有一个Xuhui的public housing，3卧0厅1卫，面积是68平方米，有空调，有阳台，房租价格是7000.0。
+1688,有一个Xuhui的public housing，1卧1厅1卫，面积是45平方米，有空调，房租价格是7000.0。
+1689,有一个Xuhui的public housing，2卧1厅1卫，面积是65平方米，有室外空间，有空调，有阳台，房租价格是7000.0。
+1690,有一个Xuhui的public housing，1卧1厅1卫，面积是45平方米，有空调，有阳台，房租价格是7000.0。
+1691,有一个Xuhui的public housing，2卧1厅1卫，面积是58平方米，有室外空间，房租价格是7000.0。
+1692,有一个Xuhui的public housing，1卧1厅1卫，面积是38平方米，有空调，有阳台，房租价格是7000.0。
+1693,有一个Xuhui的public housing，1卧1厅1卫，面积是38平方米，有室外空间，房租价格是7000.0。
+1694,有一个Xuhui的public housing，2卧2厅1卫，面积是55平方米，有空调，有WIFI，房租价格是7199.0。
+1695,有一个Xuhui的detached lane house，1卧1厅1卫，面积是45平方米，有供暖，有地暖，房租价格是7200.0。
+1696,有一个Xuhui的public housing，1卧1厅1卫，面积是38平方米，有空调，房租价格是7200.0。
+1697,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有供暖，有空调，有浴缸，房租价格是7200.0。
+1698,有一个Xuhui的public housing，1卧2厅1卫，面积是43平方米，有空调，房租价格是7200.0。
+1699,有一个Xuhui的public housing，1卧1厅1卫，面积是37平方米，有空调，有阳台，房租价格是7200.0。
+1700,有一个Xuhui的attached lane house，1卧1厅1卫，面积是40平方米，有空调，房租价格是7200.0。
+1701,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有浴缸，房租价格是7200.0。
+1702,有一个Xuhui的detached lane house，1卧1厅1卫，面积是45平方米，有空调，房租价格是7200.0。
+1703,有一个Xuhui的public housing，1卧1厅1卫，面积是60平方米，有空调，房租价格是7200.0。
+1704,有一个Xuhui的public housing，1卧1厅1卫，面积是45平方米，有室外空间，有空调，有阳台，房租价格是7200.0。
+1705,有一个Xuhui的public housing，1卧1厅1卫，面积是55平方米，有室外空间，房租价格是7200.0。
+1706,有一个Xuhui的public housing，1卧1厅1卫，面积是47平方米，有空调，有阳台，房租价格是7300.0。
+1707,有一个Xuhui的public housing，1卧1厅1卫，面积是35平方米，有空调，有阳台，房租价格是7300.0。
+1708,有一个Xuhui的public housing，1卧1厅1卫，面积是35平方米，有空调，房租价格是7400.0。
+1709,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，有供暖，有空调，房租价格是7499.0。
+1710,有一个Xuhui的public housing，1卧1厅1卫，面积是40平方米，有室外空间，房租价格是7500.0。
+1711,有一个Xuhui的detached lane house，1卧2厅1卫，面积是40平方米，有空调，房租价格是7500.0。
+1712,有一个Xuhui的public housing，1卧1厅1卫，面积是38平方米，有浴缸，房租价格是7500.0。
+1713,有一个Xuhui的attached lane house，1卧1厅1卫，面积是46平方米，有室外空间，有空调，有阳台，有烤箱，房租价格是7500.0。
+1714,有一个Xuhui的public housing，1卧1厅1卫，面积是45平方米，有室外空间，有空调，房租价格是7500.0。
+1715,有一个Xuhui的public housing，1卧1厅1卫，面积是40平方米，有供暖，有空调，有WIFI，房租价格是7500.0。
+1716,有一个Xuhui的public housing，1卧2厅1卫，面积是50平方米，有空调，有阳台，有WIFI，房租价格是7500.0。
+1717,有一个Xuhui的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，房租价格是7500.0。
+1718,有一个Xuhui的detached lane house，1卧0厅1卫，面积是45平方米，有室外空间，房租价格是7500.0。
+1719,有一个Xuhui的attached lane house，1卧1厅1卫，面积是45平方米，有室外空间，有空调，房租价格是7500.0。
+1720,有一个Xuhui的attached lane house，2卧0厅1卫，面积是56平方米，有空调，有阳台，有WIFI，房租价格是7500.0。
+1721,有一个Xuhui的detached lane house，1卧0厅1卫，面积是30平方米，有空调，有WIFI，房租价格是7500.0。
+1722,有一个Xuhui的detached lane house，1卧1厅1卫，面积是55平方米，有空调，有WIFI，房租价格是7500.0。
+1723,有一个Xuhui的detached lane house，1卧0厅1卫，面积是45平方米，有室外空间，房租价格是7500.0。
+1724,有一个Xuhui的detached lane house，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是7500.0。
+1725,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，房租价格是7500.0。
+1726,有一个Xuhui的attached lane house，2卧1厅1卫，面积是65平方米，有供暖，有地暖，房租价格是7500.0。
+1727,有一个Xuhui的public housing，1卧1厅1卫，面积是60平方米，有供暖，有空调，有阳台，房租价格是7500.0。
+1728,有一个Xuhui的public housing，1卧1厅1卫，面积是45平方米，有室外空间，有供暖，有空调，有阳台，有烤箱，房租价格是7500.0。
+1729,有一个Xuhui的villa，1卧1厅1卫，面积是40平方米，有室外空间，房租价格是7500.0。
+1730,有一个Xuhui的detached lane house，1卧0厅1卫，面积是12平方米，有空调，有WIFI，房租价格是7500.0。
+1731,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有空调，房租价格是7500.0。
+1732,有一个Xuhui的detached lane house，1卧1厅1卫，面积是35平方米，有室外空间，房租价格是7500.0。
+1733,有一个Xuhui的public housing，1卧1厅1卫，面积是50平方米，有室外空间，有空调，有阳台，房租价格是7500.0。
+1734,有一个Xuhui的attached lane house，1卧2厅1卫，面积是65平方米，有阳台，房租价格是7500.0。
+1735,有一个Xuhui的detached lane house，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是7500.0。
+1736,有一个Xuhui的public housing，2卧1厅1卫，面积是55平方米，有空调，有阳台，房租价格是7500.0。
+1737,有一个Xuhui的detached lane house，1卧1厅1卫，面积是65平方米，有空调，有WIFI，有烤箱，房租价格是7500.0。
+1738,有一个Xuhui的detached lane house，1卧1厅1卫，面积是45平方米，有室外空间，有空调，房租价格是7500.0。
+1739,有一个Xuhui的attached lane house，1卧1厅1卫，面积是55平方米，有室外空间，房租价格是7500.0。
+1740,有一个Xuhui的attached lane house，1卧2厅1卫，面积是60平方米，有室外空间，房租价格是7600.0。
+1741,有一个Xuhui的public housing，1卧2厅1卫，面积是55平方米，有空调，房租价格是7600.0。
+1742,有一个Xuhui的public housing，3卧1厅1卫，面积是106平方米，有空调，有阳台，有WIFI，房租价格是7600.0。
+1743,有一个Xuhui的public housing，2卧0厅1卫，面积是50平方米，有空调，有阳台，房租价格是7600.0。
+1744,有一个Xuhui的public housing，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是7600.0。
+1745,有一个Xuhui的public housing，1卧2厅1卫，面积是50平方米，有空调，有阳台，房租价格是7700.0。
+1746,有一个Xuhui的detached lane house，1卧1厅1卫，面积是30平方米，有室外空间，房租价格是7700.0。
+1747,有一个Xuhui的public housing，1卧2厅1卫，面积是55平方米，有空调，房租价格是7700.0。
+1748,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有供暖，房租价格是7800.0。
+1749,有一个Xuhui的detached lane house，1卧1厅1卫，面积是35平方米，有供暖，有地暖，房租价格是7800.0。
+1750,有一个Xuhui的detached lane house，1卧0厅1卫，面积是40平方米，有空调，房租价格是7800.0。
+1751,有一个Xuhui的detached lane house，2卧1厅1卫，面积是60平方米，有空调，有WIFI，房租价格是7800.0。
+1752,有一个Xuhui的public housing，1卧1厅1卫，面积是55平方米，有空调，有阳台，有WIFI，房租价格是7800.0。
+1753,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是7800.0。
+1754,有一个Xuhui的attached lane house，2卧1厅1卫，面积是60平方米，有空调，有阳台，房租价格是7800.0。
+1755,有一个Xuhui的public housing，2卧0厅1卫，面积是50平方米，有空调，有阳台，房租价格是7900.0。
+1756,有一个Xuhui的public housing，1卧1厅1卫，面积是35平方米，有供暖，有空调，有烤箱，房租价格是7900.0。
+1757,有一个Xuhui的detached lane house，1卧1厅1卫，面积是40平方米，有空调，房租价格是7999.0。
+1758,有一个Xuhui的detached lane house，1卧1厅1卫，面积是45平方米，有供暖，有空调，有阳台，房租价格是8000.0。
+1759,有一个Xuhui的attached lane house，1卧2厅1卫，面积是50平方米，有空调，房租价格是8000.0。
+1760,有一个Xuhui的attached lane house，1卧1厅1卫，面积是65平方米，有室外空间，有供暖，有空调，有浴缸，有地暖，房租价格是8000.0。
+1761,有一个Xuhui的public housing，1卧1厅1卫，面积是40平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有烤箱，房租价格是8000.0。
+1762,有一个Xuhui的attached lane house，1卧2厅1卫，面积是45平方米，有供暖，有空调，房租价格是8000.0。
+1763,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，房租价格是8000.0。
+1764,有一个Xuhui的attached lane house，1卧1厅1卫，面积是30平方米，有供暖，房租价格是8000.0。
+1765,有一个Xuhui的detached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，房租价格是8000.0。
+1766,有一个Xuhui的detached lane house，1卧1厅1卫，面积是50平方米，有空调，有WIFI，房租价格是8000.0。
+1767,有一个Xuhui的attached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有浴缸，房租价格是8000.0。
+1768,有一个Xuhui的public housing，1卧1厅1卫，面积是45平方米，有空调，有阳台，有烤箱，房租价格是8000.0。
+1769,有一个Xuhui的public housing，2卧1厅1卫，面积是50平方米，有空调，有阳台，房租价格是8000.0。
+1770,有一个Xuhui的detached lane house，1卧1厅1卫，面积是50平方米，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是8000.0。
+1771,有一个Xuhui的detached lane house，1卧1厅1卫，面积是45平方米，有供暖，有空调，有WIFI，房租价格是8000.0。
+1772,有一个Xuhui的detached lane house，1卧0厅0卫，面积是25平方米，有室外空间，房租价格是8000.0。
+1773,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有WIFI，房租价格是8000.0。
+1774,有一个Xuhui的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有供暖，有地暖，房租价格是8000.0。
+1775,有一个Xuhui的public housing，1卧1厅1卫，面积是55平方米，有供暖，有空调，有阳台，房租价格是8000.0。
+1776,有一个Xuhui的detached lane house，1卧1厅1卫，面积是55平方米，有室外空间，有供暖，有空调，有WIFI，有地暖，房租价格是8000.0。
+1777,有一个Xuhui的attached lane house，2卧1厅1卫，面积是76平方米，有空调，房租价格是8200.0。
+1778,有一个Xuhui的public housing，1卧1厅1卫，面积是45平方米，有室外空间，有供暖，有地暖，房租价格是8200.0。
+1779,有一个Xuhui的public housing，2卧0厅1卫，面积是48平方米，有室外空间，有浴缸，房租价格是8200.0。
+1780,有一个Xuhui的public housing，2卧1厅1卫，面积是55平方米，有空调，有阳台，房租价格是8200.0。
+1781,有一个Xuhui的public housing，2卧2厅1卫，面积是65平方米，有空调，有阳台，房租价格是8200.0。
+1782,有一个Xuhui的public housing，2卧1厅1卫，面积是65平方米，有空调，房租价格是8200.0。
+1783,有一个Xuhui的public housing，1卧2厅1卫，面积是60平方米，有空调，有阳台，房租价格是8300.0。
+1784,有一个Xuhui的public housing，1卧1厅1卫，面积是45平方米，有室外空间，有供暖，有浴缸，房租价格是8300.0。
+1785,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有空调，有阳台，房租价格是8300.0。
+1786,有一个Xuhui的public housing，3卧1厅3卫，面积是70平方米，有室外空间，有供暖，有空调，有WIFI，有地暖，房租价格是8500.0。
+1787,有一个Xuhui的detached lane house，1卧1厅1卫，面积是33平方米，有供暖，有空调，有WIFI，房租价格是8500.0。
+1788,有一个Xuhui的public housing，1卧0厅1卫，面积是50平方米，有室外空间，房租价格是8500.0。
+1789,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，有空调，有阳台，房租价格是8500.0。
+1790,有一个Xuhui的attached lane house，1卧2厅1卫，面积是52平方米，有空调，有阳台，有WIFI，房租价格是8500.0。
+1791,有一个Xuhui的detached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是8500.0。
+1792,有一个Xuhui的public housing，2卧1厅1卫，面积是60平方米，有空调，有阳台，房租价格是8500.0。
+1793,有一个Xuhui的detached lane house，1卧2厅1卫，面积是65平方米，有室外空间，房租价格是8500.0。
+1794,有一个Xuhui的public housing，1卧1厅1卫，面积是45平方米，有空调，房租价格是8500.0。
+1795,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有供暖，有空调，有地暖，房租价格是8500.0。
+1796,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，房租价格是8500.0。
+1797,有一个Xuhui的public housing，1卧1厅1卫，面积是55平方米，有室外空间，房租价格是8500.0。
+1798,有一个Xuhui的public housing，1卧1厅1卫，面积是55平方米，有室外空间，房租价格是8500.0。
+1799,有一个Xuhui的public housing，1卧1厅1卫，面积是50平方米，有室外空间，有空调，有WIFI，房租价格是8500.0。
+1800,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是8500.0。
+1801,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是8500.0。
+1802,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有空调，有WIFI，房租价格是8500.0。
+1803,有一个Xuhui的attached lane house，1卧1厅1卫，面积是40平方米，有空调，房租价格是8500.0。
+1804,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，房租价格是8500.0。
+1805,有一个Xuhui的detached lane house，1卧2厅1卫，面积是70平方米，有空调，有阳台，房租价格是8500.0。
+1806,有一个Xuhui的public housing，2卧1厅1卫，面积是45平方米，有空调，有WIFI，房租价格是8500.0。
+1807,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有空调，房租价格是8500.0。
+1808,有一个Xuhui的detached lane house，1卧1厅1卫，面积是50平方米，有空调，房租价格是8500.0。
+1809,有一个Xuhui的public housing，1卧2厅1卫，面积是50平方米，有供暖，有空调，房租价格是8500.0。
+1810,有一个Xuhui的attached lane house，1卧1厅1卫，面积是40平方米，有空调，房租价格是8500.0。
+1811,有一个Xuhui的detached lane house，1卧0厅1卫，面积是40平方米，有室外空间，有供暖，房租价格是8500.0。
+1812,有一个Xuhui的attached lane house，1卧1厅1卫，面积是1平方米，有空调，有阳台，有WIFI，房租价格是8500.0。
+1813,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，房租价格是8500.0。
+1814,有一个Xuhui的public housing，2卧1厅1卫，面积是80平方米，有空调，房租价格是8500.0。
+1815,有一个Xuhui的public housing，1卧1厅1卫，面积是65平方米，有室外空间，有空调，房租价格是8500.0。
+1816,有一个Xuhui的attached lane house，1卧1厅1卫，面积是65平方米，有空调，房租价格是8500.0。
+1817,有一个Xuhui的attached lane house，1卧2厅1卫，面积是70平方米，有空调，房租价格是8500.0。
+1818,有一个Xuhui的detached lane house，1卧0厅1卫，面积是30平方米，有供暖，有空调，房租价格是8500.0。
+1819,有一个Xuhui的public housing，1卧2厅1卫，面积是70平方米，有空调，有阳台，房租价格是8500.0。
+1820,有一个Xuhui的public housing，1卧2厅1卫，面积是72平方米，有空调，有阳台，有WIFI，房租价格是8500.0。
+1821,有一个Xuhui的detached lane house，1卧0厅1卫，面积是40平方米，有室外空间，有空调，有阳台，房租价格是8500.0。
+1822,有一个Xuhui的detached lane house，1卧0厅1卫，面积是25平方米，有室外空间，有空调，房租价格是8500.0。
+1823,有一个Xuhui的detached lane house，1卧1厅1卫，面积是50平方米，有供暖，有空调，有WIFI，房租价格是8500.0。
+1824,有一个Xuhui的detached lane house，1卧2厅1卫，面积是65平方米，有空调，有WIFI，房租价格是8500.0。
+1825,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，房租价格是8500.0。
+1826,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有浴缸，房租价格是8600.0。
+1827,有一个Xuhui的public housing，2卧1厅1卫，面积是56平方米，有空调，有阳台，有WIFI，房租价格是8600.0。
+1828,有一个Xuhui的public housing，1卧1厅1卫，面积是40平方米，有空调，有阳台，有WIFI，房租价格是8600.0。
+1829,有一个Xuhui的public housing，1卧1厅1卫，面积是45平方米，有空调，有阳台，房租价格是8600.0。
+1830,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有空调，房租价格是8600.0。
+1831,有一个Xuhui的public housing，1卧1厅1卫，面积是52平方米，有室外空间，有浴缸，房租价格是8700.0。
+1832,有一个Xuhui的public housing，1卧1厅1卫，面积是40平方米，有空调，有阳台，房租价格是8800.0。
+1833,有一个Xuhui的detached lane house，1卧1厅1卫，面积是40平方米，有空调，房租价格是8800.0。
+1834,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有空调，有阳台，房租价格是8800.0。
+1835,有一个Xuhui的detached lane house，2卧1厅1卫，面积是68平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是8800.0。
+1836,有一个Xuhui的detached lane house，1卧2厅1卫，面积是45平方米，有供暖，有地暖，房租价格是8800.0。
+1837,有一个Xuhui的public housing，1卧1厅1卫，面积是50平方米，有室外空间，有空调，有地暖，房租价格是8800.0。
+1838,有一个Xuhui的detached lane house，1卧1厅1卫，面积是37平方米，有供暖，有空调，有地暖，房租价格是8800.0。
+1839,有一个Xuhui的public housing，1卧1厅1卫，面积是45平方米，有室外空间，有供暖，有空调，有阳台，有烤箱，房租价格是8800.0。
+1840,有一个Xuhui的public housing，1卧1厅1卫，面积是50平方米，有空调，有阳台，房租价格是8800.0。
+1841,有一个Xuhui的detached lane house，1卧2厅1卫，面积是60平方米，有空调，房租价格是8800.0。
+1842,有一个Xuhui的attached lane house，1卧2厅1卫，面积是60平方米，有供暖，有地暖，房租价格是8800.0。
+1843,有一个Xuhui的detached lane house，1卧1厅1卫，面积是48平方米，有空调，房租价格是8800.0。
+1844,有一个Xuhui的detached lane house，1卧1厅1卫，面积是38平方米，有室外空间，房租价格是8800.0。
+1845,有一个Xuhui的detached lane house，1卧1厅1卫，面积是45平方米，有室外空间，房租价格是8800.0。
+1846,有一个Xuhui的detached lane house，1卧2厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有阳台，有地暖，房租价格是8800.0。
+1847,有一个Xuhui的attached lane house，1卧2厅1卫，面积是65平方米，有空调，有烤箱，房租价格是8800.0。
+1848,有一个Xuhui的public housing，3卧0厅1卫，面积是70平方米，有空调，有阳台，房租价格是8900.0。
+1849,有一个Xuhui的public housing，1卧1厅1卫，面积是50平方米，有供暖，有空调，房租价格是8900.0。
+1850,有一个Xuhui的detached lane house，1卧0厅1卫，面积是60平方米，有室外空间，有供暖，房租价格是8900.0。
+1851,有一个Xuhui的public housing，1卧1厅1卫，面积是50平方米，有供暖，有空调，有WIFI，房租价格是8900.0。
+1852,有一个Xuhui的attached lane house，1卧1厅1卫，面积是55平方米，有空调，有阳台，房租价格是9000.0。
+1853,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有空调，房租价格是9000.0。
+1854,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，房租价格是9000.0。
+1855,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是9000.0。
+1856,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有空调，房租价格是9000.0。
+1857,有一个Xuhui的detached lane house，1卧2厅1卫，面积是60平方米，有空调，房租价格是9000.0。
+1858,有一个Xuhui的detached lane house，1卧1厅1卫，面积是45平方米，有供暖，有空调，有地暖，房租价格是9000.0。
+1859,有一个Xuhui的detached lane house，1卧2厅1卫，面积是80平方米，有室外空间，有空调，房租价格是9000.0。
+1860,有一个Xuhui的detached lane house，1卧0厅1卫，面积是30平方米，有空调，有阳台，房租价格是9000.0。
+1861,有一个Xuhui的detached lane house，1卧2厅1卫，面积是50平方米，有室外空间，房租价格是9000.0。
+1862,有一个Xuhui的public housing，1卧1厅1卫，面积是70平方米，有空调，房租价格是9000.0。
+1863,有一个Xuhui的attached lane house，1卧2厅1卫，面积是40平方米，有室外空间，有供暖，有空调，有阳台，房租价格是9000.0。
+1864,有一个Xuhui的public housing，1卧1厅1卫，面积是70平方米，有供暖，有空调，有阳台，房租价格是9000.0。
+1865,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，房租价格是9000.0。
+1866,有一个Xuhui的detached lane house，1卧2厅1卫，面积是70平方米，有空调，房租价格是9000.0。
+1867,有一个Xuhui的attached lane house，1卧1厅1卫，面积是66平方米，有室外空间，有空调，房租价格是9000.0。
+1868,有一个Xuhui的public housing，1卧1厅1卫，面积是55平方米，有室外空间，有空调，有WIFI，房租价格是9000.0。
+1869,有一个Xuhui的public housing，2卧1厅1卫，面积是65平方米，有空调，有阳台，房租价格是9000.0。
+1870,有一个Xuhui的public housing，1卧2厅1卫，面积是70平方米，有室外空间，有供暖，有空调，有阳台，房租价格是9000.0。
+1871,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，有空调，房租价格是9000.0。
+1872,有一个Xuhui的public housing，1卧1厅1卫，面积是50平方米，有空调，有阳台，房租价格是9000.0。
+1873,有一个Xuhui的detached lane house，1卧1厅1卫，面积是65平方米，有空调，有浴缸，房租价格是9000.0。
+1874,有一个Xuhui的detached lane house，1卧2厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有WIFI，房租价格是9000.0。
+1875,有一个Xuhui的public housing，2卧1厅1卫，面积是50平方米，有空调，有阳台，房租价格是9000.0。
+1876,有一个Xuhui的detached lane house，1卧1厅1卫，面积是46平方米，有空调，有阳台，房租价格是9000.0。
+1877,有一个Xuhui的detached lane house，1卧1厅1卫，面积是48平方米，有室外空间，有空调，有阳台，房租价格是9000.0。
+1878,有一个Xuhui的detached lane house，1卧0厅1卫，面积是30平方米，有室外空间，有供暖，有空调，房租价格是9000.0。
+1879,有一个Xuhui的detached lane house，1卧1厅1卫，面积是45平方米，有室外空间，有空调，有阳台，房租价格是9200.0。
+1880,有一个Xuhui的detached lane house，1卧1厅1卫，面积是70平方米，有空调，有WIFI，房租价格是9200.0。
+1881,有一个Xuhui的detached lane house，1卧1厅1卫，面积是48平方米，有空调，有阳台，房租价格是9200.0。
+1882,有一个Xuhui的detached lane house，1卧1厅1卫，面积是48平方米，有空调，有阳台，房租价格是9200.0。
+1883,有一个Xuhui的detached lane house，1卧1厅1卫，面积是45平方米，有空调，有阳台，房租价格是9300.0。
+1884,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有空调，有烤箱，房租价格是9300.0。
+1885,有一个Xuhui的detached lane house，1卧1厅1卫，面积是55平方米，有浴缸，房租价格是9400.0。
+1886,有一个Xuhui的detached lane house，1卧0厅1卫，面积是20平方米，有室外空间，有空调，有WIFI，房租价格是9500.0。
+1887,有一个Xuhui的attached lane house，1卧2厅1卫，面积是65平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是9500.0。
+1888,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有空调，房租价格是9500.0。
+1889,有一个Xuhui的public housing，2卧2厅1卫，面积是86平方米，有室外空间，房租价格是9500.0。
+1890,有一个Xuhui的detached lane house，1卧2厅1卫，面积是68平方米，有供暖，有空调，有浴缸，房租价格是9500.0。
+1891,有一个Xuhui的public housing，1卧1厅1卫，面积是60平方米，有室外空间，有空调，房租价格是9500.0。
+1892,有一个Xuhui的detached lane house，1卧2厅1卫，面积是60平方米，有室外空间，有供暖，房租价格是9500.0。
+1893,有一个Xuhui的attached lane house，1卧1厅1卫，面积是40平方米，有室外空间，房租价格是9500.0。
+1894,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，有空调，有WIFI，房租价格是9500.0。
+1895,有一个Xuhui的detached lane house，1卧1厅1卫，面积是48平方米，有空调，有阳台，房租价格是9500.0。
+1896,有一个Xuhui的public housing，1卧1厅1卫，面积是70平方米，有室外空间，有空调，房租价格是9500.0。
+1897,有一个Xuhui的public housing，1卧2厅1卫，面积是60平方米，有供暖，有空调，有地暖，房租价格是9500.0。
+1898,有一个Xuhui的public housing，1卧1厅1卫，面积是70平方米，有室外空间，房租价格是9500.0。
+1899,有一个Xuhui的detached lane house，2卧2厅1卫，面积是75平方米，有空调，房租价格是9500.0。
+1900,有一个Xuhui的public housing，1卧1厅1卫，面积是60平方米，有室外空间，房租价格是9500.0。
+1901,有一个Xuhui的attached lane house，2卧1厅1卫，面积是50平方米，有供暖，有空调，有地暖，房租价格是9500.0。
+1902,有一个Xuhui的public housing，1卧1厅1卫，面积是45平方米，有室外空间，有供暖，有空调，有阳台，房租价格是9500.0。
+1903,有一个Xuhui的detached lane house，2卧2厅1卫，面积是78平方米，有室外空间，有空调，房租价格是9500.0。
+1904,有一个Xuhui的detached lane house，2卧2厅1卫，面积是78平方米，有室外空间，有空调，房租价格是9500.0。
+1905,有一个Xuhui的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有空调，房租价格是9500.0。
+1906,有一个Xuhui的public housing，1卧2厅1卫，面积是60平方米，有供暖，有浴缸，房租价格是9500.0。
+1907,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，有供暖，有地暖，有烤箱，房租价格是9500.0。
+1908,有一个Xuhui的detached lane house，1卧1厅1卫，面积是45平方米，有室外空间，有供暖，有地暖，房租价格是9500.0。
+1909,有一个Xuhui的attached lane house，1卧1厅1卫，面积是65平方米，有空调，房租价格是9500.0。
+1910,有一个Xuhui的detached lane house，1卧1厅1卫，面积是40平方米，有供暖，有空调，有地暖，房租价格是9500.0。
+1911,有一个Xuhui的attached lane house，1卧1厅1卫，面积是75平方米，有室外空间，房租价格是9500.0。
+1912,有一个Xuhui的detached lane house，2卧1厅1卫，面积是70平方米，有供暖，房租价格是9500.0。
+1913,有一个Xuhui的public housing，1卧1厅1卫，面积是50平方米，有室外空间，有空调，房租价格是9500.0。
+1914,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有阳台，有地暖，房租价格是9500.0。
+1915,有一个Xuhui的attached lane house，1卧1厅1卫，面积是40平方米，有空调，房租价格是9500.0。
+1916,有一个Xuhui的detached lane house，1卧1厅1卫，面积是80平方米，有供暖，有空调，房租价格是9500.0。
+1917,有一个Xuhui的detached lane house，1卧1厅1卫，面积是40平方米，有供暖，有空调，有烤箱，房租价格是9500.0。
+1918,有一个Xuhui的public housing，1卧1厅1卫，面积是70平方米，有室外空间，房租价格是9600.0。
+1919,有一个Xuhui的attached lane house，1卧1厅1卫，面积是55平方米，有室外空间，有供暖，有空调，有阳台，房租价格是9800.0。
+1920,有一个Xuhui的detached lane house，2卧1厅1卫，面积是65平方米，有室外空间，房租价格是9800.0。
+1921,有一个Xuhui的public housing，1卧2厅1卫，面积是70平方米，有室外空间，房租价格是9800.0。
+1922,有一个Xuhui的detached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有地暖，房租价格是9800.0。
+1923,有一个Xuhui的attached lane house，1卧2厅1卫，面积是70平方米，有空调，房租价格是9800.0。
+1924,有一个Xuhui的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有供暖，有空调，有地暖，房租价格是9800.0。
+1925,有一个Xuhui的public housing，1卧1厅1卫，面积是50平方米，有空调，有WIFI，房租价格是9800.0。
+1926,有一个Xuhui的public housing，1卧1厅1卫，面积是70平方米，有空调，有阳台，有WIFI，房租价格是9800.0。
+1927,有一个Xuhui的public housing，1卧1厅1卫，面积是40平方米，有供暖，有空调，房租价格是9800.0。
+1928,有一个Xuhui的attached lane house，1卧1厅1卫，面积是25平方米，有空调，房租价格是9800.0。
+1929,有一个Xuhui的attached lane house，1卧2厅1卫，面积是65平方米，有室外空间，有供暖，有空调，有WIFI，有地暖，房租价格是9800.0。
+1930,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是9800.0。
+1931,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有供暖，房租价格是9900.0。
+1932,有一个Xuhui的detached lane house，1卧1厅1卫，面积是80平方米，有室外空间，有供暖，房租价格是9900.0。
+1933,有一个Xuhui的public housing，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，有空调，房租价格是9900.0。
+1934,有一个Xuhui的attached lane house，1卧2厅1卫，面积是80平方米，有室外空间，有供暖，有空调，房租价格是10000.0。
+1935,有一个Xuhui的public housing，1卧1厅1卫，面积是70平方米，有空调，有阳台，有烤箱，房租价格是10000.0。
+1936,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，有空调，房租价格是10000.0。
+1937,有一个Xuhui的attached lane house，1卧1厅1卫，面积是65平方米，有室外空间，有供暖，有空调，房租价格是10000.0。
+1938,有一个Xuhui的detached lane house，1卧2厅1卫，面积是60平方米，有室外空间，房租价格是10000.0。
+1939,有一个Xuhui的public housing，2卧2厅1卫，面积是105平方米，有空调，房租价格是10000.0。
+1940,有一个Xuhui的detached lane house，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是10000.0。
+1941,有一个Xuhui的public housing，1卧1厅1卫，面积是58平方米，有室外空间，房租价格是10000.0。
+1942,有一个Xuhui的detached lane house，1卧2厅1卫，面积是60平方米，有室外空间，有空调，有阳台，房租价格是10000.0。
+1943,有一个Xuhui的attached lane house，2卧1厅2卫，面积是70平方米，有室外空间，房租价格是10000.0。
+1944,有一个Xuhui的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有空调，有浴缸，房租价格是10000.0。
+1945,有一个Xuhui的detached lane house，1卧2厅1卫，面积是65平方米，有室外空间，有供暖，房租价格是10000.0。
+1946,有一个Xuhui的detached lane house，1卧1厅1卫，面积是70平方米，有室外空间，房租价格是10000.0。
+1947,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，有供暖，房租价格是10000.0。
+1948,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，房租价格是10000.0。
+1949,有一个Xuhui的attached lane house，1卧2厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有地暖，房租价格是10000.0。
+1950,有一个Xuhui的public housing，1卧1厅1卫，面积是70平方米，有供暖，有空调，有地暖，房租价格是10000.0。
+1951,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有空调，有阳台，房租价格是10000.0。
+1952,有一个Xuhui的attached lane house，2卧2厅1卫，面积是65平方米，有空调，房租价格是10000.0。
+1953,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有空调，房租价格是10000.0。
+1954,有一个Xuhui的detached lane house，1卧1厅1卫，面积是46平方米，有室外空间，有供暖，有地暖，房租价格是10000.0。
+1955,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有空调，有阳台，有浴缸，房租价格是10000.0。
+1956,有一个Xuhui的attached lane house，2卧1厅1卫，面积是70平方米，有室外空间，房租价格是10000.0。
+1957,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，有空调，房租价格是10000.0。
+1958,有一个Xuhui的detached lane house，1卧2厅1卫，面积是70平方米，有空调，有阳台，有WIFI，有浴缸，房租价格是10000.0。
+1959,有一个Xuhui的public housing，1卧1厅1卫，面积是50平方米，有供暖，有空调，有阳台，有烤箱，房租价格是10000.0。
+1960,有一个Xuhui的attached lane house，1卧1厅1卫，面积是40平方米，有空调，房租价格是10000.0。
+1961,有一个Xuhui的detached lane house，2卧1厅2卫，面积是65平方米，有空调，房租价格是10000.0。
+1962,有一个Xuhui的detached lane house，1卧1厅1卫，面积是70平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是10000.0。
+1963,有一个Xuhui的attached lane house，1卧1厅1卫，面积是70平方米，有供暖，有空调，有地暖，房租价格是10000.0。
+1964,有一个Xuhui的public housing，2卧1厅1卫，面积是85平方米，有室外空间，有烤箱，房租价格是10000.0。
+1965,有一个Xuhui的public housing，3卧2厅1卫，面积是100平方米，有室外空间，房租价格是10000.0。
+1966,有一个Xuhui的detached lane house，1卧2厅1卫，面积是50平方米，有室外空间，房租价格是10000.0。
+1967,有一个Xuhui的public housing，1卧2厅1卫，面积是55平方米，有空调，有阳台，房租价格是10300.0。
+1968,有一个Xuhui的villa，1卧1厅1卫，面积是46平方米，有室外空间，有空调，有阳台，房租价格是10450.0。
+1969,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，有空调，房租价格是10500.0。
+1970,有一个Xuhui的attached lane house，1卧2厅1卫，面积是60平方米，有室外空间，房租价格是10500.0。
+1971,有一个Xuhui的public housing，1卧1厅1卫，面积是60平方米，有室外空间，有烤箱，房租价格是10500.0。
+1972,有一个Xuhui的detached lane house，1卧2厅1卫，面积是65平方米，有空调，有阳台，房租价格是10500.0。
+1973,有一个Xuhui的public housing，1卧0厅1卫，面积是48平方米，有供暖，有空调，有阳台，有WIFI，房租价格是10500.0。
+1974,有一个Xuhui的public housing，1卧2厅1卫，面积是60平方米，有室外空间，有空调，房租价格是10500.0。
+1975,有一个Xuhui的public housing，1卧1厅1卫，面积是50平方米，有空调，有阳台，房租价格是10500.0。
+1976,有一个Xuhui的attached lane house，2卧2厅2卫，面积是110平方米，有供暖，有空调，有WIFI，有烤箱，房租价格是10500.0。
+1977,有一个Xuhui的detached lane house，1卧2厅1卫，面积是70平方米，有室外空间，房租价格是10500.0。
+1978,有一个Xuhui的detached lane house，1卧1厅1卫，面积是40平方米，整栋建筑，有室外空间，有供暖，房租价格是10500.0。
+1979,有一个Xuhui的public housing，1卧1厅1卫，面积是87平方米，有室外空间，有供暖，有空调，有阳台，房租价格是10500.0。
+1980,有一个Xuhui的attached lane house，1卧1厅1卫，面积是70平方米，有室外空间，有供暖，有空调，有WIFI，有地暖，房租价格是10500.0。
+1981,有一个Xuhui的detached lane house，1卧2厅1卫，面积是60平方米，有室外空间，有空调，有阳台，房租价格是10500.0。
+1982,有一个Xuhui的public housing，1卧1厅1卫，面积是65平方米，有室外空间，房租价格是10500.0。
+1983,有一个Xuhui的public housing，1卧1厅1卫，面积是70平方米，有室外空间，房租价格是10500.0。
+1984,有一个Xuhui的attached lane house，1卧2厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有阳台，房租价格是10500.0。
+1985,有一个Xuhui的detached lane house，2卧1厅1卫，面积是85平方米，有室外空间，有浴缸，房租价格是10500.0。
+1986,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是10800.0。
+1987,有一个Xuhui的detached lane house，1卧1厅1卫，面积是65平方米，有室外空间，房租价格是10800.0。
+1988,有一个Xuhui的detached lane house，1卧0厅1卫，面积是45平方米，有室外空间，房租价格是10800.0。
+1989,有一个Xuhui的detached lane house，1卧1厅1卫，面积是78平方米，有室外空间，有供暖，有空调，有地暖，房租价格是10800.0。
+1990,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，有空调，有浴缸，房租价格是10800.0。
+1991,有一个Xuhui的public housing，2卧2厅2卫，面积是120平方米，有空调，有阳台，房租价格是10800.0。
+1992,有一个Xuhui的detached lane house，1卧0厅1卫，面积是38平方米，有空调，房租价格是10900.0。
+1993,有一个Xuhui的attached lane house，1卧1厅1卫，面积是80平方米，整栋建筑，有空调，房租价格是11000.0。
+1994,有一个Xuhui的detached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有空调，有浴缸，房租价格是11000.0。
+1995,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，房租价格是11000.0。
+1996,有一个Xuhui的detached lane house，1卧1厅1卫，面积是68平方米，有室外空间，有空调，有阳台，有WIFI，有浴缸，房租价格是11000.0。
+1997,有一个Xuhui的detached lane house，1卧1厅1卫，面积是70平方米，有室外空间，有空调，有烤箱，房租价格是11000.0。
+1998,有一个Xuhui的public housing，2卧2厅1卫，面积是65平方米，有阳台，房租价格是11000.0。
+1999,有一个Xuhui的public housing，2卧2厅1卫，面积是70平方米，有室外空间，有浴缸，房租价格是11000.0。
+2000,有一个Xuhui的attached lane house，1卧1厅1卫，面积是65平方米，有供暖，有地暖，房租价格是11000.0。
+2001,有一个Xuhui的detached lane house，1卧1厅1卫，面积是70平方米，有室外空间，有供暖，房租价格是11000.0。
+2002,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有空调，有阳台，房租价格是11000.0。
+2003,有一个Xuhui的detached lane house，1卧1厅1卫，面积是70平方米，有供暖，有空调，房租价格是11000.0。
+2004,有一个Xuhui的detached lane house，1卧1厅1卫，面积是65平方米，有室外空间，有空调，房租价格是11000.0。
+2005,有一个Xuhui的detached lane house，1卧1厅1卫，面积是76平方米，有室外空间，有浴缸，房租价格是11000.0。
+2006,有一个Xuhui的public housing，2卧1厅1卫，面积是85平方米，有室外空间，有烤箱，房租价格是11000.0。
+2007,有一个Xuhui的attached lane house，1卧2厅1卫，面积是60平方米，有室外空间，有供暖，有地暖，房租价格是11000.0。
+2008,有一个Xuhui的detached lane house，1卧2厅1卫，面积是70平方米，有室外空间，有供暖，有空调，房租价格是11000.0。
+2009,有一个Xuhui的attached lane house，1卧1厅1卫，面积是70平方米，有浴缸，房租价格是11000.0。
+2010,有一个Xuhui的public housing，1卧2厅1卫，面积是75平方米，有室外空间，有空调，有阳台，房租价格是11000.0。
+2011,有一个Xuhui的detached lane house，1卧1厅1卫，面积是65平方米，有室外空间，有供暖，有空调，有地暖，房租价格是11000.0。
+2012,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有空调，房租价格是11000.0。
+2013,有一个Xuhui的detached lane house，2卧1厅1卫，面积是80平方米，有室外空间，有空调，有阳台，房租价格是11000.0。
+2014,有一个Xuhui的public housing，2卧1厅1卫，面积是80平方米，有室外空间，房租价格是11000.0。
+2015,有一个Xuhui的villa，1卧1厅1卫，面积是65平方米，有室外空间，房租价格是11000.0。
+2016,有一个Xuhui的attached lane house，1卧1厅1卫，面积是65平方米，有供暖，有空调，有浴缸，有地暖，房租价格是11000.0。
+2017,有一个Xuhui的detached lane house，2卧2厅2卫，面积是80平方米，有室外空间，有供暖，有空调，有WIFI，有浴缸，房租价格是11000.0。
+2018,有一个Xuhui的detached lane house，1卧2厅1卫，面积是70平方米，有室外空间，有供暖，房租价格是11000.0。
+2019,有一个Xuhui的detached lane house，1卧1厅1卫，面积是85平方米，有室外空间，房租价格是11000.0。
+2020,有一个Xuhui的detached lane house，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是11000.0。
+2021,有一个Xuhui的attached lane house，2卧2厅1卫，面积是65平方米，有室外空间，房租价格是11000.0。
+2022,有一个Xuhui的detached lane house，1卧1厅1卫，面积是58平方米，有室外空间，房租价格是11000.0。
+2023,有一个Xuhui的attached lane house，2卧1厅1卫，面积是75平方米，有室外空间，房租价格是11000.0。
+2024,有一个Xuhui的public housing，1卧2厅1卫，面积是80平方米，有供暖，有地暖，房租价格是11000.0。
+2025,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，房租价格是11000.0。
+2026,有一个Xuhui的public housing，1卧2厅1卫，面积是65平方米，有室外空间，房租价格是11000.0。
+2027,有一个Xuhui的attached lane house，1卧1厅1卫，面积是80平方米，有供暖，有空调，房租价格是11000.0。
+2028,有一个Xuhui的attached lane house，2卧2厅1卫，面积是100平方米，有空调，有WIFI，房租价格是11000.0。
+2029,有一个Xuhui的public housing，2卧1厅1卫，面积是65平方米，有空调，有阳台，房租价格是11200.0。
+2030,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有空调，房租价格是11500.0。
+2031,有一个Xuhui的attached lane house，2卧2厅1卫，面积是80平方米，有室外空间，有浴缸，房租价格是11500.0。
+2032,有一个Xuhui的attached lane house，1卧2厅1卫，面积是80平方米，有空调，有阳台，有浴缸，房租价格是11500.0。
+2033,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，有供暖，房租价格是11500.0。
+2034,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，有空调，房租价格是11500.0。
+2035,有一个Xuhui的detached lane house，1卧1厅1卫，面积是70平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是11500.0。
+2036,有一个Xuhui的public housing，1卧2厅1卫，面积是75平方米，有室外空间，有空调，有阳台，房租价格是11500.0。
+2037,有一个Xuhui的attached lane house，1卧1厅1卫，面积是55平方米，有空调，房租价格是11500.0。
+2038,有一个Xuhui的detached lane house，1卧1厅1卫，面积是40平方米，有供暖，有空调，有WIFI，房租价格是11500.0。
+2039,有一个Xuhui的public housing，1卧2厅1卫，面积是75平方米，有室外空间，有供暖，有空调，有阳台，房租价格是11500.0。
+2040,有一个Xuhui的detached lane house，1卧1厅1卫，面积是22平方米，有供暖，有空调，房租价格是11500.0。
+2041,有一个Xuhui的detached lane house，1卧2厅1卫，面积是60平方米，有室外空间，有供暖，有地暖，房租价格是11500.0。
+2042,有一个Xuhui的attached lane house，1卧2厅1卫，面积是70平方米，有空调，有WIFI，有烤箱，房租价格是11500.0。
+2043,有一个Xuhui的attached lane house，1卧2厅1卫，面积是98平方米，有室外空间，房租价格是11600.0。
+2044,有一个Xuhui的attached lane house，1卧2厅1卫，面积是70平方米，有室外空间，有供暖，房租价格是11800.0。
+2045,有一个Xuhui的attached lane house，1卧2厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有WIFI，有浴缸，有地暖，房租价格是11800.0。
+2046,有一个Xuhui的detached lane house，1卧1厅1卫，面积是52平方米，整栋建筑，有室外空间，有空调，有烤箱，房租价格是11800.0。
+2047,有一个Xuhui的attached lane house，1卧2厅1卫，面积是85平方米，有空调，有浴缸，房租价格是11800.0。
+2048,有一个Xuhui的attached lane house，2卧2厅1卫，面积是10平方米，有供暖，有浴缸，房租价格是11800.0。
+2049,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有供暖，有地暖，房租价格是11800.0。
+2050,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有空调，房租价格是11800.0。
+2051,有一个Xuhui的public housing，2卧1厅1卫，面积是70平方米，有供暖，有地暖，房租价格是11800.0。
+2052,有一个Xuhui的attached lane house，1卧1厅1卫，面积是65平方米，有室外空间，有空调，房租价格是11800.0。
+2053,有一个Xuhui的detached lane house，1卧1厅1卫，面积是65平方米，有室外空间，有空调，房租价格是11800.0。
+2054,有一个Xuhui的detached lane house，1卧1厅1卫，面积是65平方米，有供暖，有地暖，房租价格是11800.0。
+2055,有一个Xuhui的detached lane house，1卧2厅1卫，面积是70平方米，有室外空间，有供暖，有地暖，房租价格是11800.0。
+2056,有一个Xuhui的detached lane house，2卧2厅1卫，面积是85平方米，有室外空间，有供暖，有浴缸，有地暖，有烤箱，房租价格是11800.0。
+2057,有一个Xuhui的detached lane house，1卧0厅1卫，面积是40平方米，有室外空间，房租价格是11800.0。
+2058,有一个Xuhui的attached lane house，1卧1厅1卫，面积是65平方米，有室外空间，房租价格是11800.0。
+2059,有一个Xuhui的attached lane house，2卧1厅1卫，面积是85平方米，有室外空间，有供暖，有WIFI，有浴缸，房租价格是11800.0。
+2060,有一个Xuhui的detached lane house，1卧1厅1卫，面积是42平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是11900.0。
+2061,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，整栋建筑，有室外空间，有供暖，有地暖，房租价格是11999.0。
+2062,有一个Xuhui的attached lane house，1卧1厅1卫，面积是45平方米，有室外空间，有供暖，房租价格是12000.0。
+2063,有一个Xuhui的detached lane house，1卧2厅1卫，面积是75平方米，有室外空间，有烤箱，房租价格是12000.0。
+2064,有一个Xuhui的public housing，2卧1厅1卫，面积是70平方米，有室外空间，有空调，房租价格是12000.0。
+2065,有一个Xuhui的detached lane house，1卧2厅1卫，面积是68平方米，有室外空间，有供暖，有空调，有地暖，有烤箱，房租价格是12000.0。
+2066,有一个Xuhui的attached lane house，1卧2厅1卫，面积是70平方米，有室外空间，有供暖，房租价格是12000.0。
+2067,有一个Xuhui的detached lane house，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是12000.0。
+2068,有一个Xuhui的public housing，1卧1厅1卫，面积是60平方米，有室外空间，有空调，房租价格是12000.0。
+2069,有一个Xuhui的detached lane house，2卧2厅1卫，面积是95平方米，有供暖，有空调，房租价格是12000.0。
+2070,有一个Xuhui的public housing，1卧2厅1卫，面积是70平方米，有供暖，有空调，有地暖，有烤箱，房租价格是12000.0。
+2071,有一个Xuhui的public housing，2卧1厅1卫，面积是70平方米，有浴缸，房租价格是12000.0。
+2072,有一个Xuhui的public housing，2卧2厅1卫，面积是78平方米，有室外空间，房租价格是12000.0。
+2073,有一个Xuhui的public housing，1卧1厅1卫，面积是60平方米，有供暖，有空调，有阳台，有WIFI，房租价格是12000.0。
+2074,有一个Xuhui的public housing，1卧0厅1卫，面积是50平方米，有供暖，有空调，有浴缸，有地暖，有烤箱，房租价格是12000.0。
+2075,有一个Xuhui的attached lane house，1卧2厅1卫，面积是75平方米，有供暖，有地暖，房租价格是12000.0。
+2076,有一个Xuhui的detached lane house，1卧2厅1卫，面积是70平方米，有浴缸，房租价格是12000.0。
+2077,有一个Xuhui的detached lane house，1卧1厅1卫，面积是45平方米，有室外空间，有空调，房租价格是12000.0。
+2078,有一个Xuhui的detached lane house，2卧1厅1卫，面积是70平方米，有供暖，有浴缸，房租价格是12000.0。
+2079,有一个Xuhui的detached lane house，1卧2厅1卫，面积是70平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是12000.0。
+2080,有一个Xuhui的detached lane house，1卧1厅1卫，面积是40平方米，有供暖，房租价格是12000.0。
+2081,有一个Xuhui的detached lane house，1卧1厅1卫，面积是55平方米，有室外空间，房租价格是12000.0。
+2082,有一个Xuhui的public housing，1卧1厅1卫，面积是50平方米，有空调，房租价格是12000.0。
+2083,有一个Xuhui的public housing，1卧1厅1卫，面积是60平方米，有浴缸，有地暖，房租价格是12000.0。
+2084,有一个Xuhui的attached lane house，2卧2厅1卫，面积是60平方米，有室外空间，有空调，有阳台，有WIFI，有地暖，房租价格是12000.0。
+2085,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有空调，房租价格是12000.0。
+2086,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是12000.0。
+2087,有一个Xuhui的public housing，2卧1厅1卫，面积是80平方米，有空调，房租价格是12000.0。
+2088,有一个Xuhui的detached lane house，2卧1厅1卫，面积是100平方米，有室外空间，有空调，房租价格是12000.0。
+2089,有一个Xuhui的detached lane house，1卧2厅1卫，面积是70平方米，有室外空间，房租价格是12000.0。
+2090,有一个Xuhui的detached lane house，1卧0厅1卫，面积是55平方米，有供暖，有空调，有阳台，有WIFI，房租价格是12000.0。
+2091,有一个Xuhui的public housing，1卧1厅1卫，面积是40平方米，有空调，有WIFI，房租价格是12000.0。
+2092,有一个Xuhui的attached lane house，1卧2厅1卫，面积是80平方米，有供暖，有浴缸，有地暖，房租价格是12000.0。
+2093,有一个Xuhui的detached lane house，1卧1厅1卫，面积是68平方米，有室外空间，有供暖，有空调，有地暖，有烤箱，房租价格是12000.0。
+2094,有一个Xuhui的detached lane house，1卧2厅1卫，面积是80平方米，有供暖，有空调，有浴缸，房租价格是12000.0。
+2095,有一个Xuhui的public housing，2卧2厅1卫，面积是72平方米，有空调，房租价格是12000.0。
+2096,有一个Xuhui的public housing，1卧1厅1卫，面积是70平方米，有室外空间，有地暖，房租价格是12000.0。
+2097,有一个Xuhui的attached lane house，2卧1厅1卫，面积是80平方米，有室外空间，有供暖，有浴缸，有地暖，房租价格是12000.0。
+2098,有一个Xuhui的detached lane house，1卧2厅1卫，面积是70平方米，有室外空间，有空调，有阳台，有WIFI，有浴缸，房租价格是12000.0。
+2099,有一个Xuhui的public housing，1卧2厅1卫，面积是80平方米，有室外空间，有空调，房租价格是12000.0。
+2100,有一个Xuhui的attached lane house，1卧1厅1卫，面积是65平方米，有供暖，有WIFI，房租价格是12000.0。
+2101,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有WIFI，有地暖，有烤箱，房租价格是12000.0。
+2102,有一个Xuhui的public housing，2卧1厅1卫，面积是75平方米，有空调，房租价格是12000.0。
+2103,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有空调，房租价格是12000.0。
+2104,有一个Xuhui的public housing，2卧1厅1卫，面积是75平方米，有室外空间，有浴缸，房租价格是12000.0。
+2105,有一个Xuhui的public housing，1卧2厅1卫，面积是50平方米，有室外空间，房租价格是12000.0。
+2106,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，房租价格是12000.0。
+2107,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，有阳台，房租价格是12000.0。
+2108,有一个Xuhui的detached lane house，1卧1厅1卫，面积是65平方米，有室外空间，房租价格是12000.0。
+2109,有一个Xuhui的attached lane house，2卧1厅2卫，面积是70平方米，有供暖，有空调，房租价格是12500.0。
+2110,有一个Xuhui的detached lane house，1卧1厅1卫，面积是75平方米，有供暖，有空调，有WIFI，房租价格是12500.0。
+2111,有一个Xuhui的attached lane house，1卧2厅1卫，面积是46平方米，有室外空间，有供暖，有空调，有WIFI，有地暖，房租价格是12500.0。
+2112,有一个Xuhui的attached lane house，1卧1厅1卫，面积是70平方米，有室外空间，房租价格是12500.0。
+2113,有一个Xuhui的attached lane house，1卧2厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是12500.0。
+2114,有一个Xuhui的detached lane house，1卧2厅1卫，面积是75平方米，有室外空间，有供暖，有浴缸，有烤箱，房租价格是12500.0。
+2115,有一个Xuhui的detached lane house，2卧2厅1卫，面积是80平方米，有供暖，有空调，房租价格是12500.0。
+2116,有一个Xuhui的attached lane house，2卧1厅1卫，面积是65平方米，有室外空间，有浴缸，房租价格是12500.0。
+2117,有一个Xuhui的public housing，2卧2厅1卫，面积是80平方米，有空调，有阳台，房租价格是12500.0。
+2118,有一个Xuhui的public housing，2卧2厅1卫，面积是90平方米，有浴缸，房租价格是12500.0。
+2119,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，有供暖，有浴缸，房租价格是12500.0。
+2120,有一个Xuhui的public housing，1卧1厅1卫，面积是65平方米，有室外空间，有供暖，有浴缸，房租价格是12500.0。
+2121,有一个Xuhui的attached lane house，2卧2厅1卫，面积是90平方米，有室外空间，有供暖，有阳台，有WIFI，房租价格是12500.0。
+2122,有一个Xuhui的public housing，2卧1厅1卫，面积是78平方米，有室外空间，有供暖，有空调，有WIFI，房租价格是12500.0。
+2123,有一个Xuhui的attached lane house，1卧1厅1卫，面积是55平方米，有空调，有阳台，有WIFI，有浴缸，房租价格是12500.0。
+2124,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有空调，房租价格是12500.0。
+2125,有一个Xuhui的attached lane house，1卧2厅1卫，面积是70平方米，有室外空间，有烤箱，房租价格是12500.0。
+2126,有一个Xuhui的detached lane house，2卧2厅1卫，面积是120平方米，有室外空间，房租价格是12600.0。
+2127,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有空调，房租价格是12800.0。
+2128,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，有地暖，房租价格是12800.0。
+2129,有一个Xuhui的attached lane house，2卧2厅1卫，面积是65平方米，有供暖，有空调，房租价格是12800.0。
+2130,有一个Xuhui的public housing，2卧1厅1卫，面积是90平方米，有室外空间，有空调，有WIFI，房租价格是12800.0。
+2131,有一个Xuhui的detached lane house，1卧1厅1卫，面积是80平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是12800.0。
+2132,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有空调，房租价格是12800.0。
+2133,有一个Xuhui的detached lane house，1卧2厅1卫，面积是65平方米，有室外空间，有供暖，有地暖，房租价格是12800.0。
+2134,有一个Xuhui的attached lane house，1卧2厅1卫，面积是75平方米，有供暖，房租价格是12800.0。
+2135,有一个Xuhui的detached lane house，1卧2厅1卫，面积是86平方米，有浴缸，有烤箱，房租价格是12800.0。
+2136,有一个Xuhui的detached lane house，1卧2厅1卫，面积是70平方米，有室外空间，房租价格是12800.0。
+2137,有一个Xuhui的attached lane house，2卧2厅1卫，面积是100平方米，有室外空间，有浴缸，房租价格是12800.0。
+2138,有一个Xuhui的detached lane house，1卧2厅1卫，面积是70平方米，有室外空间，有供暖，有空调，有地暖，有烤箱，房租价格是12900.0。
+2139,有一个Xuhui的public housing，1卧2厅1卫，面积是87平方米，有室外空间，房租价格是13000.0。
+2140,有一个Xuhui的public housing，2卧2厅2卫，面积是80平方米，有室外空间，有供暖，房租价格是13000.0。
+2141,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有供暖，有空调，有WIFI，有地暖，房租价格是13000.0。
+2142,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，房租价格是13000.0。
+2143,有一个Xuhui的attached lane house，1卧1厅1卫，面积是80平方米，有室外空间，有空调，房租价格是13000.0。
+2144,有一个Xuhui的attached lane house，1卧2厅1卫，面积是60平方米，有室外空间，房租价格是13000.0。
+2145,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，有地暖，房租价格是13000.0。
+2146,有一个Xuhui的public housing，1卧1厅1卫，面积是68平方米，有室外空间，房租价格是13000.0。
+2147,有一个Xuhui的public housing，1卧2厅1卫，面积是78平方米，有室外空间，房租价格是13000.0。
+2148,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有烤箱，房租价格是13000.0。
+2149,有一个Xuhui的attached lane house，1卧2厅1卫，面积是70平方米，有室外空间，房租价格是13000.0。
+2150,有一个Xuhui的detached lane house，1卧1厅1卫，面积是68平方米，有室外空间，有供暖，有空调，有地暖，房租价格是13000.0。
+2151,有一个Xuhui的detached lane house，2卧1厅1卫，面积是70平方米，有空调，有阳台，房租价格是13000.0。
+2152,有一个Xuhui的public housing，1卧2厅1卫，面积是75平方米，有室外空间，房租价格是13000.0。
+2153,有一个Xuhui的public housing，2卧2厅1卫，面积是90平方米，有供暖，有空调，有阳台，有WIFI，房租价格是13000.0。
+2154,有一个Xuhui的detached lane house，1卧1厅1卫，面积是50平方米，有供暖，有浴缸，有地暖，有烤箱，房租价格是13000.0。
+2155,有一个Xuhui的attached lane house，1卧1厅1卫，面积是70平方米，有室外空间，有空调，有阳台，房租价格是13000.0。
+2156,有一个Xuhui的attached lane house，2卧1厅2卫，面积是81平方米，有室外空间，房租价格是13000.0。
+2157,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有供暖，有空调，有WIFI，房租价格是13000.0。
+2158,有一个Xuhui的detached lane house，1卧1厅1卫，面积是75平方米，有供暖，有地暖，房租价格是13000.0。
+2159,有一个Xuhui的public housing，1卧2厅1卫，面积是75平方米，有室外空间，房租价格是13000.0。
+2160,有一个Xuhui的attached lane house，2卧2厅1卫，面积是80平方米，有供暖，有空调，有浴缸，房租价格是13000.0。
+2161,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，有空调，房租价格是13000.0。
+2162,有一个Xuhui的detached lane house，1卧2厅1卫，面积是70平方米，有供暖，有空调，有WIFI，房租价格是13000.0。
+2163,有一个Xuhui的public housing，2卧2厅1卫，面积是90平方米，有供暖，有空调，房租价格是13000.0。
+2164,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，房租价格是13000.0。
+2165,有一个Xuhui的attached lane house，1卧2厅1卫，面积是68平方米，有供暖，有空调，房租价格是13000.0。
+2166,有一个Xuhui的public housing，2卧1厅1卫，面积是70平方米，有供暖，有空调，有地暖，房租价格是13000.0。
+2167,有一个Xuhui的detached lane house，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是13000.0。
+2168,有一个Xuhui的villa，7卧2厅2卫，面积是220平方米，整栋建筑，有阳台，房租价格是13000.0。
+2169,有一个Xuhui的detached lane house，1卧1厅1卫，面积是80平方米，有供暖，有空调，房租价格是13000.0。
+2170,有一个Xuhui的attached lane house，1卧2厅1卫，面积是70平方米，有室外空间，有供暖，房租价格是13000.0。
+2171,有一个Xuhui的detached lane house，1卧2厅1卫，面积是78平方米，有室外空间，有供暖，有空调，有阳台，有地暖，房租价格是13500.0。
+2172,有一个Xuhui的public housing，1卧2厅1卫，面积是75平方米，有供暖，有空调，房租价格是13500.0。
+2173,有一个Xuhui的attached lane house，3卧2厅1卫，面积是85平方米，有室外空间，有供暖，有空调，有地暖，房租价格是13500.0。
+2174,有一个Xuhui的detached lane house，1卧2厅1卫，面积是90平方米，有供暖，有空调，房租价格是13500.0。
+2175,有一个Xuhui的detached lane house，1卧2厅1卫，面积是80平方米，有供暖，有空调，有WIFI，有烤箱，房租价格是13500.0。
+2176,有一个Xuhui的public housing，1卧2厅1卫，面积是50平方米，有室外空间，有供暖，有浴缸，有地暖，有烤箱，房租价格是13500.0。
+2177,有一个Xuhui的detached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有供暖，有空调，有地暖，房租价格是13500.0。
+2178,有一个Xuhui的public housing，1卧2厅1卫，面积是75平方米，有室外空间，有空调，有阳台，房租价格是13500.0。
+2179,有一个Xuhui的public housing，2卧1厅2卫，面积是80平方米，有供暖，有空调，有浴缸，房租价格是13500.0。
+2180,有一个Xuhui的detached lane house，1卧1厅1卫，面积是75平方米，有室外空间，有供暖，有阳台，有烤箱，房租价格是13500.0。
+2181,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是13500.0。
+2182,有一个Xuhui的public housing，1卧1厅1卫，面积是75平方米，有室外空间，有供暖，有空调，有地暖，有烤箱，房租价格是13500.0。
+2183,有一个Xuhui的detached lane house，1卧1厅1卫，面积是44平方米，有空调，有浴缸，房租价格是13500.0。
+2184,有一个Xuhui的attached lane house，2卧1厅0卫，面积是70平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有烤箱，房租价格是13500.0。
+2185,有一个Xuhui的public housing，1卧1厅1卫，面积是80平方米，有空调，有阳台，有浴缸，房租价格是13500.0。
+2186,有一个Xuhui的detached lane house，1卧1厅1卫，面积是35平方米，有室外空间，房租价格是13500.0。
+2187,有一个Xuhui的public housing，1卧2厅1卫，面积是60平方米，有空调，房租价格是13500.0。
+2188,有一个Xuhui的public housing，1卧2厅1卫，面积是80平方米，有室外空间，有供暖，有空调，有阳台，房租价格是13500.0。
+2189,有一个Xuhui的detached lane house，1卧2厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是13500.0。
+2190,有一个Xuhui的detached lane house，1卧2厅2卫，面积是80平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，房租价格是13500.0。
+2191,有一个Xuhui的public housing，1卧1厅1卫，面积是80平方米，有供暖，有烤箱，房租价格是13500.0。
+2192,有一个Xuhui的detached lane house，1卧2厅1卫，面积是70平方米，有室外空间，有供暖，房租价格是13500.0。
+2193,有一个Xuhui的detached lane house，1卧1厅1卫，面积是75平方米，有室外空间，有供暖，有空调，有地暖，房租价格是13500.0。
+2194,有一个Xuhui的public housing，1卧2厅1卫，面积是80平方米，有室外空间，房租价格是13800.0。
+2195,有一个Xuhui的public housing，1卧2厅1卫，面积是80平方米，有室外空间，房租价格是13800.0。
+2196,有一个Xuhui的detached lane house，2卧2厅2卫，面积是80平方米，有室外空间，有供暖，有空调，有WIFI，房租价格是13800.0。
+2197,有一个Xuhui的public housing，1卧2厅1卫，面积是80平方米，有室外空间，房租价格是13800.0。
+2198,有一个Xuhui的attached lane house，1卧1厅1卫，面积是40平方米，有室外空间，有供暖，房租价格是13800.0。
+2199,有一个Xuhui的attached lane house，2卧2厅1卫，面积是90平方米，有室外空间，有供暖，有空调，有WIFI，房租价格是13800.0。
+2200,有一个Xuhui的attached lane house，1卧1厅1卫，面积是70平方米，有室外空间，有供暖，有浴缸，有地暖，有烤箱，房租价格是13800.0。
+2201,有一个Xuhui的detached lane house，2卧1厅1卫，面积是60平方米，有供暖，房租价格是13800.0。
+2202,有一个Xuhui的detached lane house，1卧2厅1卫，面积是70平方米，有室外空间，有空调，有WIFI，房租价格是13800.0。
+2203,有一个Xuhui的detached lane house，1卧1厅1卫，面积是65平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，有烤箱，房租价格是13800.0。
+2204,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有浴缸，房租价格是13800.0。
+2205,有一个Xuhui的public housing，1卧2厅1卫，面积是72平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有地暖，有烤箱，房租价格是13800.0。
+2206,有一个Xuhui的public housing，1卧1厅1卫，面积是43平方米，有室外空间，房租价格是13800.0。
+2207,有一个Xuhui的attached lane house，2卧2厅2卫，面积是80平方米，有室外空间，房租价格是14000.0。
+2208,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有空调，有WIFI，房租价格是14000.0。
+2209,有一个Xuhui的attached lane house，2卧1厅1卫，面积是70平方米，有空调，有阳台，有浴缸，房租价格是14000.0。
+2210,有一个Xuhui的attached lane house，2卧2厅2卫，面积是100平方米，有浴缸，房租价格是14000.0。
+2211,有一个Xuhui的attached lane house，2卧1厅1卫，面积是60平方米，有室外空间，房租价格是14000.0。
+2212,有一个Xuhui的public housing，2卧1厅1卫，面积是90平方米，有浴缸，房租价格是14000.0。
+2213,有一个Xuhui的attached lane house，1卧1厅1卫，面积是45平方米，有室外空间，有供暖，有浴缸，房租价格是14000.0。
+2214,有一个Xuhui的detached lane house，1卧2厅1卫，面积是75平方米，有浴缸，房租价格是14000.0。
+2215,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，有供暖，有空调，房租价格是14000.0。
+2216,有一个Xuhui的public housing，2卧2厅1卫，面积是100平方米，有空调，有WIFI，房租价格是14000.0。
+2217,有一个Xuhui的public housing，2卧1厅1卫，面积是80平方米，有室外空间，有空调，房租价格是14000.0。
+2218,有一个Xuhui的attached lane house，1卧2厅1卫，面积是65平方米，有室外空间，有空调，房租价格是14000.0。
+2219,有一个Xuhui的attached lane house，2卧2厅1卫，面积是80平方米，有室外空间，房租价格是14000.0。
+2220,有一个Xuhui的attached lane house，1卧0厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有阳台，有地暖，房租价格是14000.0。
+2221,有一个Xuhui的attached lane house，1卧2厅1卫，面积是80平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是14000.0。
+2222,有一个Xuhui的attached lane house，2卧2厅2卫，面积是70平方米，有供暖，有空调，有烤箱，房租价格是14000.0。
+2223,有一个Xuhui的attached lane house，2卧2厅1卫，面积是60平方米，有室外空间，有供暖，房租价格是14000.0。
+2224,有一个Xuhui的attached lane house，2卧1厅1卫，面积是50平方米，有室外空间，有供暖，有空调，有WIFI，有浴缸，房租价格是14500.0。
+2225,有一个Xuhui的attached lane house，2卧1厅1卫，面积是70平方米，有室外空间，有空调，有阳台，有WIFI，有浴缸，房租价格是14500.0。
+2226,有一个Xuhui的attached lane house，1卧2厅2卫，面积是120平方米，有室外空间，有供暖，房租价格是14500.0。
+2227,有一个Xuhui的attached lane house，1卧3厅1卫，面积是55平方米，有室外空间，有供暖，有空调，有阳台，有地暖，有烤箱，房租价格是14500.0。
+2228,有一个Xuhui的attached lane house，1卧2厅1卫，面积是80平方米，有供暖，有空调，房租价格是14500.0。
+2229,有一个Xuhui的detached lane house，2卧2厅1卫，面积是90平方米，有空调，房租价格是14500.0。
+2230,有一个Xuhui的public housing，2卧1厅1卫，面积是90平方米，有供暖，有空调，有阳台，有地暖，有烤箱，房租价格是14800.0。
+2231,有一个Xuhui的detached lane house，2卧1厅1卫，面积是110平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有地暖，房租价格是14800.0。
+2232,有一个Xuhui的public housing，2卧2厅1卫，面积是80平方米，有室外空间，有供暖，有阳台，有WIFI，有烤箱，房租价格是14800.0。
+2233,有一个Xuhui的detached lane house，2卧2厅2卫，面积是160平方米，有供暖，有浴缸，房租价格是14800.0。
+2234,有一个Xuhui的public housing，2卧2厅1卫，面积是55平方米，有室外空间，有供暖，有空调，有阳台，有地暖，有烤箱，房租价格是14800.0。
+2235,有一个Xuhui的public housing，2卧2厅1卫，面积是100平方米，有空调，有浴缸，房租价格是14800.0。
+2236,有一个Xuhui的detached lane house，3卧1厅2卫，面积是120平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是14800.0。
+2237,有一个Xuhui的public housing，2卧2厅2卫，面积是90平方米，有室外空间，有浴缸，房租价格是14800.0。
+2238,有一个Xuhui的detached lane house，2卧2厅1卫，面积是98平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是14900.0。
+2239,有一个Xuhui的detached lane house，1卧1厅1卫，面积是80平方米，有浴缸，房租价格是15000.0。
+2240,有一个Xuhui的detached lane house，2卧2厅1卫，面积是85平方米，有供暖，有空调，房租价格是15000.0。
+2241,有一个Xuhui的public housing，1卧2厅1卫，面积是75平方米，有室外空间，有供暖，有浴缸，有地暖，有烤箱，房租价格是15000.0。
+2242,有一个Xuhui的detached lane house，1卧2厅1卫，面积是70平方米，有室外空间，有空调，有阳台，房租价格是15000.0。
+2243,有一个Xuhui的detached lane house，1卧2厅1卫，面积是70平方米，有室外空间，有供暖，有浴缸，房租价格是15000.0。
+2244,有一个Xuhui的detached lane house，1卧1厅1卫，面积是75平方米，有室外空间，有供暖，有空调，有地暖，有烤箱，房租价格是15000.0。
+2245,有一个Xuhui的detached lane house，2卧2厅2卫，面积是100平方米，有空调，房租价格是15000.0。
+2246,有一个Xuhui的attached lane house，1卧1厅1卫，面积是70平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是15000.0。
+2247,有一个Xuhui的attached lane house，2卧1厅1卫，面积是60平方米，有空调，有地暖，房租价格是15000.0。
+2248,有一个Xuhui的attached lane house，2卧2厅1卫，面积是70平方米，有供暖，有空调，房租价格是15000.0。
+2249,有一个Xuhui的detached lane house，2卧2厅2卫，面积是80平方米，有室外空间，房租价格是15000.0。
+2250,有一个Xuhui的attached lane house，1卧2厅1卫，面积是70平方米，有供暖，有空调，有地暖，房租价格是15000.0。
+2251,有一个Xuhui的detached lane house，1卧1厅1卫，面积是42平方米，有室外空间，房租价格是15000.0。
+2252,有一个Xuhui的detached lane house，2卧1厅1卫，面积是85平方米，有浴缸，房租价格是15000.0。
+2253,有一个Xuhui的public housing，2卧2厅1卫，面积是8平方米，房租价格是15000.0。
+2254,有一个Xuhui的detached lane house，1卧2厅1卫，面积是70平方米，有供暖，有空调，有WIFI，房租价格是15000.0。
+2255,有一个Xuhui的detached lane house，1卧2厅1卫，面积是75平方米，有室外空间，有空调，有阳台，有WIFI，有浴缸，房租价格是15000.0。
+2256,有一个Xuhui的detached lane house，1卧1厅1卫，面积是50平方米，有室外空间，房租价格是15000.0。
+2257,有一个Xuhui的attached lane house，2卧2厅2卫，面积是70平方米，有室外空间，有供暖，房租价格是15000.0。
+2258,有一个Xuhui的detached lane house，2卧2厅2卫，面积是80平方米，有室外空间，房租价格是15000.0。
+2259,有一个Xuhui的public housing，2卧2厅1卫，面积是70平方米，有供暖，有空调，有地暖，房租价格是15000.0。
+2260,有一个Xuhui的public housing，1卧1厅1卫，面积是60平方米，有供暖，有空调，房租价格是15000.0。
+2261,有一个Xuhui的public housing，2卧1厅1卫，面积是82平方米，有室外空间，有供暖，有空调，有WIFI，有地暖，房租价格是15000.0。
+2262,有一个Xuhui的detached lane house，2卧2厅2卫，面积是70平方米，有供暖，有空调，有WIFI，有浴缸，房租价格是15000.0。
+2263,有一个Xuhui的public housing，2卧2厅1卫，面积是70平方米，有空调，房租价格是15000.0。
+2264,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有WIFI，有地暖，房租价格是15000.0。
+2265,有一个Xuhui的detached lane house，2卧1厅1卫，面积是100平方米，有供暖，有空调，有WIFI，有浴缸，房租价格是15000.0。
+2266,有一个Xuhui的public housing，2卧2厅1卫，面积是68平方米，有室外空间，有供暖，有浴缸，有地暖，房租价格是15000.0。
+2267,有一个Xuhui的detached lane house，1卧2厅1卫，面积是60平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，有地暖，房租价格是15000.0。
+2268,有一个Xuhui的detached lane house，1卧2厅1卫，面积是80平方米，有室外空间，有供暖，有地暖，房租价格是15000.0。
+2269,有一个Xuhui的attached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有供暖，有空调，有WIFI，有烤箱，房租价格是15000.0。
+2270,有一个Xuhui的detached lane house，2卧1厅2卫，面积是70平方米，有室外空间，有供暖，房租价格是15000.0。
+2271,有一个Xuhui的public housing，2卧2厅1卫，面积是95平方米，有室外空间，有供暖，有空调，有WIFI，房租价格是15500.0。
+2272,有一个Xuhui的detached lane house，2卧1厅1卫，面积是70平方米，有室外空间，有空调，房租价格是15500.0。
+2273,有一个Xuhui的attached lane house，1卧1厅1卫，面积是65平方米，整栋建筑，有室外空间，有供暖，有空调，房租价格是15500.0。
+2274,有一个Xuhui的attached lane house，1卧1厅1卫，面积是80平方米，有室外空间，有供暖，有空调，有地暖，房租价格是15500.0。
+2275,有一个Xuhui的detached lane house，2卧2厅1卫，面积是85平方米，有室外空间，有供暖，有空调，有阳台，有地暖，有烤箱，房租价格是15500.0。
+2276,有一个Xuhui的attached lane house，2卧1厅1卫，面积是80平方米，有室外空间，有供暖，有空调，有地暖，房租价格是15500.0。
+2277,有一个Xuhui的public housing，2卧2厅2卫，面积是100平方米，有室外空间，有供暖，有空调，有WIFI，有浴缸，有地暖，房租价格是15500.0。
+2278,有一个Xuhui的attached lane house，2卧1厅2卫，面积是120平方米，有空调，有阳台，房租价格是15500.0。
+2279,有一个Xuhui的detached lane house，1卧2厅1卫，面积是75平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是15500.0。
+2280,有一个Xuhui的detached lane house，1卧2厅1卫，面积是60平方米，有空调，房租价格是15500.0。
+2281,有一个Xuhui的public housing，2卧2厅1卫，面积是68平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是15800.0。
+2282,有一个Xuhui的attached lane house，2卧2厅2卫，面积是110平方米，有室外空间，有烤箱，房租价格是15800.0。
+2283,有一个Xuhui的attached lane house，2卧2厅0卫，面积是80平方米，有室外空间，有供暖，有空调，有WIFI，有烤箱，房租价格是15800.0。
+2284,有一个Xuhui的attached lane house，2卧2厅2卫，面积是90平方米，有供暖，有空调，有WIFI，有浴缸，房租价格是15800.0。
+2285,有一个Xuhui的attached lane house，2卧2厅1卫，面积是87平方米，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是15999.0。
+2286,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有空调，有阳台，房租价格是15999.0。
+2287,有一个Xuhui的detached lane house，1卧1厅1卫，面积是75平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是15999.0。
+2288,有一个Xuhui的detached lane house，2卧1厅2卫，面积是98平方米，有室外空间，有空调，有阳台，房租价格是16000.0。
+2289,有一个Xuhui的public housing，1卧1厅1卫，面积是60平方米，有供暖，有空调，有地暖，房租价格是16000.0。
+2290,有一个Xuhui的attached lane house，2卧1厅1卫，面积是36平方米，整栋建筑，有供暖，有空调，房租价格是16000.0。
+2291,有一个Xuhui的public housing，1卧2厅1卫，面积是80平方米，有室外空间，有供暖，有空调，有阳台，有地暖，房租价格是16000.0。
+2292,有一个Xuhui的detached lane house，2卧2厅2卫，面积是101平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是16000.0。
+2293,有一个Xuhui的attached lane house，2卧2厅1卫，面积是80平方米，有室外空间，有供暖，有空调，房租价格是16000.0。
+2294,有一个Xuhui的attached lane house，2卧2厅1卫，面积是80平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有烤箱，房租价格是16000.0。
+2295,有一个Xuhui的attached lane house，1卧2厅1卫，面积是90平方米，有空调，房租价格是16000.0。
+2296,有一个Xuhui的public housing，1卧2厅1卫，面积是70平方米，有供暖，有空调，有阳台，有浴缸，有地暖，房租价格是16000.0。
+2297,有一个Xuhui的attached lane house，2卧2厅1卫，面积是90平方米，有空调，有WIFI，房租价格是16000.0。
+2298,有一个Xuhui的public housing，1卧2厅1卫，面积是80平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，有地暖，有烤箱，房租价格是16000.0。
+2299,有一个Xuhui的public housing，2卧1厅1卫，面积是100平方米，有空调，有阳台，房租价格是16000.0。
+2300,有一个Xuhui的attached lane house，2卧2厅2卫，面积是70平方米，有供暖，有空调，有阳台，房租价格是16000.0。
+2301,有一个Xuhui的attached lane house，2卧2厅1卫，面积是70平方米，有室外空间，有供暖，房租价格是16000.0。
+2302,有一个Xuhui的public housing，1卧2厅1卫，面积是70平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是16000.0。
+2303,有一个Xuhui的public housing，2卧2厅1卫，面积是90平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，有烤箱，房租价格是16000.0。
+2304,有一个Xuhui的detached lane house，1卧1厅1卫，面积是80平方米，整栋建筑，有室外空间，有供暖，有空调，有地暖，房租价格是16000.0。
+2305,有一个Xuhui的attached lane house，1卧1厅1卫，面积是90平方米，有空调，房租价格是16000.0。
+2306,有一个Xuhui的detached lane house，1卧2厅1卫，面积是71平方米，有空调，有浴缸，房租价格是16000.0。
+2307,有一个Xuhui的attached lane house，2卧2厅2卫，面积是80平方米，有供暖，有空调，有地暖，房租价格是16000.0。
+2308,有一个Xuhui的attached lane house，4卧0厅2卫，面积是100平方米，整栋建筑，有室外空间，房租价格是16000.0。
+2309,有一个Xuhui的detached lane house，1卧1厅1卫，面积是56平方米，有供暖，有空调，有地暖，房租价格是16500.0。
+2310,有一个Xuhui的detached lane house，1卧1厅1卫，面积是80平方米，有室外空间，有空调，有浴缸，房租价格是16500.0。
+2311,有一个Xuhui的attached lane house，1卧2厅1卫，面积是80平方米，有室外空间，有空调，房租价格是16500.0。
+2312,有一个Xuhui的public housing，2卧2厅2卫，面积是90平方米，有室外空间，有供暖，有空调，有阳台，房租价格是16500.0。
+2313,有一个Xuhui的public housing，2卧1厅1卫，面积是80平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是16500.0。
+2314,有一个Xuhui的public housing，2卧2厅2卫，面积是90平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是16500.0。
+2315,有一个Xuhui的detached lane house，3卧2厅2卫，面积是120平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是16500.0。
+2316,有一个Xuhui的attached lane house，1卧1厅1卫，面积是50平方米，有供暖，有浴缸，房租价格是16800.0。
+2317,有一个Xuhui的attached lane house，2卧2厅1卫，面积是90平方米，有室外空间，有供暖，有空调，房租价格是16800.0。
+2318,有一个Xuhui的attached lane house，1卧2厅1卫，面积是110平方米，有室外空间，有浴缸，房租价格是16800.0。
+2319,有一个Xuhui的detached lane house，2卧1厅1卫，面积是80平方米，有室外空间，房租价格是16800.0。
+2320,有一个Xuhui的public housing，2卧1厅1卫，面积是75平方米，有供暖，有阳台，有地暖，有烤箱，房租价格是16800.0。
+2321,有一个Xuhui的detached lane house，1卧2厅1卫，面积是60平方米，有室外空间，房租价格是17000.0。
+2322,有一个Xuhui的detached lane house，2卧1厅1卫，面积是95平方米，有室外空间，房租价格是17000.0。
+2323,有一个Xuhui的attached lane house，1卧2厅1卫，面积是80平方米，有室外空间，有空调，有阳台，房租价格是17000.0。
+2324,有一个Xuhui的public housing，2卧1厅1卫，面积是100平方米，有供暖，有空调，有WIFI，有地暖，有烤箱，房租价格是17000.0。
+2325,有一个Xuhui的attached lane house，2卧1厅1卫，面积是90平方米，有室外空间，有空调，房租价格是17000.0。
+2326,有一个Xuhui的attached lane house，1卧1厅1卫，面积是70平方米，有空调，有阳台，房租价格是17000.0。
+2327,有一个Xuhui的attached lane house，2卧1厅2卫，面积是90平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是17000.0。
+2328,有一个Xuhui的attached lane house，3卧2厅2卫，面积是150平方米，有供暖，有空调，房租价格是17500.0。
+2329,有一个Xuhui的public housing，2卧1厅2卫，面积是90平方米，有室外空间，有供暖，有空调，有阳台，有烤箱，房租价格是17500.0。
+2330,有一个Xuhui的attached lane house，3卧2厅2卫，面积是100平方米，有室外空间，有空调，有阳台，房租价格是17500.0。
+2331,有一个Xuhui的detached lane house，2卧2厅1卫，面积是110平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是17800.0。
+2332,有一个Xuhui的attached lane house，2卧2厅2卫，面积是90平方米，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是17900.0。
+2333,有一个Xuhui的public housing，2卧2厅1卫，面积是90平方米，有室外空间，有供暖，有空调，房租价格是18000.0。
+2334,有一个Xuhui的public housing，2卧2厅1卫，面积是90平方米，有浴缸，房租价格是18000.0。
+2335,有一个Xuhui的attached lane house，2卧2厅1卫，面积是80平方米，有室外空间，有供暖，房租价格是18000.0。
+2336,有一个Xuhui的public housing，2卧2厅2卫，面积是120平方米，有供暖，有空调，有阳台，有地暖，房租价格是18000.0。
+2337,有一个Xuhui的detached lane house，2卧2厅1卫，面积是125平方米，有室外空间，房租价格是18000.0。
+2338,有一个Xuhui的villa，3卧2厅1卫，面积是150平方米，有室外空间，房租价格是18000.0。
+2339,有一个Xuhui的detached lane house，1卧1厅1卫，面积是70平方米，有供暖，房租价格是18000.0。
+2340,有一个Xuhui的detached lane house，2卧2厅1卫，面积是90平方米，有室外空间，房租价格是18000.0。
+2341,有一个Xuhui的detached lane house，1卧1厅1卫，面积是70平方米，房租价格是18000.0。
+2342,有一个Xuhui的public housing，2卧2厅1卫，面积是90平方米，有供暖，有空调，有阳台，有浴缸，房租价格是18000.0。
+2343,有一个Xuhui的attached lane house，2卧2厅1卫，面积是110平方米，有空调，有浴缸，房租价格是18000.0。
+2344,有一个Xuhui的detached lane house，1卧1厅1卫，面积是70平方米，有室外空间，有供暖，有空调，有地暖，房租价格是18000.0。
+2345,有一个Xuhui的detached lane house，1卧1厅1卫，面积是70平方米，有室外空间，有空调，有地暖，房租价格是18000.0。
+2346,有一个Xuhui的detached lane house，2卧1厅1卫，面积是80平方米，有室外空间，有供暖，有空调，有地暖，房租价格是18000.0。
+2347,有一个Xuhui的attached lane house，2卧2厅1卫，面积是100平方米，有室外空间，房租价格是18000.0。
+2348,有一个Xuhui的public housing，1卧2厅1卫，面积是110平方米，有供暖，有空调，有阳台，有地暖，房租价格是18000.0。
+2349,有一个Xuhui的public housing，2卧1厅1卫，面积是63平方米，有室外空间，有供暖，有空调，有地暖，有烤箱，房租价格是18000.0。
+2350,有一个Xuhui的attached lane house，2卧2厅1卫，面积是80平方米，有室外空间，有空调，有浴缸，房租价格是18000.0。
+2351,有一个Xuhui的detached lane house，3卧1厅1卫，面积是100平方米，有室外空间，有空调，有阳台，有WIFI，有浴缸，房租价格是18000.0。
+2352,有一个Xuhui的attached lane house，2卧1厅1卫，面积是100平方米，有室外空间，有供暖，有浴缸，房租价格是18000.0。
+2353,有一个Xuhui的detached lane house，2卧2厅2卫，面积是115平方米，有供暖，有空调，有浴缸，有地暖，房租价格是18000.0。
+2354,有一个Xuhui的detached lane house，1卧2厅2卫，面积是80平方米，有室外空间，有供暖，有空调，有地暖，房租价格是18000.0。
+2355,有一个Xuhui的public housing，1卧1厅1卫，面积是55平方米，有室外空间，有供暖，有空调，有阳台，有地暖，房租价格是18000.0。
+2356,有一个Xuhui的public housing，2卧1厅1卫，面积是80平方米，有供暖，有空调，房租价格是18000.0。
+2357,有一个Xuhui的detached lane house，1卧1厅1卫，面积是50平方米，有室外空间，有供暖，有地暖，房租价格是18000.0。
+2358,有一个Xuhui的public housing，2卧2厅2卫，面积是90平方米，有供暖，有空调，有阳台，有WIFI，有烤箱，房租价格是18000.0。
+2359,有一个Xuhui的detached lane house，2卧2厅2卫，面积是115平方米，有浴缸，有地暖，房租价格是18000.0。
+2360,有一个Xuhui的detached lane house，2卧2厅1卫，面积是100平方米，有空调，房租价格是18000.0。
+2361,有一个Xuhui的public housing，2卧2厅2卫，面积是100平方米，有供暖，有空调，有地暖，房租价格是18000.0。
+2362,有一个Xuhui的detached lane house，1卧1厅1卫，面积是68平方米，有室外空间，有空调，房租价格是18000.0。
+2363,有一个Xuhui的public housing，2卧2厅2卫，面积是110平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，有烤箱，房租价格是18000.0。
+2364,有一个Xuhui的detached lane house，1卧1厅1卫，面积是60平方米，有室外空间，有空调，房租价格是18000.0。
+2365,有一个Xuhui的detached lane house，3卧2厅2卫，面积是135平方米，有供暖，房租价格是18500.0。
+2366,有一个Xuhui的attached lane house，2卧2厅1卫，面积是100平方米，有室外空间，有供暖，有空调，有阳台，有地暖，有烤箱，房租价格是18500.0。
+2367,有一个Xuhui的public housing，2卧2厅1卫，面积是90平方米，有室外空间，有供暖，有空调，有阳台，有地暖，房租价格是18700.0。
+2368,有一个Xuhui的detached lane house，2卧2厅2卫，面积是90平方米，有室外空间，有供暖，有空调，有阳台，房租价格是18800.0。
+2369,有一个Xuhui的attached lane house，2卧2厅2卫，面积是100平方米，有室外空间，有空调，房租价格是18800.0。
+2370,有一个Xuhui的detached lane house，2卧2厅2卫，面积是150平方米，有室外空间，有浴缸，房租价格是18800.0。
+2371,有一个Xuhui的public housing，2卧2厅1卫，面积是110平方米，有供暖，有空调，房租价格是18800.0。
+2372,有一个Xuhui的detached lane house，3卧2厅2卫，面积是135平方米，有室外空间，有浴缸，有烤箱，房租价格是18800.0。
+2373,有一个Xuhui的attached lane house，1卧1厅2卫，面积是70平方米，有供暖，有地暖，房租价格是19000.0。
+2374,有一个Xuhui的attached lane house，2卧2厅1卫，面积是100平方米，有供暖，有空调，有WIFI，有浴缸，房租价格是19000.0。
+2375,有一个Xuhui的detached lane house，3卧2厅3卫，面积是180平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是19000.0。
+2376,有一个Xuhui的attached lane house，2卧2厅2卫，面积是70平方米，有室外空间，房租价格是19000.0。
+2377,有一个Xuhui的attached lane house，2卧2厅2卫，面积是120平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是19000.0。
+2378,有一个Xuhui的attached lane house，4卧2厅2卫，面积是200平方米，有供暖，有空调，有阳台，房租价格是19000.0。
+2379,有一个Xuhui的attached lane house，2卧2厅2卫，面积是73平方米，有空调，有阳台，房租价格是19000.0。
+2380,有一个Xuhui的detached lane house，2卧2厅1卫，面积是110平方米，有室外空间，房租价格是19000.0。
+2381,有一个Xuhui的detached lane house，2卧2厅1卫，面积是110平方米，有供暖，有空调，有地暖，房租价格是19000.0。
+2382,有一个Xuhui的attached lane house，3卧2厅2卫，面积是135平方米，有供暖，有空调，房租价格是19500.0。
+2383,有一个Xuhui的attached lane house，2卧2厅2卫，面积是90平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是19500.0。
+2384,有一个Xuhui的attached lane house，2卧2厅2卫，面积是135平方米，有供暖，有空调，有WIFI，房租价格是19500.0。
+2385,有一个Xuhui的public housing，2卧2厅1卫，面积是80平方米，有供暖，有空调，有阳台，房租价格是19500.0。
+2386,有一个Xuhui的detached lane house，2卧2厅1卫，面积是100平方米，有室外空间，有供暖，有空调，有浴缸，有地暖，房租价格是19800.0。
+2387,有一个Xuhui的attached lane house，2卧2厅1卫，面积是100平方米，有室外空间，有供暖，有地暖，房租价格是19900.0。
+2388,有一个Xuhui的attached lane house，2卧2厅2卫，面积是120平方米，有室外空间，有浴缸，房租价格是20000.0。
+2389,有一个Xuhui的attached lane house，2卧1厅2卫，面积是100平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是20000.0。
+2390,有一个Xuhui的detached lane house，3卧2厅2卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是20000.0。
+2391,有一个Xuhui的public housing，2卧2厅1卫，面积是110平方米，有供暖，有空调，有浴缸，有地暖，房租价格是20000.0。
+2392,有一个Xuhui的detached lane house，1卧1厅1卫，面积是90平方米，有室外空间，有供暖，有空调，有阳台，房租价格是20000.0。
+2393,有一个Xuhui的attached lane house，2卧2厅1卫，面积是70平方米，有供暖，有空调，有阳台，有WIFI，房租价格是20000.0。
+2394,有一个Xuhui的detached lane house，1卧2厅2卫，面积是90平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是20000.0。
+2395,有一个Xuhui的detached lane house，2卧2厅2卫，面积是120平方米，有供暖，有浴缸，有地暖，房租价格是20000.0。
+2396,有一个Xuhui的attached lane house，2卧2厅1卫，面积是110平方米，有供暖，有空调，有阳台，有地暖，房租价格是20000.0。
+2397,有一个Xuhui的detached lane house，2卧2厅1卫，面积是100平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，有地暖，房租价格是20000.0。
+2398,有一个Xuhui的public housing，3卧2厅1卫，面积是140平方米，有室外空间，房租价格是20000.0。
+2399,有一个Xuhui的attached lane house，2卧2厅2卫，面积是90平方米，有室外空间，有供暖，有空调，有WIFI，有地暖，房租价格是20000.0。
+2400,有一个Xuhui的public housing，2卧2厅1卫，面积是120平方米，有供暖，有空调，房租价格是20000.0。
+2401,有一个Xuhui的attached lane house，2卧1厅1卫，面积是90平方米，有空调，房租价格是20000.0。
+2402,有一个Xuhui的attached lane house，3卧2厅2卫，面积是85平方米，有室外空间，房租价格是20000.0。
+2403,有一个Xuhui的attached lane house，2卧2厅1卫，面积是100平方米，有室外空间，有浴缸，房租价格是20000.0。
+2404,有一个Xuhui的detached lane house，2卧2厅1卫，面积是80平方米，有室外空间，房租价格是20000.0。
+2405,有一个Xuhui的attached lane house，5卧2厅2卫，面积是120平方米，有室外空间，有空调，房租价格是21000.0。
+2406,有一个Xuhui的attached lane house，1卧1厅1卫，面积是90平方米，有室外空间，有空调，房租价格是21000.0。
+2407,有一个Xuhui的public housing，2卧1厅1卫，面积是100平方米，有室外空间，房租价格是21000.0。
+2408,有一个Xuhui的detached lane house，2卧2厅2卫，面积是110平方米，有供暖，有地暖，房租价格是21000.0。
+2409,有一个Xuhui的attached lane house，2卧1厅1卫，面积是70平方米，整栋建筑，有室外空间，有空调，房租价格是21000.0。
+2410,有一个Xuhui的detached lane house，2卧2厅1卫，面积是100平方米，有室外空间，有供暖，有空调，有阳台，有烤箱，房租价格是21800.0。
+2411,有一个Xuhui的detached lane house，2卧2厅2卫，面积是90平方米，有供暖，有空调，有阳台，房租价格是21800.0。
+2412,有一个Xuhui的attached lane house，2卧2厅2卫，面积是130平方米，有室外空间，有供暖，有空调，有地暖，房租价格是21800.0。
+2413,有一个Xuhui的attached lane house，2卧1厅1卫，面积是150平方米，整栋建筑，有空调，有地暖，房租价格是22000.0。
+2414,有一个Xuhui的attached lane house，2卧2厅2卫，面积是120平方米，有供暖，有空调，有WIFI，有浴缸，房租价格是22000.0。
+2415,有一个Xuhui的public housing，3卧2厅1卫，面积是100平方米，有室外空间，房租价格是22000.0。
+2416,有一个Xuhui的attached lane house，2卧2厅2卫，面积是90平方米，有室外空间，有供暖，有浴缸，房租价格是22000.0。
+2417,有一个Xuhui的attached lane house，3卧2厅2卫，面积是100平方米，有室外空间，有供暖，有浴缸，房租价格是22000.0。
+2418,有一个Xuhui的detached lane house，2卧2厅2卫，面积是100平方米，有供暖，有空调，有WIFI，有地暖，房租价格是22000.0。
+2419,有一个Xuhui的public housing，2卧2厅2卫，面积是130平方米，有室外空间，有供暖，有浴缸，有地暖，房租价格是22000.0。
+2420,有一个Xuhui的detached lane house，2卧2厅2卫，面积是100平方米，有空调，房租价格是22000.0。
+2421,有一个Xuhui的public housing，2卧2厅2卫，面积是100平方米，有供暖，有空调，有地暖，房租价格是22000.0。
+2422,有一个Xuhui的attached lane house，2卧2厅1卫，面积是100平方米，有空调，有阳台，房租价格是22000.0。
+2423,有一个Xuhui的detached lane house，2卧2厅2卫，面积是100平方米，有供暖，有浴缸，房租价格是22000.0。
+2424,有一个Xuhui的public housing，2卧2厅2卫，面积是80平方米，有室外空间，有浴缸，房租价格是22000.0。
+2425,有一个Xuhui的public housing，2卧2厅2卫，面积是120平方米，有供暖，有空调，有阳台，有浴缸，房租价格是22000.0。
+2426,有一个Xuhui的detached lane house，2卧2厅1卫，面积是120平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是22000.0。
+2427,有一个Xuhui的detached lane house，2卧2厅2卫，面积是120平方米，有室外空间，有浴缸，房租价格是22000.0。
+2428,有一个Xuhui的attached lane house，3卧2厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有浴缸，有地暖，房租价格是22000.0。
+2429,有一个Xuhui的attached lane house，2卧2厅1卫，面积是130平方米，有室外空间，有供暖，有空调，有地暖，房租价格是22000.0。
+2430,有一个Xuhui的public housing，2卧2厅2卫，面积是120平方米，有室外空间，有浴缸，房租价格是22000.0。
+2431,有一个Xuhui的public housing，3卧2厅1卫，面积是120平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有地暖，有烤箱，房租价格是22500.0。
+2432,有一个Xuhui的detached lane house，1卧1厅1卫，面积是100平方米，有室外空间，有空调，房租价格是22600.0。
+2433,有一个Xuhui的public housing，2卧2厅1卫，面积是90平方米，有室外空间，有供暖，有空调，有地暖，房租价格是22800.0。
+2434,有一个Xuhui的detached lane house，2卧1厅1卫，面积是100平方米，有室外空间，房租价格是23000.0。
+2435,有一个Xuhui的public housing，2卧2厅1卫，面积是80平方米，有室外空间，有供暖，有地暖，房租价格是23000.0。
+2436,有一个Xuhui的detached lane house，2卧2厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是23000.0。
+2437,有一个Xuhui的attached lane house，2卧2厅2卫，面积是130平方米，有室外空间，有供暖，有空调，房租价格是23000.0。
+2438,有一个Xuhui的public housing，2卧2厅2卫，面积是110平方米，有室外空间，有供暖，有空调，有浴缸，有地暖，房租价格是23000.0。
+2439,有一个Xuhui的detached lane house，1卧1厅2卫，面积是80平方米，有室外空间，有空调，房租价格是23000.0。
+2440,有一个Xuhui的detached lane house，2卧2厅2卫，面积是160平方米，有室外空间，有浴缸，房租价格是23000.0。
+2441,有一个Xuhui的detached lane house，3卧2厅2卫，面积是100平方米，有供暖，有空调，有WIFI，有地暖，房租价格是23000.0。
+2442,有一个Xuhui的detached lane house，1卧1厅1卫，面积是80平方米，有室外空间，有供暖，有空调，有阳台，有地暖，房租价格是23000.0。
+2443,有一个Xuhui的detached lane house，2卧1厅1卫，面积是80平方米，有供暖，有空调，有WIFI，有地暖，房租价格是23000.0。
+2444,有一个Xuhui的attached lane house，2卧2厅2卫，面积是100平方米，有供暖，有空调，有浴缸，有烤箱，房租价格是23000.0。
+2445,有一个Xuhui的attached lane house，2卧2厅2卫，面积是80平方米，有室外空间，有供暖，有空调，房租价格是23000.0。
+2446,有一个Xuhui的detached lane house，3卧2厅2卫，面积是105平方米，有浴缸，房租价格是23000.0。
+2447,有一个Xuhui的detached lane house，2卧2厅2卫，面积是80平方米，有室外空间，有供暖，有浴缸，有地暖，房租价格是23000.0。
+2448,有一个Xuhui的detached lane house，3卧2厅2卫，面积是130平方米，有室外空间，有供暖，有地暖，房租价格是23000.0。
+2449,有一个Xuhui的attached lane house，2卧1厅1卫，面积是80平方米，有室外空间，有供暖，有地暖，有烤箱，房租价格是23000.0。
+2450,有一个Xuhui的villa，2卧2厅3卫，面积是150平方米，有室外空间，有空调，有地暖，房租价格是23000.0。
+2451,有一个Xuhui的detached lane house，2卧2厅2卫，面积是100平方米，有室外空间，房租价格是23000.0。
+2452,有一个Xuhui的detached lane house，2卧1厅2卫，面积是100平方米，有室外空间，有供暖，有空调，有地暖，房租价格是23000.0。
+2453,有一个Xuhui的attached lane house，3卧2厅2卫，面积是160平方米，有室外空间，有供暖，有地暖，房租价格是23500.0。
+2454,有一个Xuhui的villa，2卧2厅2卫，面积是110平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是23500.0。
+2455,有一个Xuhui的attached lane house，3卧2厅2卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是23500.0。
+2456,有一个Xuhui的public housing，3卧2厅2卫，面积是110平方米，有室外空间，有浴缸，房租价格是23800.0。
+2457,有一个Xuhui的public housing，2卧2厅1卫，面积是120平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，有地暖，有烤箱，房租价格是23800.0。
+2458,有一个Xuhui的public housing，3卧2厅2卫，面积是120平方米，有室外空间，有供暖，有浴缸，有地暖，房租价格是24000.0。
+2459,有一个Xuhui的public housing，3卧2厅3卫，面积是130平方米，有室外空间，有供暖，有空调，有阳台，房租价格是24000.0。
+2460,有一个Xuhui的attached lane house，1卧2厅1卫，面积是120平方米，有室外空间，房租价格是24000.0。
+2461,有一个Xuhui的public housing，2卧2厅2卫，面积是150平方米，有供暖，有空调，有浴缸，房租价格是24000.0。
+2462,有一个Xuhui的public housing，3卧2厅2卫，面积是130平方米，有供暖，有空调，有WIFI，有浴缸，有地暖，房租价格是24000.0。
+2463,有一个Xuhui的public housing，2卧2厅2卫，面积是100平方米，有室外空间，有供暖，有地暖，房租价格是24000.0。
+2464,有一个Xuhui的detached lane house，2卧2厅2卫，面积是110平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是24500.0。
+2465,有一个Xuhui的detached lane house，2卧2厅1卫，面积是100平方米，有浴缸，房租价格是24500.0。
+2466,有一个Xuhui的attached lane house，1卧1厅1卫，面积是70平方米，整栋建筑，有室外空间，有空调，有WIFI，有地暖，房租价格是24900.0。
+2467,有一个Xuhui的public housing，3卧2厅2卫，面积是150平方米，有室外空间，有阳台，房租价格是24999.0。
+2468,有一个Xuhui的detached lane house，2卧2厅1卫，面积是100平方米，有浴缸，房租价格是25000.0。
+2469,有一个Xuhui的detached lane house，2卧2厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有浴缸，有地暖，房租价格是25000.0。
+2470,有一个Xuhui的detached lane house，2卧1厅2卫，面积是70平方米，有室外空间，有空调，有WIFI，房租价格是25000.0。
+2471,有一个Xuhui的public housing，3卧2厅2卫，面积是150平方米，有供暖，有空调，有阳台，有浴缸，房租价格是25000.0。
+2472,有一个Xuhui的villa，3卧2厅2卫，面积是120平方米，有供暖，有空调，有阳台，有WIFI，有地暖，有烤箱，房租价格是25000.0。
+2473,有一个Xuhui的attached lane house，3卧2厅2卫，面积是100平方米，有室外空间，有浴缸，房租价格是25000.0。
+2474,有一个Xuhui的detached lane house，2卧2厅2卫，面积是100平方米，有室外空间，有供暖，有浴缸，有地暖，有烤箱，房租价格是25000.0。
+2475,有一个Xuhui的detached lane house，2卧1厅2卫，面积是75平方米，整栋建筑，有室外空间，房租价格是25000.0。
+2476,有一个Xuhui的detached lane house，1卧2厅1卫，面积是80平方米，有室外空间，有供暖，有空调，有WIFI，房租价格是25000.0。
+2477,有一个Xuhui的public housing，2卧2厅2卫，面积是98平方米，有室外空间，有空调，有阳台，房租价格是25000.0。
+2478,有一个Xuhui的detached lane house，2卧1厅2卫，面积是120平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是25000.0。
+2479,有一个Xuhui的public housing，2卧2厅2卫，面积是110平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是25000.0。
+2480,有一个Xuhui的public housing，3卧2厅2卫，面积是120平方米，有供暖，有空调，有浴缸，有地暖，房租价格是25500.0。
+2481,有一个Xuhui的detached lane house，2卧2厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是25800.0。
+2482,有一个Xuhui的detached lane house，3卧2厅3卫，面积是180平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是26000.0。
+2483,有一个Xuhui的public housing，3卧2厅2卫，面积是110平方米，有供暖，有空调，有浴缸，有地暖，房租价格是26000.0。
+2484,有一个Xuhui的detached lane house，1卧1厅1卫，面积是140平方米，有室外空间，有供暖，有空调，房租价格是26000.0。
+2485,有一个Xuhui的public housing，3卧2厅2卫，面积是110平方米，有供暖，有空调，有WIFI，有地暖，房租价格是26000.0。
+2486,有一个Xuhui的attached lane house，2卧2厅2卫，面积是60平方米，有室外空间，有供暖，房租价格是26000.0。
+2487,有一个Xuhui的public housing，3卧2厅3卫，面积是130平方米，有室外空间，有供暖，有空调，有阳台，房租价格是26000.0。
+2488,有一个Xuhui的detached lane house，3卧1厅1卫，面积是100平方米，有室外空间，有供暖，有空调，房租价格是26000.0。
+2489,有一个Xuhui的attached lane house，3卧2厅2卫，面积是140平方米，有室外空间，有供暖，有空调，房租价格是26000.0。
+2490,有一个Xuhui的attached lane house，2卧2厅2卫，面积是130平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是26000.0。
+2491,有一个Xuhui的detached lane house，2卧2厅2卫，面积是140平方米，有室外空间，有空调，有浴缸，房租价格是26000.0。
+2492,有一个Xuhui的detached lane house，3卧2厅2卫，面积是130平方米，有供暖，有空调，有浴缸，房租价格是26500.0。
+2493,有一个Xuhui的attached lane house，3卧1厅2卫，面积是120平方米，整栋建筑，有供暖，有空调，有阳台，有WIFI，房租价格是26500.0。
+2494,有一个Xuhui的detached lane house，3卧2厅2卫，面积是120平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，有烤箱，房租价格是26800.0。
+2495,有一个Xuhui的detached lane house，3卧2厅1卫，面积是90平方米，有供暖，有空调，房租价格是26800.0。
+2496,有一个Xuhui的detached lane house，3卧2厅1卫，面积是150平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是27000.0。
+2497,有一个Xuhui的public housing，3卧2厅2卫，面积是150平方米，有室外空间，有供暖，有空调，房租价格是27000.0。
+2498,有一个Xuhui的attached lane house，5卧2厅3卫，面积是200平方米，整栋建筑，有室外空间，有空调，有阳台，有浴缸，房租价格是27000.0。
+2499,有一个Xuhui的detached lane house，2卧2厅2卫，面积是80平方米，有供暖，有地暖，房租价格是27000.0。
+2500,有一个Xuhui的attached lane house，3卧2厅2卫，面积是100平方米，整栋建筑，有空调，房租价格是27000.0。
+2501,有一个Xuhui的attached lane house，3卧2厅2卫，面积是190平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是28000.0。
+2502,有一个Xuhui的attached lane house，3卧2厅3卫，面积是150平方米，有室外空间，有空调，有阳台，有浴缸，房租价格是28000.0。
+2503,有一个Xuhui的public housing，2卧2厅2卫，面积是150平方米，有供暖，有空调，有阳台，房租价格是28000.0。
+2504,有一个Xuhui的detached lane house，3卧2厅2卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有地暖，有烤箱，房租价格是28000.0。
+2505,有一个Xuhui的detached lane house，2卧2厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，有地暖，房租价格是28000.0。
+2506,有一个Xuhui的detached lane house，2卧2厅1卫，面积是120平方米，有供暖，有地暖，房租价格是28000.0。
+2507,有一个Xuhui的detached lane house，2卧2厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是28000.0。
+2508,有一个Xuhui的detached lane house，3卧2厅2卫，面积是140平方米，有室外空间，房租价格是28000.0。
+2509,有一个Xuhui的detached lane house，2卧2厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是28000.0。
+2510,有一个Xuhui的attached lane house，2卧2厅2卫，面积是160平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是28000.0。
+2511,有一个Xuhui的detached lane house，2卧2厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有浴缸，有地暖，房租价格是28000.0。
+2512,有一个Xuhui的attached lane house，4卧2厅3卫，面积是200平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是28000.0。
+2513,有一个Xuhui的detached lane house，2卧2厅1卫，面积是150平方米，有室外空间，有供暖，有空调，房租价格是28500.0。
+2514,有一个Xuhui的detached lane house，2卧2厅1卫，面积是130平方米，有室外空间，有供暖，有空调，房租价格是28500.0。
+2515,有一个Xuhui的attached lane house，3卧2厅4卫，面积是150平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是28500.0。
+2516,有一个Xuhui的detached lane house，3卧2厅2卫，面积是200平方米，整栋建筑，有室外空间，有供暖，有浴缸，有地暖，房租价格是28800.0。
+2517,有一个Xuhui的detached lane house，1卧2厅1卫，面积是88平方米，有室外空间，有空调，有阳台，房租价格是28888.0。
+2518,有一个Xuhui的detached lane house，4卧2厅3卫，面积是200平方米，整栋建筑，有空调，有阳台，房租价格是29000.0。
+2519,有一个Xuhui的detached lane house，3卧2厅2卫，面积是160平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是29500.0。
+2520,有一个Xuhui的public housing，3卧2厅1卫，面积是130平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，有烤箱，房租价格是30000.0。
+2521,有一个Xuhui的attached lane house，3卧2厅2卫，面积是120平方米，有室外空间，有供暖，有空调，有浴缸，有地暖，房租价格是30000.0。
+2522,有一个Xuhui的detached lane house，2卧2厅2卫，面积是120平方米，有室外空间，有供暖，有空调，有阳台，房租价格是30000.0。
+2523,有一个Xuhui的public housing，3卧2厅2卫，面积是120平方米，有室外空间，房租价格是30000.0。
+2524,有一个Xuhui的detached lane house，3卧2厅2卫，面积是180平方米，有室外空间，有供暖，有浴缸，房租价格是30000.0。
+2525,有一个Xuhui的detached lane house，3卧2厅2卫，面积是136平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有烤箱，房租价格是30000.0。
+2526,有一个Xuhui的detached lane house，4卧2厅2卫，面积是180平方米，有室外空间，房租价格是30000.0。
+2527,有一个Xuhui的detached lane house，3卧3厅3卫，面积是230平方米，有浴缸，房租价格是30000.0。
+2528,有一个Xuhui的detached lane house，4卧1厅5卫，面积是160平方米，整栋建筑，有供暖，有空调，有阳台，有浴缸，房租价格是31000.0。
+2529,有一个Xuhui的attached lane house，3卧2厅2卫，面积是160平方米，有室外空间，房租价格是31000.0。
+2530,有一个Xuhui的detached lane house，3卧2厅2卫，面积是160平方米，有室外空间，有空调，有浴缸，房租价格是31000.0。
+2531,有一个Xuhui的detached lane house，5卧2厅3卫，面积是200平方米，整栋建筑，有空调，有浴缸，房租价格是31800.0。
+2532,有一个Xuhui的attached lane house，5卧2厅3卫，面积是300平方米，整栋建筑，有室外空间，有空调，有阳台，有浴缸，房租价格是31800.0。
+2533,有一个Xuhui的attached lane house，3卧2厅2卫，面积是160平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，有地暖，房租价格是31900.0。
+2534,有一个Xuhui的attached lane house，3卧2厅2卫，面积是175平方米，有室外空间，房租价格是32000.0。
+2535,有一个Xuhui的public housing，3卧2厅2卫，面积是160平方米，有供暖，有空调，有浴缸，房租价格是32000.0。
+2536,有一个Xuhui的detached lane house，3卧1厅1卫，面积是120平方米，有室外空间，有空调，房租价格是32000.0。
+2537,有一个Xuhui的detached lane house，3卧1厅2卫，面积是140平方米，有室外空间，有浴缸，房租价格是32000.0。
+2538,有一个Xuhui的detached lane house，4卧2厅3卫，面积是160平方米，有室外空间，有浴缸，房租价格是32500.0。
+2539,有一个Xuhui的detached lane house，4卧2厅3卫，面积是230平方米，有室外空间，有供暖，有浴缸，房租价格是33000.0。
+2540,有一个Xuhui的attached lane house，3卧2厅2卫，面积是150平方米，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是33000.0。
+2541,有一个Xuhui的detached lane house，3卧2厅2卫，面积是170平方米，整栋建筑，有室外空间，有供暖，房租价格是33000.0。
+2542,有一个Xuhui的attached lane house，3卧2厅2卫，面积是200平方米，有室外空间，有浴缸，房租价格是33000.0。
+2543,有一个Xuhui的attached lane house，2卧1厅1卫，面积是110平方米，有室外空间，有供暖，有空调，房租价格是33000.0。
+2544,有一个Xuhui的detached lane house，3卧2厅3卫，面积是150平方米，有室外空间，有供暖，有空调，有浴缸，房租价格是34000.0。
+2545,有一个Xuhui的detached lane house，2卧2厅2卫，面积是150平方米，有室外空间，有空调，有浴缸，房租价格是34900.0。
+2546,有一个Xuhui的detached lane house，4卧2厅4卫，面积是250平方米，有室外空间，房租价格是35000.0。
+2547,有一个Xuhui的detached lane house，5卧1厅3卫，面积是220平方米，整栋建筑，有室外空间，有供暖，有空调，有浴缸，房租价格是35000.0。
+2548,有一个Xuhui的detached lane house，3卧2厅2卫，面积是120平方米，有供暖，有浴缸，房租价格是35000.0。
+2549,有一个Xuhui的detached lane house，3卧2厅1卫，面积是150平方米，有供暖，有地暖，房租价格是35000.0。
+2550,有一个Xuhui的attached lane house，3卧2厅2卫，面积是165平方米，有室外空间，有浴缸，有烤箱，房租价格是35000.0。
+2551,有一个Xuhui的attached lane house，3卧2厅2卫，面积是200平方米，有室外空间，有浴缸，房租价格是36000.0。
+2552,有一个Xuhui的detached lane house，2卧1厅1卫，面积是90平方米，有室外空间，房租价格是36000.0。
+2553,有一个Xuhui的attached lane house，5卧2厅3卫，面积是305平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有浴缸，有地暖，房租价格是37000.0。
+2554,有一个Xuhui的attached lane house，4卧2厅2卫，面积是168平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有烤箱，房租价格是38000.0。
+2555,有一个Xuhui的detached lane house，3卧2厅2卫，面积是180平方米，有室外空间，有供暖，有浴缸，房租价格是38000.0。
+2556,有一个Xuhui的detached lane house，4卧2厅3卫，面积是200平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是38000.0。
+2557,有一个Xuhui的attached lane house，3卧2厅3卫，面积是200平方米，有室外空间，有供暖，有浴缸，有地暖，有烤箱，房租价格是38000.0。
+2558,有一个Xuhui的attached lane house，4卧2厅2卫，面积是168平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，房租价格是39000.0。
+2559,有一个Xuhui的detached lane house，5卧1厅3卫，面积是328平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是39500.0。
+2560,有一个Xuhui的attached lane house，4卧2厅4卫，面积是230平方米，有室外空间，有空调，有浴缸，房租价格是40000.0。
+2561,有一个Xuhui的detached lane house，2卧2厅1卫，面积是100平方米，有室外空间，有供暖，有空调，有地暖，房租价格是40000.0。
+2562,有一个Xuhui的detached lane house，3卧2厅2卫，面积是180平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是40000.0。
+2563,有一个Xuhui的detached lane house，3卧2厅2卫，面积是150平方米，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是41000.0。
+2564,有一个Xuhui的detached lane house，5卧2厅3卫，面积是200平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，房租价格是41800.0。
+2565,有一个Xuhui的detached lane house，3卧1厅1卫，面积是130平方米，有室外空间，有空调，有WIFI，房租价格是41999.0。
+2566,有一个Xuhui的detached lane house，4卧2厅3卫，面积是200平方米，整栋建筑，有室外空间，有供暖，有空调，有浴缸，有地暖，房租价格是42000.0。
+2567,有一个Xuhui的detached lane house，4卧3厅1卫，面积是222平方米，整栋建筑，有室外空间，房租价格是42000.0。
+2568,有一个Xuhui的detached lane house，4卧2厅3卫，面积是250平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是42000.0。
+2569,有一个Xuhui的public housing，4卧2厅2卫，面积是160平方米，有供暖，有空调，有阳台，房租价格是42000.0。
+2570,有一个Xuhui的detached lane house，3卧2厅2卫，面积是130平方米，有室外空间，房租价格是42000.0。
+2571,有一个Xuhui的detached lane house，3卧2厅2卫，面积是140平方米，有室外空间，有浴缸，房租价格是42000.0。
+2572,有一个Xuhui的attached lane house，4卧2厅2卫，面积是180平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，有地暖，房租价格是42000.0。
+2573,有一个Xuhui的detached lane house，2卧2厅1卫，面积是100平方米，有室外空间，有空调，有地暖，房租价格是43000.0。
+2574,有一个Xuhui的detached lane house，3卧2厅3卫，面积是200平方米，有室外空间，有供暖，有地暖，房租价格是45000.0。
+2575,有一个Xuhui的detached lane house，3卧2厅2卫，面积是200平方米，有室外空间，有烤箱，房租价格是45000.0。
+2576,有一个Xuhui的attached lane house，2卧2厅2卫，面积是150平方米，整栋建筑，有供暖，房租价格是46000.0。
+2577,有一个Xuhui的attached lane house，3卧2厅3卫，面积是230平方米，有室外空间，有空调，房租价格是50000.0。
+2578,有一个Xuhui的detached lane house，4卧1厅3卫，面积是160平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是50000.0。
+2579,有一个Xuhui的detached lane house，4卧2厅3卫，面积是250平方米，整栋建筑，有室外空间，有供暖，有空调，有浴缸，有地暖，房租价格是50000.0。
+2580,有一个Xuhui的attached lane house，5卧2厅3卫，面积是200平方米，整栋建筑，有室外空间，有空调，有阳台，有浴缸，房租价格是55000.0。
+2581,有一个Xuhui的detached lane house，4卧2厅4卫，面积是220平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是58000.0。
+2582,有一个Xuhui的detached lane house，4卧2厅2卫，面积是230平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是58000.0。
+2583,有一个Xuhui的detached lane house，7卧2厅3卫，面积是350平方米，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是65000.0。
+2584,有一个Xuhui的villa，4卧2厅3卫，面积是264平方米，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是66000.0。
+2585,有一个Xuhui的detached lane house，6卧4厅4卫，面积是400平方米，整栋建筑，有室外空间，房租价格是68000.0。
+2586,有一个Xuhui的detached lane house，4卧2厅3卫，面积是200平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，房租价格是70000.0。
+2587,有一个Xuhui的attached lane house，5卧2厅3卫，面积是260平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，房租价格是73000.0。
+2588,有一个Xuhui的detached lane house，4卧3厅4卫，面积是300平方米，有室外空间，有浴缸，房租价格是75000.0。
+2589,有一个Xuhui的attached lane house，4卧2厅3卫，面积是200平方米，整栋建筑，有室外空间，有空调，有阳台，有浴缸，房租价格是78000.0。
+2590,有一个Xuhui的detached lane house，8卧3厅5卫，面积是320平方米，整栋建筑，有空调，有阳台，有浴缸，房租价格是80000.0。
+2591,有一个Xuhui的detached lane house，8卧2厅6卫，面积是320平方米，整栋建筑，有室外空间，有空调，有阳台，有浴缸，房租价格是80000.0。
+2592,有一个Xuhui的detached lane house，6卧2厅3卫，面积是300平方米，整栋建筑，有室外空间，有浴缸，房租价格是105000.0。
+2593,有一个Xuhui的detached lane house，6卧2厅4卫，面积是350平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有浴缸，房租价格是110000.0。
+2594,有一个Xuhui的detached lane house，5卧2厅3卫，面积是300平方米，整栋建筑，有阳台，有WIFI，有浴缸，房租价格是130000.0。
+2595,有一个Yangpu的public housing，3卧1厅1卫，面积是87平方米，有室外空间，有空调，有浴缸，房租价格是6800.0。
+2596,有一个Yangpu的attached lane house，3卧2厅2卫，面积是125平方米，有室外空间，房租价格是8000.0。
+2597,有一个Yangpu的public housing，2卧1厅1卫，面积是66平方米，有空调，有WIFI，房租价格是10800.0。
+2598,有一个Zhabei的public housing，1卧1厅1卫，面积是41平方米，有室外空间，有空调，有阳台，有WIFI，房租价格是2900.0。
+2599,有一个Zhabei的public housing，2卧1厅1卫，面积是58平方米，有浴缸，房租价格是4000.0。
+2600,有一个Zhabei的public housing，2卧1厅1卫，面积是52平方米，有空调，有阳台，房租价格是5500.0。
+2601,有一个Zhabei的public housing，2卧1厅1卫，面积是65平方米，有浴缸，房租价格是6800.0。
+2602,有一个Songjiang的villa，6卧3厅5卫，面积是300平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有浴缸，有地暖，房租价格是17800.0。
+2603,有一个Songjiang的villa，5卧3厅3卫，面积是249平方米，整栋建筑，有室外空间，有空调，有阳台，有WIFI，房租价格是19900.0。
+2604,有一个Songjiang的villa，4卧2厅3卫，面积是300平方米，整栋建筑，有室外空间，有空调，有阳台，有WIFI，有浴缸，房租价格是20000.0。
+2605,有一个Songjiang的villa，4卧3厅3卫，面积是380平方米，有室外空间，有供暖，有空调，有地暖，房租价格是28000.0。
+2606,有一个Songjiang的villa，6卧3厅4卫，面积是289平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有浴缸，有地暖，房租价格是30000.0。
+2607,有一个Songjiang的villa，4卧3厅5卫，面积是300平方米，整栋建筑，有室外空间，有供暖，有空调，有阳台，有WIFI，有浴缸，有地暖，房租价格是35000.0。
