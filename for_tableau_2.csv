@@ -1,0 +1,2609 @@
+district,rent,bedrooms,living-dining,bathrooms,loft,sqmeters,entire_building,building_type,use_type_en,heat,ac,balcony,WIFI,outdoor_space,bathtub,floor_heat,oven,total_amens
+Baoshan,2800,1,1,1,0,28,0,villa,residential,0,0,0,0,1,0,0,0,1
+Baoshan,3200,2,1,1,0,74,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Baoshan,3234,2,1,1,0,58,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Baoshan,5000,2,1,1,0,62,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Baoshan,5000,3,1,1,0,95,0,public housing,residential,0,1,1,1,1,0,0,0,4
+Baoshan,6100,2,1,1,0,56,0,detached lane house,residential,0,1,1,1,1,1,0,0,5
+Baoshan,6500,3,1,1,0,66,0,public housing,residential,0,1,1,1,1,0,0,0,4
+Baoshan,8500,4,1,2,0,120,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Changning,3200,1,0,1,0,40,0,detached lane house,residential,1,0,0,0,1,0,0,0,2
+Changning,3300,1,0,1,0,33,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Changning,3499,1,0,1,0,26,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,3800,1,0,1,0,22,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Changning,3800,2,1,1,0,58,0,public housing,residential,1,1,1,0,0,0,0,0,3
+Changning,3890,2,1,1,0,27,0,attached lane house,multi-use,1,0,0,0,0,0,0,0,1
+Changning,4000,1,0,1,0,45,0,public housing,residential,0,1,0,0,1,0,0,0,2
+Changning,4100,1,1,1,0,40,0,public housing,multi-use,0,1,1,1,1,1,0,0,5
+Changning,4200,1,0,1,0,36,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,4300,1,0,1,0,36,0,public housing,residential,0,0,0,0,0,0,0,0,0
+Changning,4300,1,0,1,0,42,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,4500,1,0,1,0,36,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Changning,4500,1,1,1,0,32,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Changning,4500,1,1,1,0,42,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Changning,4700,1,1,1,0,46,0,public housing,residential,1,1,0,0,1,1,0,0,4
+Changning,4800,1,0,1,0,22,0,detached lane house,multi-use,0,1,0,1,1,0,0,0,3
+Changning,4800,1,1,1,1,35,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,5000,1,1,1,0,38,0,public housing,residential,1,0,0,0,0,0,0,0,1
+Changning,5200,1,1,1,1,35,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Changning,5200,1,0,1,0,38,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Changning,5200,1,1,1,0,42,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Changning,5500,1,1,1,0,45,0,public housing,multi-use,0,1,1,0,1,0,0,0,3
+Changning,5700,1,0,1,0,36,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,5800,1,1,1,0,38,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,5800,1,1,1,0,45,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Changning,5800,1,1,1,0,35,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Changning,5800,1,0,1,0,35,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,5800,1,1,1,0,50,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Changning,6000,2,1,1,0,58,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Changning,6000,1,1,1,0,35,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Changning,6000,1,0,1,0,35,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Changning,6000,1,1,1,0,45,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Changning,6000,1,1,1,0,50,0,public housing,residential,0,1,0,0,1,0,0,0,2
+Changning,6200,1,0,1,0,34,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Changning,6200,1,0,1,0,33,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,6200,2,0,1,0,56,0,public housing,residential,0,1,1,0,1,1,0,0,4
+Changning,6200,1,1,1,0,40,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Changning,6200,2,1,1,0,52,0,public housing,residential,1,1,1,0,0,0,0,0,3
+Changning,6200,1,1,1,0,36,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,6200,1,1,1,0,42,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,6200,2,0,1,0,56,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,6200,1,1,1,0,1,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,6400,1,1,1,0,50,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Changning,6500,1,1,1,0,40,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,6500,1,1,1,0,50,0,public housing,residential,0,1,0,1,0,0,0,0,2
+Changning,6500,2,0,1,0,50,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Changning,6500,1,1,1,0,48,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Changning,6500,1,1,1,0,47,0,public housing,residential,1,1,1,1,0,0,0,0,4
+Changning,6500,1,0,1,0,20,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Changning,6600,1,1,1,0,38,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Changning,6600,1,1,1,0,45,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Changning,6600,1,1,1,0,39,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Changning,6600,1,1,1,0,50,0,detached lane house,residential,0,1,0,1,1,0,0,0,3
+Changning,6700,1,1,1,0,50,0,public housing,residential,0,0,1,1,0,0,0,0,2
+Changning,6700,1,1,1,0,65,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Changning,6800,1,1,1,0,60,0,attached lane house,residential,1,1,1,1,1,1,0,0,6
+Changning,6800,1,0,1,0,38,0,public housing,residential,0,0,1,1,0,0,0,0,2
+Changning,6800,1,1,1,0,42,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Changning,6800,2,1,1,0,78,0,public housing,residential,1,1,0,0,0,0,0,0,2
+Changning,6800,1,1,1,0,50,0,public housing,multi-use,1,1,1,0,0,0,0,0,3
+Changning,6800,1,1,1,0,45,0,public housing,multi-use,1,1,1,0,0,0,0,0,3
+Changning,6800,1,0,1,0,40,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,6800,1,1,1,0,38,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,6900,1,2,1,0,60,0,attached lane house,residential,0,1,0,1,1,0,0,0,3
+Changning,6900,1,1,1,0,45,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Changning,6900,1,1,1,0,35,0,public housing,residential,0,1,0,0,1,0,0,0,2
+Changning,6900,1,1,1,0,45,0,public housing,residential,1,1,1,0,0,0,0,0,3
+Changning,6900,1,1,1,0,45,0,public housing,multi-use,1,1,1,0,0,0,0,0,3
+Changning,6900,1,1,1,0,50,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Changning,7000,1,1,1,0,50,0,attached lane house,residential,1,0,0,0,0,0,0,0,1
+Changning,7000,1,1,1,0,60,0,detached lane house,residential,1,1,0,1,0,1,0,0,4
+Changning,7000,2,1,1,0,60,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Changning,7000,1,1,1,0,42,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,7200,2,1,1,0,65,0,public housing,residential,0,1,1,1,1,1,0,0,5
+Changning,7200,2,1,1,0,65,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,7200,1,1,1,0,52,0,detached lane house,residential,0,1,1,1,1,0,0,0,4
+Changning,7300,1,2,1,0,55,0,public housing,residential,0,1,1,1,1,1,0,0,5
+Changning,7300,1,1,1,0,50,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Changning,7400,1,1,1,0,48,0,public housing,residential,1,1,1,1,0,0,0,0,4
+Changning,7500,1,1,1,0,70,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Changning,7500,1,1,1,1,40,0,public housing,multi-use,0,1,0,0,0,0,0,0,1
+Changning,7500,2,1,1,0,80,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,7500,2,1,1,0,50,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,7500,1,0,1,0,30,0,public housing,residential,1,0,0,0,0,0,1,0,2
+Changning,7500,1,1,1,0,42,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,7500,1,1,1,0,40,0,public housing,multi-use,1,1,0,0,1,0,0,0,3
+Changning,7500,1,1,1,0,45,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Changning,7600,1,1,1,0,50,0,public housing,multi-use,0,1,1,0,1,0,0,0,3
+Changning,7600,2,2,1,0,65,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Changning,7600,1,1,1,0,52,0,public housing,residential,1,1,1,0,0,0,0,0,3
+Changning,7800,2,1,1,0,60,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Changning,7800,2,0,1,0,55,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,7800,1,1,1,0,50,0,attached lane house,multi-use,0,1,0,1,0,0,0,0,2
+Changning,7800,1,1,1,0,50,0,detached lane house,residential,0,1,1,1,1,0,0,0,4
+Changning,7800,2,1,1,0,75,0,public housing,residential,1,1,0,0,0,0,0,0,2
+Changning,7800,1,1,1,0,50,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Changning,7800,1,0,1,0,40,0,public housing,residential,1,1,1,0,0,0,0,0,3
+Changning,7800,1,1,1,0,40,0,detached lane house,residential,0,1,1,0,0,0,0,0,2
+Changning,7800,1,2,1,0,50,0,public housing,residential,1,1,1,1,1,1,0,0,6
+Changning,7800,2,1,1,0,56,0,public housing,residential,1,1,1,1,0,1,0,0,5
+Changning,7800,1,2,1,0,65,0,public housing,multi-use,0,1,1,1,1,0,0,0,4
+Changning,7900,1,1,1,0,50,0,public housing,residential,1,1,1,0,0,0,0,0,3
+Changning,8000,1,2,1,0,59,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Changning,8000,1,1,1,0,50,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Changning,8000,1,1,1,1,60,0,detached lane house,residential,1,1,1,1,0,0,0,0,4
+Changning,8000,1,1,1,0,50,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Changning,8000,1,1,1,0,65,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Changning,8200,2,1,1,0,60,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,8200,2,1,1,0,51,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,8200,1,2,1,0,55,0,public housing,residential,1,1,1,0,0,0,0,0,3
+Changning,8200,1,1,1,0,50,0,public housing,multi-use,1,1,1,0,1,0,0,0,4
+Changning,8300,2,1,1,0,50,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,8300,2,1,1,0,60,0,public housing,residential,1,1,1,0,1,0,0,0,4
+Changning,8400,1,1,1,0,48,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Changning,8400,1,1,1,0,50,0,public housing,multi-use,1,1,1,0,1,0,0,0,4
+Changning,8500,1,1,1,1,50,0,attached lane house,residential,0,1,0,0,0,0,0,1,2
+Changning,8500,1,1,1,0,76,0,attached lane house,residential,1,1,1,1,0,0,0,0,4
+Changning,8500,1,1,1,0,45,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Changning,8500,1,1,1,0,55,0,detached lane house,multi-use,1,0,0,0,1,0,1,0,3
+Changning,8500,2,1,1,0,50,0,public housing,residential,0,0,1,0,0,0,0,0,1
+Changning,8500,2,1,1,0,68,0,public housing,multi-use,0,1,1,0,1,0,0,0,3
+Changning,8500,1,1,1,0,68,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Changning,8600,2,2,1,0,70,0,detached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Changning,8800,1,2,1,0,70,0,public housing,residential,1,1,1,0,1,1,0,0,5
+Changning,8800,2,1,1,0,68,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Changning,8800,2,1,1,0,70,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,8800,2,1,1,0,60,0,public housing,residential,0,1,0,0,0,0,0,1,2
+Changning,8800,2,1,1,0,60,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,8800,1,2,1,0,45,0,detached lane house,residential,0,1,0,1,1,0,0,0,3
+Changning,9000,1,1,1,0,35,0,detached lane house,residential,0,1,1,1,0,0,0,0,3
+Changning,9000,1,2,1,0,50,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Changning,9000,2,2,1,0,65,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Changning,9000,1,1,1,0,60,0,detached lane house,residential,1,0,0,0,1,0,0,0,2
+Changning,9000,1,1,1,0,45,0,attached lane house,residential,1,1,0,0,1,0,1,0,4
+Changning,9000,1,1,1,0,40,0,public housing,residential,1,1,0,0,1,0,0,0,3
+Changning,9000,1,2,1,0,60,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Changning,9000,2,2,2,1,100,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Changning,9200,2,1,1,0,76,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Changning,9200,1,2,1,0,66,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Changning,9500,3,1,1,0,95,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Changning,9500,1,1,1,0,70,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Changning,9500,1,2,1,0,65,0,public housing,residential,1,1,1,0,1,0,0,0,4
+Changning,9500,1,1,1,0,58,0,detached lane house,residential,1,0,0,0,1,0,0,0,2
+Changning,9500,2,2,1,0,120,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Changning,9800,1,1,1,0,60,0,detached lane house,residential,1,1,0,1,0,1,0,1,5
+Changning,9800,2,1,1,0,52,0,public housing,residential,0,1,0,0,0,0,0,1,2
+Changning,9800,2,1,1,0,60,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,9800,1,1,1,0,65,0,detached lane house,multi-use,0,1,0,1,1,0,0,0,3
+Changning,9800,1,1,1,0,70,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Changning,9800,2,1,1,0,90,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Changning,9800,1,1,1,0,55,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Changning,9800,2,1,1,0,70,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Changning,9999,1,2,1,0,65,0,detached lane house,residential,0,1,1,0,1,0,0,0,3
+Changning,10000,1,2,1,0,66,0,public housing,multi-use,0,0,0,0,1,1,0,0,2
+Changning,10000,2,1,1,0,60,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Changning,10000,1,1,1,0,40,0,public housing,multi-use,0,1,0,0,1,0,1,0,3
+Changning,10000,1,1,1,0,70,1,detached lane house,multi-use,0,0,1,1,1,0,0,0,3
+Changning,10300,1,1,1,0,62,0,detached lane house,residential,0,1,0,0,1,0,0,0,2
+Changning,10500,2,2,1,0,72,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Changning,10800,2,1,1,0,65,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Changning,10800,3,1,1,0,80,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,11000,1,1,1,0,80,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Changning,11000,2,2,2,0,100,0,public housing,multi-use,1,1,1,0,0,0,1,0,4
+Changning,11000,1,1,1,0,30,0,attached lane house,residential,1,0,0,0,1,0,1,0,3
+Changning,11000,2,2,1,0,70,0,public housing,multi-use,1,1,1,1,1,0,1,1,7
+Changning,11000,1,1,1,0,70,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Changning,11000,1,2,1,0,60,0,attached lane house,residential,1,0,0,0,1,0,1,0,3
+Changning,11000,1,1,1,0,65,0,public housing,residential,0,1,1,0,0,0,1,0,3
+Changning,11000,1,1,1,0,60,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Changning,11000,2,2,1,0,82,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Changning,11000,1,1,1,0,45,0,public housing,residential,1,1,0,0,1,1,0,0,4
+Changning,11000,1,1,1,0,60,0,detached lane house,residential,0,1,1,1,1,0,0,0,4
+Changning,11000,2,1,1,0,70,0,public housing,multi-use,0,1,0,0,0,0,0,0,1
+Changning,11500,3,1,1,0,118,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Changning,11500,1,1,1,0,43,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Changning,11500,2,1,1,0,80,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Changning,11500,2,2,2,0,70,0,public housing,residential,0,1,1,1,0,0,0,1,4
+Changning,11800,1,2,1,0,55,0,public housing,residential,1,1,1,0,1,0,0,0,4
+Changning,11800,1,1,1,0,65,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Changning,11800,1,2,1,0,65,0,public housing,residential,1,1,1,0,1,0,0,0,4
+Changning,11800,1,2,1,0,65,0,public housing,residential,1,1,1,0,1,0,0,0,4
+Changning,11800,1,2,1,0,75,0,public housing,residential,1,1,0,0,0,0,0,0,2
+Changning,11999,2,1,1,0,60,0,attached lane house,residential,1,1,0,0,0,0,1,0,3
+Changning,12000,1,2,1,0,60,0,detached lane house,residential,1,1,0,1,1,0,1,0,5
+Changning,12000,1,2,2,0,85,1,public housing,multi-use,1,0,0,0,1,1,1,0,4
+Changning,12000,2,1,1,0,70,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Changning,12000,2,1,1,0,70,0,public housing,residential,1,1,0,0,0,0,0,0,2
+Changning,12000,1,2,1,0,60,0,attached lane house,multi-use,1,1,1,1,0,1,0,0,5
+Changning,12500,2,1,2,0,100,0,public housing,multi-use,1,1,0,1,1,1,1,0,6
+Changning,12500,2,1,1,0,90,0,public housing,residential,1,0,0,0,0,0,1,0,2
+Changning,12800,1,2,1,0,75,0,public housing,residential,1,1,0,0,1,0,1,0,4
+Changning,12800,2,2,1,0,100,0,public housing,multi-use,0,0,0,0,1,0,0,0,1
+Changning,12800,1,2,1,0,100,0,public housing,multi-use,0,0,0,0,1,1,0,0,2
+Changning,12800,2,2,1,0,80,0,public housing,multi-use,0,1,0,0,1,0,0,0,2
+Changning,13000,1,1,1,0,75,0,attached lane house,residential,1,1,1,0,1,0,0,0,4
+Changning,13000,1,1,1,1,70,1,detached lane house,multi-use,1,0,0,1,1,0,0,0,3
+Changning,13000,1,2,1,0,50,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Changning,13800,2,2,2,0,85,0,public housing,residential,1,1,1,0,1,1,1,1,7
+Changning,13800,2,2,1,0,80,0,public housing,residential,0,1,0,0,1,0,0,0,2
+Changning,14000,1,2,1,0,100,0,attached lane house,residential,0,1,0,0,1,1,1,0,4
+Changning,14000,1,1,1,0,80,0,public housing,residential,1,1,0,0,0,1,1,0,4
+Changning,15300,1,2,1,0,60,0,detached lane house,residential,0,1,0,1,1,0,0,0,3
+Changning,15900,2,2,1,1,80,1,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Changning,16000,2,2,2,0,120,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Changning,16500,2,2,2,0,100,0,public housing,residential,1,1,1,0,1,1,0,0,5
+Changning,16500,4,2,2,1,200,0,villa,multi-use,0,0,0,0,1,1,0,0,2
+Changning,17000,2,2,2,0,110,0,detached lane house,multi-use,0,0,0,0,1,0,0,1,2
+Changning,17800,2,1,1,0,80,1,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Changning,19800,3,2,2,0,150,0,attached lane house,multi-use,1,1,0,0,1,0,0,1,4
+Changning,20000,2,2,1,1,110,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Changning,20000,7,2,4,0,225,1,attached lane house,multi-use,0,0,0,0,1,1,0,0,2
+Changning,20000,2,2,1,0,110,0,detached lane house,residential,1,1,0,0,0,1,1,0,4
+Changning,20000,2,2,2,0,110,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Changning,22000,2,2,2,0,110,1,public housing,residential,1,1,0,1,1,0,1,1,6
+Changning,26000,3,2,2,0,120,1,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Changning,28000,4,3,3,1,200,0,villa,residential,1,1,1,0,1,1,1,0,6
+Changning,28500,2,2,2,0,160,0,detached lane house,multi-use,1,1,1,0,1,1,0,0,5
+Changning,28800,4,2,2,0,180,0,villa,residential,1,1,1,0,1,1,1,1,7
+Changning,29000,3,2,2,0,150,1,attached lane house,residential,0,1,1,1,0,1,0,0,4
+Changning,30000,3,2,3,0,120,1,detached lane house,multi-use,0,1,1,0,1,1,0,0,4
+Changning,32000,4,2,3,1,200,0,villa,residential,1,0,1,0,1,1,1,0,5
+Changning,32000,4,2,3,0,270,0,villa,residential,1,1,1,0,1,1,0,0,5
+Changning,32000,4,2,3,1,200,0,villa,residential,1,0,0,0,0,0,1,0,2
+Changning,32800,3,2,3,0,168,0,villa,residential,1,1,1,0,1,1,0,1,6
+Changning,35000,4,2,3,0,172,0,villa,residential,1,1,0,0,0,1,1,0,4
+Changning,38000,4,2,3,0,220,0,villa,residential,1,1,0,0,1,0,1,0,4
+Changning,39000,5,2,4,0,298,0,villa,residential,1,1,0,1,1,1,1,1,7
+Changning,40000,4,2,3,0,250,0,detached lane house,residential,1,1,1,0,1,1,0,1,6
+Changning,49000,4,2,3,0,250,1,attached lane house,multi-use,1,1,0,0,1,1,1,0,5
+Changning,50000,5,3,4,0,340,0,villa,residential,0,1,0,0,1,0,0,0,2
+Changning,55000,4,2,4,0,340,0,villa,residential,0,1,0,0,1,0,0,0,2
+Changning,70000,8,3,4,0,379,1,villa,multi-use,0,1,1,0,1,1,0,0,4
+Changning,80000,5,3,4,0,500,0,detached lane house,multi-use,0,0,0,0,0,1,0,0,1
+Hongkou,3000,1,0,1,0,18,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Hongkou,3800,1,1,1,0,48,0,public housing,residential,0,1,0,0,1,0,0,0,2
+Hongkou,5200,1,1,1,0,38,0,attached lane house,residential,0,1,1,1,0,0,0,0,3
+Hongkou,9500,4,1,2,0,133,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Hongkou,120000,8,9,9,0,400,0,villa,residential,1,1,0,0,1,0,0,0,3
+Huangpu,2500,1,0,1,0,20,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Huangpu,2500,1,0,1,0,10,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,2800,1,0,1,0,15,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Huangpu,2900,1,0,1,0,12,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,2900,1,0,1,0,15,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Huangpu,3000,1,1,1,0,38,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Huangpu,3000,2,0,1,0,52,0,attached lane house,residential,0,1,1,0,1,0,0,0,3
+Huangpu,3000,1,0,1,0,12,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,3000,1,0,1,0,15,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,3000,1,0,1,0,15,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Huangpu,3000,1,1,1,0,15,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,3000,1,1,1,0,38,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Huangpu,3000,1,1,1,0,38,0,detached lane house,residential,0,1,0,1,0,0,0,0,2
+Huangpu,3000,1,1,1,0,38,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Huangpu,3000,1,1,1,0,30,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Huangpu,3000,1,1,1,0,38,0,public housing,residential,1,1,0,0,0,0,0,0,2
+Huangpu,3000,1,1,1,0,30,0,attached lane house,residential,0,1,1,1,0,0,0,0,3
+Huangpu,3000,1,2,1,0,36,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Huangpu,3000,1,1,1,0,30,0,attached lane house,residential,1,1,1,0,1,1,0,0,5
+Huangpu,3000,1,1,1,0,30,0,attached lane house,residential,1,1,1,1,1,1,0,0,6
+Huangpu,3000,1,0,1,0,12,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,3200,1,0,1,0,10,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,3200,1,0,1,0,15,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,3200,1,0,1,0,12,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,3200,1,0,1,0,12,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Huangpu,3300,1,1,1,0,15,0,detached lane house,residential,1,1,0,1,0,0,0,0,3
+Huangpu,3400,1,0,1,0,15,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,3400,1,0,1,0,15,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Huangpu,3450,1,0,1,0,22,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,3500,1,1,1,0,25,0,detached lane house,residential,0,1,0,1,0,0,0,0,2
+Huangpu,3500,1,1,1,0,20,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,3500,1,0,1,0,15,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,3500,1,0,1,0,13,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,3500,1,0,1,0,16,0,detached lane house,residential,0,1,0,1,0,0,0,0,2
+Huangpu,3500,1,1,1,1,20,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,3600,1,1,1,0,20,0,attached lane house,residential,0,1,1,0,1,0,0,0,3
+Huangpu,3700,1,0,1,0,13,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,3800,1,1,1,0,25,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,3800,1,1,1,0,20,0,attached lane house,multi-use,1,1,1,0,0,0,1,0,4
+Huangpu,3800,1,0,1,0,10,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,3800,1,1,1,0,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,3800,1,1,1,0,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,3800,1,0,1,0,12,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,3800,1,0,1,0,20,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,3900,1,1,1,0,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,3900,1,1,1,0,30,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Huangpu,3900,1,1,1,0,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,3900,1,1,1,0,22,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Huangpu,4000,1,0,1,0,20,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4000,1,0,1,0,18,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4000,1,1,1,0,28,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4000,1,1,1,0,25,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4000,1,0,1,0,40,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4000,1,1,1,1,40,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4000,1,1,1,0,20,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4000,1,1,1,0,28,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4000,1,1,1,0,25,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4000,1,1,1,0,20,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4000,2,2,1,1,40,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Huangpu,4100,1,1,1,1,20,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4200,1,0,1,0,28,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Huangpu,4200,2,1,1,0,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4200,1,1,1,0,19,0,detached lane house,residential,0,1,0,0,1,1,0,0,3
+Huangpu,4200,1,1,1,0,20,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,4200,1,0,1,0,25,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4200,1,1,1,0,38,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4200,1,1,1,0,40,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4300,1,1,2,0,30,0,attached lane house,residential,1,0,0,0,0,0,1,0,2
+Huangpu,4300,1,1,1,0,16,0,attached lane house,residential,1,1,0,1,0,0,0,0,3
+Huangpu,4300,1,1,1,1,20,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4300,1,1,1,0,30,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,4400,1,0,1,0,20,0,attached lane house,residential,0,0,0,0,0,0,0,0,0
+Huangpu,4500,1,1,1,0,25,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4500,1,0,1,0,36,0,detached lane house,residential,0,1,0,0,1,0,0,0,2
+Huangpu,4500,2,1,1,0,45,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4500,1,0,1,0,36,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4500,2,2,1,1,40,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Huangpu,4500,1,1,1,0,28,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4500,1,1,1,0,35,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Huangpu,4500,1,1,1,0,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4500,1,0,1,0,15,0,attached lane house,residential,1,1,0,1,0,0,0,0,3
+Huangpu,4500,1,0,1,0,30,0,detached lane house,residential,0,1,0,0,1,0,0,0,2
+Huangpu,4500,2,1,1,0,38,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4500,1,0,1,0,15,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Huangpu,4500,1,1,1,0,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4500,1,1,1,0,28,0,detached lane house,residential,1,1,0,1,0,1,0,0,4
+Huangpu,4500,1,1,1,0,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4500,1,1,1,0,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4500,1,1,1,0,25,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4500,1,1,1,0,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4600,1,1,1,0,58,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Huangpu,4600,2,2,3,0,60,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Huangpu,4600,1,1,1,0,60,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Huangpu,4600,1,1,1,0,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4600,1,1,1,0,58,0,attached lane house,residential,0,1,0,1,1,0,0,0,3
+Huangpu,4600,1,1,1,0,60,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4600,1,1,1,0,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4700,1,1,1,0,50,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Huangpu,4800,1,1,1,1,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4800,1,1,1,0,25,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4800,1,1,1,0,25,0,attached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Huangpu,4800,1,1,1,0,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,4800,1,0,1,0,18,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Huangpu,4800,1,0,1,0,23,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5000,2,2,1,0,45,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5000,1,1,1,0,30,0,attached lane house,residential,0,0,0,0,0,0,0,0,0
+Huangpu,5000,1,0,1,0,30,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Huangpu,5000,1,1,1,0,25,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5000,1,1,1,0,30,0,detached lane house,residential,0,0,0,0,0,0,0,0,0
+Huangpu,5000,1,1,1,0,55,0,public housing,residential,1,1,0,0,1,0,0,0,3
+Huangpu,5000,2,1,1,1,35,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5000,1,0,1,0,40,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Huangpu,5000,1,1,1,0,35,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5000,1,1,1,0,40,0,detached lane house,residential,0,1,1,0,0,0,0,0,2
+Huangpu,5000,1,1,1,0,30,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5000,1,1,1,0,25,0,attached lane house,residential,0,0,0,0,0,0,0,0,0
+Huangpu,5000,1,1,1,0,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5000,1,1,1,0,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5000,1,1,1,0,50,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Huangpu,5000,1,1,1,0,30,0,detached lane house,residential,0,0,0,0,0,0,0,0,0
+Huangpu,5000,1,1,1,0,30,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Huangpu,5001.88,1,1,1,0,20,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5111,1,1,1,0,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5111,1,0,1,0,20,0,attached lane house,residential,0,0,0,0,0,0,0,0,0
+Huangpu,5200,1,1,1,0,30,0,detached lane house,residential,1,1,0,0,1,0,0,0,3
+Huangpu,5200,1,1,1,0,48,0,public housing,residential,1,1,0,0,1,1,0,0,4
+Huangpu,5200,1,1,1,0,30,0,attached lane house,residential,0,0,0,0,0,0,0,0,0
+Huangpu,5200,1,1,1,0,38,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5200,1,1,1,0,45,0,attached lane house,residential,0,1,1,0,0,0,0,1,3
+Huangpu,5200,1,1,1,0,32,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5300,1,0,1,0,25,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5300,1,1,1,0,40,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5432.1,1,1,1,0,25,0,detached lane house,residential,0,0,0,0,0,0,0,0,0
+Huangpu,5500,1,1,1,0,50,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5500,1,1,1,0,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5500,1,1,1,0,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5500,2,1,1,0,45,0,attached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Huangpu,5500,1,0,1,0,25,0,detached lane house,residential,1,1,0,1,0,0,0,0,3
+Huangpu,5500,1,1,1,0,50,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5500,1,0,1,0,30,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,5500,1,1,1,0,40,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5500,1,1,1,0,50,0,detached lane house,residential,1,1,0,0,0,0,0,0,2
+Huangpu,5500,1,1,1,0,12,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5500,1,1,1,1,32,0,attached lane house,residential,0,1,1,1,0,0,0,0,3
+Huangpu,5500,1,1,1,0,35,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Huangpu,5500,1,1,1,0,40,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Huangpu,5500,1,0,1,0,30,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5600,1,0,1,0,35,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5600,1,1,1,0,38,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5600,1,1,1,0,40,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5656,1,1,1,0,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5656,1,1,1,0,20,0,attached lane house,residential,0,0,0,0,0,0,0,0,0
+Huangpu,5800,1,0,1,0,15,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,5800,1,1,1,0,50,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5800,1,1,1,0,40,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,5800,1,1,1,0,35,0,public housing,residential,0,0,0,0,0,0,0,0,0
+Huangpu,5800,1,1,1,1,40,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5800,1,1,1,0,32,0,detached lane house,residential,0,0,0,0,0,0,0,0,0
+Huangpu,5800,1,1,1,0,35,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Huangpu,5800,1,1,1,0,40,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Huangpu,6000,1,1,1,0,45,0,detached lane house,residential,1,1,1,1,0,0,0,0,4
+Huangpu,6000,1,1,1,0,50,0,detached lane house,residential,0,0,0,0,0,1,0,0,1
+Huangpu,6000,2,1,1,0,45,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Huangpu,6000,1,1,1,0,30,0,detached lane house,residential,0,0,0,0,0,0,0,0,0
+Huangpu,6000,1,1,1,0,40,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,6000,1,1,1,0,45,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,6000,1,1,1,0,40,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,6000,1,1,1,0,35,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Huangpu,6000,1,1,1,0,50,0,attached lane house,residential,0,1,1,1,0,0,0,0,3
+Huangpu,6000,1,1,1,0,35,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,6000,1,0,1,0,30,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Huangpu,6000,1,1,1,0,35,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,6000,1,1,1,0,30,0,detached lane house,residential,0,0,0,0,0,0,0,0,0
+Huangpu,6000,1,1,1,0,48,0,detached lane house,residential,1,1,1,1,1,0,0,0,5
+Huangpu,6000,1,1,1,0,35,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,6000,1,1,1,0,40,0,public housing,residential,1,0,0,0,0,0,0,0,1
+Huangpu,6100,1,1,1,0,40,0,detached lane house,residential,0,1,0,0,1,0,0,0,2
+Huangpu,6200,1,1,1,0,40,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,6200,1,0,1,0,35,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Huangpu,6300,1,1,1,0,40,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Huangpu,6400,1,1,1,0,35,0,public housing,residential,1,1,1,1,1,1,0,0,6
+Huangpu,6500,1,1,1,0,30,0,attached lane house,residential,0,0,0,0,0,0,0,0,0
+Huangpu,6500,1,1,1,0,25,0,attached lane house,residential,1,0,0,0,1,0,1,0,3
+Huangpu,6500,1,1,1,0,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,6500,1,1,1,1,45,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,6500,2,2,1,0,55,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,6500,1,1,1,0,45,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,6500,1,0,1,0,25,0,public housing,multi-use,0,1,0,1,0,0,0,0,2
+Huangpu,6500,1,1,1,0,50,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Huangpu,6500,1,2,1,0,60,0,attached lane house,multi-use,0,1,0,1,1,1,0,0,4
+Huangpu,6500,1,0,1,0,37,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Huangpu,6500,1,1,1,0,30,0,attached lane house,residential,0,0,1,0,0,0,0,0,1
+Huangpu,6500,2,1,1,0,40,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,6600,1,0,1,1,31,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,6800,1,1,1,0,20,0,detached lane house,residential,0,1,0,0,1,0,0,0,2
+Huangpu,6800,1,1,1,1,50,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Huangpu,6800,1,2,1,0,50,0,attached lane house,multi-use,1,0,0,0,0,0,0,0,1
+Huangpu,6800,1,1,1,1,35,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Huangpu,6800,1,1,1,0,1,0,detached lane house,residential,1,1,0,1,0,0,0,0,3
+Huangpu,6800,1,1,1,0,40,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,6800,1,1,1,0,32,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Huangpu,6800,1,1,1,0,45,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,6800,1,1,1,1,45,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,6800,2,1,1,0,68,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Huangpu,6996,1,1,1,0,40,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,7000,2,1,1,0,50,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,7000,1,1,1,0,50,0,detached lane house,residential,1,1,1,1,0,1,0,0,5
+Huangpu,7000,1,1,1,0,40,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Huangpu,7000,1,1,1,0,50,0,detached lane house,multi-use,1,1,1,1,0,0,0,0,4
+Huangpu,7000,1,2,1,0,50,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,7000,1,1,1,1,35,0,attached lane house,multi-use,0,1,1,1,0,0,0,0,3
+Huangpu,7000,1,1,1,1,45,0,attached lane house,residential,1,1,0,1,0,0,0,0,3
+Huangpu,7000,1,0,1,0,16,0,detached lane house,residential,0,1,1,0,1,0,0,0,3
+Huangpu,7000,1,1,1,0,25,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Huangpu,7000,1,1,1,0,65,0,attached lane house,multi-use,1,1,0,1,0,0,0,0,3
+Huangpu,7000,2,1,1,0,60,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,7000,1,1,1,1,50,0,attached lane house,multi-use,1,1,0,1,0,0,1,0,4
+Huangpu,7000,2,1,1,0,55,0,public housing,residential,1,1,0,1,0,0,0,0,3
+Huangpu,7200,1,1,1,0,52,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Huangpu,7200,1,1,1,0,45,0,detached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Huangpu,7200,1,1,1,0,55,0,attached lane house,residential,0,1,0,0,0,0,0,1,2
+Huangpu,7200,1,1,1,0,45,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Huangpu,7200,1,1,1,1,63,0,public housing,residential,0,1,0,1,0,0,0,0,2
+Huangpu,7200,1,1,1,1,50,0,attached lane house,residential,0,1,0,1,0,1,0,0,3
+Huangpu,7200,1,1,1,1,52,0,detached lane house,residential,1,1,0,0,0,0,0,0,2
+Huangpu,7300,1,1,1,0,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,7300,1,0,1,0,28,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,7300,2,1,1,1,50,0,detached lane house,residential,0,1,1,0,1,0,0,0,3
+Huangpu,7300,1,0,1,0,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,7500,1,1,1,0,50,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,7500,2,2,1,0,50,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,7500,1,1,1,0,50,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,7500,1,1,1,1,45,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,7500,1,1,1,0,45,0,attached lane house,multi-use,0,1,0,1,0,0,0,0,2
+Huangpu,7500,2,1,1,0,50,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,7500,1,2,1,1,60,0,attached lane house,residential,0,1,0,0,0,0,0,1,2
+Huangpu,7500,1,1,1,0,40,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Huangpu,7500,1,2,1,0,65,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Huangpu,7500,1,1,1,0,35,0,attached lane house,multi-use,0,1,1,0,0,0,0,0,2
+Huangpu,7500,1,1,1,0,50,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,7500,1,2,1,0,58,0,attached lane house,residential,0,1,1,1,0,0,0,0,3
+Huangpu,7500,2,1,1,0,45,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,7500,1,0,1,0,45,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,7500,1,2,1,0,45,0,detached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Huangpu,7500,1,2,1,0,65,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,7600,1,1,1,0,50,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,7600,1,1,1,0,40,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Huangpu,7600,1,0,1,0,35,0,public housing,residential,0,1,1,0,1,1,0,0,4
+Huangpu,7700,1,1,1,0,50,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Huangpu,7800,2,1,1,0,65,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,7800,2,2,1,0,89,0,attached lane house,residential,1,1,1,1,1,1,0,0,6
+Huangpu,7800,1,1,1,1,45,0,attached lane house,residential,1,1,0,0,0,0,0,0,2
+Huangpu,7800,1,1,1,0,40,0,detached lane house,residential,1,1,0,1,0,0,1,0,4
+Huangpu,7800,1,1,1,0,45,0,attached lane house,residential,0,1,1,1,0,1,0,0,4
+Huangpu,7800,1,1,1,0,50,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,7800,1,1,1,1,35,0,detached lane house,multi-use,1,1,1,1,1,1,0,0,6
+Huangpu,7800,1,1,1,0,40,0,detached lane house,multi-use,0,1,0,1,1,0,0,0,3
+Huangpu,7800,1,0,1,0,36,0,attached lane house,residential,0,1,1,1,0,0,0,0,3
+Huangpu,7800,1,0,1,0,40,0,attached lane house,multi-use,0,1,1,0,0,0,0,0,2
+Huangpu,7800,1,1,1,0,60,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Huangpu,7800,1,1,1,0,45,0,detached lane house,residential,0,1,1,1,1,0,0,0,4
+Huangpu,7900,1,1,1,0,56,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,8000,2,1,1,0,54,0,detached lane house,residential,0,1,1,1,1,0,0,0,4
+Huangpu,8000,1,1,1,0,40,0,public housing,residential,0,1,1,1,1,0,0,0,4
+Huangpu,8000,1,1,1,0,50,0,attached lane house,residential,0,1,1,1,0,0,0,0,3
+Huangpu,8000,1,2,1,1,80,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Huangpu,8000,1,1,1,0,50,0,attached lane house,multi-use,0,1,1,1,0,0,0,0,3
+Huangpu,8000,1,2,1,1,65,0,attached lane house,residential,0,1,0,0,0,0,0,1,2
+Huangpu,8000,1,1,1,0,70,0,detached lane house,residential,1,1,1,1,1,0,0,0,5
+Huangpu,8000,1,1,1,0,50,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,8000,1,1,1,0,30,0,attached lane house,residential,0,1,0,1,1,0,0,0,3
+Huangpu,8000,2,2,1,0,50,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Huangpu,8100,1,1,1,0,25,0,detached lane house,multi-use,0,1,1,0,0,0,0,0,2
+Huangpu,8200,1,2,1,1,80,0,detached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Huangpu,8200,2,1,1,0,80,0,detached lane house,residential,1,1,0,0,0,0,0,0,2
+Huangpu,8499,2,0,1,1,75,0,attached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Huangpu,8500,1,1,1,0,65,0,detached lane house,residential,1,1,0,1,0,0,0,0,3
+Huangpu,8500,1,1,1,0,40,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,8500,1,1,1,1,60,0,attached lane house,residential,0,1,0,0,0,1,0,0,2
+Huangpu,8500,1,1,1,0,60,0,attached lane house,multi-use,1,1,1,1,1,0,0,0,5
+Huangpu,8500,1,1,1,0,40,0,public housing,residential,0,0,0,0,0,1,0,0,1
+Huangpu,8500,1,1,2,0,65,0,detached lane house,residential,1,1,1,1,1,0,0,0,5
+Huangpu,8500,2,1,1,0,66,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Huangpu,8500,2,2,1,0,55,0,attached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Huangpu,8500,1,1,1,0,45,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,8500,1,1,1,0,50,0,detached lane house,multi-use,0,1,0,1,0,1,0,0,3
+Huangpu,8500,2,1,1,0,50,0,detached lane house,residential,0,1,0,0,1,0,0,0,2
+Huangpu,8500,1,2,1,0,45,0,detached lane house,multi-use,0,1,1,0,1,0,0,0,3
+Huangpu,8500,1,1,1,1,40,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,8800,1,1,1,0,50,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,8800,1,1,1,0,65,0,detached lane house,residential,1,1,0,1,0,0,0,0,3
+Huangpu,8800,1,1,1,0,65,0,detached lane house,residential,1,1,0,1,0,0,0,0,3
+Huangpu,8800,1,1,1,0,60,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Huangpu,8800,1,1,1,0,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,8800,2,0,1,0,55,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Huangpu,9000,1,1,1,0,40,0,detached lane house,residential,1,1,0,0,0,0,0,0,2
+Huangpu,9000,2,1,1,0,60,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Huangpu,9000,1,1,1,0,65,0,detached lane house,residential,1,1,0,1,0,0,0,0,3
+Huangpu,9000,1,1,1,0,65,0,detached lane house,residential,0,1,0,1,0,0,0,0,2
+Huangpu,9000,1,1,1,1,45,0,attached lane house,multi-use,1,1,0,0,0,0,0,0,2
+Huangpu,9000,1,2,1,0,80,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Huangpu,9000,1,1,1,0,40,0,attached lane house,multi-use,1,1,1,0,1,0,1,1,6
+Huangpu,9000,1,1,1,1,70,0,attached lane house,residential,1,1,1,1,1,0,0,0,5
+Huangpu,9200,1,2,1,0,85,0,detached lane house,multi-use,1,0,0,0,0,0,0,0,1
+Huangpu,9500,1,0,1,0,55,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Huangpu,9500,1,1,2,0,55,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Huangpu,9500,1,2,1,0,55,0,attached lane house,residential,1,1,0,0,0,0,0,0,2
+Huangpu,9500,1,1,1,0,50,0,attached lane house,multi-use,1,0,0,0,0,0,0,0,1
+Huangpu,9500,1,2,1,0,60,0,detached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Huangpu,9500,1,1,1,0,40,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Huangpu,9500,1,1,1,0,58,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Huangpu,9500,2,2,1,0,60,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Huangpu,9500,1,2,1,0,80,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Huangpu,9500,1,1,1,1,25,0,detached lane house,residential,0,1,0,1,0,0,0,0,2
+Huangpu,9800,2,1,1,0,78,0,public housing,multi-use,0,1,1,0,1,0,0,0,3
+Huangpu,9800,1,1,1,0,55,0,attached lane house,multi-use,1,0,0,0,0,0,0,0,1
+Huangpu,9800,1,2,1,0,55,0,detached lane house,multi-use,0,0,0,0,0,1,0,0,1
+Huangpu,9800,2,1,1,0,78,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Huangpu,9800,1,1,1,0,55,0,public housing,residential,1,1,0,0,0,0,1,1,4
+Huangpu,9800,2,1,1,0,75,0,public housing,residential,1,1,0,1,1,0,0,0,4
+Huangpu,9800,1,1,1,1,60,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Huangpu,10000,1,2,1,0,60,0,detached lane house,multi-use,1,1,1,1,1,0,0,0,5
+Huangpu,10000,1,2,1,0,65,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,10000,2,1,1,0,75,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,10000,1,2,1,0,55,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Huangpu,10000,2,1,1,0,80,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Huangpu,10000,2,1,1,1,80,0,detached lane house,multi-use,1,1,1,0,1,0,1,0,5
+Huangpu,10000,1,1,1,1,65,0,detached lane house,residential,1,1,1,1,1,0,0,0,5
+Huangpu,10000,2,1,1,0,70,0,attached lane house,residential,0,1,0,1,1,1,0,0,4
+Huangpu,10000,3,1,2,0,70,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,10000,1,1,1,0,50,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Huangpu,10000,1,1,1,0,50,0,attached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Huangpu,10000,1,1,1,0,65,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Huangpu,10000,1,1,1,1,50,0,detached lane house,residential,1,1,0,1,0,0,0,0,3
+Huangpu,10300,1,2,1,0,54,0,public housing,multi-use,1,0,0,0,1,0,1,0,3
+Huangpu,10500,1,1,1,0,60,0,detached lane house,multi-use,1,1,1,0,1,0,0,0,4
+Huangpu,10500,2,2,1,0,60,0,public housing,residential,1,1,0,1,0,0,0,0,3
+Huangpu,10500,1,2,1,0,60,0,attached lane house,multi-use,0,1,1,1,1,0,0,0,4
+Huangpu,10500,1,1,1,1,50,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Huangpu,10500,1,2,2,0,70,0,detached lane house,residential,0,1,1,0,1,1,0,0,4
+Huangpu,10500,1,1,1,1,50,0,attached lane house,multi-use,0,1,0,1,0,0,1,1,4
+Huangpu,10800,1,2,1,0,65,0,detached lane house,residential,1,1,0,0,0,0,0,0,2
+Huangpu,10800,2,2,1,0,76,0,detached lane house,residential,1,1,0,1,1,0,0,0,4
+Huangpu,11000,1,2,1,0,60,0,attached lane house,residential,1,0,0,0,0,0,0,0,1
+Huangpu,11000,1,1,1,0,65,0,attached lane house,residential,1,0,0,0,0,0,1,0,2
+Huangpu,11000,2,1,1,0,90,0,detached lane house,residential,0,1,0,0,1,0,0,0,2
+Huangpu,11000,2,2,1,0,88,1,public housing,residential,0,1,1,0,0,0,0,0,2
+Huangpu,11000,2,2,1,0,60,0,attached lane house,residential,0,1,1,1,1,0,0,0,4
+Huangpu,11000,1,2,1,1,80,0,detached lane house,multi-use,1,0,0,0,1,1,1,0,4
+Huangpu,11000,2,2,1,0,70,0,attached lane house,multi-use,0,1,1,1,1,0,0,0,4
+Huangpu,11111,1,2,1,1,65,0,detached lane house,residential,1,1,0,1,1,0,0,0,4
+Huangpu,11500,1,2,1,1,62,1,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Huangpu,11500,3,1,1,0,65,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Huangpu,11500,1,2,1,1,50,0,attached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Huangpu,11500,2,1,1,0,60,0,detached lane house,multi-use,1,0,0,0,1,1,1,0,4
+Huangpu,11500,1,2,1,0,80,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Huangpu,11500,1,1,1,0,70,1,detached lane house,residential,0,1,0,1,0,0,0,0,2
+Huangpu,11500,1,1,1,0,70,0,detached lane house,multi-use,1,1,0,1,0,0,0,0,3
+Huangpu,11800,2,1,1,0,60,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,11800,1,1,1,0,80,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Huangpu,11800,2,1,1,1,90,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,11800,1,1,1,0,50,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Huangpu,11800,1,2,1,1,60,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,11900,1,1,1,0,60,0,attached lane house,residential,0,1,1,1,0,0,0,0,3
+Huangpu,12000,1,2,1,0,65,0,detached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Huangpu,12000,2,2,1,0,100,0,detached lane house,residential,0,0,0,0,0,0,0,0,0
+Huangpu,12000,1,1,1,1,50,0,attached lane house,multi-use,1,0,0,0,0,0,0,0,1
+Huangpu,12000,2,2,1,0,80,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Huangpu,12000,1,2,1,0,70,0,attached lane house,multi-use,1,1,0,0,1,0,0,0,3
+Huangpu,12000,1,1,1,0,70,0,detached lane house,residential,0,1,1,1,1,0,0,0,4
+Huangpu,12000,1,1,1,0,50,0,attached lane house,multi-use,1,0,0,0,0,0,0,0,1
+Huangpu,12000,1,2,1,0,65,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Huangpu,12000,1,1,1,0,50,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Huangpu,12000,2,2,1,0,75,0,attached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Huangpu,12000,2,2,1,0,100,0,attached lane house,residential,1,1,0,0,1,0,0,0,3
+Huangpu,12000,2,2,1,0,80,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,12000,2,2,1,0,100,0,attached lane house,multi-use,0,0,0,0,0,0,0,0,0
+Huangpu,12000,1,2,1,0,60,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,12000,2,1,1,0,48,0,attached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Huangpu,12000,1,1,1,0,60,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Huangpu,12000,1,1,1,0,70,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,12500,1,1,1,0,70,0,attached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Huangpu,12500,1,1,1,0,58,0,attached lane house,residential,1,0,0,0,0,0,1,1,3
+Huangpu,12500,2,2,1,0,80,0,attached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Huangpu,12500,1,2,1,1,52,0,detached lane house,multi-use,1,0,0,0,0,0,1,1,3
+Huangpu,12500,2,1,1,1,80,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,12500,2,1,2,0,80,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,12500,2,1,1,0,60,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Huangpu,12500,1,1,1,0,75,0,detached lane house,multi-use,0,1,0,0,0,1,0,0,2
+Huangpu,12500,1,2,1,1,50,0,detached lane house,residential,1,0,0,0,1,0,1,1,4
+Huangpu,12500,2,1,1,0,80,0,detached lane house,multi-use,0,0,0,0,0,1,0,0,1
+Huangpu,12500,2,2,1,0,90,0,detached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Huangpu,12800,2,1,1,0,80,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,12800,1,1,1,0,75,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Huangpu,12800,1,1,1,0,50,0,public housing,multi-use,1,1,0,0,0,0,1,0,3
+Huangpu,13000,2,1,1,0,70,1,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Huangpu,13000,1,2,2,1,90,0,detached lane house,residential,1,0,0,0,1,1,0,0,3
+Huangpu,13000,1,1,1,0,55,0,attached lane house,multi-use,1,0,0,0,0,0,1,0,2
+Huangpu,13000,2,2,1,0,90,0,detached lane house,multi-use,1,1,0,0,1,0,1,0,4
+Huangpu,13000,1,1,1,0,70,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Huangpu,13000,1,2,1,0,70,0,attached lane house,multi-use,1,1,0,0,0,1,0,0,3
+Huangpu,13000,1,1,1,0,45,0,detached lane house,multi-use,1,1,0,0,1,0,1,0,4
+Huangpu,13000,1,2,1,0,70,0,detached lane house,multi-use,1,0,0,0,1,1,0,0,3
+Huangpu,13000,2,1,1,0,60,0,detached lane house,multi-use,1,1,0,0,1,0,1,0,4
+Huangpu,13000,1,1,1,0,70,0,detached lane house,residential,1,1,1,1,1,1,0,0,6
+Huangpu,13000,1,1,1,0,90,0,public housing,multi-use,1,0,0,0,1,0,1,0,3
+Huangpu,13500,1,2,1,0,85,0,attached lane house,multi-use,1,0,0,0,1,0,1,1,4
+Huangpu,13500,1,2,1,0,65,0,detached lane house,multi-use,1,1,1,1,1,0,0,0,5
+Huangpu,13500,1,1,1,0,60,0,detached lane house,multi-use,0,1,0,1,1,0,0,0,3
+Huangpu,13500,2,1,1,0,65,0,detached lane house,residential,0,0,0,0,0,1,0,0,1
+Huangpu,13500,2,2,1,0,90,0,public housing,multi-use,1,1,0,0,0,0,0,0,2
+Huangpu,13500,1,1,1,0,60,0,attached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Huangpu,13500,1,0,1,0,60,0,detached lane house,multi-use,1,1,0,1,0,0,0,0,3
+Huangpu,13800,1,1,1,0,70,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Huangpu,13800,2,2,2,0,80,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Huangpu,13800,3,2,2,0,100,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,13800,2,2,2,1,110,0,detached lane house,multi-use,0,1,0,0,1,1,0,0,3
+Huangpu,14000,1,2,1,0,70,0,attached lane house,multi-use,1,0,0,0,1,0,1,0,3
+Huangpu,14000,1,2,1,0,60,0,public housing,residential,0,1,0,1,0,0,0,0,2
+Huangpu,14000,2,1,1,0,75,0,detached lane house,residential,1,1,0,1,0,0,0,0,3
+Huangpu,14000,2,2,2,0,90,0,detached lane house,residential,1,1,1,0,1,0,0,0,4
+Huangpu,14000,1,1,1,0,80,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Huangpu,14000,2,2,1,0,100,0,detached lane house,residential,0,0,0,0,1,1,0,0,2
+Huangpu,14000,1,2,1,0,60,0,attached lane house,multi-use,0,0,0,0,1,0,1,0,2
+Huangpu,14500,1,2,1,0,60,0,detached lane house,multi-use,1,0,0,0,0,0,0,0,1
+Huangpu,14500,1,2,1,0,70,0,detached lane house,multi-use,1,1,0,0,1,0,1,0,4
+Huangpu,14500,1,1,1,0,50,0,attached lane house,multi-use,1,0,0,0,0,1,0,0,2
+Huangpu,14800,1,1,1,0,60,0,attached lane house,multi-use,1,0,0,0,0,0,0,0,1
+Huangpu,15000,2,2,1,0,90,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Huangpu,15000,2,1,1,0,70,0,attached lane house,multi-use,1,1,0,0,1,0,0,0,3
+Huangpu,15000,2,1,1,0,50,0,attached lane house,multi-use,1,1,0,0,1,0,1,0,4
+Huangpu,15000,2,3,2,0,150,0,attached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Huangpu,15000,2,3,2,0,150,0,attached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Huangpu,15000,2,3,2,0,150,0,attached lane house,multi-use,0,0,0,0,0,0,0,0,0
+Huangpu,15000,1,2,1,0,60,0,attached lane house,multi-use,1,1,0,0,0,0,0,0,2
+Huangpu,15000,1,2,1,1,75,0,detached lane house,residential,0,0,0,0,1,0,0,1,2
+Huangpu,15000,2,2,1,0,108,0,detached lane house,residential,1,1,1,1,1,1,0,0,6
+Huangpu,15000,2,2,1,0,75,0,public housing,residential,0,1,0,0,1,0,0,0,2
+Huangpu,15000,2,3,2,0,120,1,attached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Huangpu,15000,2,3,2,0,120,1,attached lane house,multi-use,0,1,0,0,1,1,0,0,3
+Huangpu,15000,1,2,1,1,80,0,attached lane house,residential,0,0,0,0,1,1,0,0,2
+Huangpu,15000,1,2,1,1,60,0,detached lane house,multi-use,1,1,0,0,0,0,1,1,4
+Huangpu,15500,2,1,1,0,80,0,detached lane house,residential,0,1,1,1,0,0,0,0,3
+Huangpu,15500,2,2,2,0,140,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Huangpu,15800,2,1,1,0,80,0,detached lane house,residential,1,1,1,1,0,0,0,0,4
+Huangpu,15800,1,2,1,0,70,0,attached lane house,multi-use,1,0,0,0,0,0,0,0,1
+Huangpu,16000,3,2,2,0,100,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Huangpu,16000,2,2,1,0,70,0,public housing,residential,1,1,0,0,0,0,0,0,2
+Huangpu,16000,2,2,2,0,120,0,attached lane house,multi-use,1,0,0,0,0,1,0,0,2
+Huangpu,16000,2,2,2,0,130,0,attached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Huangpu,16000,1,2,2,0,54,0,detached lane house,residential,0,0,0,0,1,1,0,0,2
+Huangpu,16000,3,2,1,0,110,0,attached lane house,residential,1,1,1,1,0,1,0,0,5
+Huangpu,16000,1,1,1,0,56,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Huangpu,16000,1,2,1,0,55,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,16500,2,2,2,0,96,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,16500,1,2,2,0,80,0,detached lane house,multi-use,1,1,1,1,0,1,1,0,6
+Huangpu,16800,3,2,2,0,160,0,attached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Huangpu,17000,1,1,1,1,60,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Huangpu,17500,2,2,1,0,75,0,attached lane house,residential,1,1,0,0,0,0,0,0,2
+Huangpu,17800,1,2,1,0,90,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,18000,2,2,1,0,80,0,attached lane house,residential,1,1,0,0,0,1,0,0,3
+Huangpu,18000,1,1,1,0,77,0,attached lane house,residential,1,1,0,0,1,0,0,0,3
+Huangpu,18000,2,2,2,0,120,0,attached lane house,residential,1,1,1,0,1,1,0,0,5
+Huangpu,18000,2,2,1,0,120,0,detached lane house,multi-use,0,0,1,0,1,0,0,0,2
+Huangpu,18000,2,2,2,0,80,0,attached lane house,multi-use,1,0,0,0,1,1,1,0,4
+Huangpu,18000,2,2,2,0,100,0,detached lane house,residential,1,0,0,0,1,1,0,0,3
+Huangpu,18000,2,2,1,0,97,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Huangpu,18500,1,1,1,1,110,0,attached lane house,residential,1,1,0,0,0,0,1,0,3
+Huangpu,19000,2,2,1,0,95,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Huangpu,20000,3,1,2,0,100,0,attached lane house,residential,0,1,1,0,1,0,0,0,3
+Huangpu,20000,3,2,2,0,150,0,attached lane house,multi-use,0,1,1,0,1,1,0,0,4
+Huangpu,20000,3,2,2,0,150,1,detached lane house,residential,0,1,1,1,1,1,0,0,5
+Huangpu,20000,2,2,2,0,120,0,detached lane house,residential,1,1,0,0,1,1,0,0,4
+Huangpu,22000,3,2,1,1,120,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Huangpu,22000,3,1,2,0,110,0,attached lane house,residential,0,1,0,0,0,1,0,0,2
+Huangpu,22000,3,2,2,0,130,0,detached lane house,multi-use,1,0,0,0,1,1,0,0,3
+Huangpu,22000,3,2,2,0,80,0,detached lane house,residential,0,0,0,0,0,1,0,0,1
+Huangpu,22000,2,2,1,0,120,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Huangpu,22800,3,2,2,1,130,0,attached lane house,residential,1,1,0,1,1,1,0,0,5
+Huangpu,23000,2,2,2,0,120,0,attached lane house,residential,1,1,1,1,1,1,0,0,6
+Huangpu,23000,2,3,2,0,150,0,detached lane house,multi-use,1,1,0,0,1,1,1,0,5
+Huangpu,23000,2,2,3,0,150,0,detached lane house,residential,1,1,1,1,1,1,1,0,7
+Huangpu,23000,2,2,3,0,150,0,detached lane house,residential,1,1,0,1,1,1,1,0,6
+Huangpu,24000,1,1,2,0,110,0,attached lane house,multi-use,1,0,0,0,1,0,1,1,4
+Huangpu,24500,2,2,2,0,110,0,attached lane house,residential,1,1,1,0,1,0,0,0,4
+Huangpu,24800,2,2,3,0,150,0,detached lane house,multi-use,1,1,1,1,1,1,1,0,7
+Huangpu,24800,2,2,3,0,150,0,detached lane house,multi-use,1,0,0,0,0,1,1,0,3
+Huangpu,24800,2,2,3,0,150,0,detached lane house,residential,1,1,1,0,1,1,1,0,6
+Huangpu,24800,2,2,2,0,120,0,attached lane house,residential,0,0,0,0,1,1,0,0,2
+Huangpu,25000,2,2,2,0,100,0,attached lane house,residential,1,1,0,0,1,1,0,0,4
+Huangpu,25000,2,2,1,0,90,0,detached lane house,multi-use,1,1,0,1,0,0,0,0,3
+Huangpu,25000,4,2,3,0,190,0,attached lane house,multi-use,0,1,0,1,0,0,0,0,2
+Huangpu,25800,2,2,2,1,110,0,detached lane house,multi-use,0,1,0,0,1,0,0,1,3
+Huangpu,26500,3,2,2,0,150,0,detached lane house,residential,0,0,0,0,1,1,0,0,2
+Huangpu,28000,2,2,1,0,100,0,detached lane house,multi-use,1,1,1,0,1,1,1,0,6
+Huangpu,28000,2,2,3,0,150,0,detached lane house,multi-use,1,1,1,1,1,1,1,0,7
+Huangpu,28000,2,2,3,0,150,0,detached lane house,multi-use,1,1,0,0,1,1,1,0,5
+Huangpu,28000,2,2,3,0,150,0,detached lane house,residential,1,1,1,1,1,1,1,0,7
+Huangpu,28000,3,2,2,0,150,1,detached lane house,multi-use,1,1,1,0,1,1,0,0,5
+Huangpu,28000,2,2,3,0,82,0,detached lane house,multi-use,1,1,1,1,1,1,1,0,7
+Huangpu,28000,2,2,3,0,150,0,detached lane house,multi-use,1,1,1,1,1,1,1,0,7
+Huangpu,28000,2,2,3,0,150,0,detached lane house,residential,1,1,1,1,1,1,1,0,7
+Huangpu,28800,2,2,2,0,130,0,detached lane house,residential,1,0,0,0,1,0,1,0,3
+Huangpu,30000,2,2,2,0,159,0,attached lane house,residential,1,1,1,1,1,1,1,1,8
+Huangpu,31000,3,2,2,0,180,0,detached lane house,multi-use,1,0,0,0,1,1,1,0,4
+Huangpu,31000,4,2,3,0,150,1,attached lane house,multi-use,0,0,0,0,1,1,0,0,2
+Huangpu,31800,5,2,3,0,300,1,detached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Huangpu,31800,5,2,3,0,300,1,attached lane house,multi-use,0,1,1,0,1,1,0,0,4
+Huangpu,31800,5,2,3,0,200,1,attached lane house,multi-use,0,1,0,0,0,1,0,0,2
+Huangpu,32000,6,2,3,0,298,1,detached lane house,multi-use,0,1,1,0,1,0,0,0,3
+Huangpu,32000,6,3,3,0,298,1,detached lane house,multi-use,0,1,1,0,1,0,0,0,3
+Huangpu,32000,7,2,3,0,298,1,detached lane house,multi-use,0,1,1,0,1,0,0,0,3
+Huangpu,32000,6,3,3,0,288,1,detached lane house,multi-use,0,1,1,0,1,0,0,0,3
+Huangpu,32000,6,2,3,0,200,1,detached lane house,multi-use,0,1,1,0,1,0,0,0,3
+Huangpu,32000,6,3,3,0,298,1,detached lane house,multi-use,0,1,1,0,1,0,0,0,3
+Huangpu,32000,7,2,3,0,298,1,detached lane house,multi-use,0,1,1,0,1,0,0,0,3
+Huangpu,33000,2,2,1,0,200,0,attached lane house,residential,1,1,0,0,0,0,0,0,2
+Huangpu,33000,2,2,2,0,150,0,attached lane house,multi-use,1,1,1,0,1,1,0,1,6
+Huangpu,34000,2,2,2,0,150,0,attached lane house,multi-use,1,1,0,0,1,1,0,1,5
+Huangpu,35000,5,4,4,0,200,1,villa,multi-use,0,1,0,0,0,1,0,0,2
+Huangpu,35000,3,2,1,0,130,0,attached lane house,residential,1,1,1,0,1,0,0,0,4
+Huangpu,36000,3,2,2,0,170,0,detached lane house,residential,1,1,0,0,1,1,1,1,6
+Huangpu,38000,6,2,3,0,220,1,detached lane house,multi-use,0,1,1,0,0,0,0,0,2
+Huangpu,38000,5,3,5,0,200,0,attached lane house,residential,1,0,0,1,1,0,0,0,3
+Huangpu,38500,6,2,3,0,289,1,detached lane house,multi-use,0,1,1,0,1,0,0,0,3
+Huangpu,39000,7,2,3,0,298,1,detached lane house,multi-use,0,1,1,0,1,0,0,0,3
+Huangpu,39000,6,2,3,0,218,1,detached lane house,multi-use,0,1,1,0,1,0,0,0,3
+Huangpu,42000,4,2,3,0,200,0,attached lane house,multi-use,0,0,0,0,1,1,0,0,2
+Huangpu,45000,4,2,3,0,190,1,attached lane house,multi-use,1,1,1,0,1,1,0,0,5
+Huangpu,46000,4,2,3,0,240,1,detached lane house,residential,1,1,0,1,1,1,0,0,5
+Huangpu,48000,3,3,3,0,220,1,attached lane house,residential,1,1,1,1,1,1,0,0,6
+Huangpu,50000,3,4,3,0,250,1,attached lane house,residential,1,0,0,0,1,1,0,0,3
+Huangpu,50000,3,2,2,0,250,1,attached lane house,multi-use,1,0,0,0,1,1,0,0,3
+Huangpu,50000,4,3,3,0,240,1,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Huangpu,56000,3,3,3,0,150,0,attached lane house,multi-use,1,1,1,1,1,1,0,0,6
+Huangpu,65000,6,4,6,0,300,0,attached lane house,multi-use,1,1,0,0,1,1,1,0,5
+Huangpu,80000,8,2,4,0,300,1,attached lane house,multi-use,1,1,1,0,1,1,0,0,5
+Huangpu,85000,6,3,3,0,300,1,detached lane house,multi-use,1,0,0,0,1,1,0,0,3
+Huangpu,98000,5,2,3,0,300,0,attached lane house,multi-use,1,1,0,0,1,0,0,0,3
+Huangpu,130000,5,3,5,0,350,1,detached lane house,multi-use,1,1,1,0,1,1,0,0,5
+Huangpu,220000,7,5,3,0,500,1,detached lane house,multi-use,0,1,1,0,1,0,0,0,3
+Jiading,7000,3,0,1,0,65,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Jiading,36000,6,3,5,0,342,1,villa,multi-use,0,1,0,0,1,0,0,0,2
+Jing'an,2500,1,0,1,0,15,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Jing'an,2600,1,0,1,0,15,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Jing'an,2700,1,1,1,0,20,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Jing'an,2800,1,0,1,0,20,0,attached lane house,residential,1,1,0,1,1,1,0,0,5
+Jing'an,2800,1,0,1,0,13,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,3000,1,0,1,0,20,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,3300,1,1,1,0,20,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,3300,1,1,1,0,20,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,3300,1,1,1,0,20,0,attached lane house,residential,0,0,0,0,0,0,0,0,0
+Jing'an,3300,1,0,1,0,15,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,3300,1,1,1,0,20,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,3500,1,0,1,0,37,0,detached lane house,residential,0,1,0,1,0,0,0,0,2
+Jing'an,3500,1,0,1,0,12,0,attached lane house,residential,1,1,0,0,0,0,0,0,2
+Jing'an,3600,1,0,1,0,15,0,attached lane house,residential,1,1,0,0,0,0,0,0,2
+Jing'an,3600,1,1,1,0,50,0,public housing,multi-use,0,1,1,0,0,0,0,0,2
+Jing'an,3800,1,0,1,0,32,0,detached lane house,multi-use,0,1,0,0,0,1,0,0,2
+Jing'an,4000,1,0,1,0,20,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,4000,1,0,1,0,13,0,detached lane house,residential,0,1,0,0,1,0,0,0,2
+Jing'an,4000,1,0,1,0,38,0,detached lane house,residential,0,0,0,1,0,0,0,0,1
+Jing'an,4000,1,1,1,0,18,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Jing'an,4000,1,0,1,0,24,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,4000,1,1,1,0,30,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Jing'an,4000,1,1,1,0,20,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,4200,1,0,1,0,25,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Jing'an,4200,1,0,1,0,38,0,public housing,residential,1,1,1,0,0,1,0,0,4
+Jing'an,4500,1,0,1,0,25,0,attached lane house,residential,0,0,0,0,0,0,0,0,0
+Jing'an,4500,1,1,1,0,28,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,4500,1,1,1,0,30,0,detached lane house,multi-use,1,1,0,0,0,0,0,0,2
+Jing'an,4600,1,1,1,0,30,0,attached lane house,residential,1,1,0,1,0,0,0,0,3
+Jing'an,4600,1,0,1,0,12,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Jing'an,4800,1,0,1,0,15,0,attached lane house,residential,1,1,0,1,1,0,0,0,4
+Jing'an,4800,1,0,1,0,32,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Jing'an,4900,1,0,1,1,30,0,detached lane house,multi-use,0,1,0,0,0,0,1,0,2
+Jing'an,4900,1,0,1,1,30,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,5000,1,1,1,0,50,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,5000,1,1,1,0,40,0,attached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Jing'an,5000,1,1,1,0,40,0,public housing,multi-use,0,1,0,0,0,0,0,0,1
+Jing'an,5000,1,1,1,0,28,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,5000,1,0,1,0,36,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,5000,1,0,1,0,36,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Jing'an,5000,1,0,1,0,21,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,5000,1,1,1,1,20,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,5000,1,0,1,0,29,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,5000,1,1,1,0,25,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,5000,1,1,1,0,40,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Jing'an,5000,1,1,1,0,35,0,public housing,multi-use,0,1,1,0,0,0,0,0,2
+Jing'an,5000,1,1,1,0,30,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Jing'an,5200,1,0,1,0,15,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,5200,1,0,1,0,18,0,detached lane house,residential,1,1,0,0,1,0,0,0,3
+Jing'an,5300,1,1,1,0,40,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Jing'an,5500,1,1,1,0,45,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,5500,1,1,1,0,45,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,5500,1,1,1,1,50,0,attached lane house,residential,1,1,1,1,1,1,0,0,6
+Jing'an,5500,1,0,1,0,40,0,attached lane house,residential,1,0,0,0,1,0,0,0,2
+Jing'an,5500,1,1,1,0,30,0,detached lane house,residential,1,1,1,1,0,0,1,0,5
+Jing'an,5500,1,1,1,1,15,0,attached lane house,residential,1,1,0,0,0,1,0,0,3
+Jing'an,5500,1,1,1,0,40,0,detached lane house,residential,1,1,1,1,1,1,1,0,7
+Jing'an,5500,1,1,1,0,48,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,5500,1,0,1,0,34,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Jing'an,5500,1,1,1,0,35,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,5500,1,1,1,0,55,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Jing'an,5500,1,1,1,0,35,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Jing'an,5700,1,1,1,0,37,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Jing'an,5700,1,1,1,0,45,0,public housing,residential,1,1,1,1,1,1,0,0,6
+Jing'an,5800,1,1,1,0,50,0,attached lane house,residential,1,1,1,1,0,0,0,0,4
+Jing'an,5800,1,1,1,0,55,0,public housing,multi-use,0,0,0,0,1,0,0,0,1
+Jing'an,5800,1,1,1,1,40,0,attached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Jing'an,6000,1,1,1,0,33,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Jing'an,6000,1,1,1,0,40,0,attached lane house,residential,1,1,1,0,0,0,0,0,3
+Jing'an,6000,1,0,1,0,40,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,6000,1,1,1,0,50,0,public housing,multi-use,0,1,0,1,0,0,0,0,2
+Jing'an,6000,1,0,1,0,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,6000,1,1,1,0,35,0,detached lane house,residential,1,1,0,1,0,0,1,0,4
+Jing'an,6000,1,1,1,1,45,0,detached lane house,residential,0,1,0,0,1,0,0,0,2
+Jing'an,6000,1,1,1,0,50,0,attached lane house,residential,0,1,1,1,1,0,0,0,4
+Jing'an,6000,1,1,1,0,40,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,6200,1,1,1,0,30,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,6200,1,1,1,0,40,0,detached lane house,residential,0,1,1,0,1,0,0,0,3
+Jing'an,6300,1,1,1,0,40,0,detached lane house,residential,1,1,1,1,1,1,1,0,7
+Jing'an,6500,1,1,1,0,40,0,detached lane house,residential,1,1,0,1,0,0,1,0,4
+Jing'an,6500,2,1,1,1,45,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Jing'an,6500,1,1,1,0,50,0,attached lane house,residential,1,1,0,0,0,0,0,0,2
+Jing'an,6500,1,1,1,0,40,0,detached lane house,residential,1,1,1,1,1,0,1,0,6
+Jing'an,6500,2,1,1,0,45,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,6500,1,1,1,1,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,6500,1,1,1,0,50,0,attached lane house,residential,1,1,1,0,1,0,0,0,4
+Jing'an,6500,1,0,1,0,40,0,detached lane house,residential,1,1,1,0,1,1,0,0,5
+Jing'an,6500,1,1,1,0,35,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Jing'an,6500,1,1,1,0,48,0,attached lane house,residential,1,1,0,0,1,0,0,0,3
+Jing'an,6600,1,1,1,0,30,0,detached lane house,residential,1,1,1,1,1,1,0,1,7
+Jing'an,6600,1,1,1,0,35,0,public housing,residential,1,1,1,1,1,1,0,0,6
+Jing'an,6600,1,1,1,1,35,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Jing'an,6800,1,0,1,0,1,0,detached lane house,,0,1,1,1,1,0,0,0,4
+Jing'an,6800,1,1,1,0,40,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Jing'an,6800,1,1,1,0,40,0,detached lane house,multi-use,1,1,0,1,1,0,0,0,4
+Jing'an,6800,1,2,1,0,60,0,detached lane house,multi-use,1,1,1,1,1,0,0,0,5
+Jing'an,6800,1,1,1,0,46,0,detached lane house,residential,0,1,0,1,0,0,0,0,2
+Jing'an,6800,1,1,1,0,47,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Jing'an,6900,1,1,1,0,37,0,public housing,residential,1,1,1,0,1,0,0,0,4
+Jing'an,6900,1,1,1,0,60,0,detached lane house,residential,1,1,0,0,1,0,1,0,4
+Jing'an,7000,1,1,1,0,50,0,detached lane house,residential,1,1,0,1,0,0,0,0,3
+Jing'an,7000,1,1,1,0,50,0,detached lane house,residential,1,1,1,1,0,1,0,0,5
+Jing'an,7000,1,1,1,0,30,0,detached lane house,residential,0,0,1,0,1,0,0,0,2
+Jing'an,7000,1,1,1,0,50,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,7000,1,1,1,1,48,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,7000,1,1,1,0,50,0,detached lane house,residential,1,0,0,0,0,0,0,0,1
+Jing'an,7000,1,1,1,0,55,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Jing'an,7000,1,1,1,1,48,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Jing'an,7000,1,1,1,0,62,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Jing'an,7000,1,1,1,1,48,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Jing'an,7000,1,1,1,1,48,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Jing'an,7000,1,1,1,0,45,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Jing'an,7000,1,2,1,0,65,0,detached lane house,residential,1,1,1,0,1,0,0,0,4
+Jing'an,7200,1,1,1,0,50,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Jing'an,7200,1,1,1,0,40,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Jing'an,7200,1,2,1,0,50,0,public housing,residential,1,1,1,0,0,0,0,0,3
+Jing'an,7200,1,0,1,0,42,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,7200,1,0,1,0,40,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,7300,2,1,1,0,60,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,7300,2,1,1,0,60,0,detached lane house,residential,0,0,0,0,0,0,0,0,0
+Jing'an,7400,1,1,2,1,50,0,detached lane house,residential,0,1,0,1,0,0,0,0,2
+Jing'an,7497,1,1,1,0,60,0,public housing,residential,1,1,1,0,0,0,1,1,5
+Jing'an,7500,1,1,1,1,40,0,detached lane house,residential,1,1,1,1,1,1,1,0,7
+Jing'an,7500,1,2,1,0,60,0,detached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Jing'an,7500,1,1,1,0,40,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Jing'an,7500,1,1,1,0,42,0,detached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Jing'an,7500,1,1,1,0,58,0,detached lane house,multi-use,1,1,1,0,1,0,0,0,4
+Jing'an,7500,1,1,1,1,40,0,detached lane house,residential,1,1,0,1,1,1,1,0,6
+Jing'an,7500,1,1,1,0,50,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,7500,1,1,1,0,40,0,detached lane house,residential,0,1,0,0,0,1,0,0,2
+Jing'an,7500,1,1,1,0,40,0,detached lane house,residential,0,1,1,0,1,0,0,0,3
+Jing'an,7500,1,1,1,0,40,0,detached lane house,residential,1,1,0,1,1,1,1,0,6
+Jing'an,7500,1,0,1,0,40,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Jing'an,7500,1,2,1,0,50,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Jing'an,7500,1,1,1,1,30,0,attached lane house,residential,1,1,0,0,0,0,0,0,2
+Jing'an,7500,1,2,1,0,45,0,attached lane house,residential,0,0,0,0,0,1,0,0,1
+Jing'an,7500,1,1,1,0,40,0,detached lane house,residential,1,1,1,0,0,0,0,0,3
+Jing'an,7500,1,1,1,0,50,0,detached lane house,residential,1,1,1,1,1,1,0,0,6
+Jing'an,7500,1,1,1,0,60,0,detached lane house,multi-use,0,1,1,0,0,0,0,0,2
+Jing'an,7500,1,1,1,0,40,0,detached lane house,residential,0,1,0,0,0,0,0,1,2
+Jing'an,7500,1,1,1,0,50,0,detached lane house,multi-use,1,1,0,1,0,0,0,0,3
+Jing'an,7600,1,1,1,0,50,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Jing'an,7700,1,1,1,0,50,0,detached lane house,residential,1,1,1,1,1,0,1,0,6
+Jing'an,7800,1,1,1,0,45,0,attached lane house,multi-use,1,1,1,0,1,0,0,0,4
+Jing'an,7800,1,1,1,0,50,0,public housing,residential,1,0,0,0,0,0,0,0,1
+Jing'an,7800,1,1,1,0,50,0,public housing,residential,1,1,1,1,1,0,0,0,5
+Jing'an,7800,1,2,1,0,35,0,detached lane house,multi-use,1,1,0,0,1,0,0,1,4
+Jing'an,7800,1,2,1,0,55,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,7800,1,1,1,0,50,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Jing'an,7900,1,1,1,1,35,0,detached lane house,residential,0,1,1,0,1,0,0,0,3
+Jing'an,8000,1,2,1,0,70,0,detached lane house,residential,1,1,1,1,0,0,0,0,4
+Jing'an,8000,1,1,1,0,45,0,detached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Jing'an,8000,1,1,1,0,45,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Jing'an,8000,1,1,1,0,40,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Jing'an,8000,1,1,1,0,45,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,8000,1,1,1,0,60,0,detached lane house,multi-use,1,1,1,0,1,0,0,0,4
+Jing'an,8000,1,1,1,0,75,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,8000,1,1,1,0,45,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Jing'an,8000,2,2,1,0,60,0,attached lane house,residential,0,1,0,1,1,0,0,0,3
+Jing'an,8000,2,1,1,0,60,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Jing'an,8000,1,1,1,0,35,0,attached lane house,residential,1,1,0,0,0,0,0,0,2
+Jing'an,8000,1,1,1,0,50,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Jing'an,8000,1,1,1,0,53,0,attached lane house,residential,1,1,1,0,1,0,0,0,4
+Jing'an,8200,1,1,1,0,45,0,public housing,residential,0,1,0,1,0,0,0,1,3
+Jing'an,8200,2,2,1,0,65,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,8200,1,1,1,0,50,0,public housing,residential,1,1,1,1,1,0,0,1,6
+Jing'an,8200,1,1,1,0,60,0,detached lane house,residential,1,1,0,0,1,0,0,0,3
+Jing'an,8200,1,1,1,0,60,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Jing'an,8300,1,1,1,0,55,0,public housing,residential,1,1,0,1,0,0,0,0,3
+Jing'an,8300,1,1,1,0,50,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Jing'an,8300,1,1,1,0,50,0,detached lane house,residential,1,1,1,1,1,1,1,0,7
+Jing'an,8500,1,1,1,0,60,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Jing'an,8500,1,1,1,1,70,0,attached lane house,residential,0,1,1,1,1,0,0,0,4
+Jing'an,8500,1,1,1,0,70,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Jing'an,8500,1,2,2,1,60,0,attached lane house,multi-use,1,1,0,1,0,0,0,0,3
+Jing'an,8500,1,1,1,0,50,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,8500,2,1,1,0,60,0,public housing,residential,0,1,0,0,1,0,0,0,2
+Jing'an,8500,1,0,1,0,40,0,detached lane house,residential,0,1,0,0,0,1,0,0,2
+Jing'an,8500,1,0,1,0,45,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Jing'an,8500,1,1,1,0,40,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Jing'an,8500,1,1,1,1,65,0,detached lane house,residential,0,1,0,0,0,0,0,1,2
+Jing'an,8500,2,1,1,0,80,0,attached lane house,residential,0,0,0,0,1,1,0,0,2
+Jing'an,8500,1,1,1,0,50,0,attached lane house,residential,1,0,0,0,1,0,0,0,2
+Jing'an,8600,1,1,1,1,60,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Jing'an,8600,1,2,1,1,50,0,detached lane house,residential,1,1,1,1,1,1,1,0,7
+Jing'an,8600,1,1,15,0,50,0,attached lane house,residential,1,1,0,0,1,0,1,0,4
+Jing'an,8600,1,1,1,0,40,0,public housing,residential,1,1,1,1,1,1,0,0,6
+Jing'an,8700,1,1,1,0,40,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,8800,1,2,1,0,55,0,attached lane house,residential,1,1,1,0,0,1,0,0,4
+Jing'an,8800,1,0,1,0,39,0,detached lane house,residential,0,1,1,0,1,0,0,0,3
+Jing'an,8800,1,1,1,1,60,0,attached lane house,multi-use,1,1,0,0,1,1,0,0,4
+Jing'an,8800,1,1,1,0,60,0,attached lane house,residential,1,1,1,1,0,0,0,0,4
+Jing'an,8800,1,1,1,0,70,0,attached lane house,residential,1,0,0,0,1,0,0,0,2
+Jing'an,8900,1,1,1,0,60,0,attached lane house,residential,1,0,0,0,0,0,1,0,2
+Jing'an,8900,1,2,1,0,65,0,public housing,residential,1,1,1,1,0,0,0,0,4
+Jing'an,9000,2,2,1,0,50,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Jing'an,9000,1,1,1,0,50,0,attached lane house,multi-use,1,0,0,0,1,0,1,1,4
+Jing'an,9000,1,1,1,0,60,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Jing'an,9000,2,2,1,0,100,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Jing'an,9000,1,1,1,1,50,0,attached lane house,residential,1,0,1,0,0,0,0,1,3
+Jing'an,9000,1,1,1,0,50,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,9000,1,1,1,0,65,0,public housing,multi-use,0,1,0,1,0,0,0,0,2
+Jing'an,9000,1,1,1,0,50,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Jing'an,9000,1,2,1,0,75,0,attached lane house,multi-use,0,1,1,0,1,0,0,0,3
+Jing'an,9000,1,1,1,0,50,0,public housing,residential,1,1,1,0,0,0,0,0,3
+Jing'an,9000,2,1,1,1,50,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,9000,2,1,1,0,69,0,attached lane house,residential,0,0,0,0,0,0,0,0,0
+Jing'an,9000,1,1,1,0,40,0,attached lane house,residential,0,0,1,0,1,0,0,0,2
+Jing'an,9000,1,1,1,0,40,0,detached lane house,residential,0,0,0,0,1,1,0,0,2
+Jing'an,9000,1,1,1,0,60,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,9000,1,2,1,1,65,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Jing'an,9200,1,1,1,0,50,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,9200,1,1,1,0,45,0,public housing,residential,1,1,0,1,0,0,0,0,3
+Jing'an,9300,1,1,1,0,70,0,detached lane house,residential,1,1,1,1,1,1,0,0,6
+Jing'an,9300,1,2,1,0,50,0,public housing,residential,1,1,1,0,0,0,0,0,3
+Jing'an,9300,1,1,1,0,60,0,detached lane house,multi-use,1,1,1,1,1,0,0,0,5
+Jing'an,9500,2,0,2,0,65,0,attached lane house,residential,1,1,1,0,1,0,0,0,4
+Jing'an,9500,1,1,1,0,40,0,attached lane house,residential,1,1,0,0,1,0,0,0,3
+Jing'an,9500,1,1,1,0,65,0,attached lane house,residential,1,1,0,0,0,0,0,0,2
+Jing'an,9500,1,1,1,0,52,0,public housing,residential,1,1,0,1,0,0,0,0,3
+Jing'an,9500,1,1,1,0,80,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Jing'an,9500,1,1,1,1,35,0,attached lane house,residential,1,1,1,1,1,0,0,0,5
+Jing'an,9500,1,2,1,0,50,0,public housing,residential,1,0,0,0,0,0,0,0,1
+Jing'an,9500,1,1,1,0,40,0,attached lane house,residential,0,1,0,1,1,0,0,0,3
+Jing'an,9500,1,1,1,0,60,0,attached lane house,residential,1,0,0,0,0,0,0,0,1
+Jing'an,9500,1,2,1,0,50,0,public housing,residential,1,1,1,0,0,0,0,0,3
+Jing'an,9500,1,1,1,0,50,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Jing'an,9500,2,1,1,0,55,0,attached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Jing'an,9500,2,2,1,0,100,0,detached lane house,multi-use,1,1,0,0,1,0,1,0,4
+Jing'an,9600,2,2,1,0,80,0,attached lane house,residential,1,1,1,0,0,1,1,0,5
+Jing'an,9600,1,1,1,0,55,0,detached lane house,multi-use,0,1,1,0,1,0,0,0,3
+Jing'an,9800,1,2,1,0,60,0,detached lane house,residential,1,0,0,0,0,0,0,0,1
+Jing'an,9800,2,1,1,0,70,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Jing'an,9800,1,2,1,0,70,0,detached lane house,multi-use,1,1,0,0,0,1,1,0,4
+Jing'an,9800,2,1,1,0,80,0,detached lane house,residential,1,1,1,0,0,0,0,0,3
+Jing'an,9800,1,1,1,0,40,0,detached lane house,multi-use,1,1,1,1,1,1,1,0,7
+Jing'an,9800,1,1,1,0,65,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Jing'an,9800,1,1,1,0,70,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,9996,1,2,1,1,70,0,detached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Jing'an,10000,1,2,2,1,60,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Jing'an,10000,2,2,1,0,90,0,attached lane house,residential,1,1,1,0,0,0,0,0,3
+Jing'an,10000,1,1,1,0,65,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Jing'an,10000,1,2,1,1,60,0,detached lane house,multi-use,1,1,1,1,1,1,0,0,6
+Jing'an,10000,1,1,1,1,40,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Jing'an,10000,1,1,1,0,60,0,attached lane house,multi-use,1,1,0,0,1,0,0,0,3
+Jing'an,10000,1,1,1,0,50,0,attached lane house,multi-use,1,1,0,0,1,0,1,0,4
+Jing'an,10000,2,2,1,0,85,0,detached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Jing'an,10000,1,1,1,0,41,0,detached lane house,residential,0,1,0,1,0,0,0,0,2
+Jing'an,10500,1,2,1,0,98,0,detached lane house,residential,1,0,1,0,1,0,1,0,4
+Jing'an,10500,1,1,1,0,70,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Jing'an,10500,2,0,1,0,60,0,public housing,multi-use,0,1,0,1,1,0,0,1,4
+Jing'an,10500,1,2,1,0,65,1,attached lane house,multi-use,0,1,1,1,1,0,0,0,4
+Jing'an,10500,2,1,1,0,55,0,public housing,residential,0,1,0,0,1,0,0,0,2
+Jing'an,10500,1,1,1,1,45,0,detached lane house,residential,1,1,0,0,1,0,0,0,3
+Jing'an,10500,1,1,1,0,55,0,detached lane house,multi-use,1,1,0,1,1,0,1,0,5
+Jing'an,10500,1,2,1,1,60,0,detached lane house,residential,1,1,0,0,1,1,0,1,5
+Jing'an,10600,2,2,2,1,60,0,detached lane house,residential,1,1,1,1,1,1,1,0,7
+Jing'an,10800,1,2,1,0,70,0,detached lane house,residential,1,1,0,1,1,0,0,0,4
+Jing'an,10800,1,2,1,0,68,0,public housing,residential,1,1,0,0,0,0,0,0,2
+Jing'an,10800,1,2,1,0,60,0,public housing,residential,1,1,1,0,1,0,0,1,5
+Jing'an,10800,1,1,1,0,60,0,attached lane house,residential,1,1,0,0,0,0,0,0,2
+Jing'an,10800,1,1,1,0,70,0,public housing,residential,1,1,0,0,0,0,0,1,3
+Jing'an,10800,1,1,1,0,70,0,attached lane house,multi-use,1,0,0,0,0,0,0,0,1
+Jing'an,10800,1,1,1,0,55,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Jing'an,10800,1,1,1,0,50,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Jing'an,10800,1,2,1,0,80,0,attached lane house,multi-use,0,0,0,0,0,1,0,0,1
+Jing'an,10800,1,2,1,0,60,0,public housing,residential,1,1,1,0,1,0,0,0,4
+Jing'an,11000,2,2,1,0,100,0,detached lane house,residential,0,0,0,0,0,0,0,0,0
+Jing'an,11000,2,1,1,0,100,0,public housing,multi-use,0,1,0,0,0,1,0,0,2
+Jing'an,11000,2,2,1,0,90,0,attached lane house,residential,1,1,1,1,0,0,0,0,4
+Jing'an,11000,2,2,1,1,70,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Jing'an,11000,1,1,1,0,52,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Jing'an,11000,2,2,1,0,100,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,11000,2,2,1,0,100,0,attached lane house,multi-use,0,0,0,0,0,0,0,0,0
+Jing'an,11000,2,2,1,0,100,0,attached lane house,residential,0,0,0,0,0,0,0,0,0
+Jing'an,11000,2,2,1,0,100,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,11000,1,2,1,1,65,0,attached lane house,residential,0,1,1,0,1,0,0,0,3
+Jing'an,11000,2,2,1,0,100,0,attached lane house,residential,0,0,0,0,0,0,0,0,0
+Jing'an,11000,1,1,1,1,70,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,11000,1,1,1,0,65,0,attached lane house,residential,0,1,1,1,1,0,0,0,4
+Jing'an,11000,3,1,1,0,100,0,detached lane house,multi-use,0,1,1,0,1,0,0,0,3
+Jing'an,11000,2,2,2,0,80,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Jing'an,11000,1,1,1,0,75,0,attached lane house,multi-use,0,1,0,1,1,0,0,0,3
+Jing'an,11000,2,1,1,0,80,0,attached lane house,multi-use,1,0,0,0,0,0,0,0,1
+Jing'an,11000,1,1,1,0,41,0,detached lane house,multi-use,1,0,0,0,0,0,0,0,1
+Jing'an,11000,1,2,1,0,60,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Jing'an,11000,1,2,1,0,70,0,attached lane house,multi-use,1,0,0,0,1,0,1,1,4
+Jing'an,11000,2,1,1,0,60,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Jing'an,11000,1,1,1,0,50,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Jing'an,11000,1,1,1,0,35,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Jing'an,11500,1,1,1,0,60,0,attached lane house,residential,0,1,1,0,1,1,0,0,4
+Jing'an,11500,1,1,1,1,60,0,attached lane house,residential,1,0,0,0,1,0,0,0,2
+Jing'an,11500,1,1,1,0,60,0,detached lane house,multi-use,1,1,0,1,1,0,0,0,4
+Jing'an,11500,1,1,1,0,55,0,attached lane house,residential,1,0,0,0,1,0,1,0,3
+Jing'an,11500,1,1,1,0,65,0,attached lane house,multi-use,1,1,0,0,1,0,0,0,3
+Jing'an,11800,1,2,1,0,65,0,public housing,multi-use,1,1,1,0,0,0,0,0,3
+Jing'an,11800,2,1,1,0,78,0,public housing,multi-use,1,1,0,1,0,0,0,0,3
+Jing'an,11800,2,1,1,0,85,0,attached lane house,residential,1,1,1,1,1,1,1,1,8
+Jing'an,12000,1,1,1,1,70,0,attached lane house,residential,0,1,0,0,1,1,0,0,3
+Jing'an,12000,3,1,1,0,100,0,public housing,multi-use,0,1,0,0,1,0,0,0,2
+Jing'an,12000,3,1,1,0,100,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Jing'an,12000,1,1,1,0,65,0,attached lane house,residential,1,1,0,0,0,0,0,0,2
+Jing'an,12000,3,1,1,0,100,0,public housing,multi-use,0,1,0,0,1,0,0,0,2
+Jing'an,12000,3,1,1,0,100,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Jing'an,12000,3,1,1,0,100,0,public housing,multi-use,1,0,1,1,1,1,0,0,5
+Jing'an,12000,2,2,1,0,80,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Jing'an,12000,3,1,1,0,100,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Jing'an,12000,3,1,1,0,100,0,public housing,multi-use,0,1,1,0,0,0,0,0,2
+Jing'an,12000,1,2,1,1,70,0,detached lane house,multi-use,0,1,0,0,1,1,0,0,3
+Jing'an,12000,1,2,1,0,70,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Jing'an,12000,2,1,1,1,60,0,attached lane house,residential,0,0,0,0,0,0,0,0,0
+Jing'an,12000,1,1,1,1,26,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,12000,1,2,1,0,80,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Jing'an,12000,1,1,1,0,40,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Jing'an,12000,2,1,1,0,70,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Jing'an,12000,3,1,1,0,100,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Jing'an,12000,1,2,1,0,70,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,12000,1,1,1,0,70,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Jing'an,12000,1,1,1,0,50,0,attached lane house,multi-use,1,1,0,0,1,0,1,0,4
+Jing'an,12500,1,1,1,1,50,0,detached lane house,multi-use,1,1,1,1,1,1,1,0,7
+Jing'an,12500,1,1,1,1,40,0,detached lane house,multi-use,1,1,1,1,1,1,1,0,7
+Jing'an,12500,1,1,1,0,35,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Jing'an,12500,1,1,1,0,60,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Jing'an,12500,1,2,1,0,50,0,attached lane house,residential,1,1,0,1,0,1,0,0,4
+Jing'an,12500,1,1,1,0,60,0,public housing,residential,0,1,0,0,0,0,0,1,2
+Jing'an,12600,1,1,1,1,40,0,detached lane house,residential,1,1,1,1,1,1,1,0,7
+Jing'an,12600,1,1,1,1,40,0,detached lane house,residential,1,1,1,1,0,1,1,0,6
+Jing'an,12800,1,1,1,0,60,0,attached lane house,residential,0,1,0,0,1,1,0,0,3
+Jing'an,12800,2,1,1,1,70,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Jing'an,12800,2,1,1,0,88,0,public housing,multi-use,1,1,1,0,1,0,0,0,4
+Jing'an,12800,2,2,1,0,105,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Jing'an,12800,3,0,1,0,70,0,detached lane house,residential,0,1,1,1,1,0,0,0,4
+Jing'an,12800,1,2,1,0,100,0,detached lane house,multi-use,1,1,1,1,1,0,1,0,6
+Jing'an,12800,2,2,2,0,90,0,detached lane house,residential,1,1,1,0,0,0,0,0,3
+Jing'an,12800,1,2,1,0,65,0,attached lane house,residential,0,0,0,0,0,1,0,0,1
+Jing'an,13000,1,1,1,0,60,0,detached lane house,residential,1,1,0,0,0,0,0,0,2
+Jing'an,13000,1,1,1,0,70,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Jing'an,13000,1,2,1,0,70,0,attached lane house,residential,1,1,1,1,1,1,0,1,7
+Jing'an,13000,2,2,2,0,100,1,detached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Jing'an,13000,1,1,1,0,90,0,public housing,residential,0,1,1,1,1,0,0,0,4
+Jing'an,13000,2,2,2,0,80,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,13000,1,1,1,0,50,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Jing'an,13000,1,1,1,0,60,0,detached lane house,multi-use,1,1,0,0,1,0,1,1,5
+Jing'an,13000,1,1,1,0,40,0,attached lane house,multi-use,1,0,0,0,1,0,1,0,3
+Jing'an,13000,2,2,2,0,100,0,attached lane house,residential,0,0,0,0,0,0,0,0,0
+Jing'an,13000,1,1,1,0,100,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,13500,2,2,2,0,60,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Jing'an,13500,2,1,1,0,70,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Jing'an,13500,1,1,1,0,70,0,attached lane house,multi-use,1,1,0,1,1,0,0,0,4
+Jing'an,13500,2,1,1,0,70,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Jing'an,13600,2,2,2,1,60,0,detached lane house,residential,1,1,1,1,1,1,1,0,7
+Jing'an,13600,3,1,1,1,75,0,attached lane house,residential,0,1,0,1,0,1,0,0,3
+Jing'an,13600,1,1,1,0,60,0,detached lane house,multi-use,1,1,1,1,1,1,1,0,7
+Jing'an,13600,1,1,1,0,60,0,detached lane house,multi-use,1,1,1,1,1,1,1,0,7
+Jing'an,13600,1,1,1,0,60,0,detached lane house,multi-use,1,1,1,1,1,1,1,0,7
+Jing'an,13800,2,1,1,0,80,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Jing'an,13800,1,1,1,0,70,0,detached lane house,multi-use,1,1,0,0,1,0,0,0,3
+Jing'an,13800,1,1,1,0,65,0,detached lane house,residential,1,1,0,1,0,0,0,1,4
+Jing'an,13800,2,1,1,1,80,0,attached lane house,residential,1,0,0,0,0,0,0,0,1
+Jing'an,13900,1,2,1,0,50,0,attached lane house,residential,1,1,1,1,0,0,0,0,4
+Jing'an,14000,2,2,1,0,100,0,attached lane house,residential,1,1,1,1,1,1,0,0,6
+Jing'an,14000,2,2,1,1,60,0,attached lane house,residential,0,1,1,1,0,0,0,0,3
+Jing'an,14000,1,2,1,0,60,0,public housing,residential,1,1,0,0,1,0,1,1,5
+Jing'an,14000,1,2,1,0,80,0,detached lane house,residential,1,0,0,0,1,0,1,0,3
+Jing'an,14000,2,2,1,0,90,0,attached lane house,residential,1,1,0,0,1,0,0,0,3
+Jing'an,14000,2,2,1,0,95,0,attached lane house,multi-use,0,1,1,0,0,0,0,0,2
+Jing'an,14000,1,1,1,0,45,0,attached lane house,multi-use,1,0,0,0,1,0,1,0,3
+Jing'an,14000,1,1,1,0,60,0,detached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Jing'an,14500,2,0,2,0,70,0,attached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Jing'an,14800,1,2,2,1,70,0,detached lane house,residential,1,1,1,1,1,1,1,0,7
+Jing'an,14800,1,2,2,1,70,0,detached lane house,residential,1,1,1,1,1,1,1,0,7
+Jing'an,15000,1,1,1,0,90,0,detached lane house,residential,1,0,0,0,0,0,0,0,1
+Jing'an,15000,2,1,2,0,100,0,attached lane house,residential,0,0,0,0,0,1,0,1,2
+Jing'an,15000,1,1,1,0,70,0,public housing,multi-use,1,1,0,1,1,0,1,0,5
+Jing'an,15000,2,1,1,0,70,0,attached lane house,residential,1,0,0,0,1,1,0,0,3
+Jing'an,15000,1,2,1,0,80,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,15000,2,1,1,0,63,0,public housing,residential,1,0,0,0,0,0,1,0,2
+Jing'an,15500,2,2,2,0,80,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Jing'an,15800,1,1,1,0,70,0,detached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Jing'an,16000,4,1,1,0,100,0,detached lane house,multi-use,0,1,0,0,1,1,0,0,3
+Jing'an,16000,2,2,2,1,72,0,attached lane house,residential,0,0,0,0,1,0,0,1,2
+Jing'an,16000,2,2,1,0,110,0,detached lane house,residential,1,1,1,1,1,0,0,0,5
+Jing'an,16000,2,2,2,0,120,0,attached lane house,residential,0,0,0,0,0,1,0,0,1
+Jing'an,16000,2,1,1,0,50,0,attached lane house,residential,1,1,1,0,1,0,0,0,4
+Jing'an,16000,2,2,2,0,120,0,attached lane house,residential,1,0,0,0,1,1,0,0,3
+Jing'an,16000,3,2,2,0,130,1,public housing,multi-use,0,1,0,0,0,1,0,0,2
+Jing'an,16000,1,1,1,0,80,0,attached lane house,residential,1,0,0,0,1,1,1,0,4
+Jing'an,16200,2,2,2,0,85,0,detached lane house,residential,1,1,0,0,0,1,0,0,3
+Jing'an,16500,2,1,1,0,90,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Jing'an,16500,1,2,2,0,80,0,detached lane house,multi-use,1,1,0,1,1,1,1,0,6
+Jing'an,16500,1,1,2,1,50,0,detached lane house,multi-use,1,1,1,1,1,1,1,0,7
+Jing'an,16500,1,2,1,0,80,0,attached lane house,multi-use,1,1,1,1,1,0,0,0,5
+Jing'an,16500,1,1,2,1,50,0,detached lane house,residential,1,1,1,1,1,1,1,0,7
+Jing'an,16500,3,2,2,1,95,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Jing'an,16500,2,2,1,1,110,0,attached lane house,residential,1,1,0,0,0,0,0,0,2
+Jing'an,16800,2,2,1,1,138,0,detached lane house,residential,0,0,0,0,1,1,0,0,2
+Jing'an,16800,2,1,1,0,120,0,public housing,residential,1,1,1,0,0,1,0,0,4
+Jing'an,16800,2,2,2,0,100,0,detached lane house,residential,1,1,0,1,0,1,0,0,4
+Jing'an,17000,1,1,1,0,80,0,attached lane house,residential,0,0,0,0,1,1,0,0,2
+Jing'an,17500,3,0,1,0,100,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Jing'an,17500,2,2,1,1,148,0,attached lane house,residential,1,1,0,1,1,1,0,0,5
+Jing'an,17800,2,2,1,0,110,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Jing'an,17800,2,2,2,1,100,0,detached lane house,residential,0,0,0,0,1,1,0,0,2
+Jing'an,17800,2,1,1,0,100,0,public housing,residential,1,1,0,0,1,0,1,1,5
+Jing'an,18000,2,2,2,0,85,0,public housing,multi-use,1,1,1,0,1,0,0,1,5
+Jing'an,18000,1,1,2,0,70,0,attached lane house,multi-use,0,0,0,0,1,1,0,0,2
+Jing'an,18000,2,2,2,0,145,0,public housing,residential,0,1,0,0,0,1,0,1,3
+Jing'an,18000,1,2,1,0,80,0,detached lane house,residential,1,0,0,0,0,0,1,0,2
+Jing'an,18000,2,2,2,0,90,0,public housing,residential,1,1,0,0,1,0,1,0,4
+Jing'an,18000,3,2,1,0,150,0,attached lane house,residential,1,0,1,0,1,0,0,0,3
+Jing'an,18800,2,2,2,0,150,1,detached lane house,multi-use,1,1,1,0,1,0,0,0,4
+Jing'an,18800,3,2,3,1,150,0,detached lane house,residential,1,1,1,0,1,1,0,0,5
+Jing'an,19000,2,2,1,0,100,0,attached lane house,residential,1,1,0,0,0,1,0,0,3
+Jing'an,19000,1,1,1,0,68,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Jing'an,19000,2,1,1,0,100,0,public housing,residential,1,1,0,1,0,0,0,1,4
+Jing'an,19000,2,2,1,0,90,0,attached lane house,residential,0,0,0,0,1,1,0,0,2
+Jing'an,19800,2,2,2,0,150,1,detached lane house,multi-use,1,1,1,0,1,0,0,0,4
+Jing'an,19800,3,2,2,0,120,0,detached lane house,residential,1,0,0,0,0,0,1,1,3
+Jing'an,19800,3,2,2,0,120,0,attached lane house,multi-use,1,1,1,1,1,0,0,0,5
+Jing'an,19800,2,2,1,0,70,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Jing'an,19999,2,2,2,0,80,0,attached lane house,residential,1,1,0,0,0,1,1,0,4
+Jing'an,20000,2,2,1,0,100,0,attached lane house,residential,0,0,0,0,0,1,0,0,1
+Jing'an,20000,2,2,2,0,65,0,attached lane house,residential,0,1,0,0,1,1,0,0,3
+Jing'an,20000,4,2,2,0,150,0,detached lane house,residential,1,1,0,1,0,0,0,0,3
+Jing'an,20000,3,1,3,0,120,1,attached lane house,residential,1,1,1,1,1,0,0,0,5
+Jing'an,21800,2,2,2,1,130,0,detached lane house,residential,1,0,0,0,1,1,1,1,5
+Jing'an,22000,2,2,2,0,80,0,attached lane house,multi-use,1,1,0,1,0,0,0,0,3
+Jing'an,22000,2,2,2,0,138,0,attached lane house,residential,0,0,0,0,1,0,0,1,2
+Jing'an,22500,3,2,2,0,130,1,detached lane house,multi-use,0,1,1,0,1,0,0,0,3
+Jing'an,22800,3,2,2,0,150,0,detached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Jing'an,23000,2,2,2,0,100,0,public housing,residential,1,1,1,0,0,1,0,0,4
+Jing'an,23000,2,2,3,0,150,0,detached lane house,multi-use,1,1,1,1,1,1,1,0,7
+Jing'an,23000,1,2,1,0,100,0,detached lane house,residential,1,1,0,0,1,1,0,0,4
+Jing'an,23000,2,2,3,0,150,0,detached lane house,multi-use,1,1,0,0,1,1,1,0,5
+Jing'an,23000,3,1,1,0,165,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Jing'an,23000,3,2,2,0,130,0,detached lane house,residential,1,1,0,0,0,0,0,0,2
+Jing'an,23000,3,2,3,0,60,0,detached lane house,residential,1,0,0,0,1,0,1,0,3
+Jing'an,23000,2,2,3,0,150,0,detached lane house,residential,1,1,1,1,1,1,1,0,7
+Jing'an,23500,2,2,2,0,100,0,detached lane house,residential,1,1,0,0,1,1,0,0,4
+Jing'an,23600,2,2,2,0,130,0,attached lane house,residential,1,0,0,0,0,0,0,0,1
+Jing'an,23800,2,2,2,1,120,0,detached lane house,residential,1,0,0,0,1,1,0,1,4
+Jing'an,24000,2,2,1,0,110,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Jing'an,24000,3,2,2,1,120,0,attached lane house,residential,0,0,0,0,1,1,0,0,2
+Jing'an,24800,2,2,3,0,150,0,detached lane house,residential,1,1,1,0,0,0,1,0,4
+Jing'an,25000,3,2,2,0,200,0,detached lane house,multi-use,1,1,1,1,1,1,0,1,7
+Jing'an,25000,2,2,2,0,110,0,attached lane house,residential,1,1,1,0,1,0,1,1,6
+Jing'an,25000,3,2,2,0,130,0,detached lane house,multi-use,1,1,0,1,1,0,1,1,6
+Jing'an,25000,4,2,2,0,150,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Jing'an,25000,3,2,2,0,160,0,detached lane house,multi-use,0,1,1,0,0,0,0,0,2
+Jing'an,25000,2,2,1,0,120,0,attached lane house,residential,1,1,1,0,0,0,1,0,4
+Jing'an,25000,2,2,3,0,150,0,detached lane house,residential,1,1,1,1,1,1,1,0,7
+Jing'an,25800,3,2,2,0,150,0,detached lane house,multi-use,1,1,1,1,1,1,0,1,7
+Jing'an,25800,2,2,3,0,150,0,detached lane house,multi-use,1,1,1,1,1,1,1,0,7
+Jing'an,26000,3,2,2,0,150,0,attached lane house,multi-use,1,1,1,0,0,1,0,0,4
+Jing'an,26000,2,2,2,0,120,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Jing'an,26500,3,2,1,0,120,0,public housing,residential,1,1,0,0,1,0,1,0,4
+Jing'an,27000,2,2,2,0,100,0,attached lane house,residential,1,1,1,1,1,1,0,0,6
+Jing'an,27000,3,2,2,0,140,1,attached lane house,residential,1,1,0,1,0,1,1,0,5
+Jing'an,27000,2,2,0,0,120,0,attached lane house,multi-use,1,1,0,0,1,1,1,0,5
+Jing'an,27000,2,2,2,0,100,0,detached lane house,residential,1,0,0,0,1,0,0,0,2
+Jing'an,27000,2,2,3,0,100,0,attached lane house,multi-use,1,1,1,0,1,0,0,0,4
+Jing'an,27000,2,2,2,0,120,0,attached lane house,multi-use,1,1,0,0,1,1,1,0,5
+Jing'an,28000,2,2,1,0,150,0,detached lane house,multi-use,1,1,1,1,1,1,1,0,7
+Jing'an,28000,3,2,2,0,130,0,detached lane house,multi-use,1,1,1,1,1,0,0,1,6
+Jing'an,28000,2,2,2,0,160,0,detached lane house,residential,1,0,1,0,1,1,0,0,4
+Jing'an,28000,4,3,2,0,200,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Jing'an,28000,2,2,3,0,100,0,detached lane house,multi-use,1,1,1,1,1,1,1,0,7
+Jing'an,28000,2,2,3,0,150,0,detached lane house,residential,1,1,1,1,1,1,1,0,7
+Jing'an,28000,3,2,2,0,110,0,attached lane house,residential,1,1,1,0,1,1,0,0,5
+Jing'an,28000,2,2,3,0,150,0,detached lane house,residential,1,1,1,1,1,0,1,0,6
+Jing'an,28000,3,2,2,0,150,0,attached lane house,multi-use,1,1,1,0,1,0,0,1,5
+Jing'an,28800,2,1,1,0,106,1,detached lane house,residential,1,1,1,1,1,0,0,0,5
+Jing'an,28800,2,2,2,0,120,0,attached lane house,multi-use,1,1,0,0,1,0,0,0,3
+Jing'an,29800,3,2,2,0,180,1,attached lane house,multi-use,1,1,1,1,1,1,0,0,6
+Jing'an,30000,4,2,3,0,150,1,attached lane house,residential,0,1,1,1,1,0,0,0,4
+Jing'an,30000,1,2,2,0,100,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Jing'an,30000,3,2,2,0,150,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Jing'an,32000,3,2,2,0,130,0,detached lane house,multi-use,1,1,0,1,1,1,0,0,5
+Jing'an,32000,4,2,3,0,160,1,attached lane house,multi-use,0,1,0,0,0,0,1,0,2
+Jing'an,33000,4,2,2,0,200,0,public housing,residential,0,1,0,0,0,1,0,0,2
+Jing'an,35000,3,2,2,1,140,0,detached lane house,residential,1,1,0,0,0,1,0,1,4
+Jing'an,35000,4,2,2,0,180,0,detached lane house,residential,1,1,0,0,1,1,1,0,5
+Jing'an,35000,3,2,2,0,155,0,attached lane house,multi-use,1,1,0,0,1,1,0,0,4
+Jing'an,36000,3,2,2,0,150,0,detached lane house,multi-use,1,0,0,0,0,0,1,0,2
+Jing'an,36000,4,2,3,0,250,0,detached lane house,residential,1,1,0,0,1,1,0,1,5
+Jing'an,36800,4,2,2,0,200,1,detached lane house,multi-use,1,1,0,0,1,0,0,0,3
+Jing'an,39500,3,2,2,0,180,0,detached lane house,multi-use,1,1,1,1,1,1,0,0,6
+Jing'an,40000,4,2,2,0,200,0,detached lane house,multi-use,1,1,1,1,1,0,0,0,5
+Jing'an,40000,2,2,2,0,118,0,detached lane house,residential,1,1,0,0,1,0,1,0,4
+Jing'an,40000,3,2,2,1,150,0,detached lane house,residential,1,1,1,0,1,0,0,1,5
+Jing'an,40000,3,3,3,0,200,0,attached lane house,residential,1,1,1,0,1,1,0,0,5
+Jing'an,40000,3,2,2,0,150,0,detached lane house,multi-use,1,1,0,0,1,1,1,0,5
+Jing'an,42000,3,2,3,0,200,0,attached lane house,residential,1,1,1,0,1,1,0,0,5
+Jing'an,42000,3,2,3,0,150,1,attached lane house,multi-use,0,1,1,0,1,0,0,0,3
+Jing'an,42999,5,2,3,0,248,1,attached lane house,multi-use,0,1,1,0,1,0,1,0,4
+Jing'an,45000,4,2,3,0,200,1,attached lane house,residential,0,1,0,0,1,1,0,0,3
+Jing'an,45000,5,2,3,0,240,1,villa,multi-use,1,0,0,0,1,1,1,0,4
+Jing'an,46000,5,2,3,0,460,1,attached lane house,multi-use,0,1,1,1,1,1,0,0,5
+Jing'an,46000,5,2,3,0,198,1,villa,residential,1,1,1,1,1,1,0,0,6
+Jing'an,55000,5,2,3,0,220,1,villa,residential,1,1,1,1,1,1,0,0,6
+Jing'an,60000,3,1,3,0,200,1,detached lane house,multi-use,1,0,0,0,1,1,1,0,4
+Jing'an,60000,3,2,3,0,200,0,attached lane house,multi-use,1,1,0,0,1,1,0,0,4
+Jing'an,60000,5,2,2,0,300,1,attached lane house,residential,1,1,0,0,0,1,1,1,5
+Jing'an,60000,5,2,3,0,220,1,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Jing'an,62000,6,2,3,0,300,1,villa,multi-use,1,1,1,1,1,1,0,0,6
+Jing'an,70000,5,5,5,0,255,0,detached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Jing'an,90000,5,2,4,0,300,1,detached lane house,residential,1,1,1,1,1,1,0,0,6
+Jing'an,98000,6,2,3,0,350,1,detached lane house,multi-use,1,1,0,0,1,1,0,0,4
+Jing'an,98000,4,2,3,0,350,1,detached lane house,multi-use,0,0,0,0,1,1,0,0,2
+Jing'an,100000,10,5,4,0,500,0,detached lane house,multi-use,1,1,0,0,1,1,0,0,4
+Jing'an,130000,6,2,3,0,224,1,attached lane house,multi-use,0,1,1,0,1,0,0,0,3
+Jing'an,180000,6,3,5,0,441,1,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Minhang,3619,2,1,1,0,59,0,attached lane house,residential,0,1,1,0,1,0,0,0,3
+Minhang,3960,1,1,1,0,40,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Minhang,4500,2,1,1,0,71,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Minhang,4550,2,1,1,0,82,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Minhang,4600,2,1,1,0,61,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Minhang,4799,2,1,1,0,64,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Minhang,4800,2,1,1,0,74,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Minhang,6000,3,1,1,0,85,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Minhang,7000,1,1,1,0,45,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Minhang,7000,2,2,1,0,65,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Minhang,8000,2,1,1,0,65,0,public housing,residential,1,1,1,1,1,0,0,0,5
+Minhang,12000,1,2,1,0,65,0,public housing,residential,1,0,0,0,1,0,1,0,3
+Minhang,18000,4,2,4,0,200,1,villa,multi-use,0,0,0,0,1,1,0,0,2
+Minhang,23500,3,2,2,0,150,0,villa,residential,1,0,0,0,0,1,0,0,2
+Minhang,23900,5,2,4,0,220,0,villa,residential,0,1,0,0,1,1,0,1,4
+Minhang,25000,4,3,4,0,312,0,villa,residential,1,1,1,0,1,1,0,0,5
+Minhang,25000,3,2,2,0,150,0,villa,residential,0,0,0,0,1,1,0,0,2
+Minhang,28000,4,3,3,1,200,0,villa,residential,1,0,0,0,1,1,1,0,4
+Minhang,28500,4,2,3,0,197,0,villa,residential,1,0,0,0,1,1,1,0,4
+Minhang,30000,4,3,3,0,200,0,villa,residential,1,1,0,0,1,1,1,0,5
+Minhang,32000,4,2,4,0,273,0,villa,residential,1,1,0,0,1,1,0,0,4
+Minhang,33000,4,2,4,0,310,1,villa,residential,1,0,1,0,1,0,0,0,3
+Minhang,48000,5,2,4,0,470,0,villa,residential,1,1,0,0,1,1,0,0,4
+Minhang,50000,4,3,3,0,283,0,villa,multi-use,1,1,1,1,1,1,0,0,6
+Minhang,70000,5,3,5,0,357,0,villa,residential,1,1,1,1,1,1,0,0,6
+Pudong,2800,1,1,1,0,32,0,public housing,residential,0,1,0,1,0,1,0,0,3
+Pudong,3850,1,1,1,0,41,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Pudong,4300,1,1,1,0,36,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Pudong,4499,1,1,1,0,40,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Pudong,4500,1,1,1,0,37,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Pudong,4600,1,1,1,0,37,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Pudong,4840,1,1,1,0,29,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Pudong,5000,1,1,1,0,38,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Pudong,5000,1,1,1,0,35,0,attached lane house,residential,0,1,0,1,1,0,0,0,3
+Pudong,5000,1,1,1,0,50,0,public housing,residential,1,1,1,1,1,1,0,0,6
+Pudong,5300,1,0,1,0,32,0,public housing,multi-use,0,1,1,1,1,0,0,0,4
+Pudong,5400,2,1,1,0,58,0,public housing,residential,0,1,0,0,1,0,0,0,2
+Pudong,5500,1,1,1,0,45,0,public housing,residential,0,1,1,1,0,1,0,0,4
+Pudong,5500,1,1,1,0,38,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Pudong,5600,1,0,1,0,37,0,attached lane house,residential,0,1,1,1,0,0,0,0,3
+Pudong,5800,1,1,1,0,40,0,detached lane house,residential,0,0,1,0,0,0,0,0,1
+Pudong,5800,1,1,1,0,42,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Pudong,5830,2,1,1,0,66,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Pudong,5940,2,2,1,0,80,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Pudong,6000,1,1,1,0,45,0,public housing,multi-use,1,1,1,1,0,0,0,0,4
+Pudong,6000,2,1,1,0,35,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Pudong,6006,2,2,1,0,88,0,attached lane house,residential,0,1,1,0,1,1,0,0,4
+Pudong,6300,2,0,1,0,49,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Pudong,6300,1,1,1,0,40,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Pudong,6500,1,1,1,0,42,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Pudong,6500,2,1,1,0,58,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Pudong,6500,1,1,1,0,43,0,public housing,residential,1,1,1,1,1,1,0,0,6
+Pudong,6600,2,2,1,0,102,0,attached lane house,residential,0,1,0,0,0,1,0,0,2
+Pudong,6799,1,2,1,0,56,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Pudong,6800,2,1,1,0,61,0,public housing,residential,1,1,1,1,0,0,0,0,4
+Pudong,7000,2,1,1,0,65,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Pudong,7000,2,1,1,0,56,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Pudong,7084,3,2,2,0,110,0,detached lane house,residential,0,1,1,0,0,0,0,0,2
+Pudong,7100,2,1,1,0,60,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Pudong,7200,1,1,1,0,40,0,public housing,residential,0,1,0,1,0,0,0,0,2
+Pudong,7260,2,1,1,0,58,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Pudong,7300,1,0,1,0,36,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Pudong,7500,1,2,1,0,52,0,attached lane house,residential,0,1,1,0,1,0,0,0,3
+Pudong,7500,2,1,1,0,50,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Pudong,7800,2,1,1,0,62,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Pudong,8000,1,1,1,0,45,0,public housing,residential,0,1,1,1,1,0,0,0,4
+Pudong,8200,2,1,1,0,62,0,attached lane house,residential,0,1,1,0,1,0,0,0,3
+Pudong,8500,2,1,1,0,70,0,public housing,multi-use,1,1,1,1,1,0,1,0,6
+Pudong,8800,1,1,1,0,49,0,public housing,multi-use,0,1,1,1,1,0,0,0,4
+Pudong,9000,3,2,1,0,100,0,public housing,residential,0,1,1,0,0,0,0,1,3
+Pudong,9130,2,2,1,0,88,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Pudong,10000,2,0,1,0,52,0,public housing,residential,1,0,0,0,0,0,0,0,1
+Pudong,10000,1,2,1,0,60,0,detached lane house,multi-use,0,0,0,0,1,1,0,0,2
+Pudong,10230,3,2,1,0,120,0,detached lane house,residential,0,1,1,0,0,0,0,0,2
+Pudong,11000,2,2,1,0,94,0,attached lane house,residential,1,1,1,1,1,1,0,0,6
+Pudong,12000,3,2,2,1,175,1,villa,residential,1,1,1,1,1,1,0,0,6
+Pudong,12000,3,2,3,0,136,0,attached lane house,residential,0,1,1,1,0,1,0,0,4
+Pudong,12000,2,1,1,0,95,0,public housing,residential,1,1,0,1,1,0,1,0,5
+Pudong,12800,6,2,2,0,280,0,villa,multi-use,1,1,1,1,1,1,0,0,6
+Pudong,17800,3,2,2,0,180,0,villa,multi-use,1,1,1,1,1,1,0,0,6
+Pudong,17900,2,2,1,0,88,0,attached lane house,residential,0,0,0,0,0,1,0,0,1
+Pudong,18000,5,2,2,0,211,0,villa,residential,0,0,0,0,1,0,0,0,1
+Pudong,19800,2,1,1,0,80,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Pudong,21000,4,2,4,0,447,1,villa,residential,0,1,0,0,1,1,0,0,3
+Pudong,23000,4,2,4,0,293,0,villa,residential,1,1,0,0,1,1,0,0,4
+Pudong,25000,3,2,3,1,198,0,villa,residential,0,1,0,0,0,1,0,0,2
+Pudong,26000,5,2,3,0,260,0,villa,residential,1,1,1,1,1,1,0,0,6
+Pudong,28000,4,3,4,0,270,1,villa,multi-use,1,1,1,1,1,0,0,0,5
+Pudong,28000,4,3,5,0,250,1,villa,multi-use,0,1,1,1,1,1,0,0,5
+Pudong,35000,4,3,3,0,466,1,villa,residential,0,1,1,0,1,1,0,0,4
+Pudong,35000,4,2,4,0,466,1,villa,residential,1,1,1,0,1,1,0,0,5
+Pudong,40000,5,2,3,0,270,0,villa,residential,1,0,0,0,1,0,1,0,3
+Pudong,45000,4,3,3,0,380,0,villa,residential,0,1,0,0,1,1,0,0,3
+Pudong,45000,4,3,3,0,315,1,villa,residential,1,1,0,0,1,1,1,0,5
+Pudong,45000,5,3,4,0,380,1,villa,residential,1,1,1,1,1,1,1,0,7
+Pudong,45000,6,2,4,0,310,0,villa,residential,1,1,0,0,1,0,1,0,4
+Pudong,45000,6,3,2,0,435,0,villa,residential,1,1,0,0,1,1,0,0,4
+Pudong,45000,5,2,4,0,410,0,villa,residential,1,1,1,1,1,1,0,0,6
+Pudong,45000,4,2,3,0,170,0,villa,residential,0,1,0,0,1,0,0,0,2
+Pudong,45000,4,2,2,0,182,0,villa,residential,1,1,0,0,1,0,0,0,3
+Pudong,49000,4,2,4,0,428,1,villa,residential,1,1,1,1,1,1,1,0,7
+Pudong,50000,5,3,5,0,380,1,villa,residential,0,1,1,1,1,1,0,0,5
+Pudong,53000,4,2,3,0,256,1,villa,residential,1,1,1,1,1,1,1,0,7
+Pudong,53000,4,2,3,0,355,0,villa,residential,0,1,1,1,1,1,0,0,5
+Pudong,55000,5,2,5,0,370,0,villa,residential,1,1,1,0,1,1,0,0,5
+Pudong,58000,5,2,5,0,455,0,villa,residential,1,1,1,1,1,1,0,0,6
+Pudong,58000,5,2,4,0,450,1,villa,residential,1,1,1,1,1,1,0,0,6
+Pudong,60000,5,2,5,0,451,0,villa,residential,1,1,0,0,1,1,1,0,5
+Pudong,60000,6,3,4,0,430,1,villa,multi-use,1,1,0,0,1,1,1,0,5
+Pudong,65000,8,3,5,0,532,0,villa,residential,1,1,0,0,1,1,0,0,4
+Pudong,70000,4,3,4,0,475,0,villa,residential,1,1,0,0,1,1,0,0,4
+Putuo,2500,1,0,0,0,18,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Putuo,2800,1,0,0,0,15,0,public housing,residential,0,1,0,1,0,0,0,0,2
+Putuo,2900,1,0,0,0,16,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Putuo,3390,1,1,1,0,40,0,public housing,residential,0,1,1,1,1,1,0,0,5
+Putuo,3500,1,1,1,0,41,0,public housing,multi-use,0,1,1,0,0,0,0,0,2
+Putuo,3800,1,0,1,0,34,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Putuo,4091,1,1,1,0,37,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Putuo,4500,1,1,1,0,35,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Putuo,4800,1,1,1,0,32,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Putuo,4900,2,1,1,0,60,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Putuo,5000,2,0,1,0,46,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Putuo,5060,1,1,1,0,47,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Putuo,5200,2,1,1,0,65,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Putuo,5500,2,0,1,0,45,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Putuo,5600,2,0,1,0,45,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Putuo,5600,2,1,1,0,60,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Putuo,5800,2,1,1,0,50,0,public housing,residential,0,1,0,0,1,0,0,0,2
+Putuo,6000,2,0,1,0,50,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Putuo,6000,2,0,1,0,52,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Putuo,6200,2,1,1,0,55,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Putuo,6500,2,2,1,0,69,0,public housing,multi-use,0,1,1,1,0,0,0,0,3
+Putuo,6500,1,1,1,0,50,0,public housing,residential,1,0,0,0,0,0,0,0,1
+Putuo,6500,2,0,1,0,54,0,public housing,residential,0,1,1,1,1,0,0,0,4
+Putuo,6500,2,0,1,0,45,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Putuo,6500,3,1,1,0,60,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Putuo,6800,2,1,1,0,65,0,public housing,residential,1,1,1,1,1,0,0,0,5
+Putuo,7000,3,1,1,0,68,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Putuo,8000,3,1,1,0,65,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Putuo,9000,2,1,1,0,75,0,public housing,multi-use,0,1,1,1,1,0,0,0,4
+Putuo,17500,6,2,2,0,216,0,villa,residential,0,1,1,0,0,0,0,0,2
+Putuo,45000,5,3,5,1,360,0,villa,residential,1,0,0,0,1,1,0,0,3
+Qingpu,12000,4,3,4,0,310,0,villa,multi-use,1,1,0,0,1,0,0,0,3
+Qingpu,13000,3,2,3,0,205,0,villa,multi-use,1,1,1,0,1,1,1,0,6
+Qingpu,13000,4,3,3,0,181,0,villa,residential,1,1,0,0,1,1,1,1,6
+Qingpu,17000,4,2,2,0,200,1,villa,residential,1,0,0,0,0,0,1,0,2
+Qingpu,18000,4,2,3,0,242,0,villa,residential,0,1,0,0,1,1,0,0,3
+Qingpu,23000,4,2,2,0,250,0,villa,residential,0,1,0,0,0,0,0,0,1
+Qingpu,23800,4,5,5,0,468,1,villa,residential,1,1,0,0,1,1,1,0,5
+Qingpu,24000,6,4,3,0,300,0,villa,residential,0,1,0,0,1,1,0,1,4
+Qingpu,24000,3,2,3,0,170,0,villa,residential,0,0,0,0,1,0,0,0,1
+Qingpu,25000,7,3,5,0,460,1,villa,residential,1,1,0,0,1,1,1,0,5
+Qingpu,26000,4,2,2,0,250,0,villa,residential,0,1,0,0,1,1,0,0,3
+Qingpu,26000,6,3,3,0,338,1,villa,residential,1,1,0,0,1,1,0,0,4
+Qingpu,30000,5,2,4,0,266,0,villa,residential,1,1,0,0,1,0,1,0,4
+Qingpu,30000,5,3,5,0,330,1,villa,multi-use,0,0,0,0,1,1,0,0,2
+Qingpu,35000,5,3,5,0,350,1,villa,residential,1,1,0,0,1,1,0,0,4
+Qingpu,38000,5,4,4,0,418,1,villa,residential,0,1,1,1,1,1,0,1,6
+Qingpu,42000,7,5,7,0,600,1,villa,residential,1,1,0,0,1,1,1,0,5
+Qingpu,45000,5,2,4,0,314,1,villa,residential,0,1,0,0,1,1,0,0,3
+Qingpu,60000,4,3,4,0,600,1,villa,multi-use,1,1,1,1,1,1,0,0,6
+Qingpu,68000,5,3,6,0,443,1,villa,residential,1,1,1,1,1,1,0,0,6
+Xuhui,2500,1,0,1,0,15,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,2600,1,0,1,0,8,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,2700,1,0,1,0,15,0,detached lane house,residential,1,1,1,0,1,1,0,0,5
+Xuhui,2800,1,0,1,0,12,0,attached lane house,residential,1,0,0,0,0,0,0,0,1
+Xuhui,2800,1,0,1,0,15,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,3000,1,0,1,0,15,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,3000,1,0,1,0,15,0,detached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,3000,1,0,1,0,15,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,3000,1,0,1,0,15,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,3000,1,1,1,0,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,3000,1,1,1,0,20,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,3000,1,1,1,0,20,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,3000,1,1,1,0,20,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,3200,1,0,1,0,20,0,attached lane house,residential,0,1,1,1,0,0,0,0,3
+Xuhui,3300,1,0,1,0,10,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,3300,1,0,1,1,20,0,detached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,3500,1,0,1,0,20,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,3500,1,0,1,0,13,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,3500,1,0,1,0,12,0,attached lane house,residential,1,1,0,0,0,0,0,0,2
+Xuhui,3500,1,0,1,0,12,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,3600,1,0,1,0,22,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Xuhui,3600,1,0,1,0,18,0,detached lane house,residential,0,1,1,0,0,0,0,0,2
+Xuhui,3650,1,0,1,0,17,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,3800,1,0,1,0,21,0,detached lane house,residential,0,1,0,1,0,0,0,0,2
+Xuhui,3800,1,1,1,0,20,0,attached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,3800,1,0,1,0,20,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,3800,1,0,0,0,20,0,detached lane house,residential,0,1,0,0,1,0,0,0,2
+Xuhui,3800,1,1,1,0,20,0,public housing,multi-use,1,1,1,1,1,1,0,0,6
+Xuhui,4000,1,1,1,0,10,0,attached lane house,residential,1,1,0,1,0,0,0,0,3
+Xuhui,4000,1,0,1,0,18,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,4000,1,0,1,0,35,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,4100,1,0,1,0,18,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,4200,1,0,1,0,35,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Xuhui,4200,1,0,1,0,22,0,detached lane house,residential,0,1,0,1,0,0,0,0,2
+Xuhui,4200,1,0,1,0,20,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,4200,1,1,1,0,32,0,detached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,4200,1,0,1,0,15,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,4300,1,1,1,0,20,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,4300,1,1,1,1,28,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,4300,1,0,1,0,25,0,attached lane house,residential,1,1,0,0,0,0,0,0,2
+Xuhui,4300,1,1,1,0,50,0,detached lane house,residential,1,1,0,0,1,0,0,0,3
+Xuhui,4488,1,0,1,0,20,0,attached lane house,residential,1,0,0,0,0,0,0,0,1
+Xuhui,4500,1,1,1,0,34,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,4500,1,0,1,0,20,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,4500,1,1,1,0,40,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,4500,1,0,1,0,35,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Xuhui,4500,1,1,1,0,35,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,4500,1,0,1,0,35,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,4500,1,0,1,0,23,0,detached lane house,residential,0,1,0,1,0,0,0,0,2
+Xuhui,4500,1,0,1,0,25,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,4500,1,0,1,0,20,0,attached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,4500,1,0,1,0,12,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,4500,1,1,1,0,30,0,detached lane house,multi-use,1,1,0,1,0,0,0,0,3
+Xuhui,4600,1,0,1,0,21,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,4600,1,0,1,0,25,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,4600,2,1,1,0,55,0,public housing,residential,0,1,1,0,0,1,0,0,3
+Xuhui,4600,1,1,1,0,35,0,attached lane house,residential,0,1,1,0,1,0,0,0,3
+Xuhui,4700,1,0,1,0,20,0,detached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,4800,1,1,1,0,35,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,4800,1,1,1,0,50,0,attached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,4800,1,0,1,0,15,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,4800,1,0,0,0,30,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,4800,1,0,1,0,38,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,4900,1,0,1,0,22,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,4900,1,0,1,0,25,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Xuhui,4900,1,0,1,0,15,0,detached lane house,multi-use,0,0,0,0,0,0,0,0,0
+Xuhui,4900,2,1,1,0,65,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Xuhui,5000,1,1,1,1,15,0,detached lane house,residential,0,1,0,1,1,0,1,0,4
+Xuhui,5000,1,1,1,0,40,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Xuhui,5000,1,0,1,0,15,0,attached lane house,residential,0,1,0,1,1,0,0,0,3
+Xuhui,5000,1,0,1,0,30,0,attached lane house,residential,0,1,1,1,1,0,0,0,4
+Xuhui,5000,1,1,1,0,23,0,detached lane house,residential,0,0,0,0,0,0,0,0,0
+Xuhui,5000,1,1,1,0,18,0,detached lane house,residential,0,1,1,1,1,0,0,0,4
+Xuhui,5000,1,0,1,0,38,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Xuhui,5000,2,1,1,0,60,0,public housing,residential,0,0,0,0,0,1,0,0,1
+Xuhui,5000,1,0,1,0,30,0,detached lane house,residential,0,1,0,1,0,0,0,0,2
+Xuhui,5000,1,0,1,0,30,0,detached lane house,residential,0,1,1,0,0,0,0,0,2
+Xuhui,5100,1,1,1,0,38,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,5100,1,1,1,0,38,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,5100,1,1,1,0,38,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,5200,1,0,1,0,20,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,5200,1,0,1,0,26,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,5200,1,0,1,0,25,0,detached lane house,residential,0,1,0,0,1,0,0,0,2
+Xuhui,5200,1,1,1,1,40,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,5200,1,1,1,0,40,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Xuhui,5200,1,1,1,0,20,0,detached lane house,residential,0,1,0,0,1,0,0,0,2
+Xuhui,5300,1,0,1,0,27,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,5300,1,0,1,0,30,0,attached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,5300,1,0,1,0,25,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,5500,1,1,1,1,25,0,detached lane house,residential,1,1,0,1,0,0,0,0,3
+Xuhui,5500,1,1,1,0,40,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,5500,1,0,1,0,20,0,attached lane house,multi-use,0,1,0,1,0,0,0,0,2
+Xuhui,5500,1,0,1,0,30,0,detached lane house,residential,1,1,1,0,1,0,0,0,4
+Xuhui,5500,1,1,1,0,29,0,attached lane house,residential,1,1,0,0,0,1,0,0,3
+Xuhui,5500,1,0,1,0,18,0,detached lane house,multi-use,1,0,0,0,1,0,1,0,3
+Xuhui,5500,1,0,1,0,42,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,5500,1,0,1,0,35,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,5500,1,1,1,0,35,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Xuhui,5500,1,1,1,0,25,0,detached lane house,residential,0,1,1,0,1,0,0,0,3
+Xuhui,5500,1,0,1,0,20,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,5500,1,0,1,0,15,0,detached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,5500,1,1,1,0,20,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,5500,1,0,1,0,30,0,attached lane house,residential,0,0,0,0,0,0,0,0,0
+Xuhui,5700,1,1,1,0,50,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,5700,1,1,1,0,23,0,detached lane house,multi-use,1,0,0,0,0,0,1,0,2
+Xuhui,5800,3,1,1,1,80,0,public housing,residential,1,1,1,1,1,1,0,0,6
+Xuhui,5800,1,0,1,0,32,0,public housing,residential,0,1,0,0,1,0,0,0,2
+Xuhui,5800,1,0,1,0,28,0,detached lane house,residential,1,1,0,0,0,0,0,1,3
+Xuhui,5800,1,1,1,0,30,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,5800,1,0,1,0,28,0,detached lane house,residential,1,1,0,1,0,0,0,1,4
+Xuhui,5800,1,1,1,0,60,0,detached lane house,multi-use,0,1,0,1,0,0,0,0,2
+Xuhui,5800,1,1,1,0,49,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,5800,1,1,1,0,38,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,5800,1,0,1,0,38,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,5800,1,1,1,0,37,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,5800,1,1,1,0,70,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,5800,1,0,1,0,35,0,detached lane house,residential,0,1,1,0,1,0,0,0,3
+Xuhui,5800,1,1,1,0,30,0,public housing,residential,1,0,0,0,0,0,1,0,2
+Xuhui,5800,1,1,1,0,28,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,5800,1,1,1,0,36,0,public housing,residential,1,1,0,0,0,0,0,0,2
+Xuhui,5800,1,1,1,0,30,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,5888,1,0,1,0,15,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Xuhui,5900,1,0,1,0,30,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Xuhui,5900,1,0,1,0,30,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,5900,1,0,1,0,40,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,5900,1,1,1,0,45,0,attached lane house,residential,1,0,0,0,0,0,0,0,1
+Xuhui,5900,1,0,1,0,35,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,6000,1,0,1,1,36,0,detached lane house,residential,0,1,0,1,0,0,0,0,2
+Xuhui,6000,1,0,1,0,30,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,6000,1,1,1,1,40,0,attached lane house,residential,0,0,0,1,0,1,0,0,2
+Xuhui,6000,1,1,1,0,30,0,detached lane house,residential,0,0,0,0,0,0,0,0,0
+Xuhui,6000,1,1,1,0,35,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,6000,1,1,1,0,45,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,6000,1,0,1,0,35,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Xuhui,6000,2,1,1,0,68,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,6000,1,0,1,0,35,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,6000,1,0,1,0,40,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,6000,1,1,1,0,40,0,public housing,residential,1,1,1,1,1,0,0,0,5
+Xuhui,6000,1,0,1,0,30,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,6000,1,0,1,0,40,0,detached lane house,residential,0,0,0,0,0,0,0,0,0
+Xuhui,6000,1,1,1,0,35,0,detached lane house,residential,0,1,1,0,1,0,0,0,3
+Xuhui,6000,1,1,1,0,40,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Xuhui,6000,1,1,1,0,50,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,6000,1,0,1,1,20,0,attached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,6000,1,0,1,0,42,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,6200,1,1,1,0,30,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,6200,1,0,1,0,20,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,6200,1,1,1,0,50,0,detached lane house,residential,0,1,0,0,1,0,0,0,2
+Xuhui,6200,1,0,1,0,35,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,6200,1,0,1,0,32,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,6200,1,0,1,0,36,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,6200,1,1,1,0,45,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,6200,1,1,1,0,31,0,detached lane house,residential,1,1,0,0,0,0,0,0,2
+Xuhui,6300,1,1,1,0,1,0,public housing,residential,0,0,0,0,0,0,0,0,0
+Xuhui,6300,1,1,1,0,40,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,6300,1,1,1,0,35,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,6300,1,0,1,0,35,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,6400,1,1,1,0,48,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,6400,1,0,1,0,35,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,6400,1,1,1,0,35,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,6500,1,1,1,0,40,0,detached lane house,residential,1,1,1,1,1,0,0,0,5
+Xuhui,6500,1,1,1,1,30,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,6500,1,1,1,0,40,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,6500,1,1,1,0,60,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,6500,1,1,1,0,45,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,6500,1,1,1,1,45,0,attached lane house,residential,0,1,1,0,1,0,0,0,3
+Xuhui,6500,1,0,1,0,25,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,6500,1,0,1,0,35,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,6500,1,1,1,0,40,0,public housing,residential,0,1,1,1,1,0,0,0,4
+Xuhui,6500,1,1,1,0,35,0,attached lane house,residential,1,0,0,0,0,0,0,0,1
+Xuhui,6500,1,0,1,0,32,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,6500,1,1,1,0,50,0,attached lane house,multi-use,0,1,0,1,0,0,0,0,2
+Xuhui,6500,1,1,1,0,30,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,6500,1,0,1,0,35,0,public housing,residential,0,0,0,0,0,1,0,0,1
+Xuhui,6500,1,0,1,0,30,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,6500,1,1,1,0,30,0,detached lane house,multi-use,1,0,0,0,0,0,0,0,1
+Xuhui,6500,1,1,1,0,45,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,6500,1,1,1,0,45,0,public housing,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,6500,1,1,1,0,42,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,6500,1,0,1,0,30,0,attached lane house,multi-use,1,1,1,1,1,1,0,0,6
+Xuhui,6500,1,1,1,0,30,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,6500,1,2,1,0,43,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,6500,1,1,1,0,38,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,6500,1,1,1,0,35,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,6500,1,1,1,0,40,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,6500,1,0,1,0,25,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,6600,1,0,1,0,35,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,6700,1,1,1,0,35,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,6700,1,1,1,0,35,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,6700,1,0,1,0,34,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,6800,1,1,1,0,20,0,attached lane house,residential,0,0,0,0,1,0,0,1,2
+Xuhui,6800,1,0,1,0,25,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,6800,1,0,1,0,36,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Xuhui,6800,1,1,1,0,40,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Xuhui,6800,1,1,1,0,46,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Xuhui,6800,1,1,1,0,38,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,6800,1,1,1,0,35,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,6800,1,1,1,0,40,0,detached lane house,residential,0,0,0,0,0,1,0,0,1
+Xuhui,6800,1,1,1,0,35,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,6800,1,1,1,0,40,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,6800,1,1,1,0,30,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,6800,1,1,1,0,45,0,attached lane house,residential,0,0,0,0,0,1,0,0,1
+Xuhui,6800,1,1,1,1,50,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,6800,1,1,1,0,45,0,public housing,residential,1,1,1,1,1,0,0,1,6
+Xuhui,6800,1,1,1,1,40,0,detached lane house,residential,0,1,0,0,0,0,0,1,2
+Xuhui,6800,1,1,1,0,45,0,public housing,residential,1,1,1,0,0,0,0,0,3
+Xuhui,6800,1,1,1,0,50,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,6800,1,1,1,0,17,0,detached lane house,residential,1,1,0,0,0,0,1,0,3
+Xuhui,6900,1,1,1,0,50,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,6900,1,1,1,0,50,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Xuhui,6900,1,1,1,0,45,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,6900,1,1,1,0,45,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,6900,1,0,1,0,36,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,6900,1,1,1,0,37,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,6900,1,0,1,0,40,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,7000,2,1,1,0,80,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,7000,1,1,1,0,40,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,7000,1,1,1,0,50,0,attached lane house,multi-use,0,1,0,1,1,0,0,0,3
+Xuhui,7000,1,1,1,0,40,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,7000,1,1,1,0,35,0,detached lane house,residential,0,1,0,1,0,0,0,0,2
+Xuhui,7000,1,1,1,0,60,0,detached lane house,multi-use,0,0,0,0,0,1,0,0,1
+Xuhui,7000,1,1,1,0,55,0,detached lane house,residential,0,1,0,1,0,0,0,0,2
+Xuhui,7000,1,0,1,0,35,0,detached lane house,multi-use,0,1,0,0,1,1,0,0,3
+Xuhui,7000,1,0,1,0,40,0,attached lane house,residential,0,0,1,0,1,0,0,0,2
+Xuhui,7000,3,0,1,0,68,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,7000,1,1,1,0,45,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,7000,2,1,1,0,65,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Xuhui,7000,1,1,1,0,45,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,7000,2,1,1,0,58,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,7000,1,1,1,0,38,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,7000,1,1,1,0,38,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,7199,2,2,1,0,55,0,public housing,multi-use,0,1,0,1,0,0,0,0,2
+Xuhui,7200,1,1,1,0,45,0,detached lane house,multi-use,1,0,0,0,0,0,1,0,2
+Xuhui,7200,1,1,1,0,38,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,7200,1,1,1,0,50,0,attached lane house,residential,1,1,0,0,0,1,0,0,3
+Xuhui,7200,1,2,1,0,43,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,7200,1,1,1,0,37,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,7200,1,1,1,0,40,0,attached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,7200,1,1,1,0,60,0,detached lane house,multi-use,0,0,0,0,0,1,0,0,1
+Xuhui,7200,1,1,1,0,45,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,7200,1,1,1,0,60,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,7200,1,1,1,0,45,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Xuhui,7200,1,1,1,0,55,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,7300,1,1,1,0,47,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,7300,1,1,1,0,35,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,7400,1,1,1,0,35,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,7499,1,1,1,1,60,0,attached lane house,residential,1,1,0,0,0,0,0,0,2
+Xuhui,7500,1,1,1,0,40,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,7500,1,2,1,0,40,0,detached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,7500,1,1,1,0,38,0,public housing,residential,0,0,0,0,0,1,0,0,1
+Xuhui,7500,1,1,1,0,46,0,attached lane house,residential,0,1,1,0,1,0,0,1,4
+Xuhui,7500,1,1,1,0,45,0,public housing,residential,0,1,0,0,1,0,0,0,2
+Xuhui,7500,1,1,1,0,40,0,public housing,residential,1,1,0,1,0,0,0,0,3
+Xuhui,7500,1,2,1,0,50,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Xuhui,7500,1,1,1,0,40,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,7500,1,0,1,0,45,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,7500,1,1,1,0,45,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,7500,2,0,1,0,56,0,attached lane house,residential,0,1,1,1,0,0,0,0,3
+Xuhui,7500,1,0,1,0,30,0,detached lane house,residential,0,1,0,1,0,0,0,0,2
+Xuhui,7500,1,1,1,0,55,0,detached lane house,residential,0,1,0,1,0,0,0,0,2
+Xuhui,7500,1,0,1,0,45,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,7500,1,1,1,0,50,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,7500,1,1,1,0,60,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,7500,2,1,1,0,65,0,attached lane house,residential,1,0,0,0,0,0,1,0,2
+Xuhui,7500,1,1,1,0,60,0,public housing,residential,1,1,1,0,0,0,0,0,3
+Xuhui,7500,1,1,1,0,45,0,public housing,residential,1,1,1,0,1,0,0,1,5
+Xuhui,7500,1,1,1,0,40,0,villa,residential,0,0,0,0,1,0,0,0,1
+Xuhui,7500,1,0,1,0,12,0,detached lane house,residential,0,1,0,1,0,0,0,0,2
+Xuhui,7500,1,1,1,0,50,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,7500,1,1,1,1,35,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,7500,1,1,1,0,50,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Xuhui,7500,1,2,1,1,65,0,attached lane house,residential,0,0,1,0,0,0,0,0,1
+Xuhui,7500,1,1,1,0,50,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,7500,2,1,1,0,55,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,7500,1,1,1,0,65,0,detached lane house,residential,0,1,0,1,0,0,0,1,3
+Xuhui,7500,1,1,1,0,45,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,7500,1,1,1,0,55,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,7600,1,2,1,0,60,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,7600,1,2,1,0,55,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,7600,3,1,1,0,106,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Xuhui,7600,2,0,1,0,50,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,7600,1,1,1,0,50,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,7700,1,2,1,0,50,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,7700,1,1,1,0,30,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,7700,1,2,1,0,55,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,7800,1,1,1,0,60,0,detached lane house,residential,1,0,0,0,0,0,0,0,1
+Xuhui,7800,1,1,1,0,35,0,detached lane house,multi-use,1,0,0,0,0,0,1,0,2
+Xuhui,7800,1,0,1,0,40,0,detached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,7800,2,1,1,0,60,0,detached lane house,residential,0,1,0,1,0,0,0,0,2
+Xuhui,7800,1,1,1,0,55,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Xuhui,7800,1,1,1,0,50,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,7800,2,1,1,0,60,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Xuhui,7900,2,0,1,0,50,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,7900,1,1,1,0,35,0,public housing,residential,1,1,0,0,0,0,0,1,3
+Xuhui,7999,1,1,1,0,40,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,8000,1,1,1,0,45,0,detached lane house,multi-use,1,1,1,0,0,0,0,0,3
+Xuhui,8000,1,2,1,0,50,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,8000,1,1,1,0,65,0,attached lane house,multi-use,1,1,0,0,1,1,1,0,5
+Xuhui,8000,1,1,1,0,40,0,public housing,residential,1,1,1,1,1,0,0,1,6
+Xuhui,8000,1,2,1,0,45,0,attached lane house,residential,1,1,0,0,0,0,0,0,2
+Xuhui,8000,1,1,1,0,60,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,8000,1,1,1,1,30,0,attached lane house,multi-use,1,0,0,0,0,0,0,0,1
+Xuhui,8000,1,1,1,0,50,0,detached lane house,residential,1,0,0,0,1,0,0,0,2
+Xuhui,8000,1,1,1,0,50,0,detached lane house,multi-use,0,1,0,1,0,0,0,0,2
+Xuhui,8000,1,1,1,0,40,0,attached lane house,multi-use,0,0,0,0,1,1,0,0,2
+Xuhui,8000,1,1,1,0,45,0,public housing,residential,0,1,1,0,0,0,0,1,3
+Xuhui,8000,2,1,1,0,50,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,8000,1,1,1,0,50,0,detached lane house,multi-use,1,1,1,1,0,1,0,0,5
+Xuhui,8000,1,1,1,0,45,0,detached lane house,residential,1,1,0,1,0,0,0,0,3
+Xuhui,8000,1,0,0,0,25,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,8000,1,1,1,0,50,0,attached lane house,multi-use,1,1,0,1,1,0,0,0,4
+Xuhui,8000,1,1,1,1,40,0,detached lane house,multi-use,1,0,0,0,1,0,1,0,3
+Xuhui,8000,1,1,1,0,55,0,public housing,residential,1,1,1,0,0,0,0,0,3
+Xuhui,8000,1,1,1,0,55,0,detached lane house,residential,1,1,0,1,1,0,1,0,5
+Xuhui,8200,2,1,1,0,76,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,8200,1,1,1,0,45,0,public housing,residential,1,0,0,0,1,0,1,0,3
+Xuhui,8200,2,0,1,0,48,0,public housing,residential,0,0,0,0,1,1,0,0,2
+Xuhui,8200,2,1,1,0,55,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,8200,2,2,1,0,65,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,8200,2,1,1,0,65,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,8300,1,2,1,0,60,0,public housing,multi-use,0,1,1,0,0,0,0,0,2
+Xuhui,8300,1,1,1,0,45,0,public housing,residential,1,0,0,0,1,1,0,0,3
+Xuhui,8300,1,1,1,0,60,0,detached lane house,residential,0,1,1,0,0,0,0,0,2
+Xuhui,8500,3,1,3,0,70,0,public housing,residential,1,1,0,1,1,0,1,0,5
+Xuhui,8500,1,1,1,0,33,0,detached lane house,residential,1,1,0,1,0,0,0,0,3
+Xuhui,8500,1,0,1,0,50,0,public housing,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,8500,1,1,1,0,60,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Xuhui,8500,1,2,1,0,52,0,attached lane house,residential,0,1,1,1,0,0,0,0,3
+Xuhui,8500,1,1,1,0,50,0,detached lane house,residential,1,1,1,1,1,0,0,0,5
+Xuhui,8500,2,1,1,0,60,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,8500,1,2,1,0,65,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,8500,1,1,1,0,45,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,8500,1,1,1,0,50,0,attached lane house,residential,1,1,0,0,0,0,1,0,3
+Xuhui,8500,1,1,1,0,60,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,8500,1,1,1,0,55,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,8500,1,1,1,0,55,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,8500,1,1,1,0,50,0,public housing,residential,0,1,0,1,1,0,0,0,3
+Xuhui,8500,1,1,1,0,50,0,attached lane house,multi-use,1,1,1,1,1,1,1,0,7
+Xuhui,8500,1,1,1,0,60,0,attached lane house,multi-use,1,1,0,0,1,1,0,0,4
+Xuhui,8500,1,1,1,0,50,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Xuhui,8500,1,1,1,0,40,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,8500,1,1,1,0,60,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,8500,1,2,1,0,70,0,detached lane house,multi-use,0,1,1,0,0,0,0,0,2
+Xuhui,8500,2,1,1,0,45,0,public housing,residential,0,1,0,1,0,0,0,0,2
+Xuhui,8500,1,1,1,0,50,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,8500,1,1,1,0,50,0,detached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,8500,1,2,1,0,50,0,public housing,residential,1,1,0,0,0,0,0,0,2
+Xuhui,8500,1,1,1,0,40,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,8500,1,0,1,0,40,0,detached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Xuhui,8500,1,1,1,0,1,0,attached lane house,residential,0,1,1,1,0,0,0,0,3
+Xuhui,8500,1,1,1,0,60,0,attached lane house,multi-use,0,0,0,0,0,0,0,0,0
+Xuhui,8500,2,1,1,0,80,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,8500,1,1,1,0,65,0,public housing,residential,0,1,0,0,1,0,0,0,2
+Xuhui,8500,1,1,1,0,65,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,8500,1,2,1,0,70,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,8500,1,0,1,0,30,0,detached lane house,multi-use,1,1,0,0,0,0,0,0,2
+Xuhui,8500,1,2,1,0,70,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,8500,1,2,1,0,72,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Xuhui,8500,1,0,1,0,40,0,detached lane house,residential,0,1,1,0,1,0,0,0,3
+Xuhui,8500,1,0,1,0,25,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,8500,1,1,1,0,50,0,detached lane house,residential,1,1,0,1,0,0,0,0,3
+Xuhui,8500,1,2,1,0,65,0,detached lane house,residential,0,1,0,1,0,0,0,0,2
+Xuhui,8500,1,1,1,0,60,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,8600,1,1,1,0,60,0,detached lane house,residential,0,0,0,0,0,1,0,0,1
+Xuhui,8600,2,1,1,0,56,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Xuhui,8600,1,1,1,0,40,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Xuhui,8600,1,1,1,0,45,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,8600,1,1,1,1,60,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,8700,1,1,1,0,52,0,public housing,residential,0,0,0,0,1,1,0,0,2
+Xuhui,8800,1,1,1,0,40,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,8800,1,1,1,0,40,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,8800,1,1,1,0,50,0,attached lane house,residential,0,1,1,0,1,0,0,0,3
+Xuhui,8800,2,1,1,0,68,0,detached lane house,residential,0,1,1,1,1,0,0,0,4
+Xuhui,8800,1,2,1,0,45,0,detached lane house,multi-use,1,0,0,0,0,0,1,0,2
+Xuhui,8800,1,1,1,0,50,0,public housing,multi-use,0,1,0,0,1,0,1,0,3
+Xuhui,8800,1,1,1,0,37,0,detached lane house,residential,1,1,0,0,0,0,1,0,3
+Xuhui,8800,1,1,1,0,45,0,public housing,residential,1,1,1,0,1,0,0,1,5
+Xuhui,8800,1,1,1,0,50,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,8800,1,2,1,0,60,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,8800,1,2,1,0,60,0,attached lane house,multi-use,1,0,0,0,0,0,1,0,2
+Xuhui,8800,1,1,1,0,48,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,8800,1,1,1,0,38,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,8800,1,1,1,0,45,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,8800,1,2,1,1,60,0,detached lane house,multi-use,1,1,1,0,1,0,1,0,5
+Xuhui,8800,1,2,1,0,65,0,attached lane house,multi-use,0,1,0,0,0,0,0,1,2
+Xuhui,8900,3,0,1,0,70,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,8900,1,1,1,0,50,0,public housing,residential,1,1,0,0,0,0,0,0,2
+Xuhui,8900,1,0,1,0,60,0,detached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Xuhui,8900,1,1,1,0,50,0,public housing,residential,1,1,0,1,0,0,0,0,3
+Xuhui,9000,1,1,1,0,55,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Xuhui,9000,1,1,1,0,50,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Xuhui,9000,1,1,1,0,60,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,9000,1,1,1,0,50,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,9000,1,1,1,1,60,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,9000,1,2,1,1,60,0,detached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,9000,1,1,1,0,45,0,detached lane house,multi-use,1,1,0,0,0,0,1,0,3
+Xuhui,9000,1,2,1,0,80,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,9000,1,0,1,0,30,0,detached lane house,multi-use,0,1,1,0,0,0,0,0,2
+Xuhui,9000,1,2,1,0,50,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,9000,1,1,1,0,70,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,9000,1,2,1,1,40,0,attached lane house,residential,1,1,1,0,1,0,0,0,4
+Xuhui,9000,1,1,1,0,70,0,public housing,residential,1,1,1,0,0,0,0,0,3
+Xuhui,9000,1,1,1,0,60,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,9000,1,2,1,0,70,0,detached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,9000,1,1,1,1,66,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,9000,1,1,1,0,55,0,public housing,residential,0,1,0,1,1,0,0,0,3
+Xuhui,9000,2,1,1,0,65,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,9000,1,2,1,0,70,0,public housing,residential,1,1,1,0,1,0,0,0,4
+Xuhui,9000,1,1,1,0,60,0,attached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,9000,1,1,1,0,50,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,9000,1,1,1,0,65,0,detached lane house,multi-use,0,1,0,0,0,1,0,0,2
+Xuhui,9000,1,2,1,0,60,0,detached lane house,multi-use,1,1,0,1,1,0,0,0,4
+Xuhui,9000,2,1,1,0,50,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,9000,1,1,1,0,46,0,detached lane house,residential,0,1,1,0,0,0,0,0,2
+Xuhui,9000,1,1,1,0,48,0,detached lane house,residential,0,1,1,0,1,0,0,0,3
+Xuhui,9000,1,0,1,0,30,0,detached lane house,multi-use,1,1,0,0,1,0,0,0,3
+Xuhui,9200,1,1,1,0,45,0,detached lane house,residential,0,1,1,0,1,0,0,0,3
+Xuhui,9200,1,1,1,0,70,0,detached lane house,residential,0,1,0,1,0,0,0,0,2
+Xuhui,9200,1,1,1,0,48,0,detached lane house,residential,0,1,1,0,0,0,0,0,2
+Xuhui,9200,1,1,1,0,48,0,detached lane house,residential,0,1,1,0,0,0,0,0,2
+Xuhui,9300,1,1,1,0,45,0,detached lane house,residential,0,1,1,0,0,0,0,0,2
+Xuhui,9300,1,1,1,0,60,0,detached lane house,residential,0,1,0,0,0,0,0,1,2
+Xuhui,9400,1,1,1,0,55,0,detached lane house,residential,0,0,0,0,0,1,0,0,1
+Xuhui,9500,1,0,1,0,20,0,detached lane house,multi-use,0,1,0,1,1,0,0,0,3
+Xuhui,9500,1,2,1,0,65,0,attached lane house,multi-use,1,1,0,0,1,1,0,0,4
+Xuhui,9500,1,1,1,0,50,0,attached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,9500,2,2,1,0,86,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,9500,1,2,1,0,68,0,detached lane house,residential,1,1,0,0,0,1,0,0,3
+Xuhui,9500,1,1,1,0,60,0,public housing,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,9500,1,2,1,0,60,0,detached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Xuhui,9500,1,1,1,0,40,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,9500,1,1,1,0,60,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Xuhui,9500,1,1,1,0,48,0,detached lane house,residential,0,1,1,0,0,0,0,0,2
+Xuhui,9500,1,1,1,0,70,0,public housing,residential,0,1,0,0,1,0,0,0,2
+Xuhui,9500,1,2,1,0,60,0,public housing,multi-use,1,1,0,0,0,0,1,0,3
+Xuhui,9500,1,1,1,0,70,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,9500,2,2,1,0,75,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,9500,1,1,1,0,60,0,public housing,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,9500,2,1,1,1,50,0,attached lane house,residential,1,1,0,0,0,0,1,0,3
+Xuhui,9500,1,1,1,0,45,0,public housing,residential,1,1,1,0,1,0,0,0,4
+Xuhui,9500,2,2,1,0,78,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,9500,2,2,1,0,78,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,9500,1,1,1,0,40,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,9500,1,2,1,0,60,0,public housing,residential,1,0,0,0,0,1,0,0,2
+Xuhui,9500,1,1,1,0,60,0,attached lane house,residential,1,0,0,0,0,0,1,1,3
+Xuhui,9500,1,1,1,0,45,0,detached lane house,residential,1,0,0,0,1,0,1,0,3
+Xuhui,9500,1,1,1,0,65,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,9500,1,1,1,0,40,0,detached lane house,multi-use,1,1,0,0,0,0,1,0,3
+Xuhui,9500,1,1,1,0,75,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,9500,2,1,1,0,70,0,detached lane house,multi-use,1,0,0,0,0,0,0,0,1
+Xuhui,9500,1,1,1,0,50,0,public housing,residential,0,1,0,0,1,0,0,0,2
+Xuhui,9500,1,1,1,1,50,0,attached lane house,multi-use,1,1,1,0,1,0,1,0,5
+Xuhui,9500,1,1,1,0,40,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,9500,1,1,1,0,80,0,detached lane house,residential,1,1,0,0,0,0,0,0,2
+Xuhui,9500,1,1,1,1,40,0,detached lane house,multi-use,1,1,0,0,0,0,0,1,3
+Xuhui,9600,1,1,1,0,70,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,9800,1,1,1,0,55,0,attached lane house,residential,1,1,1,0,1,0,0,0,4
+Xuhui,9800,2,1,1,0,65,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,9800,1,2,1,0,70,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,9800,1,1,1,1,50,0,detached lane house,residential,1,1,0,0,1,0,1,0,4
+Xuhui,9800,1,2,1,1,70,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,9800,1,1,1,1,40,0,detached lane house,residential,1,1,0,0,1,0,1,0,4
+Xuhui,9800,1,1,1,0,50,0,public housing,residential,0,1,0,1,0,0,0,0,2
+Xuhui,9800,1,1,1,0,70,0,public housing,residential,0,1,1,1,0,0,0,0,3
+Xuhui,9800,1,1,1,0,40,0,public housing,residential,1,1,0,0,0,0,0,0,2
+Xuhui,9800,1,1,1,1,25,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,9800,1,2,1,0,65,0,attached lane house,residential,1,1,0,1,1,0,1,0,5
+Xuhui,9800,1,1,1,0,60,0,detached lane house,residential,1,1,1,1,1,1,0,0,6
+Xuhui,9900,1,1,1,0,50,0,attached lane house,multi-use,1,0,0,0,0,0,0,0,1
+Xuhui,9900,1,1,1,0,80,0,detached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Xuhui,9900,1,1,1,0,60,0,public housing,residential,1,1,0,0,1,0,0,0,3
+Xuhui,10000,1,2,1,0,80,0,attached lane house,residential,1,1,0,0,1,0,0,0,3
+Xuhui,10000,1,1,1,0,70,0,public housing,residential,0,1,1,0,0,0,0,1,3
+Xuhui,10000,1,1,1,1,60,0,attached lane house,residential,1,1,0,0,1,0,0,0,3
+Xuhui,10000,1,1,1,1,65,0,attached lane house,residential,1,1,0,0,1,0,0,0,3
+Xuhui,10000,1,2,1,1,60,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,10000,2,2,1,0,105,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,10000,1,1,1,0,50,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,10000,1,1,1,0,58,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,10000,1,2,1,0,60,0,detached lane house,multi-use,0,1,1,0,1,0,0,0,3
+Xuhui,10000,2,1,2,1,70,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,10000,1,1,1,0,40,0,detached lane house,multi-use,0,1,0,0,1,1,0,0,3
+Xuhui,10000,1,2,1,1,65,0,detached lane house,residential,1,0,0,0,1,0,0,0,2
+Xuhui,10000,1,1,1,0,70,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,10000,1,1,1,0,60,0,attached lane house,residential,1,0,0,0,0,0,0,0,1
+Xuhui,10000,1,1,1,0,60,0,detached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Xuhui,10000,1,2,1,0,50,0,attached lane house,residential,1,1,0,0,1,0,1,0,4
+Xuhui,10000,1,1,1,0,70,0,public housing,residential,1,1,0,0,0,0,1,0,3
+Xuhui,10000,1,1,1,0,60,0,detached lane house,multi-use,0,1,1,0,1,0,0,0,3
+Xuhui,10000,2,2,1,0,65,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,10000,1,1,1,1,60,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,10000,1,1,1,0,46,0,detached lane house,residential,1,0,0,0,1,0,1,0,3
+Xuhui,10000,1,1,1,0,60,0,detached lane house,multi-use,0,1,1,0,0,1,0,0,3
+Xuhui,10000,2,1,1,0,70,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,10000,1,1,1,0,60,0,attached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,10000,1,2,1,0,70,0,detached lane house,residential,0,1,1,1,0,1,0,0,4
+Xuhui,10000,1,1,1,0,50,0,public housing,residential,1,1,1,0,0,0,0,1,4
+Xuhui,10000,1,1,1,0,40,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,10000,2,1,2,0,65,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,10000,1,1,1,0,70,1,detached lane house,multi-use,1,1,1,1,1,0,0,0,5
+Xuhui,10000,1,1,1,0,70,0,attached lane house,multi-use,1,1,0,0,0,0,1,0,3
+Xuhui,10000,2,1,1,0,85,0,public housing,residential,0,0,0,0,1,0,0,1,2
+Xuhui,10000,3,2,1,0,100,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,10000,1,2,1,0,50,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,10300,1,2,1,0,55,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,10450,1,1,1,0,46,0,villa,residential,0,1,1,0,1,0,0,0,3
+Xuhui,10500,1,1,1,0,50,0,attached lane house,multi-use,1,1,0,0,1,0,0,0,3
+Xuhui,10500,1,2,1,0,60,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,10500,1,1,1,0,60,0,public housing,residential,0,0,0,0,1,0,0,1,2
+Xuhui,10500,1,2,1,0,65,0,detached lane house,multi-use,0,1,1,0,0,0,0,0,2
+Xuhui,10500,1,0,1,0,48,0,public housing,residential,1,1,1,1,0,0,0,0,4
+Xuhui,10500,1,2,1,0,60,0,public housing,residential,0,1,0,0,1,0,0,0,2
+Xuhui,10500,1,1,1,0,50,0,public housing,multi-use,0,1,1,0,0,0,0,0,2
+Xuhui,10500,2,2,2,0,110,0,attached lane house,multi-use,1,1,0,1,0,0,0,1,4
+Xuhui,10500,1,2,1,0,70,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,10500,1,1,1,0,40,1,detached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Xuhui,10500,1,1,1,0,87,0,public housing,residential,1,1,1,0,1,0,0,0,4
+Xuhui,10500,1,1,1,0,70,0,attached lane house,multi-use,1,1,0,1,1,0,1,0,5
+Xuhui,10500,1,2,1,0,60,0,detached lane house,multi-use,0,1,1,0,1,0,0,0,3
+Xuhui,10500,1,1,1,0,65,0,public housing,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,10500,1,1,1,0,70,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,10500,1,2,1,0,50,0,attached lane house,multi-use,1,1,1,0,1,0,0,0,4
+Xuhui,10500,2,1,1,0,85,0,detached lane house,multi-use,0,0,0,0,1,1,0,0,2
+Xuhui,10800,1,1,1,0,50,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,10800,1,1,1,0,65,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,10800,1,0,1,0,45,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,10800,1,1,1,1,78,0,detached lane house,multi-use,1,1,0,0,1,0,1,0,4
+Xuhui,10800,1,1,1,1,60,0,attached lane house,residential,0,1,0,0,0,1,0,0,2
+Xuhui,10800,2,2,2,0,120,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,10900,1,0,1,0,38,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,11000,1,1,1,0,80,1,attached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,11000,1,1,1,1,50,0,detached lane house,multi-use,0,1,0,0,1,1,0,0,3
+Xuhui,11000,1,1,1,0,60,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,11000,1,1,1,0,68,0,detached lane house,residential,0,1,1,1,1,1,0,0,5
+Xuhui,11000,1,1,1,0,70,0,detached lane house,residential,0,1,0,0,1,0,0,1,3
+Xuhui,11000,2,2,1,0,65,0,public housing,residential,0,0,1,0,0,0,0,0,1
+Xuhui,11000,2,2,1,0,70,0,public housing,residential,0,0,0,0,1,1,0,0,2
+Xuhui,11000,1,1,1,1,65,0,attached lane house,residential,1,0,0,0,0,0,1,0,2
+Xuhui,11000,1,1,1,0,70,0,detached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Xuhui,11000,1,1,1,0,60,0,attached lane house,residential,0,1,1,0,1,0,0,0,3
+Xuhui,11000,1,1,1,0,70,0,detached lane house,multi-use,1,1,0,0,0,0,0,0,2
+Xuhui,11000,1,1,1,0,65,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,11000,1,1,1,1,76,0,detached lane house,residential,0,0,0,0,1,1,0,0,2
+Xuhui,11000,2,1,1,0,85,0,public housing,residential,0,0,0,0,1,0,0,1,2
+Xuhui,11000,1,2,1,0,60,0,attached lane house,multi-use,1,0,0,0,1,0,1,0,3
+Xuhui,11000,1,2,1,0,70,0,detached lane house,multi-use,1,1,0,0,1,0,0,0,3
+Xuhui,11000,1,1,1,0,70,0,attached lane house,multi-use,0,0,0,0,0,1,0,0,1
+Xuhui,11000,1,2,1,0,75,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Xuhui,11000,1,1,1,0,65,0,detached lane house,residential,1,1,0,0,1,0,1,0,4
+Xuhui,11000,1,1,1,0,60,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,11000,2,1,1,0,80,0,detached lane house,residential,0,1,1,0,1,0,0,0,3
+Xuhui,11000,2,1,1,0,80,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,11000,1,1,1,0,65,0,villa,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,11000,1,1,1,1,65,0,attached lane house,residential,1,1,0,0,0,1,1,0,4
+Xuhui,11000,2,2,2,0,80,0,detached lane house,residential,1,1,0,1,1,1,0,0,5
+Xuhui,11000,1,2,1,0,70,0,detached lane house,residential,1,0,0,0,1,0,0,0,2
+Xuhui,11000,1,1,1,0,85,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,11000,1,1,1,0,50,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,11000,2,2,1,0,65,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,11000,1,1,1,1,58,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,11000,2,1,1,0,75,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,11000,1,2,1,0,80,0,public housing,residential,1,0,0,0,0,0,1,0,2
+Xuhui,11000,1,1,1,0,60,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,11000,1,2,1,0,65,0,public housing,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,11000,1,1,1,0,80,0,attached lane house,residential,1,1,0,0,0,0,0,0,2
+Xuhui,11000,2,2,1,1,100,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Xuhui,11200,2,1,1,0,65,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,11500,1,1,1,0,50,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,11500,2,2,1,0,80,0,attached lane house,residential,0,0,0,0,1,1,0,0,2
+Xuhui,11500,1,2,1,0,80,0,attached lane house,residential,0,1,1,0,0,1,0,0,3
+Xuhui,11500,1,1,1,0,60,0,attached lane house,multi-use,1,0,0,0,0,0,0,0,1
+Xuhui,11500,1,1,1,1,60,0,detached lane house,multi-use,1,1,0,0,1,0,0,0,3
+Xuhui,11500,1,1,1,0,70,0,detached lane house,multi-use,1,1,1,1,1,1,0,0,6
+Xuhui,11500,1,2,1,0,75,0,public housing,multi-use,0,1,1,0,1,0,0,0,3
+Xuhui,11500,1,1,1,0,55,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,11500,1,1,1,0,40,0,detached lane house,multi-use,1,1,0,1,0,0,0,0,3
+Xuhui,11500,1,2,1,0,75,0,public housing,residential,1,1,1,0,1,0,0,0,4
+Xuhui,11500,1,1,1,0,22,0,detached lane house,residential,1,1,0,0,0,0,0,0,2
+Xuhui,11500,1,2,1,0,60,0,detached lane house,multi-use,1,0,0,0,1,0,1,0,3
+Xuhui,11500,1,2,1,0,70,0,attached lane house,multi-use,0,1,0,1,0,0,0,1,3
+Xuhui,11600,1,2,1,0,98,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,11800,1,2,1,0,70,0,attached lane house,residential,1,0,0,0,1,0,0,0,2
+Xuhui,11800,1,2,1,0,60,0,attached lane house,multi-use,1,1,0,1,1,1,1,0,6
+Xuhui,11800,1,1,1,0,52,1,detached lane house,residential,0,1,0,0,1,0,0,1,3
+Xuhui,11800,1,2,1,1,85,0,attached lane house,residential,0,1,0,0,0,1,0,0,2
+Xuhui,11800,2,2,1,0,10,0,attached lane house,residential,1,0,0,0,0,1,0,0,2
+Xuhui,11800,1,1,1,1,60,0,detached lane house,residential,1,0,0,0,0,0,1,0,2
+Xuhui,11800,1,1,1,0,60,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,11800,2,1,1,0,70,0,public housing,residential,1,0,0,0,0,0,1,0,2
+Xuhui,11800,1,1,1,0,65,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,11800,1,1,1,0,65,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,11800,1,1,1,0,65,0,detached lane house,residential,1,0,0,0,0,0,1,0,2
+Xuhui,11800,1,2,1,0,70,0,detached lane house,multi-use,1,0,0,0,1,0,1,0,3
+Xuhui,11800,2,2,1,0,85,0,detached lane house,residential,1,0,0,0,1,1,1,1,5
+Xuhui,11800,1,0,1,0,40,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,11800,1,1,1,0,65,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,11800,2,1,1,0,85,0,attached lane house,multi-use,1,0,0,1,1,1,0,0,4
+Xuhui,11900,1,1,1,0,42,0,detached lane house,residential,0,1,1,1,1,0,0,0,4
+Xuhui,11999,1,1,1,0,50,1,attached lane house,residential,1,0,0,0,1,0,1,0,3
+Xuhui,12000,1,1,1,1,45,0,attached lane house,residential,1,0,0,0,1,0,0,0,2
+Xuhui,12000,1,2,1,0,75,0,detached lane house,multi-use,0,0,0,0,1,0,0,1,2
+Xuhui,12000,2,1,1,0,70,0,public housing,residential,0,1,0,0,1,0,0,0,2
+Xuhui,12000,1,2,1,1,68,0,detached lane house,multi-use,1,1,0,0,1,0,1,1,5
+Xuhui,12000,1,2,1,0,70,0,attached lane house,residential,1,0,0,0,1,0,0,0,2
+Xuhui,12000,1,1,1,0,50,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,12000,1,1,1,0,60,0,public housing,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,12000,2,2,1,0,95,0,detached lane house,residential,1,1,0,0,0,0,0,0,2
+Xuhui,12000,1,2,1,0,70,0,public housing,residential,1,1,0,0,0,0,1,1,4
+Xuhui,12000,2,1,1,0,70,0,public housing,residential,0,0,0,0,0,1,0,0,1
+Xuhui,12000,2,2,1,0,78,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,12000,1,1,1,0,60,0,public housing,residential,1,1,1,1,0,0,0,0,4
+Xuhui,12000,1,0,1,0,50,0,public housing,residential,1,1,0,0,0,1,1,1,5
+Xuhui,12000,1,2,1,0,75,0,attached lane house,residential,1,0,0,0,0,0,1,0,2
+Xuhui,12000,1,2,1,0,70,0,detached lane house,residential,0,0,0,0,0,1,0,0,1
+Xuhui,12000,1,1,1,0,45,0,detached lane house,residential,0,1,0,0,1,0,0,0,2
+Xuhui,12000,2,1,1,0,70,0,detached lane house,residential,1,0,0,0,0,1,0,0,2
+Xuhui,12000,1,2,1,0,70,0,detached lane house,residential,1,1,0,0,1,1,0,0,4
+Xuhui,12000,1,1,1,0,40,0,detached lane house,residential,1,0,0,0,0,0,0,0,1
+Xuhui,12000,1,1,1,0,55,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,12000,1,1,1,0,50,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,12000,1,1,1,0,60,0,public housing,residential,0,0,0,0,0,1,1,0,2
+Xuhui,12000,2,2,1,1,60,0,attached lane house,residential,0,1,1,1,1,0,1,0,5
+Xuhui,12000,1,1,1,0,60,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,12000,1,1,1,0,50,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,12000,2,1,1,0,80,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,12000,2,1,1,0,100,0,detached lane house,residential,0,1,0,0,1,0,0,0,2
+Xuhui,12000,1,2,1,0,70,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,12000,1,0,1,0,55,0,detached lane house,multi-use,1,1,1,1,0,0,0,0,4
+Xuhui,12000,1,1,1,0,40,0,public housing,residential,0,1,0,1,0,0,0,0,2
+Xuhui,12000,1,2,1,0,80,0,attached lane house,residential,1,0,0,0,0,1,1,0,3
+Xuhui,12000,1,1,1,0,68,0,detached lane house,residential,1,1,0,0,1,0,1,1,5
+Xuhui,12000,1,2,1,0,80,0,detached lane house,residential,1,1,0,0,0,1,0,0,3
+Xuhui,12000,2,2,1,0,72,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,12000,1,1,1,0,70,0,public housing,residential,0,0,0,0,1,0,1,0,2
+Xuhui,12000,2,1,1,1,80,0,attached lane house,residential,1,0,0,0,1,1,1,0,4
+Xuhui,12000,1,2,1,0,70,0,detached lane house,multi-use,0,1,1,1,1,1,0,0,5
+Xuhui,12000,1,2,1,0,80,0,public housing,residential,0,1,0,0,1,0,0,0,2
+Xuhui,12000,1,1,1,0,65,0,attached lane house,residential,1,0,0,1,0,0,0,0,2
+Xuhui,12000,1,1,1,0,60,0,detached lane house,residential,1,1,0,1,1,0,1,1,6
+Xuhui,12000,2,1,1,0,75,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,12000,1,1,1,0,60,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,12000,2,1,1,0,75,0,public housing,residential,0,0,0,0,1,1,0,0,2
+Xuhui,12000,1,2,1,0,50,0,public housing,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,12000,1,1,1,0,60,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,12000,1,1,1,1,50,0,attached lane house,residential,1,0,1,0,1,0,0,0,3
+Xuhui,12000,1,1,1,0,65,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,12500,2,1,2,0,70,0,attached lane house,residential,1,1,0,0,0,0,0,0,2
+Xuhui,12500,1,1,1,0,75,0,detached lane house,multi-use,1,1,0,1,0,0,0,0,3
+Xuhui,12500,1,2,1,0,46,0,attached lane house,residential,1,1,0,1,1,0,1,0,5
+Xuhui,12500,1,1,1,0,70,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,12500,1,2,1,1,60,0,attached lane house,multi-use,1,1,1,1,1,0,0,0,5
+Xuhui,12500,1,2,1,0,75,0,detached lane house,residential,1,0,0,0,1,1,0,1,4
+Xuhui,12500,2,2,1,0,80,0,detached lane house,multi-use,1,1,0,0,0,0,0,0,2
+Xuhui,12500,2,1,1,0,65,0,attached lane house,residential,0,0,0,0,1,1,0,0,2
+Xuhui,12500,2,2,1,0,80,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Xuhui,12500,2,2,1,0,90,0,public housing,residential,0,0,0,0,0,1,0,0,1
+Xuhui,12500,1,1,1,0,60,0,attached lane house,multi-use,1,0,0,0,0,1,0,0,2
+Xuhui,12500,1,1,1,0,65,0,public housing,residential,1,0,0,0,1,1,0,0,3
+Xuhui,12500,2,2,1,0,90,0,attached lane house,multi-use,1,0,1,1,1,0,0,0,4
+Xuhui,12500,2,1,1,0,78,0,public housing,multi-use,1,1,0,1,1,0,0,0,4
+Xuhui,12500,1,1,1,0,55,0,attached lane house,residential,0,1,1,1,0,1,0,0,4
+Xuhui,12500,1,1,1,0,60,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,12500,1,2,1,0,70,0,attached lane house,multi-use,0,0,0,0,1,0,0,1,2
+Xuhui,12600,2,2,1,1,120,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,12800,1,1,1,0,60,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,12800,1,1,1,0,60,0,detached lane house,multi-use,1,0,0,0,1,0,1,0,3
+Xuhui,12800,2,2,1,0,65,0,attached lane house,multi-use,1,1,0,0,0,0,0,0,2
+Xuhui,12800,2,1,1,0,90,0,public housing,residential,0,1,0,1,1,0,0,0,3
+Xuhui,12800,1,1,1,0,80,0,detached lane house,residential,1,1,1,1,1,0,0,0,5
+Xuhui,12800,1,1,1,0,60,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,12800,1,2,1,0,65,0,detached lane house,multi-use,1,0,0,0,1,0,1,0,3
+Xuhui,12800,1,2,1,0,75,0,attached lane house,residential,1,0,0,0,0,0,0,0,1
+Xuhui,12800,1,2,1,0,86,0,detached lane house,residential,0,0,0,0,0,1,0,1,2
+Xuhui,12800,1,2,1,1,70,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,12800,2,2,1,0,100,0,attached lane house,multi-use,0,0,0,0,1,1,0,0,2
+Xuhui,12900,1,2,1,0,70,0,detached lane house,multi-use,1,1,0,0,1,0,1,1,5
+Xuhui,13000,1,2,1,0,87,0,public housing,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,13000,2,2,2,0,80,0,public housing,residential,1,0,0,0,1,0,0,0,2
+Xuhui,13000,1,1,1,0,50,0,attached lane house,residential,1,1,0,1,0,0,1,0,4
+Xuhui,13000,1,1,1,0,60,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,13000,1,1,1,0,80,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,13000,1,2,1,1,60,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,13000,1,1,1,0,50,0,attached lane house,residential,1,0,0,0,1,0,1,0,3
+Xuhui,13000,1,1,1,0,68,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,13000,1,2,1,0,78,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,13000,1,1,1,0,60,0,detached lane house,residential,1,1,1,1,1,0,0,1,6
+Xuhui,13000,1,2,1,0,70,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,13000,1,1,1,1,68,0,detached lane house,multi-use,1,1,0,0,1,0,1,0,4
+Xuhui,13000,2,1,1,0,70,0,detached lane house,residential,0,1,1,0,0,0,0,0,2
+Xuhui,13000,1,2,1,0,75,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,13000,2,2,1,0,90,0,public housing,residential,1,1,1,1,0,0,0,0,4
+Xuhui,13000,1,1,1,1,50,0,detached lane house,residential,1,0,0,0,0,1,1,1,4
+Xuhui,13000,1,1,1,1,70,0,attached lane house,residential,0,1,1,0,1,0,0,0,3
+Xuhui,13000,2,1,2,1,81,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,13000,1,1,1,1,60,0,detached lane house,residential,1,1,0,1,0,0,0,0,3
+Xuhui,13000,1,1,1,0,75,0,detached lane house,residential,1,0,0,0,0,0,1,0,2
+Xuhui,13000,1,2,1,0,75,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,13000,2,2,1,0,80,0,attached lane house,residential,1,1,0,0,0,1,0,0,3
+Xuhui,13000,1,1,1,0,60,0,detached lane house,multi-use,1,1,0,0,1,0,0,0,3
+Xuhui,13000,1,2,1,0,70,0,detached lane house,multi-use,1,1,0,1,0,0,0,0,3
+Xuhui,13000,2,2,1,0,90,0,public housing,residential,1,1,0,0,0,0,0,0,2
+Xuhui,13000,1,1,1,0,60,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,13000,1,2,1,0,68,0,attached lane house,residential,1,1,0,0,0,0,0,0,2
+Xuhui,13000,2,1,1,0,70,0,public housing,residential,1,1,0,0,0,0,1,0,3
+Xuhui,13000,1,1,1,0,50,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,13000,7,2,2,0,220,1,villa,residential,0,0,1,0,0,0,0,0,1
+Xuhui,13000,1,1,1,0,80,0,detached lane house,multi-use,1,1,0,0,0,0,0,0,2
+Xuhui,13000,1,2,1,0,70,0,attached lane house,residential,1,0,0,0,1,0,0,0,2
+Xuhui,13500,1,2,1,0,78,0,detached lane house,multi-use,1,1,1,0,1,0,1,0,5
+Xuhui,13500,1,2,1,0,75,0,public housing,residential,1,1,0,0,0,0,0,0,2
+Xuhui,13500,3,2,1,0,85,0,attached lane house,multi-use,1,1,0,0,1,0,1,0,4
+Xuhui,13500,1,2,1,0,90,0,detached lane house,residential,1,1,0,0,0,0,0,0,2
+Xuhui,13500,1,2,1,0,80,0,detached lane house,multi-use,1,1,0,1,0,0,0,1,4
+Xuhui,13500,1,2,1,0,50,0,public housing,residential,1,0,0,0,1,1,1,1,5
+Xuhui,13500,1,1,1,0,40,0,detached lane house,multi-use,1,1,0,0,1,0,1,0,4
+Xuhui,13500,1,2,1,0,75,0,public housing,residential,0,1,1,0,1,0,0,0,3
+Xuhui,13500,2,1,2,0,80,0,public housing,residential,1,1,0,0,0,1,0,0,3
+Xuhui,13500,1,1,1,0,75,0,detached lane house,residential,1,0,1,0,1,0,0,1,4
+Xuhui,13500,1,1,1,0,50,0,attached lane house,multi-use,1,1,1,1,1,1,0,0,6
+Xuhui,13500,1,1,1,0,75,0,public housing,residential,1,1,0,0,1,0,1,1,5
+Xuhui,13500,1,1,1,0,44,0,detached lane house,residential,0,1,0,0,0,1,0,0,2
+Xuhui,13500,2,1,0,0,70,0,attached lane house,residential,1,1,1,1,1,0,0,1,6
+Xuhui,13500,1,1,1,0,80,0,public housing,multi-use,0,1,1,0,0,1,0,0,3
+Xuhui,13500,1,1,1,0,35,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,13500,1,2,1,1,60,0,public housing,residential,0,1,0,0,0,0,0,0,1
+Xuhui,13500,1,2,1,0,80,0,public housing,residential,1,1,1,0,1,0,0,0,4
+Xuhui,13500,1,2,1,0,60,0,detached lane house,multi-use,1,1,1,1,1,0,0,0,5
+Xuhui,13500,1,2,2,0,80,1,detached lane house,multi-use,1,1,1,0,1,0,0,0,4
+Xuhui,13500,1,1,1,0,80,0,public housing,residential,1,0,0,0,0,0,0,1,2
+Xuhui,13500,1,2,1,0,70,0,detached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Xuhui,13500,1,1,1,0,75,0,detached lane house,multi-use,1,1,0,0,1,0,1,0,4
+Xuhui,13800,1,2,1,0,80,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,13800,1,2,1,0,80,0,public housing,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,13800,2,2,2,0,80,0,detached lane house,residential,1,1,0,1,1,0,0,0,4
+Xuhui,13800,1,2,1,0,80,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,13800,1,1,1,1,40,0,attached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Xuhui,13800,2,2,1,0,90,0,attached lane house,multi-use,1,1,0,1,1,0,0,0,4
+Xuhui,13800,1,1,1,0,70,0,attached lane house,residential,1,0,0,0,1,1,1,1,5
+Xuhui,13800,2,1,1,0,60,0,detached lane house,multi-use,1,0,0,0,0,0,0,0,1
+Xuhui,13800,1,2,1,0,70,0,detached lane house,multi-use,0,1,0,1,1,0,0,0,3
+Xuhui,13800,1,1,1,0,65,1,detached lane house,residential,1,1,1,1,1,1,1,1,8
+Xuhui,13800,1,1,1,0,60,0,detached lane house,multi-use,0,0,0,0,1,1,0,0,2
+Xuhui,13800,1,2,1,0,72,0,public housing,residential,1,1,1,1,1,0,1,1,7
+Xuhui,13800,1,1,1,0,43,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,14000,2,2,2,0,80,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,14000,1,1,1,0,60,0,detached lane house,multi-use,0,1,0,1,0,0,0,0,2
+Xuhui,14000,2,1,1,0,70,0,attached lane house,multi-use,0,1,1,0,0,1,0,0,3
+Xuhui,14000,2,2,2,0,100,0,attached lane house,residential,0,0,0,0,0,1,0,0,1
+Xuhui,14000,2,1,1,0,60,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,14000,2,1,1,0,90,0,public housing,residential,0,0,0,0,0,1,0,0,1
+Xuhui,14000,1,1,1,0,45,0,attached lane house,multi-use,1,0,0,0,1,1,0,0,3
+Xuhui,14000,1,2,1,0,75,0,detached lane house,residential,0,0,0,0,0,1,0,0,1
+Xuhui,14000,1,1,1,0,60,0,attached lane house,residential,1,1,0,0,0,0,0,0,2
+Xuhui,14000,2,2,1,0,100,0,public housing,residential,0,1,0,1,0,0,0,0,2
+Xuhui,14000,2,1,1,0,80,0,public housing,residential,0,1,0,0,1,0,0,0,2
+Xuhui,14000,1,2,1,0,65,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,14000,2,2,1,1,80,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,14000,1,0,1,0,50,0,attached lane house,residential,1,1,1,0,1,0,1,0,5
+Xuhui,14000,1,2,1,0,80,0,attached lane house,multi-use,1,1,1,1,1,0,0,0,5
+Xuhui,14000,2,2,2,0,70,0,attached lane house,residential,1,1,0,0,0,0,0,1,3
+Xuhui,14000,2,2,1,0,60,0,attached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Xuhui,14500,2,1,1,1,50,0,attached lane house,residential,1,1,0,1,1,1,0,0,5
+Xuhui,14500,2,1,1,0,70,0,attached lane house,residential,0,1,1,1,1,1,0,0,5
+Xuhui,14500,1,2,2,0,120,0,attached lane house,residential,1,0,0,0,1,0,0,0,2
+Xuhui,14500,1,3,1,0,55,0,attached lane house,residential,1,1,1,0,1,0,1,1,6
+Xuhui,14500,1,2,1,0,80,0,attached lane house,residential,1,1,0,0,0,0,0,0,2
+Xuhui,14500,2,2,1,0,90,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,14800,2,1,1,0,90,0,public housing,residential,1,1,1,0,0,0,1,1,5
+Xuhui,14800,2,1,1,0,110,0,detached lane house,multi-use,1,1,1,1,1,0,1,0,6
+Xuhui,14800,2,2,1,0,80,0,public housing,residential,1,0,1,1,1,0,0,1,5
+Xuhui,14800,2,2,2,0,160,0,detached lane house,multi-use,1,0,0,0,0,1,0,0,2
+Xuhui,14800,2,2,1,0,55,0,public housing,residential,1,1,1,0,1,0,1,1,6
+Xuhui,14800,2,2,1,0,100,0,public housing,residential,0,1,0,0,0,1,0,0,2
+Xuhui,14800,3,1,2,0,120,0,detached lane house,residential,1,1,1,0,1,1,0,0,5
+Xuhui,14800,2,2,2,0,90,0,public housing,residential,0,0,0,0,1,1,0,0,2
+Xuhui,14900,2,2,1,0,98,1,detached lane house,residential,1,1,1,1,1,1,0,0,6
+Xuhui,15000,1,1,1,0,80,0,detached lane house,multi-use,0,0,0,0,0,1,0,0,1
+Xuhui,15000,2,2,1,0,85,0,detached lane house,residential,1,1,0,0,0,0,0,0,2
+Xuhui,15000,1,2,1,0,75,0,public housing,residential,1,0,0,0,1,1,1,1,5
+Xuhui,15000,1,2,1,0,70,0,detached lane house,residential,0,1,1,0,1,0,0,0,3
+Xuhui,15000,1,2,1,0,70,0,detached lane house,residential,1,0,0,0,1,1,0,0,3
+Xuhui,15000,1,1,1,0,75,0,detached lane house,multi-use,1,1,0,0,1,0,1,1,5
+Xuhui,15000,2,2,2,0,100,0,detached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,15000,1,1,1,0,70,0,attached lane house,residential,1,1,0,0,1,1,0,0,4
+Xuhui,15000,2,1,1,0,60,0,attached lane house,residential,0,1,0,0,0,0,1,0,2
+Xuhui,15000,2,2,1,0,70,0,attached lane house,residential,1,1,0,0,0,0,0,0,2
+Xuhui,15000,2,2,2,1,80,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,15000,1,2,1,1,70,0,attached lane house,multi-use,1,1,0,0,0,0,1,0,3
+Xuhui,15000,1,1,1,0,42,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,15000,2,1,1,0,85,0,detached lane house,residential,0,0,0,0,0,1,0,0,1
+Xuhui,15000,2,2,1,0,8,0,public housing,residential,0,0,0,0,0,0,0,0,0
+Xuhui,15000,1,2,1,0,70,0,detached lane house,residential,1,1,0,1,0,0,0,0,3
+Xuhui,15000,1,2,1,0,75,0,detached lane house,residential,0,1,1,1,1,1,0,0,5
+Xuhui,15000,1,1,1,0,50,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,15000,2,2,2,0,70,0,attached lane house,residential,1,0,0,0,1,0,0,0,2
+Xuhui,15000,2,2,2,0,80,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,15000,2,2,1,0,70,0,public housing,residential,1,1,0,0,0,0,1,0,3
+Xuhui,15000,1,1,1,0,60,0,public housing,residential,1,1,0,0,0,0,0,0,2
+Xuhui,15000,2,1,1,0,82,0,public housing,residential,1,1,0,1,1,0,1,0,5
+Xuhui,15000,2,2,2,0,70,0,detached lane house,residential,1,1,0,1,0,1,0,0,4
+Xuhui,15000,2,2,1,0,70,0,public housing,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,15000,1,1,1,0,60,0,detached lane house,residential,1,1,0,1,1,0,1,0,5
+Xuhui,15000,2,1,1,0,100,0,detached lane house,multi-use,1,1,0,1,0,1,0,0,4
+Xuhui,15000,2,2,1,0,68,0,public housing,residential,1,0,0,0,1,1,1,0,4
+Xuhui,15000,1,2,1,0,60,1,detached lane house,multi-use,1,1,1,1,1,0,1,0,6
+Xuhui,15000,1,2,1,0,80,0,detached lane house,residential,1,0,0,0,1,0,1,0,3
+Xuhui,15000,1,1,1,0,60,0,attached lane house,residential,1,1,0,1,1,0,0,1,5
+Xuhui,15000,2,1,2,0,70,0,detached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Xuhui,15500,2,2,1,0,95,0,public housing,residential,1,1,0,1,1,0,0,0,4
+Xuhui,15500,2,1,1,0,70,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,15500,1,1,1,0,65,1,attached lane house,residential,1,1,0,0,1,0,0,0,3
+Xuhui,15500,1,1,1,1,80,0,attached lane house,residential,1,1,0,0,1,0,1,0,4
+Xuhui,15500,2,2,1,0,85,0,detached lane house,multi-use,1,1,1,0,1,0,1,1,6
+Xuhui,15500,2,1,1,1,80,0,attached lane house,residential,1,1,0,0,1,0,1,0,4
+Xuhui,15500,2,2,2,0,100,0,public housing,multi-use,1,1,0,1,1,1,1,0,6
+Xuhui,15500,2,1,2,0,120,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Xuhui,15500,1,2,1,0,75,0,detached lane house,multi-use,0,1,1,1,1,0,0,0,4
+Xuhui,15500,1,2,1,0,60,0,detached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,15800,2,2,1,0,68,0,public housing,multi-use,1,1,1,0,1,1,0,0,5
+Xuhui,15800,2,2,2,1,110,0,attached lane house,residential,0,0,0,0,1,0,0,1,2
+Xuhui,15800,2,2,0,1,80,0,attached lane house,multi-use,1,1,0,1,1,0,0,1,5
+Xuhui,15800,2,2,2,0,90,0,attached lane house,residential,1,1,0,1,0,1,0,0,4
+Xuhui,15999,2,2,1,0,87,0,attached lane house,residential,1,1,1,1,0,1,0,0,5
+Xuhui,15999,1,1,1,0,60,0,detached lane house,multi-use,0,1,1,0,1,0,0,0,3
+Xuhui,15999,1,1,1,0,75,0,detached lane house,residential,0,1,1,1,1,0,0,0,4
+Xuhui,16000,2,1,2,0,98,0,detached lane house,multi-use,0,1,1,0,1,0,0,0,3
+Xuhui,16000,1,1,1,0,60,0,public housing,residential,1,1,0,0,0,0,1,0,3
+Xuhui,16000,2,1,1,0,36,1,attached lane house,residential,1,1,0,0,0,0,0,0,2
+Xuhui,16000,1,2,1,0,80,0,public housing,residential,1,1,1,0,1,0,1,0,5
+Xuhui,16000,2,2,2,0,101,0,detached lane house,residential,1,1,0,0,1,1,0,0,4
+Xuhui,16000,2,2,1,1,80,0,attached lane house,multi-use,1,1,0,0,1,0,0,0,3
+Xuhui,16000,2,2,1,0,80,0,attached lane house,multi-use,1,1,1,1,1,0,0,1,6
+Xuhui,16000,1,2,1,0,90,0,attached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,16000,1,2,1,0,70,0,public housing,residential,1,1,1,0,0,1,1,0,5
+Xuhui,16000,2,2,1,0,90,0,attached lane house,residential,0,1,0,1,0,0,0,0,2
+Xuhui,16000,1,2,1,0,80,0,public housing,residential,1,1,1,0,1,1,1,1,7
+Xuhui,16000,2,1,1,0,100,0,public housing,multi-use,0,1,1,0,0,0,0,0,2
+Xuhui,16000,2,2,2,0,70,0,attached lane house,residential,1,1,1,0,0,0,0,0,3
+Xuhui,16000,2,2,1,0,70,0,attached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Xuhui,16000,1,2,1,0,70,0,public housing,multi-use,1,1,1,1,1,1,0,0,6
+Xuhui,16000,2,2,1,0,90,0,public housing,residential,1,1,1,0,1,1,0,1,6
+Xuhui,16000,1,1,1,0,80,1,detached lane house,multi-use,1,1,0,0,1,0,1,0,4
+Xuhui,16000,1,1,1,0,90,0,attached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,16000,1,2,1,0,71,0,detached lane house,residential,0,1,0,0,0,1,0,0,2
+Xuhui,16000,2,2,2,1,80,0,attached lane house,multi-use,1,1,0,0,0,0,1,0,3
+Xuhui,16000,4,0,2,0,100,1,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,16500,1,1,1,0,56,0,detached lane house,multi-use,1,1,0,0,0,0,1,0,3
+Xuhui,16500,1,1,1,0,80,0,detached lane house,multi-use,0,1,0,0,1,1,0,0,3
+Xuhui,16500,1,2,1,0,80,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,16500,2,2,2,0,90,0,public housing,residential,1,1,1,0,1,0,0,0,4
+Xuhui,16500,2,1,1,0,80,0,public housing,residential,1,1,1,1,1,0,0,0,5
+Xuhui,16500,2,2,2,0,90,0,public housing,multi-use,1,1,1,1,1,1,0,0,6
+Xuhui,16500,3,2,2,0,120,0,detached lane house,multi-use,1,1,1,1,1,1,0,0,6
+Xuhui,16800,1,1,1,0,50,0,attached lane house,multi-use,1,0,0,0,0,1,0,0,2
+Xuhui,16800,2,2,1,0,90,0,attached lane house,residential,1,1,0,0,1,0,0,0,3
+Xuhui,16800,1,2,1,0,110,0,attached lane house,residential,0,0,0,0,1,1,0,0,2
+Xuhui,16800,2,1,1,0,80,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,16800,2,1,1,0,75,0,public housing,multi-use,1,0,1,0,0,0,1,1,4
+Xuhui,17000,1,2,1,0,60,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,17000,2,1,1,0,95,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,17000,1,2,1,0,80,0,attached lane house,residential,0,1,1,0,1,0,0,0,3
+Xuhui,17000,2,1,1,0,100,0,public housing,residential,1,1,0,1,0,0,1,1,5
+Xuhui,17000,2,1,1,0,90,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Xuhui,17000,1,1,1,0,70,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Xuhui,17000,2,1,2,0,90,0,attached lane house,residential,1,1,1,0,1,1,0,0,5
+Xuhui,17500,3,2,2,0,150,0,attached lane house,multi-use,1,1,0,0,0,0,0,0,2
+Xuhui,17500,2,1,2,0,90,0,public housing,multi-use,1,1,1,0,1,0,0,1,5
+Xuhui,17500,3,2,2,0,100,0,attached lane house,residential,0,1,1,0,1,0,0,0,3
+Xuhui,17800,2,2,1,0,110,0,detached lane house,residential,1,1,1,0,1,1,0,0,5
+Xuhui,17900,2,2,2,1,90,0,attached lane house,multi-use,1,1,1,1,0,1,0,0,5
+Xuhui,18000,2,2,1,0,90,0,public housing,multi-use,1,1,0,0,1,0,0,0,3
+Xuhui,18000,2,2,1,0,90,0,public housing,residential,0,0,0,0,0,1,0,0,1
+Xuhui,18000,2,2,1,0,80,0,attached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Xuhui,18000,2,2,2,0,120,0,public housing,residential,1,1,1,0,0,0,1,0,4
+Xuhui,18000,2,2,1,0,125,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,18000,3,2,1,0,150,0,villa,residential,0,0,0,0,1,0,0,0,1
+Xuhui,18000,1,1,1,0,70,0,detached lane house,multi-use,1,0,0,0,0,0,0,0,1
+Xuhui,18000,2,2,1,0,90,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,18000,1,1,1,0,70,0,detached lane house,multi-use,0,0,0,0,0,0,0,0,0
+Xuhui,18000,2,2,1,0,90,0,public housing,residential,1,1,1,0,0,1,0,0,4
+Xuhui,18000,2,2,1,0,110,0,attached lane house,residential,0,1,0,0,0,1,0,0,2
+Xuhui,18000,1,1,1,0,70,0,detached lane house,multi-use,1,1,0,0,1,0,1,0,4
+Xuhui,18000,1,1,1,1,70,0,detached lane house,multi-use,0,1,0,0,1,0,1,0,3
+Xuhui,18000,2,1,1,0,80,0,detached lane house,multi-use,1,1,0,0,1,0,1,0,4
+Xuhui,18000,2,2,1,0,100,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,18000,1,2,1,0,110,0,public housing,residential,1,1,1,0,0,0,1,0,4
+Xuhui,18000,2,1,1,0,63,0,public housing,residential,1,1,0,0,1,0,1,1,5
+Xuhui,18000,2,2,1,0,80,0,attached lane house,residential,0,1,0,0,1,1,0,0,3
+Xuhui,18000,3,1,1,0,100,0,detached lane house,residential,0,1,1,1,1,1,0,0,5
+Xuhui,18000,2,1,1,1,100,0,attached lane house,residential,1,0,0,0,1,1,0,0,3
+Xuhui,18000,2,2,2,0,115,0,detached lane house,residential,1,1,0,0,0,1,1,0,4
+Xuhui,18000,1,2,2,0,80,0,detached lane house,multi-use,1,1,0,0,1,0,1,0,4
+Xuhui,18000,1,1,1,0,55,0,public housing,residential,1,1,1,0,1,0,1,0,5
+Xuhui,18000,2,1,1,0,80,0,public housing,residential,1,1,0,0,0,0,0,0,2
+Xuhui,18000,1,1,1,0,50,0,detached lane house,residential,1,0,0,0,1,0,1,0,3
+Xuhui,18000,2,2,2,0,90,0,public housing,residential,1,1,1,1,0,0,0,1,5
+Xuhui,18000,2,2,2,0,115,0,detached lane house,residential,0,0,0,0,0,1,1,0,2
+Xuhui,18000,2,2,1,0,100,0,detached lane house,multi-use,0,1,0,0,0,0,0,0,1
+Xuhui,18000,2,2,2,0,100,0,public housing,multi-use,1,1,0,0,0,0,1,0,3
+Xuhui,18000,1,1,1,1,68,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,18000,2,2,2,0,110,0,public housing,residential,1,1,1,0,1,1,0,1,6
+Xuhui,18000,1,1,1,1,60,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,18500,3,2,2,0,135,0,detached lane house,multi-use,1,0,0,0,0,0,0,0,1
+Xuhui,18500,2,2,1,0,100,0,attached lane house,residential,1,1,1,0,1,0,1,1,6
+Xuhui,18700,2,2,1,0,90,0,public housing,residential,1,1,1,0,1,0,1,0,5
+Xuhui,18800,2,2,2,0,90,0,detached lane house,residential,1,1,1,0,1,0,0,0,4
+Xuhui,18800,2,2,2,0,100,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,18800,2,2,2,0,150,0,detached lane house,residential,0,0,0,0,1,1,0,0,2
+Xuhui,18800,2,2,1,0,110,0,public housing,residential,1,1,0,0,0,0,0,0,2
+Xuhui,18800,3,2,2,0,135,0,detached lane house,multi-use,0,0,0,0,1,1,0,1,3
+Xuhui,19000,1,1,2,1,70,0,attached lane house,residential,1,0,0,0,0,0,1,0,2
+Xuhui,19000,2,2,1,0,100,0,attached lane house,residential,1,1,0,1,0,1,0,0,4
+Xuhui,19000,3,2,3,0,180,0,detached lane house,multi-use,1,1,0,0,1,1,0,0,4
+Xuhui,19000,2,2,2,0,70,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,19000,2,2,2,0,120,0,attached lane house,multi-use,1,1,1,1,1,1,0,0,6
+Xuhui,19000,4,2,2,0,200,0,attached lane house,multi-use,1,1,1,0,0,0,0,0,3
+Xuhui,19000,2,2,2,0,73,0,attached lane house,residential,0,1,1,0,0,0,0,0,2
+Xuhui,19000,2,2,1,0,110,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,19000,2,2,1,0,110,0,detached lane house,residential,1,1,0,0,0,0,1,0,3
+Xuhui,19500,3,2,2,0,135,0,attached lane house,residential,1,1,0,0,0,0,0,0,2
+Xuhui,19500,2,2,2,0,90,0,attached lane house,residential,1,1,1,1,1,1,1,0,7
+Xuhui,19500,2,2,2,0,135,0,attached lane house,multi-use,1,1,0,1,0,0,0,0,3
+Xuhui,19500,2,2,1,0,80,0,public housing,residential,1,1,1,0,0,0,0,0,3
+Xuhui,19800,2,2,1,0,100,0,detached lane house,residential,1,1,0,0,1,1,1,0,5
+Xuhui,19900,2,2,1,0,100,0,attached lane house,residential,1,0,0,0,1,0,1,0,3
+Xuhui,20000,2,2,2,0,120,0,attached lane house,multi-use,0,0,0,0,1,1,0,0,2
+Xuhui,20000,2,1,2,0,100,0,attached lane house,multi-use,1,1,0,0,1,1,0,0,4
+Xuhui,20000,3,2,2,0,150,0,detached lane house,residential,1,1,1,1,1,1,0,0,6
+Xuhui,20000,2,2,1,0,110,0,public housing,residential,1,1,0,0,0,1,1,0,4
+Xuhui,20000,1,1,1,0,90,0,detached lane house,residential,1,1,1,0,1,0,0,0,4
+Xuhui,20000,2,2,1,0,70,0,attached lane house,residential,1,1,1,1,0,0,0,0,4
+Xuhui,20000,1,2,2,1,90,0,detached lane house,residential,1,1,1,1,1,0,0,0,5
+Xuhui,20000,2,2,2,0,120,0,detached lane house,residential,1,0,0,0,0,1,1,0,3
+Xuhui,20000,2,2,1,0,110,0,attached lane house,residential,1,1,1,0,0,0,1,0,4
+Xuhui,20000,2,2,1,1,100,1,detached lane house,multi-use,1,1,1,1,1,0,1,0,6
+Xuhui,20000,3,2,1,0,140,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,20000,2,2,2,1,90,0,attached lane house,multi-use,1,1,0,1,1,0,1,0,5
+Xuhui,20000,2,2,1,0,120,0,public housing,residential,1,1,0,0,0,0,0,0,2
+Xuhui,20000,2,1,1,0,90,0,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,20000,3,2,2,0,85,0,attached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,20000,2,2,1,0,100,0,attached lane house,residential,0,0,0,0,1,1,0,0,2
+Xuhui,20000,2,2,1,0,80,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,21000,5,2,2,0,120,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,21000,1,1,1,0,90,0,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Xuhui,21000,2,1,1,0,100,0,public housing,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,21000,2,2,2,0,110,0,detached lane house,residential,1,0,0,0,0,0,1,0,2
+Xuhui,21000,2,1,1,0,70,1,attached lane house,residential,0,1,0,0,1,0,0,0,2
+Xuhui,21800,2,2,1,0,100,0,detached lane house,residential,1,1,1,0,1,0,0,1,5
+Xuhui,21800,2,2,2,0,90,0,detached lane house,residential,1,1,1,0,0,0,0,0,3
+Xuhui,21800,2,2,2,0,130,0,attached lane house,multi-use,1,1,0,0,1,0,1,0,4
+Xuhui,22000,2,1,1,0,150,1,attached lane house,multi-use,0,1,0,0,0,0,1,0,2
+Xuhui,22000,2,2,2,0,120,0,attached lane house,residential,1,1,0,1,0,1,0,0,4
+Xuhui,22000,3,2,1,0,100,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,22000,2,2,2,0,90,0,attached lane house,multi-use,1,0,0,0,1,1,0,0,3
+Xuhui,22000,3,2,2,0,100,0,attached lane house,multi-use,1,0,0,0,1,1,0,0,3
+Xuhui,22000,2,2,2,1,100,0,detached lane house,multi-use,1,1,0,1,0,0,1,0,4
+Xuhui,22000,2,2,2,0,130,0,public housing,residential,1,0,0,0,1,1,1,0,4
+Xuhui,22000,2,2,2,1,100,0,detached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,22000,2,2,2,1,100,0,public housing,residential,1,1,0,0,0,0,1,0,3
+Xuhui,22000,2,2,1,0,100,0,attached lane house,multi-use,0,1,1,0,0,0,0,0,2
+Xuhui,22000,2,2,2,1,100,0,detached lane house,residential,1,0,0,0,0,1,0,0,2
+Xuhui,22000,2,2,2,0,80,0,public housing,residential,0,0,0,0,1,1,0,0,2
+Xuhui,22000,2,2,2,0,120,0,public housing,residential,1,1,1,0,0,1,0,0,4
+Xuhui,22000,2,2,1,0,120,0,detached lane house,multi-use,1,1,1,1,1,0,0,0,5
+Xuhui,22000,2,2,2,0,120,0,detached lane house,residential,0,0,0,0,1,1,0,0,2
+Xuhui,22000,3,2,3,0,150,0,attached lane house,residential,1,1,0,0,1,1,1,0,5
+Xuhui,22000,2,2,1,0,130,0,attached lane house,multi-use,1,1,0,0,1,0,1,0,4
+Xuhui,22000,2,2,2,0,120,0,public housing,residential,0,0,0,0,1,1,0,0,2
+Xuhui,22500,3,2,1,0,120,0,public housing,residential,1,1,1,1,1,0,1,1,7
+Xuhui,22600,1,1,1,0,100,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,22800,2,2,1,0,90,0,public housing,residential,1,1,0,0,1,0,1,0,4
+Xuhui,23000,2,1,1,0,100,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,23000,2,2,1,0,80,0,public housing,residential,1,0,0,0,1,0,1,0,3
+Xuhui,23000,2,2,3,0,150,0,detached lane house,multi-use,1,1,1,1,1,1,1,0,7
+Xuhui,23000,2,2,2,0,130,0,attached lane house,residential,1,1,0,0,1,0,0,0,3
+Xuhui,23000,2,2,2,0,110,0,public housing,residential,1,1,0,0,1,1,1,0,5
+Xuhui,23000,1,1,2,0,80,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,23000,2,2,2,0,160,0,detached lane house,multi-use,0,0,0,0,1,1,0,0,2
+Xuhui,23000,3,2,2,0,100,0,detached lane house,residential,1,1,0,1,0,0,1,0,4
+Xuhui,23000,1,1,1,0,80,0,detached lane house,multi-use,1,1,1,0,1,0,1,0,5
+Xuhui,23000,2,1,1,0,80,0,detached lane house,multi-use,1,1,0,1,0,0,1,0,4
+Xuhui,23000,2,2,2,0,100,0,attached lane house,residential,1,1,0,0,0,1,0,1,4
+Xuhui,23000,2,2,2,0,80,0,attached lane house,residential,1,1,0,0,1,0,0,0,3
+Xuhui,23000,3,2,2,0,105,0,detached lane house,multi-use,0,0,0,0,0,1,0,0,1
+Xuhui,23000,2,2,2,1,80,0,detached lane house,residential,1,0,0,0,1,1,1,0,4
+Xuhui,23000,3,2,2,0,130,0,detached lane house,multi-use,1,0,0,0,1,0,1,0,3
+Xuhui,23000,2,1,1,0,80,0,attached lane house,multi-use,1,0,0,0,1,0,1,1,4
+Xuhui,23000,2,2,3,0,150,0,villa,residential,0,1,0,0,1,0,1,0,3
+Xuhui,23000,2,2,2,1,100,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,23000,2,1,2,0,100,0,detached lane house,multi-use,1,1,0,0,1,0,1,0,4
+Xuhui,23500,3,2,2,0,160,0,attached lane house,multi-use,1,0,0,0,1,0,1,0,3
+Xuhui,23500,2,2,2,0,110,0,villa,residential,1,1,1,0,1,1,0,0,5
+Xuhui,23500,3,2,2,1,150,0,attached lane house,multi-use,1,1,1,1,1,1,0,0,6
+Xuhui,23800,3,2,2,0,110,0,public housing,residential,0,0,0,0,1,1,0,0,2
+Xuhui,23800,2,2,1,0,120,0,public housing,residential,1,1,1,0,1,1,1,1,7
+Xuhui,24000,3,2,2,0,120,0,public housing,residential,1,0,0,0,1,1,1,0,4
+Xuhui,24000,3,2,3,0,130,0,public housing,residential,1,1,1,0,1,0,0,0,4
+Xuhui,24000,1,2,1,0,120,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,24000,2,2,2,0,150,0,public housing,residential,1,1,0,0,0,1,0,0,3
+Xuhui,24000,3,2,2,0,130,0,public housing,multi-use,1,1,0,1,0,1,1,0,5
+Xuhui,24000,2,2,2,0,100,0,public housing,multi-use,1,0,0,0,1,0,1,0,3
+Xuhui,24500,2,2,2,0,110,0,detached lane house,residential,1,1,1,1,1,0,0,0,5
+Xuhui,24500,2,2,1,0,100,0,detached lane house,multi-use,0,0,0,0,0,1,0,0,1
+Xuhui,24900,1,1,1,0,70,1,attached lane house,residential,0,1,0,1,1,0,1,0,4
+Xuhui,24999,3,2,2,0,150,0,public housing,residential,0,0,1,0,1,0,0,0,2
+Xuhui,25000,2,2,1,0,100,0,detached lane house,multi-use,0,0,0,0,0,1,0,0,1
+Xuhui,25000,2,2,3,0,150,0,detached lane house,multi-use,1,1,0,0,1,1,1,0,5
+Xuhui,25000,2,1,2,0,70,0,detached lane house,multi-use,0,1,0,1,1,0,0,0,3
+Xuhui,25000,3,2,2,0,150,0,public housing,residential,1,1,1,0,0,1,0,0,4
+Xuhui,25000,3,2,2,0,120,0,villa,multi-use,1,1,1,1,0,0,1,1,6
+Xuhui,25000,3,2,2,0,100,0,attached lane house,residential,0,0,0,0,1,1,0,0,2
+Xuhui,25000,2,2,2,1,100,0,detached lane house,residential,1,0,0,0,1,1,1,1,5
+Xuhui,25000,2,1,2,0,75,1,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,25000,1,2,1,0,80,0,detached lane house,multi-use,1,1,0,1,1,0,0,0,4
+Xuhui,25000,2,2,2,0,98,0,public housing,multi-use,0,1,1,0,1,0,0,0,3
+Xuhui,25000,2,1,2,0,120,0,detached lane house,multi-use,1,1,1,1,1,0,0,0,5
+Xuhui,25000,2,2,2,0,110,0,public housing,residential,1,1,1,0,1,1,0,0,5
+Xuhui,25500,3,2,2,0,120,0,public housing,multi-use,1,1,0,0,0,1,1,0,4
+Xuhui,25800,2,2,3,0,150,0,detached lane house,residential,1,1,1,1,1,1,1,0,7
+Xuhui,26000,3,2,3,0,180,0,detached lane house,residential,1,1,0,0,1,1,0,0,4
+Xuhui,26000,3,2,2,0,110,0,public housing,residential,1,1,0,0,0,1,1,0,4
+Xuhui,26000,1,1,1,0,140,0,detached lane house,multi-use,1,1,0,0,1,0,0,0,3
+Xuhui,26000,3,2,2,0,110,0,public housing,residential,1,1,0,1,0,0,1,0,4
+Xuhui,26000,2,2,2,0,60,0,attached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Xuhui,26000,3,2,3,0,130,0,public housing,residential,1,1,1,0,1,0,0,0,4
+Xuhui,26000,3,1,1,0,100,0,detached lane house,multi-use,1,1,0,0,1,0,0,0,3
+Xuhui,26000,3,2,2,0,140,0,attached lane house,residential,1,1,0,0,1,0,0,0,3
+Xuhui,26000,2,2,2,0,130,0,attached lane house,multi-use,1,1,1,1,1,0,0,0,5
+Xuhui,26000,2,2,2,0,140,0,detached lane house,residential,0,1,0,0,1,1,0,0,3
+Xuhui,26500,3,2,2,0,130,0,detached lane house,residential,1,1,0,0,0,1,0,0,3
+Xuhui,26500,3,1,2,0,120,1,attached lane house,multi-use,1,1,1,1,0,0,0,0,4
+Xuhui,26800,3,2,2,0,120,0,detached lane house,residential,1,1,1,1,1,1,1,1,8
+Xuhui,26800,3,2,1,1,90,0,detached lane house,multi-use,1,1,0,0,0,0,0,0,2
+Xuhui,27000,3,2,1,0,150,0,detached lane house,residential,1,1,0,0,1,1,0,0,4
+Xuhui,27000,3,2,2,0,150,0,public housing,residential,1,1,0,0,1,0,0,0,3
+Xuhui,27000,5,2,3,0,200,1,attached lane house,multi-use,0,1,1,0,1,1,0,0,4
+Xuhui,27000,2,2,2,0,80,0,detached lane house,multi-use,1,0,0,0,0,0,1,0,2
+Xuhui,27000,3,2,2,0,100,1,attached lane house,residential,0,1,0,0,0,0,0,0,1
+Xuhui,28000,3,2,2,0,190,0,attached lane house,residential,1,1,1,1,1,1,0,0,6
+Xuhui,28000,3,2,3,0,150,0,attached lane house,residential,0,1,1,0,1,1,0,0,4
+Xuhui,28000,2,2,2,0,150,0,public housing,residential,1,1,1,0,0,0,0,0,3
+Xuhui,28000,3,2,2,0,150,0,detached lane house,multi-use,1,1,1,1,1,0,1,1,7
+Xuhui,28000,2,2,3,0,150,0,detached lane house,multi-use,1,1,1,0,1,1,1,0,6
+Xuhui,28000,2,2,1,0,120,0,detached lane house,residential,1,0,0,0,0,0,1,0,2
+Xuhui,28000,2,2,3,0,150,0,detached lane house,residential,1,1,1,1,1,1,1,0,7
+Xuhui,28000,3,2,2,0,140,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,28000,2,2,3,0,150,0,detached lane house,residential,1,1,1,1,1,1,1,0,7
+Xuhui,28000,2,2,2,0,160,0,attached lane house,residential,1,1,1,0,1,1,0,0,5
+Xuhui,28000,2,2,3,0,150,0,detached lane house,multi-use,1,1,0,0,1,1,1,0,5
+Xuhui,28000,4,2,3,0,200,0,attached lane house,residential,1,1,1,1,1,0,0,0,5
+Xuhui,28500,2,2,1,0,150,0,detached lane house,multi-use,1,1,0,0,1,0,0,0,3
+Xuhui,28500,2,2,1,0,130,0,detached lane house,multi-use,1,1,0,0,1,0,0,0,3
+Xuhui,28500,3,2,4,0,150,1,attached lane house,residential,1,1,1,1,1,0,0,0,5
+Xuhui,28800,3,2,2,0,200,1,detached lane house,residential,1,0,0,0,1,1,1,0,4
+Xuhui,28888,1,2,1,0,88,0,detached lane house,multi-use,0,1,1,0,1,0,0,0,3
+Xuhui,29000,4,2,3,0,200,1,detached lane house,multi-use,0,1,1,0,0,0,0,0,2
+Xuhui,29500,3,2,2,0,160,0,detached lane house,residential,1,1,0,0,1,1,0,0,4
+Xuhui,30000,3,2,1,0,130,0,public housing,residential,1,1,1,1,1,1,1,1,8
+Xuhui,30000,3,2,2,0,120,0,attached lane house,multi-use,1,1,0,0,1,1,1,0,5
+Xuhui,30000,2,2,2,0,120,0,detached lane house,residential,1,1,1,0,1,0,0,0,4
+Xuhui,30000,3,2,2,0,120,0,public housing,residential,0,0,0,0,1,0,0,0,1
+Xuhui,30000,3,2,2,0,180,0,detached lane house,multi-use,1,0,0,0,1,1,0,0,3
+Xuhui,30000,3,2,2,1,136,0,detached lane house,residential,1,1,1,1,1,0,0,1,6
+Xuhui,30000,4,2,2,0,180,0,detached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,30000,3,3,3,0,230,0,detached lane house,residential,0,0,0,0,0,1,0,0,1
+Xuhui,31000,4,1,5,0,160,1,detached lane house,residential,1,1,1,0,0,1,0,0,4
+Xuhui,31000,3,2,2,0,160,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,31000,3,2,2,0,160,0,detached lane house,residential,0,1,0,0,1,1,0,0,3
+Xuhui,31800,5,2,3,0,200,1,detached lane house,multi-use,0,1,0,0,0,1,0,0,2
+Xuhui,31800,5,2,3,0,300,1,attached lane house,multi-use,0,1,1,0,1,1,0,0,4
+Xuhui,31900,3,2,2,0,160,0,attached lane house,residential,1,1,1,0,1,1,1,0,6
+Xuhui,32000,3,2,2,0,175,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Xuhui,32000,3,2,2,0,160,0,public housing,multi-use,1,1,0,0,0,1,0,0,3
+Xuhui,32000,3,1,1,0,120,0,detached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,32000,3,1,2,0,140,0,detached lane house,residential,0,0,0,0,1,1,0,0,2
+Xuhui,32500,4,2,3,0,160,0,detached lane house,residential,0,0,0,0,1,1,0,0,2
+Xuhui,33000,4,2,3,0,230,0,detached lane house,residential,1,0,0,0,1,1,0,0,3
+Xuhui,33000,3,2,2,0,150,0,attached lane house,multi-use,1,1,1,1,0,1,0,0,5
+Xuhui,33000,3,2,2,0,170,1,detached lane house,multi-use,1,0,0,0,1,0,0,0,2
+Xuhui,33000,3,2,2,0,200,0,attached lane house,residential,0,0,0,0,1,1,0,0,2
+Xuhui,33000,2,1,1,0,110,0,attached lane house,multi-use,1,1,0,0,1,0,0,0,3
+Xuhui,34000,3,2,3,1,150,0,detached lane house,multi-use,1,1,0,0,1,1,0,0,4
+Xuhui,34900,2,2,2,0,150,0,detached lane house,residential,0,1,0,0,1,1,0,0,3
+Xuhui,35000,4,2,4,0,250,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,35000,5,1,3,0,220,1,detached lane house,multi-use,1,1,0,0,1,1,0,0,4
+Xuhui,35000,3,2,2,0,120,0,detached lane house,residential,1,0,0,0,0,1,0,0,2
+Xuhui,35000,3,2,1,0,150,0,detached lane house,multi-use,1,0,0,0,0,0,1,0,2
+Xuhui,35000,3,2,2,0,165,0,attached lane house,residential,0,0,0,0,1,1,0,1,3
+Xuhui,36000,3,2,2,0,200,0,attached lane house,residential,0,0,0,0,1,1,0,0,2
+Xuhui,36000,2,1,1,0,90,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,37000,5,2,3,0,305,1,attached lane house,multi-use,1,1,1,0,1,1,1,0,6
+Xuhui,38000,4,2,2,0,168,0,attached lane house,multi-use,1,1,1,1,1,1,0,1,7
+Xuhui,38000,3,2,2,0,180,0,detached lane house,residential,1,0,0,0,1,1,0,0,3
+Xuhui,38000,4,2,3,0,200,1,detached lane house,residential,1,1,1,0,1,1,0,0,5
+Xuhui,38000,3,2,3,0,200,0,attached lane house,multi-use,1,0,0,0,1,1,1,1,5
+Xuhui,39000,4,2,2,0,168,0,attached lane house,multi-use,1,1,1,1,1,0,0,0,5
+Xuhui,39500,5,1,3,0,328,0,detached lane house,multi-use,1,1,1,1,1,1,0,0,6
+Xuhui,40000,4,2,4,0,230,0,attached lane house,residential,0,1,0,0,1,1,0,0,3
+Xuhui,40000,2,2,1,0,100,0,detached lane house,multi-use,1,1,0,0,1,0,1,0,4
+Xuhui,40000,3,2,2,0,180,0,detached lane house,residential,1,1,1,1,1,1,1,0,7
+Xuhui,41000,3,2,2,0,150,0,detached lane house,residential,1,1,1,1,0,1,0,0,5
+Xuhui,41800,5,2,3,0,200,1,detached lane house,multi-use,1,1,1,0,1,0,0,0,4
+Xuhui,41999,3,1,1,0,130,0,detached lane house,multi-use,0,1,0,1,1,0,0,0,3
+Xuhui,42000,4,2,3,0,200,1,detached lane house,residential,1,1,0,0,1,1,1,0,5
+Xuhui,42000,4,3,1,0,222,1,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,42000,4,2,3,0,250,1,detached lane house,residential,1,1,1,1,1,1,0,0,6
+Xuhui,42000,4,2,2,0,160,0,public housing,residential,1,1,1,0,0,0,0,0,3
+Xuhui,42000,3,2,2,0,130,0,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,42000,3,2,2,0,140,0,detached lane house,multi-use,0,0,0,0,1,1,0,0,2
+Xuhui,42000,4,2,2,0,180,1,attached lane house,multi-use,1,1,1,1,1,0,1,0,6
+Xuhui,43000,2,2,1,0,100,0,detached lane house,multi-use,0,1,0,0,1,0,1,0,3
+Xuhui,45000,3,2,3,1,200,0,detached lane house,residential,1,0,0,0,1,0,1,0,3
+Xuhui,45000,3,2,2,0,200,0,detached lane house,multi-use,0,0,0,0,1,0,0,1,2
+Xuhui,46000,2,2,2,0,150,1,attached lane house,multi-use,1,0,0,0,0,0,0,0,1
+Xuhui,50000,3,2,3,0,230,0,attached lane house,multi-use,0,1,0,0,1,0,0,0,2
+Xuhui,50000,4,1,3,0,160,1,detached lane house,multi-use,1,1,1,0,1,1,0,0,5
+Xuhui,50000,4,2,3,0,250,1,detached lane house,multi-use,1,1,0,0,1,1,1,0,5
+Xuhui,55000,5,2,3,0,200,1,attached lane house,multi-use,0,1,1,0,1,1,0,0,4
+Xuhui,58000,4,2,4,0,220,0,detached lane house,residential,1,1,1,1,1,1,0,0,6
+Xuhui,58000,4,2,2,0,230,1,detached lane house,multi-use,1,1,1,1,1,1,0,0,6
+Xuhui,65000,7,2,3,0,350,0,detached lane house,multi-use,1,1,1,1,1,1,0,0,6
+Xuhui,66000,4,2,3,0,264,0,villa,residential,1,1,1,0,1,1,0,0,5
+Xuhui,68000,6,4,4,0,400,1,detached lane house,multi-use,0,0,0,0,1,0,0,0,1
+Xuhui,70000,4,2,3,0,200,1,detached lane house,residential,1,1,1,0,1,0,0,0,4
+Xuhui,73000,5,2,3,0,260,1,attached lane house,multi-use,1,1,1,1,1,1,0,0,6
+Xuhui,75000,4,3,4,0,300,0,detached lane house,residential,0,0,0,0,1,1,0,0,2
+Xuhui,78000,4,2,3,0,200,1,attached lane house,multi-use,0,1,1,0,1,1,0,0,4
+Xuhui,80000,8,3,5,0,320,1,detached lane house,residential,0,1,1,0,0,1,0,0,3
+Xuhui,80000,8,2,6,0,320,1,detached lane house,multi-use,0,1,1,0,1,1,0,0,4
+Xuhui,105000,6,2,3,0,300,1,detached lane house,multi-use,0,0,0,0,1,1,0,0,2
+Xuhui,110000,6,2,4,0,350,1,detached lane house,residential,1,1,1,0,1,1,0,0,5
+Xuhui,130000,5,2,3,0,300,1,detached lane house,residential,0,0,1,1,0,1,0,0,3
+Yangpu,6800,3,1,1,0,87,0,public housing,residential,0,1,0,0,1,1,0,0,3
+Yangpu,8000,3,2,2,0,125,0,attached lane house,residential,0,0,0,0,1,0,0,0,1
+Yangpu,10800,2,1,1,0,66,0,public housing,residential,0,1,0,1,0,0,0,0,2
+Zhabei,2900,1,1,1,0,41,0,public housing,residential,0,1,1,1,1,0,0,0,4
+Zhabei,4000,2,1,1,0,58,0,public housing,residential,0,0,0,0,0,1,0,0,1
+Zhabei,5500,2,1,1,0,52,0,public housing,residential,0,1,1,0,0,0,0,0,2
+Zhabei,6800,2,1,1,0,65,0,public housing,residential,0,0,0,0,0,1,0,0,1
+Songjiang,17800,6,3,5,0,300,1,villa,residential,1,1,1,0,1,1,1,0,6
+Songjiang,19900,5,3,3,0,249,1,villa,residential,0,1,1,1,1,0,0,0,4
+Songjiang,20000,4,2,3,0,300,1,villa,residential,0,1,1,1,1,1,0,0,5
+Songjiang,28000,4,3,3,0,380,0,villa,residential,1,1,0,0,1,0,1,0,4
+Songjiang,30000,6,3,4,0,289,1,villa,residential,1,1,1,0,1,1,1,0,6
+Songjiang,35000,4,3,5,0,300,1,villa,multi-use,1,1,1,1,1,1,1,0,7
