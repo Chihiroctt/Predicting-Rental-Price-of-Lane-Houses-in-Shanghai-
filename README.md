@@ -16,7 +16,7 @@ In order to run the code make sure you pre-instal all the dependecies such as sk
 
 1.Preprocessed File:for_tableau_2.csv
 
-2.Further data cleaning and modeling of five machine learning models:上海租金估计---机器学习.ipynb
+2.Further data cleaning and modeling of five machine learning models:Predicting Rental Prices in Shanghai.ipynb
 
 3.Large Language Models prompt:
 
@@ -32,5 +32,5 @@ For 1-shot, it means that each prediction is based on one training data point, s
 
 Calculating the mse, mae and R-squared values of each time.
 
-  4.Drawing comparison diagrams of the results of LLMS:chatgpt大语言模型（绘图）.ipynb
+  4.Drawing comparison diagrams of the results of LLMS:chatgpt Large Language Model (Plot).ipynb
 
